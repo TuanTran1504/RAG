@@ -58,6 +58,7 @@ def scrape_webpage_data2(url, output_path):
             element_data.append(link_text)
 
     combined_data=" ".join(element_data)
+
     with open(output_path, 'w') as file:
         file.write(combined_data)
     print(element_data)

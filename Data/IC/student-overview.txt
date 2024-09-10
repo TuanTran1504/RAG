@@ -1,0 +1,10 @@
+Title: Student Overview - Western Sydney University International College
+Description: No description found
+Modified Time: 2024-07-05T06:07:24+00:00
+
+Page Content:
+Student Cohort Overview Notes:
+Data as at March 2023.
+L/N – Low numbers: the number of students is less than 5.
+N/A – Data not available for this item.
+N/P – Not published: the number is hidden to prevent calculation of numbers in cells with less than 5 students.
