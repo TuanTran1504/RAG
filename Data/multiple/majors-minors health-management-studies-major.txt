@@ -1,0 +1,35 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Health Management Studies, Major (0278)
+- Western Sydney University Major Code:
+- The Health Management Studies major is open to all Western students and offers a broad understanding of the complex social, economic and cultural determinants of health and well-being. The current health care context and service systems are examined and students are encouraged to consider new directions for innovative service design and delivery. A 140-hour work placement is included and allows students an opportunity to engage in the health sector. Graduates will be skilled in understanding, managing and responding to rapid changes within the health care system, the broader political sphere and in areas that deal with policy and service assessment, development and evaluation.
+- Curriculum delivered through an agreement with another party
+- Students must complete the following 80cps as follows:
+
+Location Table:
+- Campbelltown Campus
+- 
+- Internal
+- Dr Nicole Peel
+- Sydney City Campus*
+- 
+- Internal
+- Dr Andrey Zheluk
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Level 1
+BUSM 1037Health Administration and Management10
+PUBH 1006Population Health and Society10
+HLTH 1013Professional Competencies in Health10
+Level 2
+PUBH 2005Culture, Diversity and Health10
+BUSM 2044Health Service Management10
+Level 3
+PUBH 3025Health Policy and Advocacy10
+BUSM 3080Health Care Systems and Organisation Culture10
+REHA 3042Health Practice Management10

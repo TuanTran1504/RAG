@@ -1,0 +1,12 @@
+Academic Handbook Current Edition ENGR 7027 Spatial Tools and Mapping Credit Points 10 Legacy Code 301264 Coordinator Grahame Douglas Opens in new window Description This subject offers practical applications in spatial information software. Students will be taught using Geographical Information Systems (GIS) software to prepare maps (such as bushfire prone land) as well as management plans required of planning and design practitioners. Workshops are provided to assist students in the practical use of the GIS system. Students are provided with online module notes and readings as well as assignments being submitted online. Emphasis is placed on teaching students practical software applications skills relevant to industry needs. School Eng, Design & Built Env Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Postgraduate Coursework Level 7 subject Learning Outcomes On successful completion of this subject, students should be able to: Recognise and apply the capabilities of spatial software tools in a professional context.
+Input, model and analyse data and systems using industry standard spatial software.
+Apply spatial modelling and analysis tools to professionally represent environmental measures of a specific development proposal.
+Apply software-generated imagery to support planning and construction reports, findings and recommendations. Subject Content 1. Introduction to GIS
+2. GIS Applications
+3. Key Concepts
+4. Introduction to emergency and environmental risk management planning
+5. GIS and other software applications
+6. GIS analysis tools
+7. GIS mapping layouts
+8. Bushfire Prone Land Mapping Guidelines
+9. Bushfire Protection/Management Plans and other environmental management plans Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Short Answer 1,000 words 25 N Individual Y  Applied Project 1,000 words 25 N Individual Y  Applied Project 2,000 words plus mapping 50 N Individual Y Structures that include subject Civil and Environmental, Testamur Major (T111) Environmental, Testamur Major (T058) Graduate Certificate in Urban Management (Green Cities) (1898) Other Engr. and Related Tech (ENGR)

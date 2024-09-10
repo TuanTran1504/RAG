@@ -1,0 +1,142 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Secondary PDHPE Education, Major (0356)
+- Effective from:
+- Western Sydney University Major Code:
+- The Secondary PDHPE Education Major will provide students with 60 credit points of PDHPE discipline knowledge and 20 credit points of PDHPE pedagogy and curriculum knowledge. Together with completion of subjects in the Bachelor of Education (Secondary), this Major will enable students to meet requirements to graduate from the Bachelor of Education (Secondary) with the PDHPE teaching area. The Secondary PDHPE Education Major will span the Foundation and Development phases of the Bachelor of Education (Secondary), enabling students to develop strong pedagogical content knowledge, an understanding of evidence-based pedagogies, and skills in using assessment and feedback to guide and enhance student learning.
+- Location
+- Major Structure
+- Students must successfully complete 80 credit points as follows.
+- Start-year intake
+- Mid-year intake
+- Related Programs
+
+Location Table:
+- Penrith Campus
+- Internal
+- SecondaryEnquiries@westernsydney.edu.au
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+HLTH 1020
+Foundations of HPE
+10
+
+Credit Points
+10
+Spring session
+NATS 2040
+Physical Activity, Nutrition and Health
+10
+SPRT 2013
+Leading Games and Sports
+10
+
+Credit Points
+20
+Year 2
+Autumn session
+SPRT 3023
+Advanced HPE and Sport Leadership
+10
+
+Credit Points
+10
+Spring session
+SPRT 1009
+Exercise Performance and Health
+10
+
+Credit Points
+10
+Year 3
+Autumn session
+SPRT 3024
+Contemporary Youth Health
+10
+
+Credit Points
+10
+Spring session
+TEAC 3057
+PDHPE Curriculum 7-10
+10
+
+Credit Points
+10
+Year 4
+Autumn session
+TEAC 4023
+PDHPE Curriculum 11-12
+10
+
+Credit Points
+10
+
+Total Credit Points
+80
+Year 1
+Spring session
+Credit Points
+SPRT 1009
+Exercise Performance and Health
+10
+
+Credit Points
+10
+Autumn session
+HLTH 1020
+Foundations of HPE
+10
+
+Credit Points
+10
+Year 2
+Spring session
+SPRT 2013
+Leading Games and Sports
+10
+NATS 2040
+Physical Activity, Nutrition and Health
+10
+
+Credit Points
+20
+Autumn session
+SPRT 3023
+Advanced HPE and Sport Leadership
+10
+
+Credit Points
+10
+Year 3
+Spring session
+TEAC 3057
+PDHPE Curriculum 7-10
+10
+
+Credit Points
+10
+Autumn session
+SPRT 3024
+Contemporary Youth Health
+10
+
+Credit Points
+10
+Year 4
+Autumn session
+TEAC 4023
+PDHPE Curriculum 11-12
+10
+
+Credit Points
+10
+
+Total Credit Points
+80
+
+Courselist Tables:

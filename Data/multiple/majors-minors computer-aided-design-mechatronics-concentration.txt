@@ -1,0 +1,33 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Computer Aided Design (Mechatronics), Concentration (0125)
+- Western Sydney University Concentration Code:
+- Previous Code: SM3093.1
+- Location
+- Concentration Structure
+- This concentration is only available to students enrolled in Bachelor of Engineering (Honours) or Bachelor of Engineering - Robotics & Mechatronics major only.
+- From 2024, please refer to Computer Aided Design (Mechatronics), Minor (0125). This minor is available to all students in Bachelor of Engineering (Honours) (3740) and Bachelor of Engineering Advanced (Honours) (3771).
+- Students must complete 4 subjects as follows.
+- The subjects listed below count towards completion of this concentration for students who passed these subjects in 2019 or earlier.
+- ENGR 2011 Graphics 2: Visual Simulation, replaced by ENGR 2025 Design Graphics: Engineering Documentation
+ENGR 2012 Graphics 3: 3D Engineering Specifications and Visualisation, replaced by ENGR 2024 Design Graphics: Communication for Manufacture
+- ENGR 2025 Design Graphics: Engineering Documentation
+- ENGR 2024 Design Graphics: Communication for Manufacture
+- Related Programs
+
+Location Table:
+- Penrith Campus
+- Internal
+- beng@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+MECH 4002Computer Aided Engineering10
+ENGR 2024Design Graphics: Communication for Manufacture10
+ENGR 2025Design Graphics: Engineering Documentation10
+ELEC 2007Engineering Visualization10
+Total Credit Points40

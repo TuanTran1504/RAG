@@ -1,0 +1,154 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Graduate Diploma in Nursing (4723)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- This program applies to students who commenced in Spring 2021 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- For Commencement Year 2017, please refer to: 4723.2 Graduate Diploma in Nursing
+- The aim of the Graduate Diploma in Nursing is to provide Registered Nurses with the theoretical knowledge and critical thinking skills to prepare them for advanced practice in the clinical setting. Specialisations available include clinical leadership, clinical teaching, aged care, primary health care or research studies. Graduates will be able to synthesise and apply advanced nursing concepts in order to lead nursing practice and optimise health outcomes. Students who successfully complete this program may transfer into the Master of Nursing.
+- Early Exit
+- Students may exit this program on completion of 40 credit points with a 4724 Graduate Certificate in Nursing
+- Study Mode
+- One year full-time or two years part-time.
+- Program Advice
+- Dr Diana Jefferies
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Programs delivered through an agreement with another party
+- Admission
+- Candidature for admission to the Graduate Diploma in Nursing is based on the following requirements
+- Graduate Diploma in Nursing (80 credit points)
+- Registered Nurse (currently registered to practice with the Australian Health Practitioner Regulation Agency – Nursing and Midwifery), or eligibility for same, or certificate of registration of nursing, within the last five years, in their own country
+- And
+- Completion of an undergraduate degree (AQF Level 7 or equivalent) in any discipline OR Graduate Certificate in Nursing.
+- Graduate Diploma in Nursing (60 credit points)
+- Registered Nurse (currently registered to practice with the Australian Health Practitioner Regulation Agency – Nursing and Midwifery), or eligibility for same, or certificate of registration of nursing, within the last five years, in their own country
+- And
+- Completion of an undergraduate degree (AQF Level 7 or equivalent) or Graduate Diploma, or higher in any discipline.
+- And
+- Two years full-time equivalent professional work experience as a registered nurse within the last five years.
+- Additional Information
+- Applicants seeking admission on the basis of work experience must support their application with a Statement of Service for all work experience listed on the application.
+- Statement of Service form
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local and International applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Program Structure
+- Qualification for this award requires the successful completion of 80 credit points or 60 credit points depending on the Pathway the student is enrolled in, based on the admission requirements.
+- Students may complete the Graduate Diploma in Nursing (no specialisation) or may enrol in and complete one of three Specialisations. See individual links below for detailed program structure.
+- Graduate Diploma in Nursing (no specialisation)
+- Graduate Diploma in Nursing (Clinical Leadership)
+- Graduate Diploma in Nursing (Clinical Teaching)
+- Graduate Diploma in Nursing (Tuberculosis Management)
+- The subjects listed below count towards completion of this program for students who passed these subjects in Autumn 2021 or earlier.
+- NURS 7008 Capstone Experience in Health Care, replaced by NURS 7065 Capstone Experience in Health Care
+
+Location Table:
+- Hong Kong Baptist University*
+- Part Time
+- Internal
+- See above
+- Online
+- Full Time
+- Online
+- See above
+- Online
+- Part Time
+- Online
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Qualification for this award requires the successful completion of 80 credit points including the subjects listed below.
+NURS 7019Cultural and Social Diversity in Health Care10
+NURS 7023Evidence Based Health Care10
+NURS 7028Leadership in Clinical Practice10
+NURS 7040Perspectives on Nursing10
+PUBH 7020Policy, Power and Politics in Health Care Provision10
+PUBH 7021Primary Health Care and its Applications10
+And two electives20
+Total Credit Points80
+
+courselist table2:
+Qualification for this award requires the successful completion of 60 credit points including the subjects listed below.
+NURS 7019Cultural and Social Diversity in Health Care10
+NURS 7023Evidence Based Health Care10
+NURS 7028Leadership in Clinical Practice10
+NURS 7040Perspectives on Nursing10
+PUBH 7021Primary Health Care and its Applications10
+And one elective10
+Total Credit Points60
+
+courselist table3:
+Qualification for this award requires the successful completion of 80 credit points including the subjects listed below.
+HLTH 7002Building Organisational Capacity in Health Care10
+NURS 7019Cultural and Social Diversity in Health Care10
+NURS 7023Evidence Based Health Care10
+PUBH 7018Leadership for Quality and Safety in Health Care10
+NURS 7028Leadership in Clinical Practice10
+NURS 7040Perspectives on Nursing10
+PUBH 7020Policy, Power and Politics in Health Care Provision10
+And one elective10
+Total Credit Points80
+
+courselist table4:
+Qualification for this award requires the successful completion of 60 credit points including the subjects listed below.
+HLTH 7002Building Organisational Capacity in Health Care10
+NURS 7019Cultural and Social Diversity in Health Care10
+NURS 7023Evidence Based Health Care10
+PUBH 7018Leadership for Quality and Safety in Health Care10
+NURS 7028Leadership in Clinical Practice10
+PUBH 7020Policy, Power and Politics in Health Care Provision10
+Total Credit Points60
+
+courselist table5:
+Qualification for this award requires the successful completion of 80 credit points including the subjects listed below.
+NURS 7064Clinical Teaching and Workplace Learning for Competent Practice10
+NURS 7015Clinical Teaching for Learning10
+NURS 7019Cultural and Social Diversity in Health Care10
+NURS 7023Evidence Based Health Care10
+NURS 7003Applied Clinical Practice using Simulation10
+NURS 7040Perspectives on Nursing10
+PUBH 7020Policy, Power and Politics in Health Care Provision10
+And one elective10
+Total Credit Points80
+
+courselist table6:
+Qualification for this award requires the successful completion of 60 credit points including the subjects listed below.
+NURS 7064Clinical Teaching and Workplace Learning for Competent Practice10
+NURS 7015Clinical Teaching for Learning10
+NURS 7019Cultural and Social Diversity in Health Care10
+NURS 7023Evidence Based Health Care10
+NURS 7003Applied Clinical Practice using Simulation10
+PUBH 7020Policy, Power and Politics in Health Care Provision10
+Total Credit Points60
+
+courselist table7:
+Qualification for this award requires the successful completion of 80 credit points including the subjects listed below
+PUBH 7021Primary Health Care and its Applications10
+NURS 7050Clinical Management of Tuberculosis (TB)10
+NURS 7058Public Health Management of Tuberculosis (TB)10
+NURS 7049Care of People with Tuberculosis (TB)10
+NURS 7023Evidence Based Health Care10
+And one of the following alternate subjects:10
+NURS 7019Cultural and Social Diversity in Health Care
+NURS 7065Capstone Experience in Health Care
+Note: NURS 7065 is a 20 credit point subject
+And two elective subjects (or one 10 cp elective if NURS 7065 is chosen as an alternate subject)20
+Total Credit Points80
+
+courselist table8:
+Qualification for this award requires the successful completion of 60 credit points including the subjects listed below
+PUBH 7021Primary Health Care and its Applications10
+NURS 7050Clinical Management of Tuberculosis (TB)10
+NURS 7058Public Health Management of Tuberculosis (TB)10
+NURS 7049Care of People with Tuberculosis (TB)10
+NURS 7023Evidence Based Health Care10
+And one elective subject10
+Total Credit Points60

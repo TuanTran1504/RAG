@@ -1,0 +1,55 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Gender Studies, Minor (0295)
+- Western Sydney University Minor Code:
+- The Gender Studies minor provides an innovative inter-disciplinary course of study that includes units from English, Criminology, Anthropology, Culture and Society, History and Political Thought, Sociology, Disability Studies, and Islamic Studies. Students may tailor their selection of subjects to construct a minor that reflects their personal and academic interests. A key feature of the minor is the focus on intersectionality. An intersectional approach links the study of gender to other significant axes of privilege and discrimination including ‘race’, sexuality, ethnicity, (dis)ability and the perspectives and position of First Nations people. Completion of this minor will equip students with the critical competencies they need to analyse the complex dynamics of gender in 21st century Australia, and to be informed agents of change in their personal and professional lives. Most professions now require not only a basic grasp of equity and diversity issues, but also, the capacity to act on these in the provision of inclusive services. Completion of a minor in Gender Studies opens up research and policy career pathways in the State and federal public service, as well as within the private sector. There is also high demand for gender studies expertise in research, policy and advocacy skills in NGOs. The minor provides comprehensive grounding in the area for students interested in post-graduate study.
+- Minor Structure
+- Students must complete 40 credit points
+- And three of the following subjects
+- Level 2 Subjects
+- Level 3 Subjects
+
+Location Table:
+- Bankstown City Campus
+- 
+- Internal
+- enquiriesHCA@uws.edu.au
+- Liverpool Campus
+- 
+- Internal
+- enquiriesHCA@uws.edu.au
+- Online
+- 
+- 
+- enquiriesHCA@uws.edu.au
+- Parramatta South Campus
+- 
+- Internal
+- enquiriesHCA@uws.edu.au
+- Penrith Campus
+- 
+- Internal
+- enquiriesHCA@uws.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Select one of the following:10
+HUMN 2040Politics of Sex and Gender
+HUMN 2025Families and Intimate Life
+
+courselist table2:
+LANG 2039The Short Story: Nineteenth Century Women’s Writing10
+HUMN 2061Women with Muslim Identity10
+
+courselist table3:
+HUMN 3078The Anthropologies of Gender and Sexualities10
+CULT 3013Gender, Crime and Violence10
+HUMN 3098Genders and sexualities: beyond the binary10
+HUMN 3040From Vindication to Liberation: A Comparative History of Feminism10
+LANG 3087Women's Writing10
+HUMN 3048History of Sexuality10
+WELF 3022Disability and Sexuality10

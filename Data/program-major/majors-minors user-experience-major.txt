@@ -1,0 +1,37 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- User Experience, Major (0273)
+- Western Sydney University Major Code:
+- User Experience, Major
+- User experience is key to the success of organisations in shaping great products and services. Taking a user centred approach, students in this major design interactive digital applications, information systems and services that meet the user needs and desires. Students learn about design as a systematic and data driven process backed up by up-to-date theoretical and practical knowledge enabling them to design efficient and effective artefacts in a rapidly changing, fast paced environment. In this multidisciplinary field, students incorporate analytics, research, human factors, security and privacy into their designs using a range of technologies.
+- Major Structure
+- Students must complete 80 credit points as follows
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 2014 Visual Analytics, replaced by COMP 2026 Visual Analytics
+- Related Programs
+- No results found.
+
+Location Table:
+- Parramatta - Victoria Rd
+- Full-time
+- On Campus
+- Dr Simi Kamini Bajaj
+- Parramatta - Victoria Rd
+- Part-time
+- On Campus
+- Dr Simi Kamini Bajaj
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+BEHV 1025Usable Design10
+ENGR 1041Designing for User Experience (UX)10
+INFO 2006Usable Security10
+COMP 2026Visual Analytics10
+HUMN 3033Digital Cultures10
+ENGR 3024Design Research Methods (Advanced)10
+INFS 3017Web Systems Development10
+COMP 3034Multimodal Interaction10

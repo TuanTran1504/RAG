@@ -1,0 +1,31 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- International Governance, Testamur Major (T127)
+- Western Sydney University Major Code:
+- Previous code:  ST2007.1
+- This major has been discontinued at the end of 2023.
+- Governance is a key area for those working in law related areas in small and large firms, as well as in many public companies, government departments, large charities and non-government organisations. Internationally, there is a strong need for technical knowledge and understanding of legal governance for those not used to working in a common law legal system versus their own civil code or mixed system. This major provides a strong grounding in key theories, practices and issues in international governance.
+- Location
+- Major Structure
+- Students must complete 40 credit points as follows.
+- The subjects listed below count towards completion of this major for students who passed the subject in 2024 or earlier.
+- LAWS 7013 Global Governance and Sustainability
+- Related Programs
+- No results found.
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- John Juriansz
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+LAWS 7027Legal Philosophy and Methodology10
+LAWS 7018International Corporate Governance10
+LAWS 7021International Governance Dissertation10
+LAWS 7013Global Governance and Sustainability10
+Total Credit Points40

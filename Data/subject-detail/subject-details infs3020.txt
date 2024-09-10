@@ -1,0 +1,20 @@
+Academic Handbook Current Edition INFS 3020 Artificial Intelligence (Advanced) Credit Points 10 Coordinator Vernon Asuncion Opens in new window Description Artificial Intelligence (AI) comprises the areas of: search, knowledge representation, logic programming, machine learning and knowledge based systems, agent planning and learning. This subject provides the students with the solid foundations on those areas. The first part will focus on the foundation of artificial intelligence: search algorithms and their implementations, game playing, logics and knowledge representation, and inference in reasoning systems.
+The second part will cover the principles of knowledge based systems (intelligent systems), planning, and machine learning. This subject also introduces students to current state-of-the-art AI systems for difficult (primarily NP-hard) search problems. School Computer, Data & Math Sciences Discipline Information Systems Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Pre-requisite(s) MATH1006
+COMP2030 Assumed Knowledge Basic understanding of data structures and algorithms and basic programming skills in Pascal, C/C++ or Java, etc. Learning Outcomes After successful completion of this Subject, students will be able to: Articulate the major concepts of artificial intelligence and knowledge based systems and their historical context.
+Implement well designed and various search algorithms for problem solving.
+Implement a well designed proper two-person game playing programs for specific tasks.
+Devise first order logics to formalise proper real world domains.
+Apply proper first order inference procedures to solve reasoning problems.
+Analyse the process of agent planning.
+Implement the Decision Tree Learning algorithm.
+Solve “hard” combinatorial search problems using state-of-the-art tools. Subject Content Introduction to Artificial Intelligence and Knowledge Based Systems
+Search I: Solving Problems by Search
+Search II: Informed Search (A* Search)
+Search III: Game Playing
+Reasoning and Logic
+First Order Logic
+Development of Intelligent Systems
+Planning and Acting
+Learning Decision Trees
+Decision Making
+Encoding “hard” combinatorial search problems into SAT and Answer Set Programming (ASP). Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Applied Project 15% each. Each assignment will require about 12 hours work. 30 N Individual N  Practical 2.5% for each lab practice demonstration. Each practical will require about 4 hours work. 5 N Individual N  Final Exam 2 hours 50 Y Individual Y  Applied Project 5-10 pages 15 N Individual Y Prescribed Texts Russell, S &  Norvig, P 2021, Artificial Intelligence: A Modern Approach, 4th Global edn, Pearson, Upper Saddle River. Teaching Periods Spring (2024) Penrith (Kingswood) On-site Subject Contact Vernon Asuncion Opens in new window View timetable Opens in new window Parramatta - Victoria Rd On-site Subject Contact Vernon Asuncion Opens in new window View timetable Opens in new window Structures that include subject Artificial Intelligence, Major (0031) Bachelor of Computer Science (Advanced) (3634) Information Systems (INFS)

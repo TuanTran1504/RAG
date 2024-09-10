@@ -1,0 +1,43 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Psychology Extension, Minor (0186)
+- Western Sydney University Minor Code:
+- Previous Code: SM1124.1
+- The Psychology Extension minor is designed to give students enrolled in an accredited psychology sequence the opportunity to study some areas of psychology in greater depth. To complete the minor students must choose four subjects from a prescribed pool. Students enrolled in non-Psychology degrees are welcome to select the minor, but they should carefully check the prerequisites of subjects in the pool as many of them require completion of subjects from the psychology core.
+- Location
+- Minor Structure
+- Students must complete 40 credit points from the following pool.
+- Students may study additional subjects from this pool as open electives.
+- The subject listed below counts towards completion of the major for students who passed this subject in 2021 or earlier.
+- BEHV 3017 - Personality, replaced by  BEHV 2018 - Personality
+- Related Courses
+
+Location Table:
+- Bankstown City Campus
+- Internal
+- Psychology UG ACA
+- Parramatta Campus - Victoria Road
+- Internal
+- Psychology UG ACA
+- Penrith Campus
+- Internal
+- Psychology UG ACA
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+BEHV 1001Behaviour and Environment10
+BEHV 3010Health Psychology10
+BEHV 3011History and Philosophy of Psychology10
+PHIL 1004Introduction to Logical Thinking10
+BEHV 1003Introduction to Research Methods10
+WELF 1007Mental Health Workforce Training10
+BEHV 2018Personality10
+BEHV 1010Positive Psychology: The Science of Happiness,  Resilience, and Wellbeing10
+BEHV 3018Psychology and the Online World10
+BEHV 3021Psychology, Crime and Law10
+BEHV 3019Psychology of Language10
+BEHV 1021The Individual in Society10

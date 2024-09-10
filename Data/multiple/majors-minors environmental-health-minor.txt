@@ -1,0 +1,30 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Environmental Health, Minor (0208)
+- Western Sydney University Minor Code:
+- Previous Code: SM3113.1
+- The Environmental Health minor offers focused knowledge and skills associated with understanding environmental factors that influence and contribute to health. Students will focus on and further develop in areas associated with food safety, toxicology, water and air quality, disease prevention and disaster and emergency management. The minor is suitable as a complementary area of study for students in a broad range of courses across the university, and is recommended for health science students in public health, health promotion and health services management. Students should note that travel to other campuses may be required.
+- Location
+- Minor Structure
+- Students must complete four subjects as follows
+- Related Programs
+
+Location Table:
+- Hawkesbury Campus
+- Internal
+- science@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Select four of the following:40
+NATS 3020Food Safety
+NATS 2031Toxicology
+PUBH 3007Disease Prevention and Control
+BIOS 1027Management of Aquatic Environments
+PUBH 3021Air Pollution & Control
+PUBH 3005Disaster and Emergency Management
+Total Credit Points40

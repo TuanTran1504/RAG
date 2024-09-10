@@ -1,0 +1,122 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Diploma in Engineering/Bachelor of Engineering Studies (6033)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 096983F
+- This program is suspended from Term 1, 2025, no new students will be admitted from this session.
+- Program Status: CURRENT
+- This program applies to students who commenced in Term 1, 2017 or later.
+- Students have the opportunity to focus on a discipline area by selecting a major in Civil, Construction, Electrical, Mechanical and Robotic & Mechatronic engineering. The program has been developed with the view of enabling graduates to practice as an engineering technologist in their chosen field. The three year Bachelor of Engineering Science program may be used as a pathway to the four year Bachelor of Engineering program that meets Engineers Australia professional accreditation requirements; an academic performance criteria will be the eligibility criteria for such transfer.
+- A Diploma in Engineering exit point is also available at the end of the first year of the program.
+- Early Exit
+- Students may exit this program on completion of 100 credit points with a 7034 Diploma in Engineering
+- Study Mode
+- Three years full-time or six years part-time.
+- Program Advice
+- For program advice during your first year of study, please use the contact The College: College Program Enquiries
+- For program advice during your second and subsequent years of study, please contact the  School of Engineering, Design and Built Environment
+- Note: Students will study at the Kingswood campus at WSU The College in their first year. In second year, students can transfer to Parramatta City campus (if required).
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- 1 From second year of study onwards, students can transfer to Parramatta City Campus.
+- 2 Students will study at the Kingswood campus at WSU The College in their first year.
+- Work Integrated Learning
+- There is a mandatory work component required for completion of this program.  Please contact the Program Advisor listed above for information.
+- International students should also refer to the link below for more information and a link to the Commonwealth Register of Institutions and Courses for Overseas Students (CRICOS).
+- Work Integrated Learning (WIL) for international students
+- Admission
+- For more information on applying please see link to The College admission pages below.
+- https://www.westernsydney.edu.au/thecollege/how_to_apply
+- Domestic students are required to have:
+- Students are also assumed to have completed some study in Mathematics and Science at a senior high school level or equivalent.
+- Met other entry requirements such as:
+- International students must satisfy one of the following language requirements:
+- Academic Entry Requirements vary according to country of origin. However, in general:
+- Recommended Sequence
+- Qualification for this award requires the successful completion of 260 credit points which include the subjects listed in the recommended sequence below.
+- The early exit College Diploma consists of 100 credit points which includes three College Preparatory units.
+- Western Sydney University The College Subjects
+- Penrith Campus
+- Students may exit at this point and graduate with the Diploma in Engineering following a passing grade in all of the above subjects.
+- Students who progress to Year Two may also be awarded the Diploma if they gain a passing grade in all of the above subjects.
+- Western Sydney University Subjects
+- For program advice during your second and subsequent years of study, please use the contact listed for the Bachelor of Engineering Science.
+- Bachelor of Engineering Science
+- Parramatta (Victoria Road) and Penrith Campus
+- Please note that all campuses may not have intakes each year.
+- Year 2 - Year 3
+- Penrith and Parramatta City campuses
+- Engineering Majors - Autumn 2022
+
+Location Table:
+- Parramatta City Campus 1
+- Full Time
+- Internal
+- See above
+- Parramatta City Campus
+- Part Time
+- Internal
+- See above
+- Kingswood Campus 2
+- Full Time
+- Internal
+- See above
+- Kingswood Campus
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+Year 1
+Credit Points
+First Term of Study
+
+GEDU 0008
+Tertiary Study Skills in Engineering (WSTC Prep)
+0
+MATH 0008
+Mathematics 2 (WSTC Prep)
+10
+PHYS 0003
+Foundation Physics 2 (WSTC Prep)
+10
+ENGR 1026
+Introduction to Engineering Practice (WSTC)
+10
+ELEC 1008
+Engineering Computing (WSTC)
+10
+Second Term of Study
+
+MATH 1023
+Mathematics for Engineers Preliminary (WSTC)
+10
+ENGR 1010
+Engineering Materials (WSTC)
+10
+ENGR 1013
+Engineering Physics (WSTC)
+10
+Third Term of Study
+
+ELEC 1005
+Electrical Fundamentals (WSTC)
+10
+ENGR 1020
+Fundamentals of Mechanics (WSTC)
+10
+MATH 1018
+Mathematics for Engineers 1 (WSTC)
+10
+
+Credit Points
+100
+
+Total Credit Points
+100
+
+Courselist Tables:

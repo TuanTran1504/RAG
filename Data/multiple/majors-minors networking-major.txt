@@ -1,0 +1,45 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Networking, Major (0040)
+- Western Sydney University Major Code:
+- Previous Code: M3109.1
+- The Networking major provides students with in-depth knowledge for the analysis, design, and implementation of networked systems. It offers students the opportunity to develop the technical skills needed for management and secure operation of a broad range of systems, including LANs, WANs, wireless and mobile networks, and large heterogeneous networks.
+- Location
+- Curriculum delivered through an agreement with another party
+- Major Structure
+- Students must complete 80 credit points as follows
+- The subjects listed below count towards completion of this major for students who passed these subjects in 2023 or earlier.
+- INFO 3001 Computer Security
+- Related Programs
+
+Location Table:
+- Campbelltown Campus
+- Internal
+- CDMS@westernsydney.edu.au
+- Parramatta Campus - Victoria Road
+- Internal
+- CDMS@westernsydney.edu.au
+- Penrith Campus
+- Internal
+- CDMS@westernsydney.edu.au
+- Sydney City Campus*
+- Internal
+- Antoinette Cevenini
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+COMP 2004Computer Networking10
+COMP 3007Computer Networks and Internets10
+COMP 2013LAN Workshop10
+INFO 3007Network Security10
+COMP 3014Networked Systems Design10
+COMP 3025Wireless and Mobile Networks10
+INFO 3001Computer Security10
+From Autumn 2024 INFO 3001 is replaced by COMP 2027
+COMP 2027Cyber Security10
+INFO 3002Ethical Hacking Principles and Practice10
+Total Credit Points90

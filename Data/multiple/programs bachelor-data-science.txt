@@ -1,0 +1,366 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Bachelor of Data Science (3769)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 089203J
+- This program applies to students who commenced in 2022 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- For commencement year 2021, please refer to: 3769.1 Bachelor of Data Science
+- Data is ubiquitous in this digital age and plays an important role in all careers.  A Data Scientist has the required expertise to convert all forms of data into valuable information.  This degree equips its graduates with the skills and knowledge for designing experimental studies, building and fitting models for analysis, visualisation, estimation and prediction, machine learning for prediction, analysis of complex data relationships, storage and retrieval of big data. These skills are essential for the analysis of customer transactions and behaviour, scientific investigations, financial trends, and online behaviour.
+- Study Mode
+- Three years full-time, six years part-time.
+- Program Advice
+- Dr Laurence Park
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Accreditation
+- Australian Computer Society accreditation for the Surabaya Campus offering will be sought.
+- Admission
+- Assumed Knowledge: HSC Mathematics Advanced and any two units of HSC English.
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- International students currently completing an Australian Year 12 in or outside Australia, an International Baccalaureate in Australia or a New Zealand National Certificate of Educational Achievement (NCEA) level 3 must apply via UAC International.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Qualification for this award requires the completion of 240 credit points.
+- Students must complete 160 credit points of core units listed in the recommended sequence below.
+- Additionally, students must complete
+- Students at Surabaya Campus, Indonesia please refer to the program sequence below for your program requirements.
+- Recommended sequence
+- Full-time start-year intake
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 1033 Thinking About Data,  replaced by COMP 1014 Thinking About Data
+- MATH 2009 Introduction to Data Science, replaced by COMP 2025 Introduction to Data Science
+- MATH 1002 Analytics Programming,  replaced by COMP 1013 Analytics Programming
+- MATH 2014 Visual Analytics, replaced by  COMP 2026 Visual Analytics
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2023 or earlier.
+- INFO 3008 Professional Development replaced by INFO 3019 Project Management
+- Full-time mid-year intake
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 1033 Thinking About Data,  replaced by COMP 1014 Thinking About Data
+- MATH 2009 Introduction to Data Science, replaced by COMP 2025 Introduction to Data Science
+- MATH 1002 Analytics Programming,  replaced by COMP 1013 Analytics Programming
+- MATH 2014 Visual Analytics, replaced by  COMP 2026 Visual Analytics
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2023 or earlier.
+- INFO 3008 Professional Development replaced by INFO 3019 Project Management
+- Surabaya Campus Indonesia
+- Majors (80 credit points)
+- Minors (40 credit points)
+- In cases where the major or the sub major units are the same as the core units, students will have to do additional elective units to make up for the credit points required to complete their program.
+- Replaced Majors and Minors
+- The minors listed below count towards completion of this program for students who began studying these minors prior to the years indicated below.
+- SM3089 Statistics, Minor, discontinued from 2020
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Full Time
+- Internal
+- See above
+- Parramatta Campus - Victoria Road
+- Part Time
+- Internal
+- See above
+- Surabaya Campus Indonesia
+- Full Time
+- Internal
+- See above
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+NATS 1019
+Scientific Literacy
+10
+COMP 1014
+Thinking About Data
+10
+MATH 1006
+Discrete Mathematics
+10
+COMP 1005
+Programming Fundamentals
+10
+
+Credit Points
+40
+Spring session
+MATH 1014
+Mathematics 1A
+10
+COMP 2025
+Introduction to Data Science
+10
+Select two major, minor or elective subjects
+20
+
+Credit Points
+40
+Year 2
+Autumn session
+COMP 1013
+Analytics Programming
+10
+COMP 2026
+Visual Analytics
+10
+Select two major, minor or elective subjects
+20
+
+Credit Points
+40
+Spring session
+COMP 3032
+Machine Learning
+10
+INFS 2001
+Database Design and Development
+10
+COMP 3020
+Social Web Analytics
+10
+COMP 2023
+Mathematical Programming
+10
+
+Credit Points
+40
+Year 3
+Autumn session
+COMP 3002
+Applications of Big Data
+10
+MATH 3011
+Probabilistic Models and Inference
+10
+INFO 3008
+Professional Development
+
+From Spring 2024 INFO 3008 replaced by INFO 3019
+10
+INFO 3019
+Project Management
+
+Select one major, minor or elective subjects
+10
+
+Credit Points
+40
+Spring session
+COMP 3035
+Discovery Project
+10
+Select three major, minor or elective subjects
+30
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Spring session
+Credit Points
+MATH 1014
+Mathematics 1A
+10
+NATS 1019
+Scientific Literacy
+10
+COMP 1005
+Programming Fundamentals
+10
+COMP 1014
+Thinking About Data
+10
+
+Credit Points
+40
+Autumn session
+MATH 1006
+Discrete Mathematics
+10
+COMP 1013
+Analytics Programming
+10
+COMP 2026
+Visual Analytics
+10
+Select one major, minor or elective subject
+10
+
+Credit Points
+40
+Year 2
+Spring session
+INFS 2001
+Database Design and Development
+10
+COMP 2023
+Mathematical Programming
+10
+COMP 3032
+Machine Learning
+10
+COMP 2025
+Introduction to Data Science
+10
+
+Credit Points
+40
+Autumn session
+COMP 3002
+Applications of Big Data
+10
+MATH 3011
+Probabilistic Models and Inference
+10
+Select two major, minor or elective subjects
+20
+
+Credit Points
+40
+Year 3
+Spring session
+COMP 3020
+Social Web Analytics
+10
+Select three major, minor or elective subjects
+30
+
+Credit Points
+40
+Autumn session
+INFO 3008
+Professional Development
+
+From Spring 2024 INFO 3008 replaced by INFO 3019
+10
+INFO 3019
+Project Management
+
+COMP 3035
+Discovery Project
+10
+Select two major, minor or elective subjects
+20
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Credit Points
+Semester 1
+
+MATH 1014
+Mathematics 1A
+10
+NATS 1019
+Scientific Literacy
+10
+COMP 1005
+Programming Fundamentals
+10
+COMP 1014
+Thinking About Data
+10
+CULT 1030
+Pancasila
+5
+Semester 2
+
+MATH 1006
+Discrete Mathematics
+10
+COMP 1013
+Analytics Programming
+10
+COMP 2026
+Visual Analytics
+10
+INFO 1003
+Professional Practice, Communication and Ethics
+10
+CULT 1031
+Civic Education
+5
+
+Credit Points
+90
+Year 2
+Semester 3
+
+INFS 2001
+Database Design and Development
+10
+COMP 2023
+Mathematical Programming
+10
+COMP 2025
+Introduction to Data Science
+10
+COMP 2004
+Computer Networking
+10
+TBA
+Indonesian Language
+5
+Semester 4
+
+COMP 2020
+Technologies for Web Applications
+10
+COMP 3002
+Applications of Big Data
+10
+COMP 3012
+Introduction to Cloud Computing
+10
+TBA
+Religion
+5
+
+Credit Points
+80
+Year 3
+Semester 5
+
+COMP 3032
+Machine Learning
+10
+INFO 3019
+Project Management
+10
+COMP 3020
+Social Web Analytics
+10
+INFO 3007
+Network Security
+10
+Semester 6
+
+INFO 3002
+Ethical Hacking Principles and Practice
+10
+MATH 3011
+Probabilistic Models and Inference
+10
+COMP 3035
+Discovery Project
+10
+
+Credit Points
+70
+
+Total Credit Points
+240
+
+Courselist Tables:

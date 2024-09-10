@@ -1,0 +1,49 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Game Design, Testamur Major (T060)
+- Western Sydney University Major Code:
+- Previous Code: MT3013.1
+- Location
+- Major Structure Current
+- This major structure applies to students who commenced in 2024 or later. If you commenced prior to 2024 please refer to the Structure 2020-23 tab for details.
+- Students must complete 80 credit points as follows.
+- Major Structure 2020 - 2023
+- If you commenced in 2024 or later please refer to the Structure 2024 tab for details.
+- Students must complete 80 credit points as follows.
+- The subject listed below counts towards completion of this major for students who passed this subject in 2021 or earlier.
+- COMM 2042 Visual Effects, replaced by COMM 2051 Animation and Visual Effects
+- COMM 2051 Animation and Visual Effects
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- Dr Anton Bogdanovych
+- Penrith Campus
+- Internal
+- Dr Anton Bogdanovych
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+DESN 1009Graphic Design: Understanding the Principles20
+DESN 1021Web and Time-based Design10
+DESN 2011Motion Design10
+COMP 3024Video Games Development10
+COMM 2051Animation and Visual Effects10
+INFO 1003Professional Practice, Communication and Ethics10
+DESN 3006Graphic Design: Developing a Personal Portfolio10
+Total Credit Points80
+
+courselist table2:
+DESN 1009Graphic Design: Understanding the Principles20
+DESN 1021Web and Time-based Design10
+DESN 2011Motion Design10
+COMP 3024Video Games Development10
+COMM 2051Animation and Visual Effects10
+INFO 3003Human-Computer Interaction10
+DESN 3006Graphic Design: Developing a Personal Portfolio10
+Total Credit Points80

@@ -1,0 +1,28 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Structures, Minor (0116)
+- Western Sydney University Minor Code:
+- Location
+- Minor Structure
+- This minor is only available to students enrolled in Bachelor of Engineering (Honours) (3740) and Bachelor of Engineering Advanced (Honours) (3771).
+- Students must complete 4 subjects as follows.
+- Related Programs
+
+Location Table:
+- Penrith Campus
+- Internal
+- beng@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Students must complete 40 credit points from the following40
+CIVL 4001Applied Mechanics
+CIVL 4002Composite Structures
+CIVL 3021Bridge Engineering Design
+CIVL 4008Pile Foundations
+CIVL 4009Timber Structures (UG)
+Total Credit Points40

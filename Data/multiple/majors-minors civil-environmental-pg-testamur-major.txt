@@ -1,0 +1,44 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Civil and Environmental, Testamur Major (T111)
+- Western Sydney University Major Code:
+- Previous Code:  ST3084.1
+- Location
+- Major Structure
+- Students must complete 100 credit points as follows.
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- pg-enq@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Complete the following core double major subjects:
+ENGR 7020Sustainability and Risk Engineering (PG)10
+CIVL 7008Advanced Waste Management10
+CIVL 7017Wastewater Treatment and Recycling10
+CIVL 7018Water Treatment and Distribution10
+Select three of the following Civil alternate major subjects:30
+CIVL 7001Advanced Applied Mechanics
+CIVL 7002Advanced Composite Structures
+CIVL 7003Advanced Geotechnical Engineering
+CIVL 7006Advanced Structural Analysis
+EART 7001Advanced Hydrogeology
+EART 7002Advanced Statistical Hydrology
+CIVL 7005Advanced Numerical Methods in Engineering
+CIVL 7007Advanced Timber Structures
+CIVL 7009Advanced Water Engineering
+CIVL 7015Water Resources Systems Analysis
+CIVL 7004Advanced Highway Infrastructure
+Select three of the following Environmental major subjects:30
+BLDG 7004Building in Bushfire Prone Areas
+ENVL 7002Planning and Environmental Regulation
+ENGR 7027Spatial Tools and Mapping
+PUBH 7034Workplace Safety and Risk Management
+Total Credit Points100

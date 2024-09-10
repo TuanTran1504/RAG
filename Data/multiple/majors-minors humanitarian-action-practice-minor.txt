@@ -1,0 +1,58 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Humanitarian Action in Practice, Minor (0327)
+- Western Sydney University Minor Code:
+- This specialisation links subjects from the School of Engineering, Design and Built Environment, and the School of Social Sciences to develop key practice skills in the humanitarian and development sectors. Using innovative materials co-designed and delivered with industry partners (e.g. Engineers Without Borders, RedR) students will gain comprehensive knowledge and socio-technical skills for dealing with real-world humanitarian problems via sustainable, community-centered approaches. It offers opportunities to co-develop change with regional and international industry partners and local communities in other countries to develop humanitarian engineering interventions within this emerging career pathway.
+- Location
+- Minor Structure
+- This minor is included in Bachelor of Design and Technology, Bachelor of Industrial Design, Bachelor of Industrial Design, Bachelor of Engineering (Honours), Bachelor of Engineering Advanced (Honours), Bachelor of Information and Communications Technology, Bachelor of Humanitarian Development Studies, Bachelor of Policing, Bachelor of Social Science and Bachelor of Social Science (Advanced)
+- Please follow the recommended sequence for your program as noted below.
+- Design and Technology, Industrial Design and ICT
+- Students enrolled in Bachelor of Design and Technology, Bachelor of Industrial Design, Bachelor of Industrial Design (Honours) or Bachelor of Information and Communications Technology must complete 40 credit points as follows
+- Engineering
+- Students enrolled in Engineering programs must complete 40 credit points as follows
+- Social Sciences
+- Students enrolled in Social Science programs must complete 40 credit points as follows
+- Equivalent Minor Subjects
+- The subject listed below count towards completion of the minor for students who may have passed this subject in 2022 or earlier.
+- BUSM 2043 Project Management in Humanitarian and Development Studies, replaced by BUSM 3082 Project Management in Humanitarian and Development Studies
+- BUSM 3082 Project Management in Humanitarian and Development Studies
+- Related Programs
+
+Location Table:
+- Parramatta City Campus
+- Full-time
+- Internal
+- edbe@westernsydney,edu.au
+- Parramatta City Campus
+- Part-time
+- Internal
+- edbe@westernsydney,edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+ENGR 1024Introduction to Engineering Practice10
+HUMN 2017Complex Emergencies and International Guidelines10
+BUSM 3082Project Management in Humanitarian and Development Studies10
+ENGR 3032Humanitarian Design and Practice10
+Total Credit Points40
+
+courselist table2:
+ENGR 1043Co-Designing Change with Local Communities10
+HUMN 2017Complex Emergencies and International Guidelines10
+BUSM 3082Project Management in Humanitarian and Development Studies10
+ENGR 3032Humanitarian Design and Practice10
+Total Credit Points40
+
+courselist table3:
+HUMN 2017Complex Emergencies and International Guidelines10
+BUSM 3082Project Management in Humanitarian and Development Studies10
+ENGR 3032Humanitarian Design and Practice10
+Select one of the following:10
+ENGR 1024Introduction to Engineering Practice
+ENGR 1043Co-Designing Change with Local Communities
+Total Credit Points40

@@ -1,0 +1,147 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Tuberculosis Management, Testamur Major (T093)
+- Western Sydney University Major Code:
+- Previous Codes: A4062.1, A4063.1, A4064.1, A4065.1
+- The aim of the Tuberculosis Management major is to provide Registered Nurses with the specialist theoretical knowledge and critical thinking skills to prepare them for advanced practice in the clinical management of Tuberculosis among individuals and communities. Students will be able to align their career goals with their professional knowledge and skills in the major. Opportunities will be provided for students completing the Masters level major to synthesise and apply advanced nursing concepts through a capstone project relevant to their professional specialty area.
+- Location
+- Major Structure Current
+- This major structure applies to students who commenced in 2024 or later. If you commenced prior to 2024 please refer to the Structure Spring 2021-23 tab for details.
+- Select the link for your program below to see details of the major
+- Graduate Diploma in Nursing (Tuberculosis Management) - 60 cp 1 year pathway
+- One year Pathway Structure
+- Qualification for this award requires the successful completion of 60 credit points including the subjects listed below
+- Graduate Diploma in Nursing (Tuberculosis Management) - 80 cp 1 year pathway
+- One year Pathway Structure
+- Qualification for this award requires the successful completion of 80 credit points including the subjects listed below
+- Master of Nursing (Tuberculosis Management) - 1 year pathway
+- One year Pathway Structure
+- Qualification for this award requires the successful completion of 80 credit points including the subjects listed below
+- Master of Nursing (Tuberculosis Management) - 1.5 year pathway
+- 1.5 year Pathway Structure
+- Qualification for this award requires the successful completion of 120 credit points including the subjects listed below
+- Major Structure Spring 2021 - 2023
+- If you commenced in 2024 or later please refer to the Structure 2024 tab for details.
+- Select the link for your program below to see details of the major
+- Graduate Diploma in Nursing (Tuberculosis Management) - 60 cp 1 year pathway
+- One year Pathway Structure
+- Qualification for this award requires the successful completion of 60 credit points including the subjects listed below
+- Graduate Diploma in Nursing (Tuberculosis Management) - 80 cp 1 year pathway
+- One year Pathway Structure
+- Qualification for this award requires the successful completion of 80 credit points including the subjects listed below
+- The subjects listed below count towards completion of this Major for students who passed these subjects in Autumn 2021 or earlier.
+- NURS 7008 - Capstone Experience in Health Care, replaced by NURS 7065 Capstone Experience in Health Care
+- NURS 7065 Capstone Experience in Health Care
+- Master of Nursing (Tuberculosis Management) - 1 year pathway
+- One year Pathway Structure
+- Qualification for this award requires the successful completion of 80 credit points including the subjects listed below
+- The subjects listed below count towards completion of this Major for students who passed these subjects in Autumn 2021 or earlier.
+- NURS 7008 - Capstone Experience in Health Care, replaced by NURS 7065 Capstone Experience in Health Care
+- NURS 7065 Capstone Experience in Health Care
+- Master of Nursing (Tuberculosis Management) - 1.5 year pathway
+- 1.5 year Pathway Structure
+- Qualification for this award requires the successful completion of 120 credit points including the subjects listed below
+- The subjects listed below count towards completion of this Major for students who passed these subjects in Autumn 2021 or earlier.
+- NURS 7008 - Capstone Experience in Health Care, replaced by NURS 7065 Capstone Experience in Health Care
+- NURS 7065 Capstone Experience in Health Care
+- Related Programs
+
+Location Table:
+- Online
+- Dr Linda Gregory
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+PUBH 7021Primary Health Care and its Applications10
+NURS 7050Clinical Management of Tuberculosis (TB)10
+NURS 7058Public Health Management of Tuberculosis (TB)10
+NURS 7049Care of People with Tuberculosis (TB)10
+NURS 7023Evidence Based Health Care10
+Select one elective10
+Total Credit Points60
+
+courselist table2:
+PUBH 7021Primary Health Care and its Applications10
+NURS 7050Clinical Management of Tuberculosis (TB)10
+NURS 7058Public Health Management of Tuberculosis (TB)10
+NURS 7049Care of People with Tuberculosis (TB)10
+NURS 7023Evidence Based Health Care10
+Select one alternate subject10
+Select two electives20
+Total Credit Points80
+
+courselist table3:
+NURS 7019Cultural and Social Diversity in Health Care10
+NURS 7065Capstone Experience in Health Care20
+
+courselist table4:
+PUBH 7021Primary Health Care and its Applications10
+NURS 7050Clinical Management of Tuberculosis (TB)10
+NURS 7058Public Health Management of Tuberculosis (TB)10
+NURS 7049Care of People with Tuberculosis (TB)10
+NURS 7023Evidence Based Health Care10
+NURS 7065Capstone Experience in Health Care20
+NURS 7081Tuberculosis (TB) Screening and Immunisation10
+Total Credit Points80
+
+courselist table5:
+PUBH 7021Primary Health Care and its Applications10
+NURS 7050Clinical Management of Tuberculosis (TB)10
+NURS 7058Public Health Management of Tuberculosis (TB)10
+NURS 7049Care of People with Tuberculosis (TB)10
+NURS 7023Evidence Based Health Care10
+NURS 7028Leadership in Clinical Practice10
+NURS 7016Collaborative Inquiry for Primary Health Care Action10
+NURS 7065Capstone Experience in Health Care20
+NURS 7081Tuberculosis (TB) Screening and Immunisation10
+Select two electives20
+Total Credit Points120
+
+courselist table6:
+PUBH 7021Primary Health Care and its Applications10
+NURS 7050Clinical Management of Tuberculosis (TB)10
+NURS 7058Public Health Management of Tuberculosis (TB)10
+NURS 7049Care of People with Tuberculosis (TB)10
+NURS 7023Evidence Based Health Care10
+Select one elective10
+Total Credit Points60
+
+courselist table7:
+PUBH 7021Primary Health Care and its Applications10
+NURS 7050Clinical Management of Tuberculosis (TB)10
+NURS 7058Public Health Management of Tuberculosis (TB)10
+NURS 7049Care of People with Tuberculosis (TB)10
+NURS 7023Evidence Based Health Care10
+Select one alternate subject10
+Select two electives20
+Total Credit Points80
+
+courselist table8:
+NURS 7019Cultural and Social Diversity in Health Care10
+NURS 7065Capstone Experience in Health Care20
+
+courselist table9:
+PUBH 7021Primary Health Care and its Applications10
+NURS 7050Clinical Management of Tuberculosis (TB)10
+NURS 7058Public Health Management of Tuberculosis (TB)10
+NURS 7049Care of People with Tuberculosis (TB)10
+NURS 7023Evidence Based Health Care10
+NURS 7065Capstone Experience in Health Care20
+Select one elective10
+Total Credit Points80
+
+courselist table10:
+PUBH 7021Primary Health Care and its Applications10
+NURS 7050Clinical Management of Tuberculosis (TB)10
+NURS 7058Public Health Management of Tuberculosis (TB)10
+NURS 7049Care of People with Tuberculosis (TB)10
+NURS 7023Evidence Based Health Care10
+NURS 7028Leadership in Clinical Practice10
+NURS 7016Collaborative Inquiry for Primary Health Care Action10
+NURS 7065Capstone Experience in Health Care20
+Select three elective30
+Total Credit Points120

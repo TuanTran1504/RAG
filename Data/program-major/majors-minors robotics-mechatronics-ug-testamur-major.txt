@@ -1,0 +1,386 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Robotics and Mechatronics, Testamur Major (T037)
+- Western Sydney University Major Code:
+- Previous Codes:  KT3127.1, KT3158.1, KT3163.1, KT7003.1
+- This major provides the skills necessary for the design of smart machines of all types: cruise control in automobiles, pilotless spacecraft, automated factories and medical telerobotics. The major, accompanied by an extensive and integrated hands-on laboratory program, is essentially concerned with the design of intelligent mechanical systems and automation, and includes the study of robotics, computer control, automated manufacturing, microprocessor applications and machine design. Graduates in the major acquire the combined skills of mechanical and computer/electrical engineering that are needed in leading-edge industries such as aerospace systems, the car industry, automation and robotic applications, biomedical engineering, laser systems, and building materials manufacture.
+- Select the link for your program below for the locations of your major
+- - Bachelor of Engineering (Honours)
+- Bachelor of Engineering Science
+- Diploma in Aerotropolis Industry 4.0 (Mechatronics Skills)/Bachelor of Engineering Science
+- Diploma in Engineering/Bachelor of Engineering Studies
+- Location
+- Associate Degree in Engineering
+- Location
+- Recommended Sequence
+- Select the link for your program below to see details of the major
+- Associate Degree in Engineering
+- Students must complete three units as follows
+- Bachelor of Engineering (Honours)
+- Qualification for this award requires the successful completion of 320 credit points, which include the subjectsj listed in the recommended sequence below.
+- * All students undertaking the Bachelor of Engineering (Honours) are required to enrol in MATH 1021 Mathematics for Engineers Preliminary and undertake a readiness test at the beginning of their study.
+- MATH 1021 Mathematics for Engineers Preliminary
+- The readiness test will be conducted at the beginning of the first semester of enrolment and the result will be used to determine whether a student will remain in MATH 1021 Mathematics for Engineers Preliminary or be transferred by the School to MATH 1016 Mathematics for Engineers 1
+- MATH 1021 Mathematics for Engineers Preliminary
+- MATH 1016 Mathematics for Engineers 1
+- Students remaining in MATH 1021 Mathematics for Engineers Preliminary will be required to complete MATH 1016 Mathematics for Engineers 1 during second semester and will be encouraged to complete MATH 1019 Mathematics for Engineers 2 during the Summer session.
+- MATH 1021 Mathematics for Engineers Preliminary
+- MATH 1016 Mathematics for Engineers 1
+- MATH 1019 Mathematics for Engineers 2
+- Alternate subjects may be used to complete one of the minors listed below.
+- The subjects listed below count towards completion of this Major for students who passed these subjects in 2019 or earlier.
+- ENGR 2011 - Graphics 2:  Visual Simulation
+ENGR 2012 - Graphics 3: 3D Engineering Specifications and Visualisation
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2022 or earlier.
+- ELEC 3008 Instrumentation and Measurement, replaced by ELEC 4009 Instrumentation and Measurement
+- ELEC 2010 Power and Machines, replaced by ELEC 3011 Power and Machines
+- No results found.
+- Bachelor of Engineering Science
+- The following subject is an optional elective unit offered to students who are engaged in a School approved project. This subject can be taken during the third year of this major, however, permission is required to enrol in the subject.
+- ENGR 3022 Special Technical Project
+- ENGR 3022 Special Technical Project
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2022 or earlier.
+- ELEC 2010 Power and Machines, replaced by ELEC 3011 Power and Machines
+- - Diploma in Aerotropolis Industry 4.0 (Mechatronics Skills)/Bachelor of Engineering Science
+- Diploma in Engineering/Bachelor of Engineering Studies
+- The following subject is an optional elective unit offered to students who are engaged in a School approved project. This subject can be taken during the third year of this major, however, permission is required to enrol in the subject.
+- ENGR 3022 Special Technical Project
+- ENGR 3022 Special Technical Project
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- beng@westernsydney.edu.au
+- Penrith Campus
+- Internal
+- beng@westernsydney.edu.au
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+ELEC 1006
+Engineering Computing
+10
+ENGR 1011
+Engineering Physics
+10
+ENGR 1024
+Introduction to Engineering Practice
+10
+Select one of the following:
+10
+MATH 1021
+Mathematics for Engineers Preliminary
+
+MATH 1016
+Mathematics for Engineers 1
+
+
+Credit Points
+40
+Spring session
+MATH 1019
+Mathematics for Engineers 2
+10
+ENGR 1018
+Fundamentals of Mechanics
+10
+ELEC 1003
+Electrical Fundamentals
+10
+Select one elective
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+MECH 2001
+Kinematics and Kinetics of Machines
+10
+MECH 2003
+Mechanics of Materials
+10
+ELEC 2001
+Circuit Theory
+10
+ELEC 1001
+Digital Systems 1
+10
+
+Credit Points
+40
+Spring session
+MECH 3004
+Dynamics of Mechanical Systems
+10
+ENGR 2001
+Automated Manufacturing
+10
+ELEC 3011
+Power and Machines
+10
+ELEC 2008
+Microcontrollers and PLCs
+10
+Students may transfer to 3691 Bachelor of Engineering Science at the end of Year 2 of study.
+
+
+Credit Points
+40
+Year 3
+Autumn session
+MECH 3005
+Mechanical Design
+10
+MECH 3001
+Advanced Dynamics
+10
+ELEC 2004
+Electronics
+10
+One Alternate Subject
+10
+
+Credit Points
+40
+Spring session
+MECH 4003
+Mobile Robotics
+10
+MECH 3006
+Mechatronic Design
+10
+One Alternative Subject
+10
+Select one elective
+10
+*Elective subjects must be level 2 or higher (an exception applies for students completing Mathematics for Engineers Preliminary subjects)
+
+Industrial Experience
+
+ENGR 3017
+Industrial Experience (Engineering)
+0
+
+Credit Points
+40
+Year 4
+Autumn session
+MECH 4004
+Robotics
+10
+ENGR 4025
+Final Year Project 1 (UG Engineering)
+10
+One Alternative Subject
+10
+Select one elective
+10
+*Elective subjects must be level 2 or higher (an exception applies for students completing Mathematics for Engineers Preliminary subjects)
+
+
+Credit Points
+40
+Spring session
+ELEC 3008
+Instrumentation and Measurement
+10
+From Spring 2022 ELEC 3008 is replaced with ELEC 4009 Instrumentation and Measurement
+
+ENGR 4026
+Final Year Project 2 (UG Engineering)
+10
+One Alternative Subject
+10
+Select one elective
+10
+*Elective subjects must be level 2 or higher (an exception applies for students completing Mathematics for Engineers Preliminary subjects)
+
+
+Credit Points
+40
+
+Total Credit Points
+320
+Year 2
+Autumn session
+Credit Points
+MECH 2001
+Kinematics and Kinetics of Machines
+10
+MECH 2003
+Mechanics of Materials
+10
+ELEC 2001
+Circuit Theory
+10
+ELEC 1001
+Digital Systems 1
+10
+
+Credit Points
+40
+Spring session
+MECH 3004
+Dynamics of Mechanical Systems
+10
+ENGR 2001
+Automated Manufacturing
+10
+ELEC 3011
+Power and Machines
+10
+ELEC 2008
+Microcontrollers and PLCs
+10
+Industrial Experience
+
+ENGR 3017
+Industrial Experience (Engineering)
+0
+
+Credit Points
+40
+Year 3
+Autumn session
+MECH 3005
+Mechanical Design
+10
+MECH 3001
+Advanced Dynamics
+10
+MECH 4004
+Robotics
+10
+ENGR 3013
+Engineering Science Project 1
+10
+
+Credit Points
+40
+Spring session
+MECH 4003
+Mobile Robotics
+10
+ENGR 3014
+Engineering Science Project 2
+10
+Select two electives
+20
+Elective subjects must be level 2 or higher
+
+
+Credit Points
+40
+
+Total Credit Points
+160
+Year 2
+Autumn session
+Credit Points
+MECH 2001
+Kinematics and Kinetics of Machines
+10
+MECH 2003
+Mechanics of Materials
+10
+ELEC 2001
+Circuit Theory
+10
+ELEC 1001
+Digital Systems 1
+10
+
+Credit Points
+40
+Spring session
+MECH 3004
+Dynamics of Mechanical Systems
+10
+ENGR 2001
+Automated Manufacturing
+10
+ELEC 3011
+Power and Machines
+10
+ELEC 2010 replaced by ELEC 3011 , Spring 2022
+
+ELEC 2008
+Microcontrollers and PLCs
+10
+Industrial Experience
+
+ENGR 3017
+Industrial Experience (Engineering)
+0
+
+Credit Points
+40
+Year 3
+Autumn session
+MECH 3005
+Mechanical Design
+10
+MECH 3001
+Advanced Dynamics
+10
+MECH 4004
+Robotics
+10
+ENGR 3013
+Engineering Science Project 1
+10
+
+Credit Points
+40
+Spring session
+MECH 4003
+Mobile Robotics
+10
+ENGR 3014
+Engineering Science Project 2
+10
+MATH 1019
+Mathematics for Engineers 2
+10
+Select one elective
+10
+Elective subjects must be level 2 or higher
+
+
+Credit Points
+40
+
+Total Credit Points
+160
+
+Courselist Tables:
+
+courselist table1:
+Select at least one of the following subjects:
+MECH 2002Kinematics and Kinetics of Machines (WSTC AssocD)10
+MECH 2004Mechanics of Materials (WSTC AssocD)10
+Choose either one or two of the following subjects depending on how many subjects have been completed from the list above.
+ELEC 2002Circuit Theory (WSTC AssocD)10
+ELEC 1002Digital Systems 1 (WSTC AssocD)10
+ELEC 2005Electronics (WSTC AssocD)10
+MATH 1020Mathematics for Engineers 2 (WSTC AssocD)10
+Please note: Offerings of alternate units are dependent on there being sufficient student enrolment numbers. If enrolments are low, the College may cancel delivery of the alternate unit.
+
+courselist table2:
+HLTH 2003Biomechanics10
+ENGR 4038Biomedical Electronics10
+ENGR 3004Biomedical Signals and Data Analysis10
+MECH 4001Computational Fluid Dynamics10
+MECH 4002Computer Aided Engineering10
+ELEC 2007Engineering Visualization10
+CIVL 2003Fluid Mechanics10
+ENGR 2025Design Graphics: Engineering Documentation10
+ENGR 2024Design Graphics: Communication for Manufacture10
+BIOS 1022Introduction to Human Biology10
+MECH 3007Thermal and Fluid Engineering10
+MECH 3008Thermodynamics and Heat Transfer10

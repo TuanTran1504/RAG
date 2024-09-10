@@ -1,0 +1,16 @@
+Academic Handbook Current Edition NATS 6001 Introduction to Neuroscience Credit Points 10 Legacy Code 401471 Coordinator Yossi Buskila Opens in new window Description This subject is an introduction to the nervous system with a focus on its role and the function. It provides a strong foundation in modern neuroscience for those wishing to apply the principles of sensory and motor system function with the aim of mimicking human biology via neuromorphic implementations. Students will have access to expertise from a multidisciplinary team, guiding their learning in the areas of cellular, computational, behavioural and biomedical neuroscience. Topics covered in the subject will include introductory biology, structure and function of the nervous system, computational modelling, bio-signal acquisition and signal processing.
+This subject will be undertaken at Parramatta City - Hassall St campus. School Medicine Discipline Medical Science Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Postgraduate Coursework Level 6 subject Restrictions Students must be enrolled in 8124 Master of Applied Neuromorphic Engineering Learning Outcomes On successful completion of this subject, students should be able to: Examine key concepts underlying the basic systems and functions of the nervous system
+Appraise the basic structure of neurons and synapses
+Interpret the basis of the resting membrane potential, Nernst and Goldman equations
+Simulate and explain the dynamics of the action potential, neural excitability, synaptic plasticity, integration and facilitation
+Critically analyse the operation of various elements of the nervous systems at a functional level and in the context of their evolutionary history Subject Content - Functional Anatomy of central Nervous system
+- ionic basis of resting membrane potential
+- action potential & neuronal excitability, The cable theory
+- mechanisms of plasticity
+- The evolutionary origin of The Nervous systems
+- The Visual system
+- The auditory system
+- The somatosensory system
+- Behavioural?neuroscience & neurodegeneration
+- Bioamplifiers and filters Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Quiz 1-hour x 2 
+(15% each) 30 N Individual Y  Essay 1000 Words 30 N Individual Y  Report 1500 Words 40 N Individual Y Teaching Periods Autumn (2024) Parramatta City - Macquarie St On-site Subject Contact Yossi Buskila Opens in new window View timetable Opens in new window Structures that include subject Graduate Certificate in Neuromorphic Engineering (exit only) (8126) Graduate Diploma in Neuromorphic Engineering (exit only) (8125) Master of Applied Neuromorphic Engineering (8124) Master of Neuromorphic Engineering (8123) Other Natural and Physical Sci (NATS)

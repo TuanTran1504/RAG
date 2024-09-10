@@ -1,0 +1,13 @@
+Academic Handbook Current Edition COMP 1013 Analytics Programming Credit Points 10 Legacy Code 301487 Coordinator Rosalind Wang Opens in new window Description This subject covers the use of computers and computer programming for Data Science. After briefly considering spreadsheet systems, the subject will consider programming in the statistical system "R" in depth. Finally, other special purpose languages will be touched briefly (eg. SQL). School Computer, Data & Math Sciences Discipline Computer Science Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 1 subject Assumed Knowledge Familiarity with computer software programs such as Excel. Learning Outcomes 1.Familiarity with computer software programs such as Excel.
+2.Manage and manipulate data using R and R-Studio; including reading and writing data files
+3.Write R programs to conduct Data Science tasks
+4.Use basic SQL to manage and manipulate data
+5.Apply Simulation techniques to Data Science tasks
+6.Write reports using Markdown and R-Markdown Subject Content 1. Introduction to R and R-Studio
+2. Data Types, Variables and Expressions
+3. Input and Output
+4. Control Structures: Loops and Conditional Expressions
+5. Writing Functions
+6. Simulation techniques
+7. Introduction to SQL
+8. Using Markdown for reporting Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Quiz 5x 30 min 20 N Individual Y  Final Exam 10-15 min oral exam or 1 hour written exam 40 Y Individual Y  Applied Project 3 weeks/approx. 2000 words 40 N Individual Y Teaching Periods Autumn (2024) Parramatta - Victoria Rd On-site Subject Contact Rosalind Wang Opens in new window View timetable Opens in new window Vietnam Session 2 (2024) Vietnam On-site Subject Contact Rosalind Wang Opens in new window View timetable Opens in new window WSU Online TRI-3 (2024) Wsu Online Online Subject Contact Rosalind Priestman Opens in new window View timetable Opens in new window Vietnam Session 3 (2024) Vietnam On-site Subject Contact Rosalind Wang Opens in new window View timetable Opens in new window Structures that include subject Applied Finance, Testamur Major (T038) Bachelor of Applied Data Science (3770) Bachelor of Cyber Security and Behaviour (1837) Bachelor of Data Science (3769) Business Analytics, Testamur Major (T130) Computer Science (COMP) Data Science, Testamur Major (T079) Financial Mathematics, Testamur Major (T096) Infonomics, Testamur Major (T158) Mathematics (MATH) Software Development, Testamur Major (T148)

@@ -1,0 +1,21 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Artificial Intelligence, Minor (0031)
+- Western Sydney University Minor Code:
+- Previous Code: SM3123.1
+- Minor Structure
+- Students must complete 40 credit points from the subjects listed below.
+- Related Programs
+
+Location Table:
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+INFS 3003Artificial Intelligence10
+COMP 2009Data Structures and Algorithms10
+COMP 2014Object Oriented Programming10
+COMP 2008Computer Organisation10

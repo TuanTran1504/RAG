@@ -1,0 +1,59 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Undergraduate Certificate in Counselling and Mental Health (7170)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- This program is suspended from Block E, 2024, no new students will be admitted from this session.
+- This program applies to students who commenced in Block B, 2021 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- For Commencement Year 2021 - please refer to 7170.2 Undergraduate Certificate in Counselling and Mental Health
+- For Commencement Year 2020 - please refer to 7170.1 Undergraduate Certificate in Counselling and Mental Health
+- The Undergraduate Certificate in Counselling and Mental Health combines a range of subjects in the social sciences and psychology that serves as a foundation for basic counselling skills, with a particular focus on counselling those experiencing mental health challenges. Students are prepared for careers in a wide range of human services organisations across diverse practice areas, including case work, group or individual counselling, in person or remote, and supporting community development and crisis intervention projects.
+- Study Mode
+- Six months full-time.
+- Program Advice
+- UG Certificate Course Enquiries
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- This program is open to Australian Citizens and Permanent Residents who are aged 17 years or over and not currently enrolled in or completing Year 12 in the same year of intended admission.
+- For more information on applying please see the link to The College admission pages below.
+- https://www.westernsydney.edu.au/thecollege/how_to_apply
+- Program Structure
+- Qualification for this award requires the successful completion of 40 credit points including the subjects listed below.
+- The subject listed below counts towards completion of this program for students who passed this subject in Block D 2023 or earlier.
+- WELF 1010 Human Services Intervention Strategies (UG Cert) Human Services Intervention Strategies (UG Cert) is replaced by WELF 1013 Counselling Foundations (Block) Counselling Foundations (Block)
+- WELF 1010 Human Services Intervention Strategies (UG Cert)
+- WELF 1013 Counselling Foundations (Block)
+- Program Structure
+- Qualification for this award requires the successful completion of 40 credit points including the subjects listed below.
+- The subject listed below counts towards completion of this program for students who passed this subject in 2021 or earlier.
+- CULT 1027 Working with Communities (UG Cert) - Working with Communities (UG Cert), no longer offered. Replaced by BEHV 1027 The Individual in Society (UG Cert)
+- CULT 1027 Working with Communities (UG Cert)
+- BEHV 1027 The Individual in Society (UG Cert)
+
+Location Table:
+- Online
+- Full Time
+- Online
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+CULT 1026Understanding Society (UG Cert)10
+BEHV 1027The Individual in Society (UG Cert)10
+BEHV 2017Mental Health in the Community (UG Cert)10
+WELF 1013Counselling Foundations (Block)10
+Total Credit Points40
+
+courselist table2:
+CULT 1026Understanding Society (UG Cert)10
+BEHV 1027The Individual in Society (UG Cert)10
+BEHV 2017Mental Health in the Community (UG Cert)10
+WELF 1010Human Services Intervention Strategies (UG Cert)10
+Total Credit Points40

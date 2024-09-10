@@ -1,0 +1,21 @@
+Academic Handbook Current Edition COMP 1012 Programming Fundamentals (UG Cert) Credit Points 10 Legacy Code 500047 Coordinator Maria Dent Opens in new window Description As a first subject in computer programming, Programming Fundamentals covers the basics of developing software with an emphasis on procedural programming. Students will learn about basic data structures, the concept of algorithms, fundamental programming constructs, common programming language features and functions, program design and good programming style. A high-level programming language is combined with a highly visual framework to teach problem solving using software. School Computer, Data & Math Sciences Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 1 subject Equivalent Subjects COMP 1004 Fundamentals of Programming LGYA 5799 Programming Principles 1
+LGYA 4364 Business Application Development 1 COMP 1005 Programming Fundamentals
+COMP 1006 Programming Fundamentals Restrictions Only students enrolled in program 7174 Undergraduate Certificate in ICT can enrol Learning Outcomes On successful completion of this subject, students should be able to: With a chosen programming language in mind ? analyse a given problem and from a simple problem description, identify desired inputs, outputs and the necessary processing operations to convert input into output;
+Develop an algorithm that applies structured programming techniques that solve the given problem;
+Choose suitable data types to store relevant data for the given problem;
+Design and code programs which use standard programming concepts; variables, sequence, loops, decision making constructs, mathematical and Boolean operators, as well as functions
+Apply top-down modular design principles to programming problems and implement the solution using the chosen programming language. Subject Content 1.Fundamentals of procedural programming including:
+a)variables and data types
+b)performing calculations
+c)sequence
+d)compound statements
+e)decision making constructs
+f)looping constructs
+g)problem solving techniques
+h)writing and using functions
+i)one dimensional arrays
+2.Keyboard input
+3.Techniques of algorithm development
+4.Using variables ? selecting variable names and variable scope
+5.Functions, function return values and parameter passing
+6.Arrays Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Portfolio 2 x 400 words  20 N Individual N  Presentation 7-10 Minutes 20 N Individual N  Professional Task 800 words 30 N Individual N  Applied Project 1000 words (equivalent to 300 lines of code)  30 N Individual N Structures that include subject Computer Science (COMP) Undergraduate Certificate in Information and Communications Technology (7174)

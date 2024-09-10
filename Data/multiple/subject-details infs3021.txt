@@ -1,0 +1,16 @@
+Academic Handbook Current Edition INFS 3021 Formal Software Engineering (Advanced) Credit Points 10 Description This subject introduces the theory and practice of formal software engineering. It is concerned with the design, development, and maintenance of computer software systems. The subject teaches complex software system modelling and verification, it covers most fundamental and important topics in this area, such as currency system modelling, Linear Temporal Logic (LTL) and Computation Tree Logic (CTL) model checking algorithms, as well as the practical model checker system SPIN. Students will be also trained for practical problem solving by applying the theories, methodologies and tools taught from this subject. School Computer, Data & Math Sciences Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Pre-requisite(s) MATH1006
+COMP2030 Assumed Knowledge Basic understanding of data structures and discrete mathematics
+Basic programming skills in C, C++, Java, Python, etc. Learning Outcomes After successful completion of this Subject, students will be able to: Describe the general concepts and principles of formal methods for software development and verification.
+Model concurrent systems using the concepts and formal notations of transition systems and program graphs.
+Apply Linear Temporal Logic (LTL) and Computation Tree Logic (CTL) to specify the required properties.
+Perform model checking using SPIN model checker.
+Formulate PROMELA programs and use SPIN to specify and check the correctness of given software systems and programs.
+Apply the advanced verification tools to undertake essential formal specification and verification tasks.
+Undertake complex software system maintenance and verification by applying LTL/CTL model checking algorithms, formal proofs and practical PROMELA programming. Subject Content Concept and Development of Formal Methods and System Verifications
+State Transition Systems and Concurrent Systems Modelling
+Linear Time Properties
+Linear Temporal Logic (LTL) and Algorithm
+Computation Tree Logic (CTL) and Algorithm
+SPIN Model Checker
+PROMELA Programming Language
+Problem Solving for Software Systems Verifications Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Practical To take place during practicals 40 N Individual N  Quiz 1.5 hours 20 N Individual N  Quiz 1.5 hours 20 N Individual N  Report 10 hours 20 N Individual Y Prescribed Texts Baier, C. (2008). Principles of model checking. MIT Press. Clarke, E. M., Henzinger, T. A., Veith, H., & Bloem, R. (Eds.). (2018). Handbook of model checking. Springer. Structures that include subject Bachelor of Computer Science (Advanced) (3634) Information Systems (INFS)

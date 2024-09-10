@@ -1,0 +1,15 @@
+Academic Handbook Current Edition PHYS 3007 Quantum Physics Credit Points 10 Legacy Code 301392 Coordinator Antonio Lauto Opens in new window Description The subject builds on quantum concepts that have been introduced in earlier subjects such Physics 1,2, Nanotechnology and Chemistry. It aims at developing the student's understanding of quantum principles as they apply to hard  and soft matter systems, including atoms , molecules and extended arrays such as metal and semiconductors as well as  biological tissue School Science Discipline Physics Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Pre-requisite(s) PHYS 1006 - Physics 2 Restrictions Successful completion of 60 credit points Assumed Knowledge Mathematics 1A, Mathematics 1B, Physics 1 and Physics 2. Learning Outcomes On successful completion of this subject, students should be able to: Explain the experimental evidence for a quantum theory
+Explain the non commutativity of the product of physical magnitudes
+Provide solutions to quantative problems in Quantum Mechanics
+Explain the macroscopic applications of Quantum Mechanics
+Explain the apparition of a new physical magnitude, the spin, in Relativistic Quantum Mechanics
+Apply Quantum Mechanics to other disciplines Subject Content 1. Experimental evidence for quantisation
+2. Wave particle duality and uncertainty
+3. Introduction to basic quantum mechanical equations, the wave function
+4. Solution of the time independent Schrodinger equation
+5. Particle in a box, the tunnel effect
+6. The harmonic oscillator, The Rotator
+7. Angular momentum
+8. The hydrogen atom and atomic wave function
+9. Introduction to molecular-orbital theory
+10. Introduction to quantum computing methods: chemical applications of semi empirical , ab initio and density function methods for molecular modelling Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Practical 300-600 words 30 N Individual N  Numerical Problem Solving 300-600 words 30 N Individual N  Final Exam 2 hours 40 N Individual N Teaching Periods Spring (2024) Campbelltown On-site Subject Contact Antonio Lauto Opens in new window View timetable Opens in new window Structures that include subject Applied Physics, Testamur Major (T078) Diploma in General Science (exit only) (7185) Physics and Astronomy (PHYS) Secondary Teaching, Testamur Major (T119)

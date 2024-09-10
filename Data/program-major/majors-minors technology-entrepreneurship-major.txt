@@ -1,0 +1,59 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Technology Entrepreneurship, Major (0261)
+- Western Sydney University Major Code:
+- Previous Code: M3126.1
+- The Technology Entrepreneurship major is focused on guiding students through all stages of turning their innovative idea into a start-up company. In an entrepreneurial ecosystem, you will learn the knowledge and techniques for opportunity discovery, impact analysis, customer analysis, strategic team-building and leadership, the psychology and ethics of the start-up, funding modelling and financial analysis, growth and exit strategies. We will be helping you with defining your idea, forming a team around it, building a prototype, developing a pitch for investors and running a start-up company.
+- Major Structure
+- 3506 Bachelor of Computer Science, 3634 Bachelor of Computer Science (Advanced), 3639 Bachelor of Information and Communications Technology, 3684 Bachelor of Information and Communications Technology (Advanced), 3687 Bachelor of Information Systems, 3688 Bachelor of Information Systems Advanced
+- Students must complete 80 credit points as follows
+- 3730 Bachelor of Industrial Design, 3731 Bachelor of Industrial Design (Honours), 3769 Bachelor of Data Science
+- Students must complete 80 credit points as follows
+- Equivalent Subjects
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2022 or earlier.
+- COMM 1026 Principles of Professional Communication 1, replaced by INFO 1003 Professional Practice, Communication and Ethics
+- Related Programs
+
+Location Table:
+- Penrith Campus
+- Internal
+- Dr Anton Bogdanovych
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+MKTG 2002Incubator 1: Innovation and Creativity for Entrepreneurship10
+BUSM 2024Incubator 2: Start-up Essentials10
+MKTG 2003Incubator 3: Product Development10
+ACCT 3009Incubator 4: Commercial and Financial Setting of Entrepreneurship
+Note: from Autumn 2024 ACCT 3009 is replaced by ACCT 301210
+ACCT 3012Incubator 4: Commercial and Financial Strategy for Entrepreneurs
+BUSM 3025Incubator 5: Operational Aspects of Entrepreneurship10
+MKTG 3005Incubator 6: Funding and Start-up
+Note: from Autumn 2024 MKTG 3005 is replaced by MKTG 302310
+MKTG 3023Incubator 6: Funding a Start-up
+MKTG 3006Incubator 7: Growth and Exit Strategies10
+BUSM 1012Foundations of Entrepreneurship10
+Total Credit Points80
+
+courselist table2:
+MKTG 2002Incubator 1: Innovation and Creativity for Entrepreneurship10
+BUSM 2024Incubator 2: Start-up Essentials10
+MKTG 2003Incubator 3: Product Development10
+ACCT 3009Incubator 4: Commercial and Financial Setting of Entrepreneurship
+Note: from Autumn 2024 ACCT 3009 is replaced by ACCT 301210
+ACCT 3012Incubator 4: Commercial and Financial Strategy for Entrepreneurs
+BUSM 3025Incubator 5: Operational Aspects of Entrepreneurship10
+MKTG 3005Incubator 6: Funding and Start-up
+Note: from Autumn 2024 MKTG 3005 is replaced by MKTG 302310
+MKTG 3023Incubator 6: Funding a Start-up
+MKTG 3006Incubator 7: Growth and Exit Strategies10
+Select one of the following:10
+BUSM 1012Foundations of Entrepreneurship
+COMP 1005Programming Fundamentals
+COMM 1026Principles of Professional Communication 1
+From Autumn 2023 COMM 1026 is replaced by INFO 1003 Professional Practice, Communication and Ethics
+Total Credit Points80

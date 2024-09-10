@@ -1,0 +1,21 @@
+Academic Handbook Current Edition MATH 7018 Scientific Informatics Credit Points 10 Legacy Code 301388 Coordinator Miroslav Filipovic Opens in new window Description This subject discusses the most important scientific revolutions in informatics throughout history and the role of Scientific Informatics in modern scientific research. It examines the influence of computing and informatics on the major paradigm shifts in the social, behavioural, biological, health and physical sciences and assesses the societal impact of future discoveries.  The subject aims to provide training for Research and Coursework Masters in the computational techniques that are integral to much of modern scientific research as well as cultural and philosophical perspectives on the Science, Technology, Engineering and Mathematics (STEM). Students complete practical assessment items that are relevant to their field of research, which are designed to develop transferrable skills and familiarity with computing tools. School Computer, Data & Math Sciences Discipline Mathematics Student Contribution Band HECS Band 1 10cp Check your fees via the Fees page. Level Postgraduate Coursework Level 7 subject Equivalent Subjects MATH 7013 - Scientific Informatics Learning Outcomes On successful completion of this subject, students should be able to: Critique the most important scientific revolutions that took place in Informatics related to social, behavioural, biological, health and physical sciences, their causes, and their historical context.
+Critically examine the social impact of Informatics revolutions through the use of relevant information.
+Assess the impact on society of the major Informatics discoveries of the future.
+Examine the role of Informatics in modern human history.
+Analyse the impact of Informatics in larger socio-cultural context.
+Write low-level scientific software to solve problems, using several standard languages/tools.
+Present a solution to an Informatics problem with discussion of strengths and weaknesses.
+Express research related contents through presentation and report writing. Subject Content These scientific informatics revolutions had a deep social impact by changing the way the world is seen and understood and by laying the foundations for the emergence of game-changing new technologies that continue to profoundly shape our lives and social order.
+The Unit will promote deep thinking and open discussion on the social contexts and socio-cultural impacts of the major scientific revolutions with the main emphasis on the Scientific Informatics (Computing). Scientific Informatics knowledge and its application by scientists influence, even unconsciously, the way individuals in society think about themselves and interact with others and the world around them. The way of life for billions of people is deeply affected by the technologies and truths that have emerged.
+The Unit will address the following fundamental issues
+1. What is science informatics and how does it work (apply)?
+2. What is the nature of scientific (informatics) research?
+3. How does science (and informatics) develop and how do paradigms change?
+4. How do scientific controversies begin and end so that rival professional commitments become shared scientific endeavour; For example, what distinguishes creationism from evolutionary theory, or astrology from astronomy?
+5. What are the social, cultural and technological impacts and consequences of scientific revolutions with the main emphasis on Computing & Informatics and its applications?
+6. What is the nature of observation and experiment?
+7. How to question the scientific realism,
+8. The rationality or irrationality of scientific revolutions,
+9. The relation between science and values and the nature of explanation. Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    10 x Practicals 2 hours 
+(per Practical)
+ 30 N Individual   Presentation 15 minutes   30 N Individual   Report 2,000 words  40 N Individual Prescribed Texts Structures that include subject Graduate Certificate in Science (exit only) (3776) Master of Science (3749) Mathematics (MATH)

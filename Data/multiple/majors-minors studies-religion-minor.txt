@@ -1,0 +1,48 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Studies of Religion, Minor (0200)
+- Western Sydney University Minor Code:
+- Previous Code: SM1136.1
+- Studies of Religion is a multidisciplinary minor that provides a critical study of religion that is inclusive and diverse. Students will have the opportunity to develop their understanding of religion and explore the significance of religion to people and society. The minor includes subjects from history, philosophy and sociology. It examines the nature of religion and belief systems, including the influence, expression and relevance of religion and belief systems to contemporary Australia. This minor meets NSW Education Standards (NESA) content requirements for students who wish to teach Studies of Religion in NSW Secondary Schools. The skills and knowledge acquired can also be used for career pathways in the public sector, teaching, research, curating, law or politics.
+- Location
+- Minor Structure
+- To complete a minor in Studies of Religion, students are required to successfully complete 40 credit points as follows.
+- Note: Not all subjects will be offered each year. Subjects will be offered on a rotational basis. Not all subjects will be available on all campuses.
+- Students must complete at least one of the following subjects.
+- Additional subjects to complete the minor can be chosen from the above three subjects or from the pool subjects listed below.
+- The subject listed below counts towards completion of this minor for students who passed the subject in 2020 or earlier.
+- HUMN 1047 - Understanding Islam and Muslim Societies, no longer offered.
+HUMN 2043 - Religion and the Origins of Modern Science, no longer offered.
+- Related Programs
+
+Location Table:
+- Bankstown City Campus
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+- Parramatta Campus - Victoria Road
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+- Penrith Campus
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+HUMN 3075Sociology of Religion10
+PHIL 3016Philosophy of Religion10
+HUMN 3105History of Religion10
+
+courselist table2:
+Level 1 Subject Pool
+HUMN 1061Islam: Past, Present and Future10
+Level 2 Subject Pool
+HUMN 2001A History of Modern Global Buddhism10
+HUMN 2031Islam in the Modern World10
+Level 3 Subject Pool
+HUMN 3047History of Muslim Civilisations and Ideas10
+HUMN 3115Medieval Europe from the Fall of the Roman Empire to the Reformation10
+HUMN 3061Mystical Islam: The Emergence of Sufism in World History10

@@ -1,0 +1,11 @@
+Academic Handbook Current Edition ELEC 3005 Electrical Drives Credit Points 10 Legacy Code 300070 Coordinator Jamal Rizk Opens in new window Description Through practical laboratory exercises students will analyse and evaluate electrical machines and drives. They will examine various types of electrical motors and drive systems, their applications and control.  They will also study various types of speed control, starting and braking systems and dynamics. School Eng, Design & Built Env Discipline Electrical And Electronic Engineering And Technology Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Pre-requisite(s) ELEC 3006 Learning Outcomes On successful completion of this subject, students should be able to: Analyse various types of electrical drive systems.
+Evaluate recent developments in the control of electric drive systems.
+Apply various drive systems to different applications. Subject Content Introduction to machine drives. Principal characteristics and requirements. Basic Components of an Electric Drive System.
+D.C. motors. Circuit representation. Speed-torque characteristics.
+Speed Control of D.C motors
+Induction motors. Circuit representation. Speed-torque characteristics.
+Speed control of Induction Motors: voltage control, slip-energy recovery, speed control by inverters, frequency and Voltage/Frequency Control.
+Power electronic devices and basic power converters.
+Three-phase naturally commutated bridge circuit
+Braking of Electrical Motors: Regenerative, Dynamics and counter-current braking.
+Dynamics of DC and Induction Motors Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Intra-session Exam 1.5 hours   25 N Individual Y  Practical 3 hours (per practical)  20 Y Individual Y  Final Exam 2 hours 55 N Individual Y Teaching Periods Sydney City Campus - Term 1 (2024) Sydney City On-site Subject Contact Jamal Rizk Opens in new window View timetable Opens in new window Structures that include subject Electrical and Electronic Eng. (ELEC) Electrical, Testamur Major (T035)

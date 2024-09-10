@@ -1,0 +1,32 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Global Business, Major (0011)
+- Western Sydney University Major Code:
+- Previous Code: M2513.1
+- The global economy is becoming increasingly important for organisations seeking out new opportunities to expand their customer base and develop partnerships. Managers who are well versed in the needs of doing business internationally and who can exploit these opportunities will therefore play an integral role in any such corporation. Building on a solid foundation in domestic business education, including global sustainability, international business strategy, managing in a global environment, and international marketing, this major equips graduates with the detailed knowledge of the international dimension of business and the necessary understanding of the workings of that market system.
+- Location
+- Major Structure
+- Students must complete 80 credit points including all of the core subjects as follows.
+- The subjects in this major are offered at the Parramatta City campus and the core subjects in the Bachelor of Arts are offered at the Parramatta South, Bankstown and Penrith campuses. Students will be required to travel between campuses in order to complete this major.
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- Program Advice
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+MKTG 3004Export Strategy and Applications10
+HUMN 3043Globalisation and Sustainability10
+BUSM 3031International Business Strategy10
+MKTG 3007International Marketing10
+BUSM 1015Introduction to International Business10
+BUSM 3036Leadership and Entrepreneurship10
+BUSM 2031Managing in the Global Environment10
+MKTG 3017The Markets of Asia10
+Total Credit Points80

@@ -1,0 +1,23 @@
+Academic Handbook Current Edition COMP 3033 Quantum Computing and Communication Credit Points 10 Legacy Code 301437 Coordinator Weisheng Si Opens in new window Description This subject discusses how computing and communication can be performed by utilising subatomic particles in quantum world, a way very different from classical computing. From a computer science perspective, this subject skips the details of quantum physics and directly explains the concepts of qubits and quantum circuits for the purpose of computing. Necessary mathematical preliminaries are included. Then, this subject discusses major quantum algorithms and communication protocols. Quantum programming will be practised throughout this subject with quantum simulators and real quantum computers in clouds. Students completing this subject will develop skills for designing quantum algorithms/protocols and conducting quantum programming and can pursue careers such as quantum software engineers, quantum security engineers or quantum researchers. School Computer, Data & Math Sciences Discipline Programming Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Pre-requisite(s) COMP2014 OR
+COMP2015 OR
+COMP2016 OR
+COMP2023
+AND
+MATH1028 OR
+MATH1030 OR
+COMP1014 Assumed Knowledge Students should have gained knowledge and skills in basic probability theory and intermediate-level computer programming. The basics of probability are essential for understanding quantum states. Computer programming skills of using objects and simple algorithms are needed to compose quantum programs.
+Linear Algebra, which is the foundation for the mathematical models in quantum computing, will be covered within the subject. Therefore, a prior knowledge on it is recommended, but not required. Learning Outcomes On successful completion of this subject, students should be able to: Apply the mathematical models enabled by Quantum Mechanics.
+Compose quantum circuits to implement programming logics.
+Design quantum algorithms that are faster than classical algorithms.
+Design secure quantum communication protocols.
+Apply techniques for correcting quantum errors.
+Conduct quantum programming on a quantum simulator and some real quantum computers in clouds. Subject Content 1. Introduction to qubit, superposition, entanglement, and measurement.
+2. Quantum programming on quantum simulators and real quantum computers.
+3. Introduction to Complex Numbers for quantum computing.
+4. Introduction to Linear Algebra for quantum computing.
+5. Quantum gates and quantum circuits.
+6. Basic quantum algorithms such as Deutsch's Algorithm and Deutsch-Jozsa's Algrothm
+7. Quantum algorithms with applications: Grover's algorithm and Shor's algorithm
+8. Quantum communication protocols such as BB84 Protocol and Ekert Protocol
+9. Quantum Error Correction
+10. Using Quantum Algorithms and Protocols to help achieve UN’s SDGs (Sustainable Development Goals) Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Practical 2 hours (per lab) 20 N Individual N  Applied Project 30 hours 20 N Individual Y  Quiz 30 minutes per quiz; 12 quizzes in total 20 N Individual Y  Final Exam 2 hours 40 N Individual Y Teaching Periods Autumn (2024) Parramatta - Victoria Rd On-site Subject Contact Weisheng Si Opens in new window View timetable Opens in new window Structures that include subject Artificial Intelligence, Major (0031) Bachelor of Computer Science (3506) Bachelor of Computer Science (Advanced) (3634) Computational Mathematics, Testamur Major (T118) Computer Science (COMP) Cyber Security, Major (0066) Networked Systems, Major (0065) Systems Programming, Major (0064)

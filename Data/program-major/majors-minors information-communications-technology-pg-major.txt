@@ -1,0 +1,37 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Information and Communications Technology, Major (0232)
+- Western Sydney University Major Code:
+- Previous Code:  SP2018.1
+- Location
+- Major Structure
+- This major is taught by the School of Computing, Data and Mathematical Sciences and is offered in Autumn and Spring sessions. Please refer to the below subjects for offering details and locations.
+- Students must successfully complete 60 credit points as listed below.
+- The subjects listed below count towards completion of this major for students who passed these subjects in 2018 or earlier.
+- INFO 7006 - Intelligent Agents for E-Markets
+INFS 7010 - Workflow Management Systems
+- Related Programs
+
+Location Table:
+- Parramatta City Campus - Macquarie Street
+- Internal
+- Dr Laurel Jackson
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+INFO 7003Advanced Topics in User System Interaction10
+COMP 7013Network Technologies10
+COMP 7015Programming Proficiency10
+INFS 7007Systems Analysis and Database Management Systems10
+Select one of the following:10
+COMP 7009Mobile Computing
+INFS 7009Web Technologies
+Select one of the following:10
+COMP 7003Big Data
+COMP 7004Cloud Computing
+INFS 7004Content Management Systems and Web Analytics
+Total Credit Points60

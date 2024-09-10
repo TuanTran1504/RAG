@@ -1,0 +1,195 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Master of Artificial Intelligence (Research) (8128)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 108298B
+- Students should follow the program structure for the session start date relevant to the year they commenced. This program applies to students who commenced in Spring 2022 or later.
+- The Master of Artificial Intelligence (Research) exposes students to advanced topics and research in Artificial Intelligence (AI). The program is comprised of an extensive coursework component that is then followed by a full-time-equivalent year of supervised AI research training. The primary objective of this program is to provide students with an opportunity to establish solid AI foundations and broad knowledge of AI technologies and applications and to develop sound research skills appropriate to the AI discipline. It also provides a pathway to PhD research studies by engaging students in AI research projects within the university or in collaboration with external industry partners. Upon completion of this program, students will be gaining employment opportunities in IT, software engineering, and automation industries with a strong AI focus.
+- Study Mode
+- Two and a half years full-time and five years part-time.
+- Location
+- Accreditation Note
+- Accreditation of the Master of Artificial Intelligence (Research) will be sought from the Australian Computer Society. The program is designed to meet the guidelines of the Australian Computer Society.
+- To be eligible for admission, you must have successfully completed
+- Applicants seeking admission on the basis of work experience must support their application with a Statement of Service for all work experience listed on the application.
+- Statement of Service form
+- Additional Information
+- To be eligible for up to 40 credit points of advanced standing, you must have successfully completed
+- Advanced standing from foundation subjects are subject to approval by the relevant Director of Academic Programs (DAP).
+- Qualification for this award requires the successful completion of 200 credit points as per the recommended sequence below.
+- Full-time start-year intake
+- Full-time mid-year intake
+- Alternate Subject List
+
+Location Table:
+- Parramatta - Victoria Road Campus
+- Full time
+- Internal
+- Associate Professor Dongmo Zhang
+- Parramatta - Victoria Road Campus
+- Part time
+- Internal
+- Associate Professor Dongmo Zhang
+
+Sequence Tables:
+Year 1
+Credit Points
+1H session
+HUMN 4001
+Researcher Development 1: Reading ,Writing, and the Business of Research
+10
+HUMN 4003
+Writing Beyond the Academy: Knowledge Translation and Public Audience Communication
+10
+
+Credit Points
+20
+Autumn session
+COMP 7022
+Natural Language Processing
+10
+COMP 7019
+Applied Machine Learning
+10
+
+Credit Points
+20
+2H session
+HUMN 4002
+Researcher Development 2: Proposing and Justifying Research
+10
+
+Credit Points
+10
+Spring session
+INFO 7002
+Advanced Topics in Artificial Intelligence
+10
+COMP 7020
+Artificial Intelligence Ethics and Organisations
+10
+INFO 7016
+Postgraduate Project A
+10
+
+Credit Points
+30
+Year 2
+Autumn session
+INFO 7017
+Postgraduate Project B
+10
+Select three subjects from the Alternate Subject List (see below)
+30
+Research Quarter 3 & 4 sessions
+
+Please note COMP 9003 is a year-long subject studied in Research Quarters, 20cp per Quarter
+40
+COMP 9003
+Higher Degree Research Thesis - Artificial Intelligence
+
+
+Credit Points
+80
+Year 3
+Research Quarter 1 & 2 sessions
+
+Please note COMP 9003 is a year-long subject studied in Research Quarters, 20cp per Quarter
+40
+COMP 9003
+Higher Degree Research Thesis - Artificial Intelligence
+
+
+Credit Points
+40
+
+Total Credit Points
+200
+Year 1
+Credit Points
+2H Session
+
+HUMN 4001
+Researcher Development 1: Reading ,Writing, and the Business of Research
+10
+Spring Session
+
+INFO 7002
+Advanced Topics in Artificial Intelligence
+10
+COMP 7020
+Artificial Intelligence Ethics and Organisations
+10
+INFO 7016
+Postgraduate Project A
+10
+1H Session
+
+HUMN 4002
+Researcher Development 2: Proposing and Justifying Research
+10
+HUMN 4003
+Writing Beyond the Academy: Knowledge Translation and Public Audience Communication
+10
+Autumn Session
+
+COMP 7022
+Natural Language Processing
+10
+COMP 7019
+Applied Machine Learning
+10
+
+Credit Points
+80
+Year 2
+Spring session
+
+INFO 7017
+Postgraduate Project B
+10
+Select three subjects from the Alternate Subject List (see below)
+30
+Research Quarter 1 & 2 sessions
+
+Please note COMP 9003 is a year-long subject studied in Research Quarters, 20cp per Quarter
+40
+COMP 9003
+Higher Degree Research Thesis - Artificial Intelligence
+
+
+Credit Points
+80
+Year 3
+Research Quarter 3 & 4 sessions
+
+Please note COMP 9003 is a year-long subject studied in Research Quarters, 20cp per Quarter
+40
+COMP 9003
+Higher Degree Research Thesis - Artificial Intelligence
+
+
+Credit Points
+40
+
+Total Credit Points
+200
+
+Courselist Tables:
+
+courselist table1:
+Select three of the following
+COMP 7021Knowledge Representation and Reasoning10
+COMP 7003Big Data10
+COMP 7004Cloud Computing10
+INFO 7015Applied Cybersecurity10
+COMP 7007Information Security Management10
+COMP 7006Data Science10
+COMP 7028Hands-on Quantum Computing10
+COMP 7008Internet of Things10
+INFS 7008Systems and Network Security10
+COMP 7011Multimedia Communication Systems10
+COMP 7017Wireless Networking10

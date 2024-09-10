@@ -1,0 +1,25 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Property, Minor (0289)
+- Western Sydney University Minor Code:
+- Previous Code: SM2058.1
+- In this minor on Property students learn the key concepts relating to property, property development, investment, and finance. These form the foundation for more in-depth topics on financial and risk assessment, and property portfolios. Through industry relevant activities students develop valuation reports and strategies for property investments and portfolios.
+- Location
+- Students must complete 40 credit points as follows.
+
+Location Table:
+- Parramatta City-Macquarie St
+- 
+- Internal
+- Program Advice
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+MGMT 1001Introduction to Property10
+FINC 3011Property Investment10
+FINC 3013Property Portfolio Management10
+FINC 3009Property Finance10

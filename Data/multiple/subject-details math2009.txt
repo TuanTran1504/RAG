@@ -1,0 +1,13 @@
+Academic Handbook Current Edition MATH 2009 Introduction to Data Science Credit Points 10 Legacy Code 301033 Coordinator Antoinette Cevenini Opens in new window Description This subject is replaced by equivalent subject COMP 2025 Introduction to Data Science from 2022. 
+Analysis of data is essential for scientific investigation, modelling processes and predicting future events. Data Science is the investigation of the tools required that allow us to perform this modelling and prediction. The increase in accessible data over the past few decades has promoted the use of Data Science, making it a desired skill in many professions. In this subject we further investigate the methods of regression, clustering and classification that form the basis of a data scientist's toolbox. School Computer, Data & Math Sciences Discipline Computer Science, Not Elsewhere Classified. Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 2 subject Pre-requisite(s) For students NOT enrolled in 3769 Bachelor of Data Science or 3770 Bachelor of Applied Data Science - MATH 1028 Statistical Decision Making or MATH 1003 Biometry or MATH 1030 Statistics for Business Co-requisite(s) For students enrolled in 3769 Bachelor of Data Science or 3770 Bachelor of Applied Data Science - MATH 1033 Thinking About Data Assumed Knowledge Computer Programming. Learning Outcomes Discuss the issues (computational and social) in data science.
+Choose and apply appropriate data analysis methods for a given set of data.
+Define the assumptions required behind each data analysis model.
+Choose and apply appropriate evaluation methods to computed models to gain insight into the effectiveness of the models. 
+Use computer software (R ) to achieve the above. Subject Content Introduction to Data Science
+Classification
+Tree-based methods
+Clustering and unsupervised learning
+High dimensional data sets
+Visualisation of model performance
+Data science ethics
+Regression Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Multiple Choice 10 min per quiz 20 N Individual Y  Numerical Problem Solving to consist of 10 or so pages of text, not including code and output 30 N Individual Y  Viva Voce 15 min per student 10 Y Individual Y  Numerical Problem Solving to consist of 10 or so pages of text, not including code and output 40 N Individual Y Structures that include subject Bachelor of Computer Science (3506) Computer Science (COMP) Mathematics (MATH) Software Development, Testamur Major (T148)

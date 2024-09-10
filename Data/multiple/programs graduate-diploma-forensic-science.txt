@@ -1,0 +1,90 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Graduate Diploma in Forensic Science (3742)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- This program applies to students who commenced in University of Florida, Term 3 2021 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- Commencement Year 2017 - 3742.1 Graduate Diploma in Forensic Science
+- The program is designed for applicants who need advanced level knowledge across a range of forensic disciplines including crime scene investigation, fingerprint detection and identification, forensic chemistry, forensic biology, forensic toxicology, illicit drug analysis, and forensic medicine. The fully-online nature of the subjects and the flexibility available with subject selection means that the program can be adapted to suit applicants working or intending to work in areas that include forensic science laboratories, toxicology and pathology laboratories, drug assessment agencies, customs and border protection, law enforcement, and areas related to national security.
+- Early Exit
+- Students may exit this program on completion of 40 credit points with a 3743 Graduate Certificate in Forensic Science
+- Study Mode
+- One year full-time or two years part-time.
+- Program Advice
+- science@westernsydney.edu.au
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Admission
+- Applicants must have successfully completed an undergraduate degree in natural or physical sciences.
+- It is recommended that applicants have completed chemistry and biology subjects in their undergraduate degree
+- Applicants seeking admission on the basis of work experience must support their application with a Statement of Service for all work experience listed on the application.
+- Statement of Service form
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local and International applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Program Structure
+- Qualification for this award requires the successful completion of 80 credit points including the subjects listed below.
+- Students may exit with a Graduate Certificate (40 credit points) on completion of the relevant subjects. Refer to link below for structure requirements for this exit award.
+- Graduate Certificate in Forensic Science
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2017 or earlier.
+- NATS 7021 - Forensic Entomology
+
+Location Table:
+- Online
+- Full Time
+- Online
+- See above
+- Online
+- Part Time
+- Online
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Compulsory subject (10 credit points)
+NATS 5001Crime Scene Investigation (PG)10
+
+courselist table2:
+Select at least 20 credit points of the following:20
+NATS 7001Advanced Criminalistics
+NATS 7002Biological Agents 1
+NATS 7008Environmental Forensics 1
+NATS 7009Environmental Forensics 2
+NATS 7013Explosives
+NATS 7014Fingerprint Detection and Identification
+NATS 7026Forensic Research 1
+NATS 7027Forensic Research 2
+Total Credit Points20
+
+courselist table3:
+Select the remaining credit points from:50
+NATS 7003Biological Agents 2
+NATS 7004Blood Distribution and Spatter
+NATS 7007Drug Biotransformation and Molecular Mechanisms of Toxicity
+NATS 7019Forensic Analysis of DNA
+NATS 7058Forensic Analysis of DNA 2
+NATS 7020Forensic Anthropology (PG)
+NATS 7059Forensic Digital Imaging
+NATS 7022Forensic Genetics
+NATS 7023Forensic Immunology
+NATS 7024Forensic Medicine I
+NATS 7025Forensic Medicine II
+NATS 7028Forensic Toxicology I
+NATS 7029Forensic Toxicology II
+NATS 7030General Toxicology
+NATS 7035Medicinal Chemistry of Drugs of Abuse
+NATS 7037Natural Medicinal Products
+NATS 7039Pharmaceutical Analysis
+NATS 7047Synthetic Medicinal Chemistry
+NATS 7048Toxic Substances
+NATS 7049Toxicology of Chemical Weapons
+Total Credit Points50
+
+courselist table4:
+Overall Total Credit Points80

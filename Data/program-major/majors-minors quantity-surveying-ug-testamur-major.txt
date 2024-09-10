@@ -1,0 +1,83 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Quantity Surveying, Testamur Major (T087)
+- Western Sydney University Major Code:
+- Previous Code: MT3035.1, MT3037.1
+- Quantity surveying involves estimating and managing costs in construction and buildings of all types. In this major, students extend skills in measuring, estimating and contract administration. Students learn more advanced quantity surveying practices as they relate to modern and digital industry practices. Quantity surveyors are highly sought after with careers as project managers, cost management consultants, or quantity surveyors and estimators in construction organisations.
+- Location
+- Major Structure Current
+- Students must complete 80 credit points as follows
+- Major Structure 2022
+- Elective subjects may be used toward obtaining an additional approved major (80 credit points).
+- Bachelor of Construction Management (Honours)
+- The subjects listed below count towards completion of this major for students who passed these subjects in 2021 or earlier.
+- GEOM 2002 Quantity Surveying 2, replaced by GEOM 3001 Advanced Building Measurement
+- BLDG 4004 Estimating 2, replaced by BLDG 3010 Building Cost Studies
+- Bachelor of Construction Management
+- The subjects listed below count towards completion of this major for students who passed these subjects in 2021 or earlier.
+- GEOM 2002 Quantity Surveying 2, replaced by GEOM 3001 Advanced Building Measurement
+- BLDG 4004 Estimating 2, replaced by BLDG 3010 Building Cost Studies
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- edbe@westernsydney.edu.au
+- Penrith Campus
+- Internal
+- edbe@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+GEOM 3001Advanced Building Measurement10
+BLDG 3010Building Cost Studies10
+BLDG 4008Digital Construction10
+BLDG 3015Contract Management10
+Select four of the following40
+BLDG 3009Quality and Value Management
+BLDG 3004Construction Information Systems
+BLDG 4006Modern Construction Enterprises
+LAWS 1001Enterprise Law
+BLDG 3017Building Certification Ethics
+MKTG 3014Property Development Process
+MGMT 1002Principles of Valuation
+FINC 3011Property Investment
+Total Credit Points80
+
+courselist table2:
+Select eight of the following:80
+GEOM 3001Advanced Building Measurement
+BLDG 3010Building Cost Studies
+BLDG 4008Digital Construction
+LAWS 1001Enterprise Law
+BLDG 3004Construction Information Systems
+BLDG 2003Building Regulations Studies
+BLDG 4006Modern Construction Enterprises
+BLDG 4007Modern Construction Projects
+BLDG 3009Quality and Value Management
+ENGR 3021Professional Practice
+MGMT 1002Principles of Valuation
+MKTG 3014Property Development Process
+Total Credit Points80
+
+courselist table3:
+Select eight of the following:80
+GEOM 3001Advanced Building Measurement
+BLDG 3010Building Cost Studies
+BLDG 4008Digital Construction
+BLDG 2011Contract Administration
+BLDG 3004Construction Information Systems
+BLDG 2003Building Regulations Studies
+BLDG 4006Modern Construction Enterprises
+BLDG 4007Modern Construction Projects
+BLDG 3009Quality and Value Management
+ENGR 3021Professional Practice
+MGMT 1002Principles of Valuation
+MKTG 3014Property Development Process
+ARCH 2003Development Control
+BLDG 3008Negotiation in the Built Environment
+Total Credit Points80

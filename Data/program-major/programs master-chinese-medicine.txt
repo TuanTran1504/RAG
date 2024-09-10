@@ -1,0 +1,122 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Master of Chinese Medicine (4716)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 085664A
+- This program applies to students who commenced between 2018 and  Autumn 2022.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- For commencement year Spring 2022- please refer to 4795 Master of Chinese Medicine
+- For commencement year 2015-2017- please refer to 4716.1 Master of Chinese Medicine
+- The Master of Chinese Medicine is a postgraduate qualification designed for Chinese medicine practitioners wishing to strengthen their knowledge and better integrate into the health care system, and for graduates with a Chinese Medicine specialisation seeking a pathway to research. It can be completed in one-and-a-half years of full-time study or the equivalent in part-time study.
+- The program includes two major streams: a clinical stream and research-training pathway. The clinical stream features a substantial clinical placement in a teaching hospital in China affiliated with Beijing University of Chinese Medicine (BJUCM) in addition to clinical specialisation workshops. An alternative is also available for students who do not wish to complete the clinical placement overseas. The research stream includes a significant research project which is supported by the National Institute of Complementary Medicine (NICM). Students who wish to enter the research steam have to meet entry requirements (GPA of 5); graduates of this stream may be interested in furthering their studies in a higher degree.
+- The program will be delivered via structured, intensive workshops and online resources with self-directed learning between workshops to allow maximum flexibility for busy practitioners.
+- Early Exits
+- Students may exit this program on completion of 40 credit points with a 4718 Graduate Certificate in Chinese Medicine (exit only) or on completion of 80 credit points with a 4717 Graduate Diploma in Chinese Medicine (exit only)
+- Study Mode
+- One and a half years full-time.
+- Three years part-time
+- Program Advice
+- HealthSciences@westernsydney.edu.au
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Work Integrated Learning
+- There is a mandatory work component required for completion of this program. Please contact the Program Advisor listed above for information.
+- International students should also refer to the 'Work Integrated Learning (WIL) for international students' website for more information and a link to the Commonwealth Register of Institutions and Courses for Overseas Students (CRICOS).
+- Work Integrated Learning (WIL) for international students
+- Admission
+- Applicants must have either:
+- An undergraduate degree in Acupuncture or Traditional Chinese Medicine
+- Or
+- A Diploma, Advanced Diploma or Associate Degree in Traditional Chinese Medicine or Acupuncture AND five years full-time equivalent clinical work experience in the field of Traditional Chinese Medicine or Acupuncture
+- Applicants seeking admission on the basis of work experience must support their application with a Statement of Service for all work experience listed on the application.
+- Statement of Service
+- Applicants holding registration from the Chinese Medicine Registration Board of Australia (CMBA) or full membership of any of associations in Group 1 will be accepted without additional assessment. Applicants holding any type of membership other than full membership from any associations in Group 1, or applicants holding any type of membership from any association in Group 2 will be further assessed. For each of these applicants, this assessment will be an interview by the Director of Academic Program and a nominee of the Head of School. The interview will assess the applicant’s prior learning, experience in the discipline and understanding of the assumed knowledge appropriate to entry into the program.
+- Association
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local and International applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- http://www.uac.edu.au/
+- https://westernsydney.uac.edu.au/ws/
+- Program Structure
+- Qualification for this award requires the successful completion of 120 credit points including the core subjects listed below.
+- Core Subjects
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2019 or earlier.
+- Specialist Subjects
+- Students must complete 30 credit points of elective subjects, either from the following list or other postgraduate subjects with DAP approval.
+- Master of Chinese Medicine (Research Pathway)
+- Note: Students require a GPA over 5.0 in order to take up the research stream option.
+- Graduate Diploma of Chinese Medicine (exit only)
+- Graduate Certificate of Chinese Medicine (exit only)
+
+Location Table:
+- Campbelltown Campus
+- Full Time
+- Internal
+- See above
+- Campbelltown Campus
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+CMPL 7008Clinical Applications of Classical Acupuncture10
+CMPL 7007Clinical Application of Classical Chinese Herbal Medicine10
+CMPL 7010Clinical Placement20
+CMPL 7012Evidence Based Practice in Chinese Medicine10
+HLTH 7015Qualitative Research Methodology in Health10
+AGEN 7005Research Protocol Design and Practice10
+CMPL 7025Women's Health in Chinese Medicine10
+Select one of the following:10
+HLTH 7008Introduction to Biostatistics
+PUBH 7016Introduction to Epidemiology
+Total Credit Points90
+
+courselist table2:
+Select 30 credit points of elective subjects from the following:30
+CMPL 7005Chronic and Complex Disorders in Chinese Medicine
+CMPL 7009Clinical Oncology and Chinese Medicine
+CMPL 7015Mental and Neurological Disorders and Chinese Medicine
+CMPL 7016Musculoskeletal Health in Chinese Medicine
+Or other postgraduate subjects with DAP approval
+Total Credit Points30
+
+courselist table3:
+Core Subjects
+CMPL 7012Evidence Based Practice in Chinese Medicine10
+CMPL 7008Clinical Applications of Classical Acupuncture10
+CMPL 7007Clinical Application of Classical Chinese Herbal Medicine10
+CMPL 7020Research Project and Thesis30
+AGEN 7005Research Protocol Design and Practice10
+CMPL 7025Women's Health in Chinese Medicine10
+Select one of the following:10
+HLTH 7008Introduction to Biostatistics
+PUBH 7016Introduction to Epidemiology
+Total Credit Points90
+
+courselist table4:
+Core Subjects
+CMPL 7008Clinical Applications of Classical Acupuncture10
+CMPL 7007Clinical Application of Classical Chinese Herbal Medicine10
+CMPL 7012Evidence Based Practice in Chinese Medicine10
+AGEN 7005Research Protocol Design and Practice10
+CMPL 7025Women's Health in Chinese Medicine10
+Select one of the following:10
+HLTH 7008Introduction to Biostatistics
+PUBH 7016Introduction to Epidemiology
+Select two electives at postgraduate level20
+Total Credit Points80
+
+courselist table5:
+CMPL 7007Clinical Application of Classical Chinese Herbal Medicine10
+CMPL 7008Clinical Applications of Classical Acupuncture10
+CMPL 7012Evidence Based Practice in Chinese Medicine10
+Select one of the following:10
+HLTH 7008Introduction to Biostatistics
+PUBH 7016Introduction to Epidemiology
+Total Credit Points40

@@ -1,0 +1,53 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Education Studies, Minor (0129)
+- Western Sydney University Minor Code:
+- Previous Code: SM1100.1
+- The Education Studies minor comprises subjects from the Learning in Context pool. These subjects are broadly structured for students to investigate and critique contemporary education issues and are available to all undergraduate students and compulsory for students in the Bachelor of Arts (Pathway to Teaching Secondary) and Bachelor of Science (Pathway to Teaching Secondary).
+- Location
+- Minor Structure
+- Students must complete 40 credit points from the following subjects.
+- Learning in Context Pool
+- The subjects listed below count towards completion of this Minor for students who passed these subjects in 2020 or earlier.
+- TEAC 3001 - Australia-Asia Education
+TEAC 2028 - Experiential Learning in Communities (ELC)
+- Related Programs
+
+Location Table:
+- Bankstown City Campus
+- Internal
+- Jaydene Barnes
+- Parramatta Campus - Victoria Road
+- Internal
+- Jaydene Barnes
+- Penrith Campus
+- Internal
+- Jaydene Barnes
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Level 1 Subjects
+HUMN 1013Contextualising Indigenous Australia (Day Mode)10
+TEAC 1014Experience-based Outdoor Education10
+If choosing a language subject, please choose only one of the following:
+LANG 1005Chinese 10110
+LANG 1006Chinese 10210
+LANG 1020Japanese 10110
+LANG 1021Japanese 10210
+Level 2 Subjects
+TEAC 2009Contemporary Childhoods10
+TEAC 2065Digital Childhoods10
+TEAC 2017Education and Transformation10
+TEAC 2018Education for Sustainability10
+TEAC 2037Learning and Creativity10
+TEAC 2054Scientific Discovery and Invention10
+TEAC 2062Teachers as Change Makers10
+Level 3 Subjects
+TEAC 3006Education in a Cosmopolitan Society10
+TEAC 3009Ethical Futures10
+TEAC 3031The Brain and Learning10
+TEAC 3051Creativity and Cultural Wellbeing for Communities (from Spring 2023)10

@@ -1,0 +1,485 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Bachelor of Cyber Security and Behaviour (1837)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 094541D
+- This program applies to students who commenced in Autumn 2022 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- For Commencement Year Spring 2021 - please refer to 1837.3 Bachelor of Cyber Security and Behaviour
+- For Commencement Year 2019 to Autumn 2021 - please refer to 1837.2 Bachelor of Cyber Security and Behaviour
+- For Commencement Year 2017 to 2018 - please refer to 1837.1 Bachelor of Cyber Security and Behaviour
+- This program teaches you the technical components of cyber security, while emphasising the human behaviours that lead to poor cyber security practices. The program meets the pressing need for the application of behavioural sciences and research to understand cyber security issues in the context of decision-making, human errors, crime that deceives both humans and technical systems, social influence, organisational cultures and vulnerable populations. As cyber threats become more sophisticated and damaging across all types of organisations, cyber security has become one of the nation’s top priorities. Students will gain a solid grounding in conventional computer and network security concepts and skills, and will be exposed to elite training in what is known as Blue and Purple Teams – Cyber Defence and Incident Response. This program leads to a range of rewarding career options for graduates.  Examples include security architect, digital forensic officer, cyber intelligence, cyber safety officer, data security, security analyst, risk analytics, and cyber investigations.
+- Study Mode
+- Three years full-time or six years part-time.
+- Program Advice
+- Dr Farnaz Farid
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Work Integrated Learning
+- There is an optional work component available in this program.  Please contact the Program Advisor listed above for information.
+- International students should be aware that if an elective is a requirement of the program but the work itself was not registered with CRICOS, students can still complete these electives but it would be counted towards the work limitation.  For more details, refer to the 'Work Integrated Learning (WIL) for international students' website.
+- Work Integrated Learning (WIL) for international students
+- Admission
+- Students are admitted to the course via the Universities Admissions Centre (UAC).
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- International students currently completing an Australian Year 12 in or outside Australia, an International Baccalaureate in Australia or a New Zealand National Certificate of Educational Achievement (NCEA) level 3 must apply via UAC International.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Program Structure
+- Qualification for this award requires the successful completion of 240 credit points including the subjects listed in the recommended sequence below.
+- Recommended Sequence
+- Parramatta Campus
+- Western Sydney University Online (Continuing students only)
+- Please note this sequence is provided for the guidance of continuing students registered with WSU Online.  The program will not be available for admission to WSU Online from 2023.
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- BEHV 1024 Applied Psychology, replaced by BEHV 1026 Cyber Behaviour
+- BEHV 1024 Applied Psychology
+- BEHV 1026 Cyber Behaviour
+- BEHV 1009 Living, Learning and Working on the Web, replaced by HUMN 1064 Digital Identities
+- BEHV 1009 Living, Learning and Working on the Web
+- HUMN 1064 Digital Identities
+- INFO 3012 Cyber Security and Behaviour Placement 1, replaced by INFO 3016 Cyber Security and Behaviour Community Placement
+- INFO 3012 Cyber Security and Behaviour Placement 1
+- INFO 3016 Cyber Security and Behaviour Community Placement
+- INFO 3013 Cyber Security and Behaviour Placement 2 replaced, byINFO 3017 Cyber Security and Behaviour Industry Placement
+- INFO 3013 Cyber Security and Behaviour Placement 2
+- INFO 3017 Cyber Security and Behaviour Industry Placement
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2023 or earlier.
+- INFO 3001 Computer Security
+- Minor elective spaces
+- Global Sustainability Minor  Indigenous Australian Studies Minor
+- Equitable Technologies Urban Evolution Migration and Global Change   Personal Innovation     Innovating, Creating and Problem Solving  Eco-Socially Conscious Design and Manufacturing Water for Life  Climate Justice Creative and Visual Communication Global Workplaces Innovating For Humans  Creative Living for Cultural Wellbeing   Ideate.Strategise.Innovate. Humanising Data
+- For more information, visit the Challenge Minor website.
+- Search for majors and minors
+- Students can apply for an elective minor via Western Now.
+- WesternNow
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Full Time
+- Internal
+- See above
+- Parramatta Campus - Victoria Road
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+BEHV 1026
+Cyber Behaviour
+10
+HUMN 1064
+Digital Identities
+10
+INFS 1002
+Information Systems in Context
+10
+COMP 1005
+Programming Fundamentals
+10
+
+Credit Points
+40
+Spring session
+COMP 2004
+Computer Networking
+10
+INFO 2004
+Cyber Crime and Social Engineering
+10
+BEHV 1025
+Usable Design
+10
+Select one elective
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+COMP 1013
+Analytics Programming
+10
+MATH 2006
+Experimental Design and Analysis
+10
+COMP 2020
+Technologies for Web Applications
+10
+INFO 2006
+Usable Security
+10
+
+Credit Points
+40
+Spring session
+INFO 3001
+Computer Security
+10
+From Autumn 2024 INFO 3001 Computer Security is replaced by COMP 2027 Cyber Security
+
+COMP 2027
+Cyber Security
+
+INFO 2008
+Cyber Incident Response and Risk Management ( Subject INFO2008 is not offered online. Students enrolled in Western Online must take an additional elective unit instead. )
+10
+BEHV 3018
+Psychology and the Online World
+10
+Select one elective
+10
+
+Credit Points
+40
+Year 3
+Autumn session
+INFO 3016
+Cyber Security and Behaviour Community Placement ( 1H )
+20
+INFO 3014
+Digital Investigations and Forensics
+10
+INFO 3002
+Ethical Hacking Principles and Practice
+10
+
+Credit Points
+40
+Spring session
+INFO 3017
+Cyber Security and Behaviour Industry Placement ( 2H )
+20
+Select two electives
+20
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Spring session
+Credit Points
+COMP 2004
+Computer Networking
+10
+BEHV 1025
+Usable Design
+10
+COMP 1005
+Programming Fundamentals
+10
+Select one elective
+10
+
+Credit Points
+40
+Autumn session
+BEHV 1026
+Cyber Behaviour
+10
+HUMN 1064
+Digital Identities
+10
+INFS 1002
+Information Systems in Context
+10
+Select one elective
+10
+
+Credit Points
+40
+Year 2
+Spring session
+INFO 3001
+Computer Security
+10
+From Autumn 2024 INFO 3001 Computer Security is replaced by COMP 2027 Cyber Security
+
+COMP 2027
+Cyber Security
+
+INFO 2008
+Cyber Incident Response and Risk Management ( Subject INFO2008 is not offered online. Students enrolled in Western Online must take an additional elective subject instead )
+10
+INFO 2004
+Cyber Crime and Social Engineering
+10
+BEHV 3018
+Psychology and the Online World
+10
+
+Credit Points
+40
+Autumn session
+COMP 1013
+Analytics Programming
+10
+MATH 2006
+Experimental Design and Analysis
+10
+COMP 2020
+Technologies for Web Applications
+10
+INFO 2006
+Usable Security
+10
+
+Credit Points
+40
+Year 3
+Spring session
+INFO 3016
+Cyber Security and Behaviour Community Placement ( 2H )
+20
+Select two electives
+20
+
+Credit Points
+40
+Autumn session
+INFO 3017
+Cyber Security and Behaviour Industry Placement ( 1H )
+20
+INFO 3014
+Digital Investigations and Forensics
+10
+INFO 3002
+Ethical Hacking Principles and Practice
+10
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Trimester 1
+Credit Points
+BEHV 1026
+Cyber Behaviour
+10
+HUMN 1064
+Digital Identities
+10
+INFS 1002
+Information Systems in Context
+10
+
+Credit Points
+30
+Trimester 2
+COMP 2004
+Computer Networking
+10
+COMP 1005
+Programming Fundamentals
+10
+BEHV 1025
+Usable Design
+10
+
+Credit Points
+30
+Trimester 3
+COMP 1013
+Analytics Programming
+10
+INFO 2004
+Cyber Crime and Social Engineering
+10
+Select one elective
+10
+
+Credit Points
+30
+Year 2
+Trimester 4
+MATH 2006
+Experimental Design and Analysis
+10
+COMP 2020
+Technologies for Web Applications
+10
+INFO 2006
+Usable Security
+10
+
+Credit Points
+30
+Trimester 5
+INFO 3001
+Computer Security
+10
+From Autumn 2024 INFO 3001 Computer Security is replaced by COMP 2027 Cyber Security
+
+COMP 2027
+Cyber Security
+
+BEHV 3018
+Psychology and the Online World
+10
+Select one elective
+10
+
+Credit Points
+30
+Trimester 6
+INFO 3016
+Cyber Security and Behaviour Community Placement
+20
+Select one elective
+10
+
+Credit Points
+30
+Year 3
+Trimester 7
+INFO 3017
+Cyber Security and Behaviour Industry Placement
+20
+INFO 3014
+Digital Investigations and Forensics
+10
+
+Credit Points
+30
+Trimester 8
+INFO 3002
+Ethical Hacking Principles and Practice
+10
+Select two electives
+20
+
+Credit Points
+30
+
+Total Credit Points
+240
+Year 1
+Trimester 1
+Credit Points
+BEHV 1026
+Cyber Behaviour
+10
+HUMN 1064
+Digital Identities
+10
+
+Credit Points
+20
+Trimester 2
+INFS 1002
+Information Systems in Context
+10
+COMP 1005
+Programming Fundamentals
+10
+
+Credit Points
+20
+Trimester 3
+COMP 2004
+Computer Networking
+10
+BEHV 1025
+Usable Design
+10
+
+Credit Points
+20
+Year 2
+Trimester 4
+INFO 2004
+Cyber Crime and Social Engineering
+10
+Select one elective
+10
+
+Credit Points
+20
+Trimester 5
+COMP 1013
+Analytics Programming
+10
+MATH 2006
+Experimental Design and Analysis
+10
+
+Credit Points
+20
+Trimester 6
+COMP 2020
+Technologies for Web Applications
+10
+INFO 2006
+Usable Security
+10
+
+Credit Points
+20
+Year 3
+Trimester 7
+INFO 3001
+Computer Security
+10
+From Autumn 2024 INFO 3001 is replaced by COMP 2027
+
+COMP 2027
+Cyber Security
+
+BEHV 3018
+Psychology and the Online World
+10
+
+Credit Points
+20
+Trimester 8
+Select two electives
+20
+
+Credit Points
+20
+Trimester 9
+INFO 3016
+Cyber Security and Behaviour Community Placement
+20
+INFO 3014
+Digital Investigations and Forensics
+10
+
+Credit Points
+30
+Year 4
+Trimester 10
+INFO 3017
+Cyber Security and Behaviour Industry Placement
+20
+INFO 3002
+Ethical Hacking Principles and Practice
+10
+
+Credit Points
+30
+Trimester 11
+Select two electives
+20
+
+Credit Points
+20
+
+Total Credit Points
+240
+
+Courselist Tables:

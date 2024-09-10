@@ -1,0 +1,31 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Sustainable Business, Major (0249)
+- Western Sydney University Major Code:
+- Previous Code:  SP2010.1
+- Students undertaking this major will gain skills and knowledge to act on sustainability and social responsibility issues in business recognising the need for financial and business solutions to maintain a competitive edge. Acting on these issues, students enhance critical thinking and problem solving skills, justifying solutions and aligning with the principles of UN SDGs for complex and challenging scenarios that also address social and environmental concerns. Through business projects and research tasks, students build ethical and responsible characteristics, create innovative strategy, and develop skills in judgement, scenario planning and creativity for business environmental management.
+- Location
+- Major Structure
+- Students must successfully complete 60 credit points as listed below.
+- The subject listed below counts towards completion of this major for students who passed this subject in 2020 or earlier.
+- ACCT 7023 - Social and Environmental Accounting
+- Related Programs
+
+Location Table:
+- Parramatta City Campus - Macquarie Street
+- Internal
+- Dr Laurel Jackson
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+BUSM 7013Business, Society and the Environment10
+BUSM 7020Creating Sustainable Organisations10
+ARCH 7001Developing Sustainable Places10
+BUSM 7040Governance, Ethics and Social Entrepreneurship10
+BUSM 7048Innovation, Creativity and Foresight10
+BUSM 7109Environmental Management: A Business Perspective10
+Total Credit Points60

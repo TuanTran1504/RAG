@@ -1,0 +1,25 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Thermal and Fluid Systems, Minor (0126)
+- Western Sydney University Minor Code:
+- Location
+- Minor Structure
+- This minor is only available to students enrolled in Bachelor of Engineering (Honours) (3740) and Bachelor of Engineering Advanced (Honours) (3771).
+- Students must complete 4 subjects as follows.
+
+Location Table:
+- Penrith Campus
+- Internal
+- Beng@uws.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+MECH 4001Computational Fluid Dynamics10
+CIVL 2003Fluid Mechanics10
+MECH 3008Thermodynamics and Heat Transfer10
+MECH 3007Thermal and Fluid Engineering10
+Total Credit Points40

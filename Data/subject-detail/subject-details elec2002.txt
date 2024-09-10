@@ -1,0 +1,16 @@
+Academic Handbook Current Edition ELEC 2002 Circuit Theory (WSTC AssocD) Credit Points 10 Legacy Code 700243 Coordinator Abbas Ranjbar Opens in new window Description This subject aims to equip the student with the tools needed for the design and analysis of electrical and electronic circuits.  It also introduces various techniques of circuit analysis, convolution, mutual coupling, frequency response and two-ports loops.Offerings of alternate subjects are dependent on there being sufficient student enrolment numbers. If enrolments are low, the College may cancel delivery of the alternate subject. School Eng, Design & Built Env Discipline Electrical Engineering Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 2 subject Pre-requisite(s) ELEC 1004 and MATH 1020 Learning Outcomes 1. Apply the basic principles of analysing an electric circuit
+2. Apply Kirchhoff's Voltage and Current laws and demonstrate their use in a number of electric circuit configurations
+3. Apply nodal analysis, mesh analysis and linear circuit theorems to electric circuits
+4. Apply the Laplace Transform to electric circuits
+5. Draw conclusions from frequency responses
+6. Mathematically analyse frequency-selective filters
+7. Describe and utilise magnetically coupled circuit
+8. Describe and utilise two-port networks Subject Content 1. Phasors relationships for Circuit Elements.
+2. Kirchoff's Laws in frequency domain
+3. Impedance combinations
+4. Sinusoidal Steady state analysis (Nodal Analysis, Mesh Analysis, Superposition Theorem and Thevenin equivalent Circuits)
+5. Alternating Current (AC) Power Analysis (Instantaneous and Average Power, RMS value, Maximum Power and Power factor correction)
+6. Magnetically coupled circuits (Mutual Inductance, Energy in a coupled Circuit)
+7. Frequency response
+8. Laplace Transform and its applications in circuits analysis
+9. Two port network Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Practical 2 hours each 20 N Individual N  Quiz 30 minutes each  10 N Individual N  Intra-session Exam 1.5 hour 20  N Individual N  Final Exam 2 hours 50 N Individual N Teaching Periods Quarter 4 (2024) Nirimba Education Precinct Hybrid Subject Contact Abbas Ranjbar Opens in new window View timetable Opens in new window Structures that include subject Electrical and Electronic Eng. (ELEC) Electrical, Testamur Major (T035) Robotics and Mechatronics, Testamur Major (T037)

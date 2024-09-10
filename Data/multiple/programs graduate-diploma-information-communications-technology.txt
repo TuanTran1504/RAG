@@ -1,0 +1,603 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Graduate Diploma in Information and Communications Technology (3700)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 110875M
+- Program Status: CURRENT
+- This program applies to students who commenced in 2017 or later.
+- The Graduate Diploma in Information and Communication Technology (Grad Dip in ICT) is designed for students from both computing and non-computing backgrounds, to enable them to create pathways into higher studies in ICT and/or commencing a career in ICT. This program is aimed at allowing students to gain knowledge in state of the art developments in the ICT field, apply that knowledge in a professional and ethical framework and develop themselves as lifelong learners.
+- Study Mode
+- One year full-time. Two years part-time.
+- Program Advice
+- Program Advice
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Admission
+- Admission 2017 - 2022
+- Minimum admission requirements to this program are:
+- Or
+- This program has three Pathways (A, B and C) that vary in length and structure based on previous study and work experience.
+- Pathway A - One and a half years
+- Students who have non-Computing, non-ICT or non-Information Systems with Bachelor qualifications are eligible to complete the one and a half year Pathway below.
+- Pathway B - One year
+- Students who have non-Computing, non-ICT or non-Information Systems with Honours or Masters qualifications are eligible to complete the one year Pathway below.
+- Pathway C - One year
+- Students who have Computing, ICT or Information Systems with Bachelor or Bachelor Honours or Masters qualifications are eligible to complete the one year Pathway below.
+- Additional Information
+- Applicants seeking admission on the basis of work experience must support their application with a Statement of Service for all work experience listed on the application.
+- Statement of Service
+- Admission 2023
+- Applicants must have successfully completed:
+- An undergraduate degree or higher in any discipline OR
+- A Diploma in any discipline, plus five (5) years’ full-time equivalent professional work experience in Information and Communications Technologies which includes experience in: programming, networking, database design and development, systems analysis and design and project management OR
+- A Diploma in ICT/Computing/IS fields plus two (2) years full-time equivalent work experience in Information and Communications Technologies which includes experience in: programming, networking, database design and development, systems analysis and design, and project management.
+- Additional Information
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Sequence Current
+- This sequence applies to students who commenced in 2024 or later. If you commenced prior to 2024 please refer to the relevant Sequence tab for details.
+- Qualification for this award requires the successful completion of 80 credit points as per the recommended sequence below.
+- Full-time start-year intake
+- Full-time mid-year intake
+- Alternate Subjects
+- Subjects in this list may be included in the program structure as Core Subjects and cannot be selected as one of the list subjects
+- Recommended Sequence 2023
+- Qualification for this award requires the successful completion of 80 credit points as per the recommended sequence below.
+- Full-time start-year intake
+- Full-time mid-year intake
+- Alternate Subjects
+- Subjects in this list may be included in the program structure as Core Subjects and cannot be selected as one of the list subjects
+- Program Structure 2017 - 2022
+- The program length and structure varies based on the student’s previous study background and level, and work experience.
+- Pathway A Core subjects
+- Pathway A - And six subjects from Foundation or Specialised subject lists.
+- Pathway B Core subjects
+- Pathway B - And two subjects from Foundation or Specialised subject lists.
+- Pathway C Core subjects
+- Pathway C - And five subjects from Foundation or Specialised subject lists.
+- Foundation subjects
+- Note: Subjects in this list may be included in the program structure as Core Subjects and cannot be selected as one of the list subjects.
+- Specialised Subjects
+- Note: Subjects in this list may be included in the program structure as Core Subjects and cannot be selected as one of the list subjects .
+- Equivalent Subjects
+- The subjects listed below count towards completion of the program for students who may have passed subjects in the list in 2020 or earlier.
+- INFO 7006 - Intelligent Agents for E-Markets, no longer offered.
+INFS 7010 - Workflow Management Systems, no longer offered.
+MECH 7004 - Advanced Mobile Robotics, no longer offered as part of this program.
+MECH 7005 - Advanced Robotics, no longer offered as part of this program.
+MATH 7007 - Genomic Data Science, no longer offered.
+INFO 7008 - Modern Software Architectures, replaced by INFO 7018 Cloud Systems Development
+ENGR 7018 - Research Preparation in Post Graduate Studies, replaced by NATS 7057 Research Preparation in Post Graduate Studies
+- INFO 7018 Cloud Systems Development
+- NATS 7057 Research Preparation in Post Graduate Studies
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 7011 Predictive Analytics, replaced by  COMP 7023 Predictive Analytics
+- Recommended Sequence 2017 - 2022
+- Students are categorised into three Pathways based on their previous study background and work experience as indicated below and program structure and length is set accordingly. See individual links for detailed program structure.
+- Pathway A - One and a Half Years
+- Students who have been admitted with non-Computing, non-ICT or non-Information Systems with Bachelor Qualifications are eligible to complete the two year Pathway below.
+- Students must complete 120 credit points as follows.
+- Full-time start-year intake
+- Full-time mid-year intake
+- Pathway B - One Year
+- Students who have been admitted with non-Computing, non-ICT or non-Information Systems with Bachelor Honours or Masters Qualifications are eligible to complete the one and a half year Pathway below.
+- Full-time start-year intake
+- Full-time mid-year intake
+- Pathway C - One Year
+- Students who have been admitted with Computing, ICT or Information Systems with Bachelor or Bachelor Honours or Masters Qualifications are eligible to complete the one a half year Pathway below.
+- Students must complete 80 credit points as follows.
+- Full-time start-year intake
+- Full-time mid-year intake
+- Equivalent Subjects
+- The subjects listed below count towards completion of the program for students who may have passed subjects in the list in 2020 or earlier.
+- The subjects listed below count towards completion of the program for students who may have passed subjects in the list in 2020 or earlier.
+- INFO 7006 - Intelligent Agents for E-Markets
+- INFS 7010 - Workflow Management Systems
+- MECH 7004 - Advanced Mobile Robotics
+- MECH 7005 - Advanced Robotics
+- MATH 7007 - Genomic Data Science
+- INFO 7008 - Modern Software Architectures
+- 301041 - Service Oriented Architecture
+- ENGR 7018 - Research Preparation in Post Graduate Studies, replaced by NATS 7057 Research Preparation in Post Graduate Studies
+- NATS 7057 Research Preparation in Post Graduate Studies
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Full Time
+- Internal
+- See above
+- Parramatta Campus - Victoria Road
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+COMP 7015
+Programming Proficiency
+10
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+INFO 7003
+Advanced Topics in User System Interaction
+10
+ENGR 7017
+Professional Practice and Communication
+10
+
+Credit Points
+40
+Spring session
+INFO 6001
+IT Project Management
+10
+COMP 7013
+Network Technologies
+10
+Select two subjects from the Alternate subjects pool.
+20
+
+Credit Points
+40
+
+Total Credit Points
+80
+Year 1
+Spring session
+Credit Points
+COMP 7015
+Programming Proficiency
+10
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+ENGR 7017
+Professional Practice and Communication
+10
+INFO 6001
+IT Project Management
+10
+
+Credit Points
+40
+Autumn session
+COMP 7013
+Network Technologies
+10
+INFO 7003
+Advanced Topics in User System Interaction
+10
+Select two subjects from the Alternate subjects pool.
+20
+
+Credit Points
+40
+
+Total Credit Points
+80
+Year 1
+Autumn session
+Credit Points
+COMP 7015
+Programming Proficiency
+10
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+INFO 7003
+Advanced Topics in User System Interaction
+10
+ENGR 7017
+Professional Practice and Communication
+10
+
+Credit Points
+40
+Spring session
+INFO 6001
+IT Project Management
+10
+COMP 7013
+Network Technologies
+10
+Select two subjects from the Alternate subjects pool.
+20
+
+Credit Points
+40
+
+Total Credit Points
+80
+Year 1
+Spring session
+Credit Points
+COMP 7015
+Programming Proficiency
+10
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+ENGR 7017
+Professional Practice and Communication
+10
+INFO 6001
+IT Project Management
+10
+
+Credit Points
+40
+Autumn session
+COMP 7013
+Network Technologies
+10
+INFO 7003
+Advanced Topics in User System Interaction
+10
+Select two subjects from the Alternate subjects pool.
+20
+
+Credit Points
+40
+
+Total Credit Points
+80
+Year 1
+Autumn session
+Credit Points
+COMP 7015
+Programming Proficiency
+10
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+INFO 7003
+Advanced Topics in User System Interaction
+10
+INFO 7005
+IT Project Management
+10
+
+Credit Points
+40
+Spring session
+COMP 7013
+Network Technologies
+10
+ENGR 7017
+Professional Practice and Communication
+10
+Select two subjects from the Foundation or Specialised subject lists.
+20
+
+Credit Points
+40
+Year 2
+Autumn session
+Select four subjects from the Foundation or Specialised subject lists.
+40
+
+Credit Points
+40
+
+Total Credit Points
+120
+Year 1
+Spring session
+Credit Points
+COMP 7015
+Programming Proficiency
+10
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+COMP 7013
+Network Technologies
+10
+ENGR 7017
+Professional Practice and Communication
+10
+
+Credit Points
+40
+Autumn session
+INFO 7003
+Advanced Topics in User System Interaction
+10
+INFO 7005
+IT Project Management
+10
+Select two subjects from the Foundation or Specialised subject lists.
+20
+
+Credit Points
+40
+Year 2
+Spring session
+Select four subjects from the Foundation or Specialised subject lists.
+40
+
+Credit Points
+40
+
+Total Credit Points
+120
+Year 1
+Autumn session
+Credit Points
+COMP 7015
+Programming Proficiency
+10
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+INFO 7003
+Advanced Topics in User System Interaction
+10
+INFO 7005
+IT Project Management
+10
+
+Credit Points
+40
+Spring session
+COMP 7013
+Network Technologies
+10
+ENGR 7017
+Professional Practice and Communication
+10
+Select two subjects from the Foundation or Specialised subject lists.
+20
+
+Credit Points
+40
+
+Total Credit Points
+80
+Year 1
+Spring session
+Credit Points
+COMP 7015
+Programming Proficiency
+10
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+COMP 7013
+Network Technologies
+10
+ENGR 7017
+Professional Practice and Communication
+10
+
+Credit Points
+40
+Autumn session
+INFO 7003
+Advanced Topics in User System Interaction
+10
+INFO 7005
+IT Project Management
+10
+Select two subjects from the Foundation or Specialised subject lists.
+20
+
+Credit Points
+40
+
+Total Credit Points
+80
+Year 1
+Autumn session
+Credit Points
+COMP 7013
+Network Technologies
+10
+INFO 7005
+IT Project Management
+10
+ENGR 7017
+Professional Practice and Communication
+10
+Select one subject from the Foundation or Specialised subject lists.
+10
+
+Credit Points
+40
+Spring session
+Select four subjects from the Foundation or Specialised subject lists.
+40
+
+Credit Points
+40
+
+Total Credit Points
+80
+Year 1
+Spring session
+Credit Points
+COMP 7013
+Network Technologies
+10
+ENGR 7017
+Professional Practice and Communication
+10
+INFO 7005
+IT Project Management
+10
+Select one subject from the Foundation or Specialised subject lists.
+10
+
+Credit Points
+40
+Autumn session
+Select four subjects from the Foundation or Specialised subject lists.
+40
+
+Credit Points
+40
+
+Total Credit Points
+80
+
+Courselist Tables:
+
+courselist table1:
+INFS 7004Content Management Systems and Web Analytics10
+INFS 7008Systems and Network Security10
+NATS 7057Research Preparation in Post Graduate Studies10
+INFS 7009Web Technologies10
+COMP 7018Advanced Cloud Computing10
+PUBH 7001Advanced Health Classifications and Coding10
+INFS 7001Advanced Healthcare Data Environments10
+INFS 7002Advanced Healthcare Software and Systems10
+INFO 7001Advanced Machine Learning10
+INFO 7002Advanced Topics in Artificial Intelligence10
+INFO 7014Advanced Topics in Cybersecurity10
+INFS 7003Advanced Topics in ICT10
+COMP 7019Applied Machine Learning10
+COMP 7020Artificial Intelligence Ethics and Organisations10
+COMP 7003Big Data10
+COMP 7004Cloud Computing10
+INFO 7018Cloud Systems Development10
+COMP 7006Data Science10
+COMP 7028Hands-on Quantum Computing10
+COMP 7007Information Security Management10
+COMP 7008Internet of Things10
+COMP 7021Knowledge Representation and Reasoning10
+COMP 7009Mobile Computing10
+COMP 7011Multimedia Communication Systems10
+COMP 7022Natural Language Processing10
+COMP 7012Network Management10
+COMP 7023Predictive Analytics10
+COMP 7024Programming for Data Science10
+MATH 7017Probabilistic Graphical Models10
+COMP 7025Social Media Intelligence10
+INFS 7006Software Testing and Automation10
+MATH 7016The Nature of Data10
+COMP 7016Visualisation10
+INFO 7013Web Engineering10
+COMP 7017Wireless Networking10
+INFO 6002Postgraduate Capstone Project10
+INFO 7015Applied Cybersecurity10
+HUMN 4001Researcher Development 1: Reading ,Writing, and the Business of Research10
+
+courselist table2:
+COMP 7018Advanced Cloud Computing10
+PUBH 7001Advanced Health Classifications and Coding10
+INFS 7001Advanced Healthcare Data Environments10
+INFS 7002Advanced Healthcare Software and Systems10
+INFO 7001Advanced Machine Learning10
+INFO 7002Advanced Topics in Artificial Intelligence10
+INFO 7014Advanced Topics in Cybersecurity10
+INFS 7003Advanced Topics in ICT10
+COMP 7002Advanced Topics in Networking10
+INFO 7015Applied Cybersecurity10
+COMP 7019Applied Machine Learning10
+COMP 7020Artificial Intelligence Ethics and Organisations10
+COMP 7003Big Data10
+COMP 7004Cloud Computing10
+INFO 7018Cloud Systems Development10
+INFS 7004Content Management Systems and Web Analytics10
+COMP 7006Data Science10
+COMP 7028Hands-on Quantum Computing10
+COMP 7007Information Security Management10
+COMP 7008Internet of Things10
+COMP 7021Knowledge Representation and Reasoning10
+COMP 7009Mobile Computing10
+COMP 7011Multimedia Communication Systems10
+COMP 7022Natural Language Processing10
+COMP 7012Network Management10
+INFO 7016Postgraduate Project A10
+COMP 7023Predictive Analytics10
+COMP 7024Programming for Data Science10
+MATH 7017Probabilistic Graphical Models10
+NATS 7057Research Preparation in Post Graduate Studies10
+HUMN 4001Researcher Development 1: Reading ,Writing, and the Business of Research10
+COMP 7025Social Media Intelligence10
+INFS 7006Software Testing and Automation10
+INFS 7008Systems and Network Security10
+MATH 7016The Nature of Data10
+COMP 7016Visualisation10
+INFO 7013Web Engineering10
+INFS 7009Web Technologies10
+COMP 7017Wireless Networking10
+
+courselist table3:
+INFO 7005IT Project Management10
+COMP 7013Network Technologies10
+ENGR 7017Professional Practice and Communication10
+INFO 7003Advanced Topics in User System Interaction10
+COMP 7015Programming Proficiency10
+INFS 7007Systems Analysis and Database Management Systems10
+
+courselist table4:
+INFO 7005IT Project Management10
+COMP 7013Network Technologies10
+ENGR 7017Professional Practice and Communication10
+INFO 7003Advanced Topics in User System Interaction10
+COMP 7015Programming Proficiency10
+INFS 7007Systems Analysis and Database Management Systems10
+
+courselist table5:
+INFO 7005IT Project Management10
+COMP 7013Network Technologies10
+ENGR 7017Professional Practice and Communication10
+
+courselist table6:
+INFO 7003Advanced Topics in User System Interaction10
+INFS 7004Content Management Systems and Web Analytics10
+INFO 7005IT Project Management10
+COMP 7013Network Technologies10
+ENGR 7017Professional Practice and Communication10
+COMP 7015Programming Proficiency10
+INFS 7008Systems and Network Security10
+NATS 7057Research Preparation in Post Graduate Studies10
+INFS 7007Systems Analysis and Database Management Systems10
+INFS 7009Web Technologies10
+
+courselist table7:
+COMP 7018Advanced Cloud Computing10
+PUBH 7001Advanced Health Classifications and Coding10
+INFS 7001Advanced Healthcare Data Environments10
+INFS 7002Advanced Healthcare Software and Systems10
+INFO 7001Advanced Machine Learning10
+INFO 7002Advanced Topics in Artificial Intelligence10
+INFO 7014Advanced Topics in Cybersecurity10
+INFS 7003Advanced Topics in ICT10
+COMP 7002Advanced Topics in Networking10
+INFO 7015Applied Cybersecurity10
+COMP 7019Applied Machine Learning10
+COMP 7020Artificial Intelligence Ethics and Organisations10
+COMP 7003Big Data10
+COMP 7004Cloud Computing10
+INFO 7018Cloud Systems Development10
+COMP 7006Data Science10
+COMP 7007Information Security Management10
+COMP 7008Internet of Things10
+COMP 7021Knowledge Representation and Reasoning10
+COMP 7009Mobile Computing10
+COMP 7011Multimedia Communication Systems10
+COMP 7022Natural Language Processing10
+COMP 7012Network Management10
+COMP 7023Predictive Analytics10
+COMP 7024Programming for Data Science10
+MATH 7017Probabilistic Graphical Models10
+COMP 7025Social Media Intelligence10
+INFS 7006Software Testing and Automation10
+MATH 1028Statistical Decision Making10
+MATH 7016The Nature of Data10
+COMP 7016Visualisation10
+INFO 7013Web Engineering10
+COMP 7017Wireless Networking10

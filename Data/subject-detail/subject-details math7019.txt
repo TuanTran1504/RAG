@@ -1,0 +1,31 @@
+Academic Handbook Current Edition MATH 7019 Mathematics of Signal Processing Credit Points 10 Legacy Code 301440 Coordinator Paul Hurley Opens in new window Description This subject teaches students to abstract and develop algorithms, in Python, for analysing and processing deterministic and stochastic data/signals. Students are taught strategies in developing solutions that are optimal and efficient to implement. They learn how to analyse signals under the Fourier transform and under different bases, allowing for an appreciation of how lossy compression works, and how to formulate and solve some convex optimisation algorithms.
+This subject will be undertaken at Parramatta City - Hassall St campus. School Computer, Data & Math Sciences Discipline Mathematics Student Contribution Band HECS Band 1 10cp Check your fees via the Fees page. Level Postgraduate Coursework Level 7 subject Restrictions Students must be enrolled in a postgraduate program Assumed Knowledge Students should know and understand basic linear algebra. Basic programming skills are necessary. Familiarity with Python notebooks is helpful but not mandatory. Learning Outcomes On successful completion of this subject, students should be able to: Explain mathematical formulations of signal processing algorithms
+Demonstrate mastery of tools for tackling advanced signal and data processing problems
+Analyse advanced signal and data processing algorithms using numerical python programming
+Design applications as advanced signal and data processing algorithms
+Appraise applications of mathematical signal processing Subject Content 1.Motivation - what is mathematics of signal processing, etc.
+2.Linear algebra and Hilbert spaces
+Examples ? neural networks
+Basis and frames
+3.Fourier Transforms
+Continuous Fourier series, Fast Fourier transforms
+Convolution
+4.Sampling and interpolation
+1D, 2D (sphere/manifold)
+5.Filtering
+Finite Impulse Response (FIR) filters, Infinite Impulse Response (IIR) filters
+6.Approximation and compression
+Wavelets
+Time-frequency analysis
+7.Inverse problems and optimisation
+Compressed sensing
+LASSO
+8.Random signals
+Probabilistic modelling
+Wiener filter, etc.
+Max likelihood / EM
+9.Event-driven sampling/filtering
+Sampling in time vs sampling in amplitude
+Filtering in asynchronous time
+10.Array signal processing
+Beamforming Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Quiz 30 minutes (per Quiz) 20 N Individual Y  Applied Project 16 hours 30 N Individual Y  Practical Exam 1.5 hours 20 Y Individual Y  Practical Exam 2 hours 30 Y Individual Y Teaching Periods Autumn (2024) Parramatta City - Macquarie St On-site Subject Contact Paul Hurley Opens in new window View timetable Opens in new window Structures that include subject Graduate Certificate in Neuromorphic Engineering (exit only) (8126) Graduate Diploma in Neuromorphic Engineering (exit only) (8125) Master of Applied Neuromorphic Engineering (8124) Master of Neuromorphic Engineering (8123) Mathematics (MATH)

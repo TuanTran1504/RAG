@@ -1,0 +1,69 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Advertising, Minor (0159)
+- Western Sydney University Minor Code:
+- Previous Code: SM1123.1
+- The Advertising minor provides a strong foundation in current advertising practice, exposing students to authentic agency experiences and sharpening their skills as communicators and persuaders. Areas of study include advertising strategy, media, copywriting and design, and campaigns. Students will develop the skills they need to succeed in a range of contexts, including campaign development, creative messaging and media planning.
+- Location
+- *Curriculum delivered through an agreement with another party
+- Minor Structure Current
+- This structure applies to students who commenced in 2024 or later. If you commenced prior to 2024 please refer to the Structure 2023 tab for details
+- Students must complete 40 credit points from the pool below. Please note that Level 1 pre-requisites for Level 2/3 subjects may apply.
+- Minor Structure 2023
+- If you commenced in 2024 or later please refer to the Structure Current tab for details.
+- Creative Industries students must first complete MKTG 1001 Advertising: An Introduction as their Introductory Major subject in order to undertake this minor.
+- Students must complete 40 credit points consisting of 20 credit points at Level 2 and 20 credit points at Level 3 from the subjects as follows
+- Note: Please plan enrolment in minor subjects carefully - subjects at Level 2 and Level 3 may have pre-requisites. Students should consult their Academic Program Advisors if they require further information.
+- Level 2
+- Level 3
+- The subject listed below counts towards completion of this minor for students who passed this subject in 2019 or earlier.
+- COMM 3007 Communication Campaigns, replaced by COMM 3045 Advertising: Campaigns
+- COMM 3045 Advertising: Campaigns
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+- Penrith Campus
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+- Online
+- Online
+- EnquiriesHCA@westernsydney.edu.au
+- Sydney City Campus*
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+- Vietnam Campus*
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Level 1 subject
+MKTG 1001Advertising: An Introduction
+Level 2 subjects
+MKTG 2001Advertising: Creative
+MKTG 2013Advertising: Strategy
+Level 3 subjects
+COMM 3045Advertising: Campaigns
+COMM 3051Advertising: Media
+Total Credit Points40
+
+courselist table2:
+Select 20 credit points of the following:20
+COMM 2001Account and Client Management
+MKTG 2001Advertising: Creative
+COMM 2006Advertising: Media
+COMM 2011Communication Strategies
+Total Credit Points20
+
+courselist table3:
+Select 20 credit points of the following:20
+COMM 3045Advertising: Campaigns
+COMM 3014Digital Communication
+Total Credit Points20

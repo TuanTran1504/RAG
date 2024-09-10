@@ -1,0 +1,50 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Indigenous Australian Studies, Minor (0015)
+- Western Sydney University Minor Code:
+- Previous Code: SM1049.1
+- What does it mean to live in Indigenous Australia? The Indigenous Australian Studies minor offers students the exciting opportunity to acquire key cultural competencies that will enable them to understand and work more effectively with Indigenous Australians in professions such as the arts, communications, media industries; education; government and non-government; policy; health; sciences; and community services. The Indigenous Australian Studies minor addresses the cultural, historical, social and economic issues affecting Indigenous and Non-Indigenous Australians and relationships.
+- Location
+- Minor Structure
+- Students must successfully complete 40 credit points as follows.
+- Students must complete the following compulsory subject:
+- Students must also complete three subjects from the following pools.
+- Level 1 Subject
+- Level 2 Subjects
+- Level 3 Subjects
+- The subjects listed below counts towards completion of this minor for students who successfully completed these subjects in Autumn 2020 or earlier.
+- BIOS 1020 - Indigenous Landscapes, replaced by HUMN 1058 Indigenous Landscapes
+
+BEHV 3013 - Humanities Internship, no longer offered as part of this minor.
+- HUMN 1058 Indigenous Landscapes
+- Related Programs
+
+Location Table:
+- Penrith Campus
+- Internal
+- enquiriesHCA@uws.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+HUMN 1013Contextualising Indigenous Australia (Day Mode)10
+
+courselist table2:
+HUMN 1058Indigenous Landscapes10
+LANG 1034Speaking Dharug and other Australian Indigenous Languages10
+LANG 1035Australian Indigenous Languages Revitalisation10
+
+courselist table3:
+HUMN 2038Pigments of the Imagination10
+HUMN 2048Revaluing Indigenous Economics (Day Mode)10
+PERF 2011From Corroborees to Curtain Raisers (Day Mode)10
+VISU 2003From Ochre to Acrylics to New Technologies10
+
+courselist table4:
+CEDS 3001Bridging the Gap: Re-engaging Indigenous Learners10
+HUMN 3082The Making of the 'Aborigines'10
+WELF 3008Learning through Indigenous Australian Community Service (Day Mode)10
+HUMN 3070Rethinking Research with Indigenous Australians: Independent Study Project (Day Mode)10

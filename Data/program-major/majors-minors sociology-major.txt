@@ -1,0 +1,44 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Sociology, Major (0030)
+- Western Sydney University Major Code:
+- Previous Code: M1073.1
+- The major in Sociology provides students with a thorough training in the methods, theories and select leading areas of contemporary sociology. As well as subjects in which methods and theories are taught, through the social science core, students enrolled in the Sociology major will have opportunities to study a number of particular themes from a sociological perspective, including inequalities, deviance, identities, gender, religion, medicine and health care, ethnicity and migration, and the family, among other possibilities. A Bachelor of Social Science (BSS) with a major in Sociology will prepare students for both employment and a research higher degree.
+- Location
+- Major Structure
+- Students must complete 80 credit points from the following subjects, with a minimum of 30 credit points at Level 3.
+- The subject listed below counts towards completion of this major for students who passed this subject in 2021 or earlier.
+- CULT 1005 - Crime, Deviance and Society, replaced by HUMN 1057 Doing Sociology
+- HUMN 1057 Doing Sociology
+- Related Programs
+
+Location Table:
+- Liverpool Campus
+- Internal
+- Professor Mary Hawkins
+- Penrith Campus
+- Internal
+- Professor Mary Hawkins
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Choose 80 credit points from the following subjects:
+Autumn session
+HUMN 1057Doing Sociology10
+Spring session
+HUMN 1007Brave New World: Negotiating Social Change in the 21st Century10
+Autumn session
+HUMN 2027Health, Illness and Biomedicine: A Sociological Perspective10
+HUMN 2028Identity and Belonging10
+Spring session
+HUMN 2065Self and Society10
+HUMN 2025Families and Intimate Life10
+Autumn session
+HUMN 3049Home and Away: Ethnicity and Migration in Australia10
+HUMN 3075Sociology of Religion10
+Spring session
+HUMN 3098Genders and sexualities: beyond the binary10

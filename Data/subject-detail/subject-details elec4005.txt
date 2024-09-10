@@ -1,0 +1,22 @@
+Academic Handbook Current Edition ELEC 4005 Smart Grids and Distributed Generation Credit Points 10 Legacy Code 300996 Coordinator Mahmood Nagrial Opens in new window Description This subject is designed to model, analyse and control of newly developing areas of distributed generation and smart grids. The subject will cover modelling, control, simulation and protection of such systems. The subject will cover the impacts of renewable sources and power electronics on the operation of smart grids and micro-grids. The subject will also cover environmental and economic impacts of such systems. School Eng, Design & Built Env Discipline Electrical And Electronic Engineering And Technology Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 4 subject Pre-requisite(s) ELEC 3009 Learning Outcomes On successful completion of this subject, students should be able to: Evaluate the technical aspects of the Smart Grid and Distributed Generation
+Analyse and simulate the effects of renewable sources on operation of smart grids
+Discuss and evaluate the control and protection requirements of smart grids
+Critically examine and assess the environmental issues associated with the Smart Grid and Distributed Generation
+Discuss and evaluate the economic aspects of the Smart Grid and Distributed Generation
+Discuss the social, legal and political issues related to the Smart Grid and Distributed Generation Subject Content 1. Modeling of Smart Grids
+- Loads Impedance Model,
+- PV Sources (Thermal and PV panels),
+- Wind Turbines and Generators,
+- Storage Systems,
+- Rectifiers, Converters and Inverters.
+2. Control of Smart Grid Systems
+- Smart Meters,
+- Micro grids,
+- Control of Converters and Inverters,
+- Load, Voltage and Power Control,
+- Synchronized and Islanding Operations of Micro Grids,
+- Design High MW PV Systems,
+- Design of High Power Wind Farm,
+- control of Smart Grid system with High Green energy Penetration.
+3. Environmental and pollution issues.
+4. Economic analysis of the Smart Grid and Distributed Generation. Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Intra-session Exam 1.5 hours 25 N Individual Y  Final Exam 2 hours 50 N Individual Y  Report Each group is expected to submit 2 assignments/reports for assessment.  Group reports in groups of 3-5 students.  Length of reports between 8-10 pages each. 25 Y Individual Y Structures that include subject Electrical Engineering, Testamur Major (T102) Electrical and Electronic Eng. (ELEC) Electrical, Testamur Major (T035) Power Engineering, Concentration (0121)

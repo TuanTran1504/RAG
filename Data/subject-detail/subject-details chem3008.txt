@@ -1,0 +1,13 @@
+Academic Handbook Current Edition CHEM 3008 Biodevices Credit Points 10 Legacy Code 300890 Coordinator Bill Price Opens in new window Description This subject replaces 300414 - Biodevices from Autumn 2014. The subject will investigate nature's nanomachines; lipids, DNA and proteins. The students will learn how only a few basic building blocks can self-assemble into more complex structures, which in turn self-assemble into more complex hierarchical structures from which one can build biodevices. These fascinating self-organising supramolecular structures generally involve some kind of non-covalent binding. Particular emphasis is placed on the underlying principles that govern the functioning of such machines and some coverage of the modelling of such processes using techniques such as statistical thermodynamics is given. Biological computing is also covered. School Science Discipline Chemical Sciences, Not Elsewhere Classified. Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Equivalent Subjects LGYA 6025 - Biodevices Restrictions Successful completion of 60 credit points at Level 1 or 2. Learning Outcomes On successful completion of this subject, students should be able to: Explicate many of the biodevices provided by Nature
+Summarise the various biomolecules that biodevices are constituted from.
+Understand self-organisation and supramolecular structures in nature.
+Interpret and model some of the underlying processes that control biodevices using statistical thermodynamics and the lattice model.
+Describe and explain biological computing. Subject Content 1. Nature's nanomachines.
+2. Understanding of structure and functions of lipid, DNA and proteins with respect to biodevices.
+3. Supramolecular chemistry and how it translates to everyday concepts.
+4. How does nature form self-organising supramolecular structures?
+5. How ion channels work.
+6. Applications of ion channels as biological sensors.
+7. How to make a biological computer and its advantages over silicon-based super computers.
+8. The future of biodevices and their limitations.
+9. What thermodynamics and modelling can tell us with regard to the design of biodevices. Prescribed Texts Structures that include subject Chemical Sciences (CHEM)

@@ -1,0 +1,67 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Education Studies – Primary Teaching, Minor (0296)
+- Effective from:
+- Western Sydney University Minor Code:
+- The Education Studies - Primary Teaching minor is comprised of the four initial subjects from the Master of Teaching (Primary). This minor is only available to students enrolled in 3756 Bachelor of Science (Pathway to Teaching Primary/Secondary) program. Students can only enrol in TEAC 7032 Diversity, Social Justice and Schooling when they have achieved 120 credit points in their overall program. Students can only enrol in the other three subjects in the minor; TEAC 7156 Aboriginal, Education: Past, Present and Future, TEAC 7092 Primary Human Society and its Environment and TEAC 7161 Educational Psychology for Learning and Teaching when they have achieved 160 credit points in their overall program.
+- Location
+- Minor Structure Current
+- This structure applies to students who commenced in 2024 or later. If you commenced prior to 2024 please refer to the relevant Structure tab for details.
+- Students must complete 40 credit points as follows:
+- Students must have successfully completed 120 credit points of study before completing the following subject:
+- Students must have successfully completed 160 credit points of study before completing the following subjects:
+- Minor Structure 2023
+- This structure applies to students who commenced in 2023 or prior. If you commenced in 2024 or later, please refer to the relevant Structure tab for details.
+- Students must complete 40 credit points as follows.
+- Please note that students will not be able to enrol in TEAC 7023 until they have completed 120 credit points in the program.
+- Students will not be able to enrol in TEAC 7156, 7092 or 7149 until completion of 160 credit points in the program.
+- The subject listed below count towards completion of this minor for students who passed this subject in 2023 or earlier.
+- TEAC 7023 Culture, Subjectivities and Schooling, replaced by TEAC 7032 Diversity, Social Justice and Learning
+TEAC 7149 Understanding and Teaching Children, replaced by TEAC 7161 Educational Psychology for Learning and Teaching
+- TEAC 7032 Diversity, Social Justice and Learning
+- TEAC 7161 Educational Psychology for Learning and Teaching
+- Related Programs
+
+Location Table:
+- Bankstown City Campus
+- Full-time
+- Internal
+- Jaydene Barnes
+- Bankstown City Campus
+- Part-time
+- Internal
+- Jaydene Barnes
+- Kingswood Campus
+- Full-time
+- Internal
+- Jaydene Barnes
+- Kingswood Campus
+- Part-time
+- Internal
+- Jaydene Barnes
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+TEAC 7032Diversity, Social Justice and Schooling10
+TEAC 7156Aboriginal Education: Past, Present and Future10
+TEAC 7092Primary Human Society and its Environment10
+TEAC 7161Educational Psychology for Learning and Teaching10
+Total Credit Points40
+
+courselist table2:
+TEAC 7032Diversity, Social Justice and Schooling10
+
+courselist table3:
+TEAC 7156Aboriginal Education: Past, Present and Future10
+TEAC 7092Primary Human Society and its Environment10
+TEAC 7161Educational Psychology for Learning and Teaching10
+
+courselist table4:
+TEAC 7156Aboriginal Education: Past, Present and Future10
+TEAC 7032Diversity, Social Justice and Schooling10
+TEAC 7092Primary Human Society and its Environment10
+TEAC 7161Educational Psychology for Learning and Teaching10

@@ -1,0 +1,27 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Disability Studies, Minor (0252)
+- Western Sydney University Minor Code:
+- Previous Code: SM1146.1
+- Disability specialist expertise has become a growing area of demand in accordance with changing global policy and social service frameworks. Australia has followed these global trends, with the National Disability Insurance Scheme (NDIS) as the largest area of social policy reform since Medicare. Through this minor, students will develop their knowledge of disability: its history to contemporary times, disability rights, policy and governance, with a specialist focus on Indigenous Disability inclusion and mental health in the broader community.
+- Minor Structure
+- Students must complete the following four subjects
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- Dr Amie Matthews
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Autumn session
+WELF 1012Understanding Disability: Historical and Contemporary Frameworks10
+BEHV 2008Mental Health in the Community10
+WELF 3023Indigenous Disability and Inclusion10
+WELF 3021Disability Rights, Policy and Governance10
+Total Credit Points40

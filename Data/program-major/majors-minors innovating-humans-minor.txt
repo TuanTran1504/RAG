@@ -1,0 +1,42 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Innovating For Humans, Minor (0288)
+- Western Sydney University Minor Code:
+- Science, Technology, Engineering and Maths (STEM) are the enabling disciplines that have pushed us into a technological revolution that is seeing the boundaries between the physical, digital and biological worlds blur. When technology blends with biology we have the promise of a future world where we can all have healthier, more equitable and more productive lives. This takes transdisciplinary, innovative thinking, and an understanding of how humans interact with the world and the technology that can shape it. Students in this minor will learn how different disciplines combine to generate the thinking and creativity required to innovate and develop advanced products and innovations that can benefit humankind.
+- This minor is a Challenge Minor, which is an innovative transdisciplinary minor co-created with students as partners. With a Challenge Minor, your learning reaches beyond your discipline, giving you the chance to amplify your learning in new directions. For more information, visit the Challenge Minor website.
+- Location
+- Minor Structure
+- Students must complete 40 credit points subjects as follows.
+- This minor requires students to complete 40 credit points in a transdisciplinary program.
+
+Location Table:
+- Parramatta (Victoria Road)
+- Internal
+- C.Jones@westernsydney.edu.au
+- Parramatta City
+- Internal
+- C.Jones@westernsydney.edu.au
+- Hawkesbury
+- Internal
+- C.Jones@westernsydney.edu.au
+- Campbelltown
+- Internal
+- C.Jones@westernsydney.edu.au
+- Penrith
+- Internal
+- C.Jones@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Select three of the following:30
+TEAC 2054Scientific Discovery and Invention
+HLTH 2024Research Methods in Health
+INFO 3003Human-Computer Interaction
+ENGR 3023Biomechanics in Product Innovation
+Students must complete the following core subject:
+NATS 3051Innovation in Design and Delivery10
+Total Credit Points40

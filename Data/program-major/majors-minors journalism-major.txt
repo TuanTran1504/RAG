@@ -1,0 +1,74 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Journalism, Major (0069)
+- Western Sydney University Major Code:
+- Previous Code: M1067.1
+- The Journalism Major provides practical experience in preparing and presenting news and digital content for online, print and broadcast platforms. It provides an understanding of how the news media works and the importance of journalism in society. Students develop communication, journalism and  storytelling skills suitable for all forms of new, digital and traditional media, including community, corporate and niche platforms.
+- Location
+- *Curriculum delivered through an agreement with another party
+- Major Structure Current
+- This structure applies to students who commenced in 2024 or later. If you commenced prior to 2024 please refer to the Structure 2023 tab for details.
+- Students must complete 80 credit points as follows:
+- Level 1
+- Level 2
+- Level 3
+- Major Structure 2023
+- If you commenced in 2024 or later please refer to the Structure 2024 tab for details.
+- Creative Industries Students
+- Creative Industries students must complete their Introduction to major subject as part of the core requirements of the program prior to enrolling in this major.
+- All students must complete 80 credit points as follows
+- Level 2
+- Level 3
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+- Penrith Campus
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+- Online
+- Online
+- EnquiriesHCA@westernsydney.edu.au
+- Sydney City Campus*
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+COMM 1018News and Media Today10
+
+courselist table2:
+COMM 2027News Reporting10
+COMM 2022Journalism: Research and Investigation10
+COMM 2017Feature Writing10
+
+courselist table3:
+COMM 3025News Teams10
+COMM 3018Internship10
+COMM 3055Digital Story Production10
+COMM 3056Constructive News and Solutions Journalism10
+Total Credit Points80
+
+courselist table4:
+COMM 1018News and Media Today10
+
+courselist table5:
+COMM 2017Feature Writing10
+COMM 2022Journalism: Research and Investigation10
+COMM 2027News Reporting10
+COMM 2029Photo Journalism10
+Total Credit Points40
+
+courselist table6:
+COMM 3015Digital Journalism Production20
+COMM 3025News Teams10
+Select one of the following:10
+COMM 3018Internship
+COMM 3037Transmedia Production
+Total Credit Points40

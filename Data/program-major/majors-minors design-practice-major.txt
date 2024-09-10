@@ -1,0 +1,32 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Design Practice, Major (0225)
+- Western Sydney University Major Code:
+- Previous Code: M3129.1
+- Location
+- Major Structure
+- Students must complete 80 credit points as follows.
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- Specialisation advice
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+ENGR 4017Design Thinking for Competitive Advantage10
+ENGR 4019Start-Up Product Launch10
+BUSM 3005Creating Change and Innovation10
+ENGR 2029Simulation in Virtual and Augmented Realities10
+BUSM 3025Incubator 5: Operational Aspects of Entrepreneurship10
+MKTG 2002Incubator 1: Innovation and Creativity for Entrepreneurship10
+Select two of the following:20
+BUSM 2024Incubator 2: Start-up Essentials
+BLDG 4006Modern Construction Enterprises
+MKTG 2003Incubator 3: Product Development
+Total Credit Points80

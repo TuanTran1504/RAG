@@ -1,0 +1,30 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- International English, Minor (0018)
+- Western Sydney University Minor Code:
+- Previous Code: SM1139.1
+- International English engages students in a systematic and structured study of the English language and its variations across time and contexts. Students learn to recognise and work with the uses and features of the language that are essential to a wide range of social, academic and professional contexts. The minor provides a solid and comprehensive foundation for students who aim to work professionally with English in different contexts and countries, especially those intending to pursue post-graduate qualifications in education. The minor focuses on varieties and structures of English, informed by studies of English in specific discourse settings, and specifically aims to ensure that students understand the language and its use very well and that they possess a highly developed capacity to use English well across a range of contexts.
+- Location
+- Minor Structure
+- Students must complete the following four compulsory subjects:
+- Related Programs
+
+Location Table:
+- Bankstown City Campus
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+- Parramatta Campus - Victoria Road
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+TEAC 1012English as an International Language10
+TEAC 2025English Language Analysis10
+LANG 2055English Text10
+LANG 3099English Talk10
+Total Credit Points40

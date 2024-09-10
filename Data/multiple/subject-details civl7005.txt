@@ -1,0 +1,15 @@
+Academic Handbook Current Edition CIVL 7005 Advanced Numerical Methods in Engineering Credit Points 10 Legacy Code 301024 Coordinator Chin Leo Opens in new window Description The finite element method is an essential tool for the analysis and design of machine parts and civil engineering structures. The objective of this subject is to introduce the principles of finite element method and the applications of one, two and three dimensional elements in solving various engineering problems. School Eng, Design & Built Env Discipline Structural Engineering Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Postgraduate Coursework Level 7 subject Restrictions Students must be enrolled in a postgraduate program Assumed Knowledge Students should have prior knowledge of strain, stress and deflection analysis of simple structures as well as knowledge of energy principle for structural analysis. Learning Outcomes On successful completion of this subject, students should be able to: Apply the principles of finite element theory to analyse the mechanical behaviours of 1D, 2D and 3D structural components;
+Formulate finite element algebraic equations for elasticity;
+Determine the element stiffness matrices for 1D, 2D and 3D elements;
+Evaluate the workings and limitations of commercial finite element packages;
+Solve practical engineering problems by using finite element method. Subject Content 1. Constitutive stress-strain relationships in elasticity;
+2. Strain-displacement relationship;
+3. Potential energy in elastic body;
+4. Principle of minimum potential energy;
+5. Finite element method for 1D analysis;
+6. Shape functions;
+7. 2D plane stress analysis including triangular elements, quadrilateral elements;
+8. Finite elements for plates and shells;
+9. 3D solid elements;
+10. Constraints and pressure loadings;
+11. Stress and strain results. Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Quiz 1 hour each 40 N Individual N  Participation 2 pages each 5 N Individual N  Final Exam 2 hours 55 N Individual N Teaching Periods Spring (2024) Parramatta City - Macquarie St On-site Subject Contact Chin Leo Opens in new window View timetable Opens in new window Structures that include subject Bachelor of Research Studies (8083) Civil Engineering (CIVL) Civil and Environmental, Testamur Major (T111) Civil, Testamur Major (T033) Engineering, Testamur Major (T012) Mechanical and Mechatronic, Testamur Major (T112) Mechanical, Testamur Major (T036)

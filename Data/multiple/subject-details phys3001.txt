@@ -1,0 +1,15 @@
+Academic Handbook Current Edition PHYS 3001 Astroinformatics Credit Points 10 Legacy Code 300916 Coordinator Nicholas Tothill Opens in new window Description Modern astronomy is strongly driven by large datasets, which require advanced computing procedures to analyse. Students will learn about the science of stars, planets and galaxies; the use of computers in science; and how to formulate and solve challenging problems in modern science using high-level computer skills. These skills are highly transferable to other occupations. School Science Discipline Astronomy Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Restrictions Successful completion of 120 credit points Learning Outcomes On successful completion of this subject, students should be able to: Relate modern theories of solar system history to extrasolar planetary systems
+Analyse stellar datasets to detect and characterise exoplanets
+Analyse stellar datasets to find evidence of stellar evolution
+Analyse optical- and radio-astronomical data to create and interpret maps of the Milky Way Galaxy
+Classify external galaxies and explain the significance of their classification
+Analyse the structure of the cosmic microwave background and explain its significance Subject Content 1. Planetary astronomy
+2. Stellar Astronomy
+3. Exoplanetary Astronomy
+4. Galactic Astronomy
+5. Extragalactic Astronomy
+6. Cosmology
+7. Tools and Techniques - Imaging and Mapping
+8. Tools and Techniques - Spectroscopy and Datacubes
+9. Tools and Techniques - Data acquisition and Data structures
+10. Tools and Techniques - Data reduction and fitting Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Report Approx. 400 words each 50 N Individual N  Final Exam 2 hours 50 N Individual N Teaching Periods Spring (2024) Parramatta - Victoria Rd On-site Subject Contact Nicholas Tothill Opens in new window View timetable Opens in new window Structures that include subject Applied Physics, Testamur Major (T078) Astroinformatics, Minor (0096) Bachelor of Information and Communications Technology/Bachelor of Business (3737) Bachelor of Information and Communications Technology/Bachelor of Business (Accounting) (3738) Diploma in General Science (exit only) (7185) Physics and Astronomy (PHYS)

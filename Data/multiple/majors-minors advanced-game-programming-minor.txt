@@ -1,0 +1,35 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Advanced Game Programming, Minor (0091)
+- Western Sydney University Minor Code:
+- Previous Code: SM3096.1
+- Location
+- Minor Structure
+- Students must successfully complete 40 credit points as follows
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- Dr Anton Bogdanovych
+- Penrith Campus
+- Internal
+- Dr Anton Bogdanovych
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+INFS 2001Database Design and Development10
+Select one of the following:10
+COMP 2009Data Structures and Algorithms
+MATH 1014Mathematics 1A
+Select one of the following:10
+COMP 2008Computer Organisation
+MATH 1015Mathematics 1B
+Select one of the following:10
+INFS 3003Artificial Intelligence
+COMP 3013Mobile Applications Development
+Total Credit Points40

@@ -1,0 +1,45 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Games Development, Minor (0323)
+- Western Sydney University Minor Code:
+- Computer gaming is a prominent component of modern popular culture and is a major, worldwide industry. Developing computer gaming software requires core programming skills and an understanding of the principles behind computer graphics, physics, and linear algebra. Students develop this knowledge through practical, industry-relevant activities to design modules and games. Students also learn the structure of game engines and engine programming. This minor provides students with a solid skillset for games development.
+- Location
+- Students must complete 40 credit points as follows
+
+Location Table:
+- Campbelltown Campus
+- Full-time
+- Internal
+- cdms@westernsydney.edu.au
+- Campbelltown Campus
+- Part-time
+- Internal
+- cdms@westernsydney.edu.au
+- Parramatta Victoria Road Campus
+- Full-time
+- Internal
+- cdms@westernsydney.edu.au
+- Parramatta Victoria Road Campus
+- Part-time
+- Internal
+- cdms@westernsydney.edu.au
+- Penrith Campus
+- Full-time
+- Internal
+- cdms@westernsydney.edu.au
+- Penrith Campus
+- Part-time
+- Internal
+- cdms@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+COMP 10013D Modelling Fundamentals10
+MATH 2010Linear Algebra10
+COMP 2011Games Technology10
+COMP 3024Video Games Development10
+Total Credit Points40

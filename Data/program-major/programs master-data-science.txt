@@ -1,0 +1,201 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Master of Data Science (3735)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 089442E
+- This program applies to students who commenced in 2021 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- Commencement year 2016 - 3735.1 - Master of Data Science
+- Increasingly in the digital age data plays an important role in most, if not all, occupations. Extracting information from data has become a science in itself, blending skill sets from mathematics, statistics and computing. With a strong applications focus, this program covers the nature of data including Big and Unstructured Data, how to embark on data driven investigations and visual and computational analytics. The program graduates will have the knowledge and skills required to operate effectively in a data driven world.
+- Early Exits
+- Students may exit this program on completion of 40 credit points with a 3751 Graduate Certificate in Data Science or on completion of 80 credit points with a 3750 Graduate Diploma in Data Science
+- Study Mode
+- Two years full-time or four years part-time.
+- Program Advice
+- Program Advice
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Admission
+- Applicants must have successfully completed an undergraduate degree, or higher, in any discipline.
+- Additional Information
+- Previous experience of statistics or computer programming will be an advantage but is not essential.
+- Applicants with the following may be eligible to receive credit for prior learning up to 80 credit points:
+- OR
+- Applicants seeking admission on the basis of work experience must support their application with a Statement of Service for all work experience listed on the application.
+- Statement of Service form
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Qualification for this award requires the successful completion of 160 credit points as per the recommended sequence below.
+- Recommended Sequence
+- Full-time start-year intake
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 7011 Predictive Analytics, replaced by  COMP 7023 Predictive Analytics
+- MATH 7012 Programming for Data Science, replaced by COMP 7024 Programming for Data Science
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 7007 Genomic Data Science, replaced by  MATH 7017 Probabilistic Graphical Models
+- Full-time mid-year intake
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 7011 Predictive Analytics, replaced by  COMP 7023 Predictive Analytics
+- MATH 7012 Programming for Data Science, replaced by COMP 7024 Programming for Data Science
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 7007 Genomic Data Science, replaced by  MATH 7017 Probabilistic Graphical Models
+- Elective subjects
+- Students may select their electives from any program offered by the university, provided any requisite requirements are met.
+- Elective Spaces
+- Students may select their electives from any program offered by the university, provided any requisite requirements are met. Elective subjects must be at Postgraduate Level.
+- Students may use their elective subjects towards obtaining one of the approved Majors:
+- Alternatively, students may use their elective subjects towards completing 40 credit points from one of the following Master of Business Administration AACSB approved Majors.
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Full Time
+- Internal
+- See above
+- Parramatta Campus - Victoria Road
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+COMP 7024
+Programming for Data Science
+10
+MATH 7016
+The Nature of Data
+10
+COMP 7003
+Big Data
+10
+COMP 7016
+Visualisation
+10
+
+Credit Points
+40
+Spring session
+COMP 7006
+Data Science
+10
+MATH 7002
+Advanced Statistical Methods
+10
+COMP 7023
+Predictive Analytics
+10
+Select one elective
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+COMP 7025
+Social Media Intelligence
+10
+INFO 7016
+Postgraduate Project A
+10
+MATH 7017
+Probabilistic Graphical Models
+10
+MATH 7007 Genomic Data Science was replaced by MATH 7017 in 2021
+
+Select one elective
+10
+
+Credit Points
+40
+Spring session
+INFO 7001
+Advanced Machine Learning
+10
+INFO 7017
+Postgraduate Project B
+10
+Select two electives
+20
+
+Credit Points
+40
+
+Total Credit Points
+160
+Year 1
+Spring session
+Credit Points
+COMP 7006
+Data Science
+10
+COMP 7024
+Programming for Data Science
+10
+MATH 7016
+The Nature of Data
+10
+Select one elective
+10
+
+Credit Points
+40
+Autumn session
+COMP 7003
+Big Data
+10
+COMP 7016
+Visualisation
+10
+COMP 7025
+Social Media Intelligence
+10
+Select one elective
+10
+
+Credit Points
+40
+Year 2
+Spring session
+MATH 7002
+Advanced Statistical Methods
+10
+INFO 7001
+Advanced Machine Learning
+10
+COMP 7023
+Predictive Analytics
+10
+INFO 7016
+Postgraduate Project A
+10
+
+Credit Points
+40
+Autumn session
+MATH 7017
+Probabilistic Graphical Models
+10
+MATH 7007 Genomic Data Science was replaced by MATH 7017 in 2021
+
+INFO 7017
+Postgraduate Project B
+10
+Select two elecitves
+20
+
+Credit Points
+40
+
+Total Credit Points
+160
+
+Courselist Tables:

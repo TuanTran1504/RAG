@@ -1,0 +1,36 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Enterprise Systems and Architectures, Testamur Major (T151)
+- Western Sydney University Major Code:
+- This major is for highly motivated students who wish to enhance their experience and further their career opportunities through work-integrated learning. Most subjects in the major offer placements with industry partners, including a six-month internship. The internships are offered by our industry partners, such as DXC, which is the main supplier of the technology for the Aerotropolis infrastructure. There is a limited number of internships available each year; hence students will need to perform at an advanced level to secure one of these. Undertaking the internship will strongly increase the landing of a permanent position with target industry partners upon graduation. The major covers theories and technologies used for the development of large-scale infrastructure projects and the systems and integration that go along with projects of this size. Students will better understand the development and management processes related to each phase of the project and development life cycle. In addition, they will identify, analyse, and formulate solutions to real-world problems that occur in large-scale infrastructure projects. In devising these solutions students will consider principles associated with user interface design, professional and ethical issues, in particular, those relating to security and privacy of customer data and customer behaviour. Students who fail to secure an internship will be transferred to the Software Development major to be able to complete their ICT studies.
+- Structure
+- Students must complete 80 credit points as follows
+- Related Programs
+
+Location Table:
+- Campbelltown
+- FT and PT
+- Internal
+- Program Advice
+- Parramatta - Victoria Road
+- FT and PT
+- Internal
+- Program Advice
+- Penrith
+- FT and PT
+- Internal
+- Program Advice
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+MATH 1006Discrete Mathematics10
+COMP 2029DevOps10
+COMP 3036Full Stack Development10
+COMP 3012Introduction to Cloud Computing10
+INFO 5001Workflow Management for Business Solutions10
+COMP 3038Professional ICT Internship30
+Total Credit Points80

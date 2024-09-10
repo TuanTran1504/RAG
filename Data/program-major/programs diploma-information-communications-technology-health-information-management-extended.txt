@@ -1,0 +1,91 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Diploma in Information and Communications Technology (Health Information Management) Extended (7141)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 094503K
+- This program is suspended from Term 1, 2025, no new students will be admitted from this session.
+- This program applies to students who commenced in Term 1, 2018 or later.
+- This program is designed to provide students with the first year subjects included in the Information and Communications Technology (Health Information Management) degree. The inclusion of additional preparatory subjects is designed to assist students in the transition to study at University level. The Diploma is delivered via extended face to face hours in smaller learning environments.
+- Students who successfully complete this Diploma will articulate into the Information and Communications Technology (Health Information Management) degree with up to one year (80 credit points) equivalent of advanced standing.
+- Study Mode
+- One and a half years full-time (four terms). Students will be required to attend the Kingswood or Parramatta South campus for some learning experiences.
+- Program Advice
+- Miriam Krakovska
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Admission
+- Recent School Leavers
+- Completion of Year 12 with specified ATAR to be determined year by year.
+- Non-credentialed Students
+- Australian Citizens and Permanent Residents who are aged 17 years or over.
+- International Students
+- IELTS 5.5 with minimum 5.0 in each sub band; or equivalent results from The College English Language Program or The College English Entrance Test; and completion of year 11 or equivalent with specified results.
+- Program Structure
+- Qualification for this award requires the successful completion of 140 credit points which include the subjects listed in the pathways below.
+- Local recent school leavers and Non-credentialed applicants
+- International students
+
+Location Table:
+- The College - Nirimba Education Precinct
+- Full Time
+- Internal
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Students must be enrolled in 7141 Diploma in Information and Communications Technology (Health Information Management) Extended to complete this field of study.
+Students must pass all Preparatory subjects (WSTC Prep) for which no advanced standing will be granted in the University degree program.
+Students must pass 40 credit points from the Preparatory subjects (Level Z) prior to enrolling in the University level subjects (WSTC).
+Term 1 of Study
+LANG 0012Academic and Professional Communication (WSTC Prep)10
+INFO 0001Academic Skills for Information Communications Technology (WSTC Prep)10
+INFO 0010Information Technology in Business (WSTC Prep)10
+MATH 0006Mathematics 1 (WSTC Prep)10
+Term 2 of Study
+GEDU 0010Tertiary Study Skills in Information and Communications Technology (WSTC Prep)0
+COMP 0003Programming Design (WSTC Prep)5
+MATH 0008Mathematics 2 (WSTC Prep)10
+COMM 1027Principles of Professional Communication 1 (WSTC)10
+INFS 2005Introduction to Health Informatics (WSTC)10
+Term 3 of Study
+MATH 0028Statistics for Academic Purposes (WSTC Prep)5
+INFS 1007Systems Analysis and Design (WSTC)10
+COMP 1006Programming Fundamentals (WSTC)10
+INFS 2003Database Design and Development (WSTC)10
+Term 4 of Study
+COMP 2006Computer Networking (WSTC)10
+MATH 1029Statistical Decision Making (WSTC)10
+COMP 2017Programming Techniques (WSTC)10
+
+courselist table2:
+Students must be enrolled in 7141 Diploma in Information and Communications Technology (Health Information Management) Extended to complete this field of study.
+Students must pass all Preparatory subjects (WSTC Prep) for which no advanced standing will be granted in the University degree program.
+Students must pass 40 credit points from the Preparatory subjects (Level Z) prior to enrolling in the University level subjects (WSTC).
+Term 1 of Study
+LANG 0012Academic and Professional Communication (WSTC Prep)10
+LANG 0026English for International Students 1 (WSTC Prep)0
+INFO 0001Academic Skills for Information Communications Technology (WSTC Prep)10
+INFO 0010Information Technology in Business (WSTC Prep)10
+MATH 0006Mathematics 1 (WSTC Prep)10
+Term 2 of Study
+GEDU 0010Tertiary Study Skills in Information and Communications Technology (WSTC Prep)0
+COMP 0003Programming Design (WSTC Prep)5
+MATH 0008Mathematics 2 (WSTC Prep)10
+COMM 1027Principles of Professional Communication 1 (WSTC)10
+INFS 2005Introduction to Health Informatics (WSTC)10
+Term 3 of Study
+MATH 0028Statistics for Academic Purposes (WSTC Prep)5
+INFS 1007Systems Analysis and Design (WSTC)10
+COMP 1006Programming Fundamentals (WSTC)10
+INFS 2003Database Design and Development (WSTC)10
+Term 4 of Study
+COMP 2006Computer Networking (WSTC)10
+MATH 1029Statistical Decision Making (WSTC)10
+COMP 2017Programming Techniques (WSTC)10

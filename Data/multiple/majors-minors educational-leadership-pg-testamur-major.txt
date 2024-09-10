@@ -1,0 +1,37 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Educational Leadership, Testamur Major (T134)
+- Western Sydney University Major Code:
+- Previous Code:  ST1016.1
+- This major is designed for teachers and educators seeking to develop the dual capacity to lead teaching and learning as well as lead organisations in an ever-changing business climate. Educational leadership subjects are drawn from the School of Education and the School of Business, providing professionals with comprehensive skills, knowledge and competencies to design original evidence-based investigations and analyse and synthesise a range of data about complex problems to reframe problems and generate solutions. Focusing on theory and practice, the specialisation has significant application to the workplace. Subjects in this specialisation are offered across Autumn/Spring sessions and Quarter sessions, as identified in the subject handbook entries. Please note that the Education Leadership major is fully online therefore onshore international student visa holders are unable to enrol in this major.
+- Location
+- Major Structure
+- Students will select from the major subjects that are on offer in any given semester. Major subjects can be studied in any order.
+- Students must successfully complete 60 credit points as listed below.
+- Related Programs
+
+Location Table:
+- Online
+- 
+- Online
+- Dr Erin Mackenzie
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+CEDS 7003Research Methods in Education10
+Select five of the following:50
+TEAC 7068Learning and Teaching in Challenging Contexts
+HUMN 7027Leading Change
+TEAC 7026Designing Curriculum Futures
+TEAC 7100Principles and Practices of Evaluation
+TEAC 7063Leadership, Mentoring and Professional Growth
+TEAC 7041Effective Working Relationships
+TEAC 7065Leading Mathematics in the Primary School
+ACCT 7012Corporate Finance
+COMP 7006Data Science
+BUSM 7058Leading Contemporary Organisations
+Total Credit Points60

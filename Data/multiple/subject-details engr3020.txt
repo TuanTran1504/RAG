@@ -1,0 +1,20 @@
+Academic Handbook Current Edition ENGR 3020 Numerical Methods in Engineering Credit Points 10 Legacy Code 300488 Coordinator Haiping Zhu Opens in new window Description The finite element method is a powerful numerical tool for analysing a wide range of engineering problems. The objective of this subject is to introduce the basic and fundamental principles of the finite element techniques by primarily focusing on their applications in the area of structural, solid and soil mechanics. School Eng, Design & Built Env Discipline Other Engineering And Related Technologies Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Pre-requisite(s) MATH 1019 AND
+MECH 2003 Learning Outcomes On successful completion of this subject, students should be able to: Apply the basic principles of finite element theory to analyse the mechanical behaviours of beams, trusses, frames and 2D plane stress and plane strain problems;
+Formulate finite element algebraic equations for elasticity;
+Explain the workings and limitations of commercial finite element packages;
+Apply finite element programs to solve practical engineering problems. Subject Content Constitutive stress-strain relationships in elasticity
+Strain-displacement relationship
+Potential energy in elastic body
+Principle of minimum potential energy
+Finite element method for bar, beam, frame and truss analysis
+Governing equations of elasticity
+Shape functions
+Plane analysis
+Two dimensional and axisymmetric finite element analysis
+Linear triangular element,
+Four noded quadrilateral element
+Higher order elements (six-noded triangle and 8-noded quadrilateral Element)
+Solver appreciations
+Constraints and pressure loadings
+Stress and strain results
+Sources of errors Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Quiz 20 mins for each tutorial quiz, and 45 mins for each practical quiz 40 N Individual N  Numerical Problem Solving 1 hour each 5 N Individual N  Final Exam 2 hours 55 N Individual Y Teaching Periods Sydney City Campus - Term 1 (2024) Sydney City On-site Subject Contact Haiping Zhu Opens in new window View timetable Opens in new window Spring (2024) Penrith (Kingswood) On-site Subject Contact Haiping Zhu Opens in new window View timetable Opens in new window Parramatta City - Macquarie St On-site Subject Contact Haiping Zhu Opens in new window View timetable Opens in new window Sydney City Campus - Term 3 (2024) Sydney City On-site Subject Contact Haiping Zhu Opens in new window View timetable Opens in new window Structures that include subject Civil Engineering, Testamur Major (T131) Civil, Testamur Major (T033) Materials Engineering, Testamur Major (T128) Mechanical Engineering, Testamur Major (T103) Mechanical and Industrial Eng. (MECH) Mechanical, Testamur Major (T036) Other Engr. and Related Tech (ENGR)

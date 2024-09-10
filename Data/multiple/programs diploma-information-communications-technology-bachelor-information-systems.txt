@@ -1,0 +1,186 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Diploma in Information and Communications Technology / Bachelor of Information Systems (6040)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 096986C
+- This program is suspended from Term 1, 2025, no new students will be admitted from this session.
+- This program applies to students who commenced in Term 1, 2018 or later.
+- This program will allow students to complete the Diploma in Information and Communications Technology together with the Bachelor of Information Systems. In addition to providing core competencies in technology related skills, the Diploma in ICT will also prepare students to study and research at the University level in the supportive environment.
+- Information Systems is a growing field. Each technology implementation requires careful planning, business analysis and the identification of goals systems implemented would need to meet, so that organisations and groups can achieve required goals. By undertaking this program students will also learn about database implementations, programming, web and mobile developments, networking, systems deployment, social media, data analytics and security. This program will also give students the opportunity to learn and engage with business while undertaking their program.
+- This program has the exit point Diploma in Information and Communications Technology at the end of the first year.
+- Early Exit
+- Students may exit this program on completion of 100 credit points with a 7163 Diploma in Information and Communications Technology
+- Study Mode
+- Three years full-time or six years part-time.
+- Students will be required to attend the Kingswood or Parramatta South campus for some learning experiences.
+- Program Advice
+- For program advice during your first year of study, please contact The College: College Program Enquiries
+- For program advice during your second and subsequent years of study, please use the contact listed for the Bachelor of Information Systems.
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Students will study at the WSU The College Nirimba campus in their first year of study.
+- From second year onwards, students will study on Parramatta (Victoria Rd) campus.
+- Accreditation
+- The Bachelor of Information Systems is accredited by the Australian Computer Society.
+- Work Integrated Learning
+- There is a mandatory work component required for completion of this program.  Please contact the Program Advisor listed above for information.
+- International students should also refer to the link below for more information and a link to the Commonwealth Register of Institutions and Courses for Overseas Students (CRICOS).
+- Work Integrated Learning (WIL) for international students
+- Admission
+- For more information on applying please see link to The College admission pages below.
+- https://www.westernsydney.edu.au/thecollege/how_to_apply
+- Domestic students are required to have:
+- Students are also assumed to have completed a Mathematics subject, equivalent to the Mathematics subject in the NSW Higher School Certificate.
+- Met other entry requirements such as:
+- International students must satisfy one of the following language requirements
+- Academic Entry Requirements vary according to country of origin. However, in general:
+- Recommended Sequence
+- Qualification for this award requires the successful completion of 260 credit points which include the subjects listed in the recommended sequence below.
+- Western Sydney University The College Subjects
+- Nirimba and Parramatta City (George Street) Campus
+- Please note that all campuses may not have intakes each year.
+- Students may exit at this point and graduate with the Diploma in ICT following a passing grade in all of the above subjects.
+- Students who progress to Year Two may also be awarded the Diploma if they gain a passing grade in all of the above subjects.
+- Western Sydney University Subjects
+- For program advice during your second and subsequent years of study, please use the contact listed for the Bachelor of Information Systems.
+- Bachelor of Information Systems
+- Parramatta (Victoria Road) Campus
+- Suggested Majors and Minors
+- Majors
+- Parramatta Campus
+- Minors
+- Parramatta Campus
+- The minors listed below count towards completion of this program for students who began studying these minors prior to the years indicated.
+- SM3089 Statistics, Minor, discontinued 2020
+
+Location Table:
+- Parramatta Campus - Victoria Road2
+- Full Time
+- Internal
+- See above
+- The College - Nirimba Education Precinct1
+- Full Time
+- Internal
+- See above
+
+Sequence Tables:
+Trimester 1
+Credit Points
+GEDU 0010
+Tertiary Study Skills in Information and Communications Technology (WSTC Prep)
+0
+COMP 0003
+Programming Design (WSTC Prep)
+5
+MATH 0008
+Mathematics 2 (WSTC Prep)
+10
+COMM 1027
+Principles of Professional Communication 1 (WSTC)
+10
+INFS 1003
+Information Systems in Context (WSTC)
+10
+
+Credit Points
+35
+Trimester 2
+MATH 0028
+Statistics for Academic Purposes (WSTC Prep)
+5
+INFS 1007
+Systems Analysis and Design (WSTC)
+10
+COMP 1006
+Programming Fundamentals (WSTC)
+10
+INFS 2003
+Database Design and Development (WSTC)
+10
+
+Credit Points
+35
+Trimester 3
+COMP 2006
+Computer Networking (WSTC)
+10
+MATH 1029
+Statistical Decision Making (WSTC)
+10
+MATH 2013
+Object Oriented Analysis (WSTC)
+
+From Term 2 2022 MATH 2013 replaced by INFS 2011
+10
+INFS 2011
+Object Oriented Analysis (WSTC)
+
+
+Credit Points
+30
+
+Total Credit Points
+100
+Year 2
+Autumn session
+Credit Points
+COMP 2020
+Technologies for Web Applications
+10
+INFO 3003
+Human-Computer Interaction
+10
+Select two electives
+20
+
+Credit Points
+40
+Spring session
+INFO 3001
+Computer Security
+10
+INFS 3012
+Information Systems Deployment and Management
+10
+COMP 3013
+Mobile Applications Development
+10
+Select one elective
+10
+
+Credit Points
+40
+Year 3
+Autumn session
+INFO 3008
+Professional Development
+10
+INFS 3006
+Emerging Trends in Information Systems
+10
+Select two electives
+20
+
+Credit Points
+40
+Spring session
+COMP 3018
+Professional Experience
+10
+INFO 3011
+Social Computing
+10
+Select two electives
+20
+
+Credit Points
+40
+
+Total Credit Points
+160
+
+Courselist Tables:

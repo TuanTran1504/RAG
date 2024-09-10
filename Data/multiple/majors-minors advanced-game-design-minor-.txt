@@ -1,0 +1,26 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Advanced Game Design, Minor (0090)
+- Western Sydney University Minor Code:
+- Location
+- Students must successfully complete 40 credit points as follows
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- Dr Anton Bogdanovych
+- Penrith Campus
+- Internal
+- Dr Anton Bogdanovych
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+COMM 1015Foundations of Media Arts and Production10
+DESN 1018Visual Storytelling10
+COMM 2019Interactive Design: Games10
+ENGR 1038Design Graphics: Presenting Innovation10
+Total Credit Points40

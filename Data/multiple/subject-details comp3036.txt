@@ -1,0 +1,30 @@
+Academic Handbook Current Edition COMP 3036 Full Stack Development Credit Points 10 Description Full Stack Development delivers in-depth knowledge of systems development. Students learn how to develop, test and integrate client (front-end) and server (back-end) parts of the software system. The subject will explore various options for the client-server data communication, using either REST APIs, sockets for live subscriptions or graph-based solutions. The subject focuses also on various testing approaches (i.e. unit, integration and end to end), continuous delivery, containerisation with Docker, integration and deployment procedures. Students use versioning control and engage with the Github platform for project management and quality control; developing authentic, real-world projects. 
+
+Based on the performance in the subject, a selected number of students will have the opportunity to undergo a week-long placement with a target business partner. Students doing the placement will work on industry projects assessed by professional staff at their placement venue. School Computer, Data & Math Sciences Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Pre-requisite(s) COMP 3028 Learning Outcomes After successful completion of this Unit, students will be able to: Apply programming skills using  Javascript, Typescript, HTML, CSS, JSX, SQL and NoSQL.
+Develop applications in popular front-end frameworks such as React.  
+Design processes for implementation, maintenance and continuous integrations of full stack software systems.
+Apply appropriate strategies, technologies and architectures during development of full stack systems.
+Communicate designs and strategies to a diverse audience following professional practice standards. Subject Content • Front and back-end development 
+o Javascript
+o Typescript
+o Python
+o CSS
+o HTML
+o JSX • Full-stack frameworks
+o Node.js (React, Vue, Svelte)
+o Python (Django)
+o Ruby (Rails) •Containerisation •Database Management
+o SQL
+o No-SQL • API Development
+o GraphQL
+o REST API
+o Subscriptions
+o Socket Programming • Version Control
+o Git
+o Github • Quality Assurance
+o Continuous Integration (CI)
+o Continuous Development  (CD)
+o Unit Testing
+o Integration Testing
+o End to End Testing • Deployment o Open-Source Development
+o Packaging • Licensing • Project Management Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Practical Written submissions & workshop demonstrations delivered progressively through the semester. 30 N Individual N  Applied Project Part A: Implementation of full-stack system  Part B: 15 minutes 50 Y Individual Y  End-of-session Exam 1 hour 20 N Individual N Students doing the Placement The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Practical Written submissions & workshop demonstrations delivered progressively through the semester 30 N Individual N  Applied Project Part A: Implementation of full-stack system  Part B: 15 minutes   Part C: 1500 Words 50 N Individual Y  End-of-session Exam 1 hour 20 N Individual N Structures that include subject Bachelor of Information and Communications Technology (3639) Computer Science (COMP) Cyber Security and Ethical Hacking, Testamur Major (T145) Diploma/Bachelor of Information and Communications Technology (6039) Enterprise Systems and Architectures, Testamur Major (T151) Multimedia Computing, Testamur Major (T147) Software Development, Testamur Major (T148)

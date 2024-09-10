@@ -1,0 +1,36 @@
+Academic Handbook Current Edition PHYS 7003 Space Science, Planetary Science and Meteorology Credit Points 10 Legacy Code 301249 Coordinator Luke Barnes Opens in new window Description This subject examines the six key priorities of the Australian Space Agency: communication, space debris monitoring, navigation and positioning, Earth observation, space technology research and development, and remote asset management. Students will examine the Sun and Solar System, planetary science, meteorology, and the physics of rockets and satellites. Students will explore the interconnections between the Earth land, ocean, atmosphere, and life of our planet in the era of modern satellite technologies. These include the critical review of our understanding about the cycles of water, carbon, rock, and other materials that continuously shape, influence, and sustain Earth and its inhabitants. Students will also be able to design new models of the cyclical interactions between the Earth system and the Sun, Moon and will discover the fundamental processes which define our Universe and our planet. School Science Discipline Astronomy Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Postgraduate Coursework Level 7 subject Restrictions Students must be enrolled in a postgraduate program. Assumed Knowledge Knowledge of Mathematics equivalent to 2-unit HSC, and experience with the use of computer software such as Excel or Word would be beneficial. Previous experience of statistics or computer programming will be an advantage but is not essential. Learning Outcomes On successful completion of this subject, students should be able to: Scientifically evaluate the overall structure of our cosmic habitat (Earth & its environment).
+Assess and recommend appropriate solutions to basic problems in modern space physics regarding gravity and radiations including a direct implication of the Sun�fs future evolution.
+Appraise the forces that shape the interior, surface and atmospheres of rocky and gaseous (extra) solar planets.
+Apply integrated knowledge of a range of scientific inventories of the Solar System and the Earth�fs weather systems in physical terms
+Assess the basics of modern space rocket design including the next generation of micro satellites.
+Critique the challenges of launching and maintaining satellites in space.
+Evaluate large scale climate changes on Earth and other types of planets. Subject Content This subject will be organised around providing the necessary scientific background for the six priorities of the Australian Space Agency: communication, space debris monitoring, navigation and positioning, Earth observation, space technology research and development, and remote asset management.
+-Introduction to Space Science
+oMeasuring the night sky: telescopes, magnitudes and the celestial sphere
+oOur cosmic habitat: planets, stars, galaxies and expanding space
+oThe physics of space 1: gravity and orbits
+oThe physics of space 2: radiation and plasmas
+-The Sun
+oStructure, nuclear reactions and energy transport
+oSolar atmosphere and the solar wind
+-The Solar System
+oThe planets and their moons
+oAsteroids, the heliosphere and the outer solar system
+-Planetary Science
+oInteriors: pressure, magnetism and heat in rocky and gaseous planets
+oSurfaces: plate tectonics, oceans and impacts
+oAtmospheres 1: structure and composition
+oAtmospheres 2: Sources and transport of energy
+-Meteorology
+oFluids: temperature, pressure, density
+oMoisture and cloud formation
+oWeather systems: wind, precipitation and storms
+-Getting into space: the physics of rockets
+oSpacecraft Design and Fabrication
+oLife Support for Human Spaceflight
+oTrajectories and the atmosphere
+oBasic rocket design: thrust and propellants
+-Staying in space: the physics of satellites
+oTrajectories and Orbits
+oBasic satellite design 1: altitude control, stabilisation, thermal control and shielding
+oBasic satellite design 2: detectors, antennae and communicating with Earth Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Case Study 2,000 words 40 N Individual N  Critical Review Up to 1,500 words 30 N Individual N  Quiz 1 hour 30 N Individual N Structures that include subject Bachelor of Research Studies (8083) Graduate Certificate in Science (exit only) (3776) Graduate Diploma in Science (exit only) (3777) Master of Science (3749) Physics and Astronomy (PHYS) Space Science, Testamur Major (T030)

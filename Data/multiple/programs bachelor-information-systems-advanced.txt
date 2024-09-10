@@ -1,0 +1,525 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Bachelor of Information Systems Advanced (3688)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 079493K
+- This program applies to students who commenced in 2022 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- Commencement 2014 – 3688.1 Bachelor of Information Systems Advanced
+- The Bachelor of Information Systems Advanced degree aims to provide students with an in-depth understanding of advanced information technology concepts and their strategic application in complex business environments. The program's objectives are to cultivate specialised expertise in curriculum areas and emerging technologies such as big data analytics, cloud computing, artificial intelligence, and cybersecurity. Students will develop critical thinking, problem-solving, and research skills, enabling them to address intricate IT challenges and drive innovation. Through a rigorous curriculum, hands-on projects, and industry collaboration, graduates will be well-equipped to pursue advanced careers in IT management, technology consulting, data science, and business analysis, contributing to cutting-edge advancements in information systems.
+- Bachelor of Information Systems Brochure
+- Study Tour 2016 Information Systems Student Engagements
+- Study Mode
+- Three years full-time.
+- Program Advice
+- CDMS@westernsydney.edu.au
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Accreditation
+- The Bachelor of Information Systems Advanced is accredited with the Australian Computer Society (ACS) at Professional Level.
+- Work Integrated Learning
+- There is a mandatory work component required for completion of this program.  Please contact the Program Advisor listed above for information.
+- International students should also refer to the link below for more information and a link to the Commonwealth Register of Institutions and Courses for Overseas Students (CRICOS).
+- Work Integrated Learning (WIL) for international students
+- Admission
+- Assumed Knowledge: HSC Mathematics and any two units of HSC English
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- International students currently completing an Australian Year 12 in or outside Australia, an International Baccalaureate in Australia or a New Zealand National Certificate of Educational Achievement (NCEA) level 3 must apply via UAC International.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Program Structure 2025
+- Students within the advanced degree are required to complete six advanced subjects.
+- Compulsory Advanced Subjects
+- Advanced degrees are available with Business and Law.
+- Bachelor of Information Systems Advanced/Bachelor of Business
+- Bachelor of Information Systems Advanced/Bachelor of Law
+- Recommended Sequence
+- Qualification for this award requires the successful completion of 240 credit points which include the subjects listed in the recommended sequences below.
+- Full-time start-year intake
+- Full-time mid-year intake
+- Majors
+- Minors
+- Major and Minor elective spaces
+- Global Sustainability Minor   Indigenous Australian Studies Major    Indigenous Australian Studies Minor
+- Equitable Technologies Urban Evolution Migration and Global Change    Personal Innovation     Innovating, Creating and Problem Solving  Eco-Socially Conscious Design and Manufacturing Water for Life  Climate Justice Creative and Visual Communication Global Workplaces Innovating For Humans Creative Living for Cultural Wellbeing Ideate. Strategise. Innovate.  Humanising Data
+- For more information, visit the Challenge Minor website.
+- Search for majors and minors
+- Students can apply for an elective major or minor via Western Now.
+- WesternNow
+- Program Structure 2022 - 2024
+- Students within the advanced degree are required to complete six advanced subjects.
+- Compulsory Advanced Subjects
+- Advanced degrees are available with Business and Law.
+- Bachelor of Information Systems Advanced/Bachelor of Business
+- Bachelor of Information Systems Advanced/Bachelor of Law
+- Recommended Sequence 2022 - 2024
+- Qualification for this award requires the successful completion of 240 credit points which include the subjects listed in the recommended sequences below.
+- Full-time start-year intake
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2023 or earlier.
+- INFO 3001 Computer Security
+- COMM 1026 Principles of Professional Communication 1
+- Full-time mid-year intake
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2023 or earlier.
+- INFO 3001 Computer Security
+- COMM 1026 Principles of Professional Communication 1
+- Majors
+- All majors and minors available to program Bachelor of Information Systems are also available to those enrolled in program Bachelor of Information Systems Advanced.
+- Majors
+- Elective Minors
+- Students in Advanced programs may use elective subjects toward obtaining an additional approved minor in Applied Leadership or Critical Thinking.
+- Applied Leadership, Minor
+- Critical Thinking, Minor
+- Minor elective spaces
+- Global Sustainability Minor  Indigenous Australian Studies Minor
+- Equitable Technologies Urban Evolution Migration and Global Change   Personal Innovation     Innovating, Creating and Problem Solving  Eco-Socially Conscious Design and Manufacturing Water for Life  Climate Justice Creative and Visual Communication Global Workplaces Innovating For Humans  Creative Living for Cultural Wellbeing   Ideate.Strategise.Innovate. Humanising Data
+- For more information, visit the Challenge Minor website.
+- Search for majors and minors
+- Students can apply for an elective minor via Western Now.
+- WesternNow
+- The majors and minors listed below count towards completion of this program for students who began studying these majors and minors prior to the years indicated.
+- M3017, Interactive Analytics, Major, replaced by Interactive Analytics, Major in 2020 (listed above).
+M3070 Networking, Major, replaced by Networking, Major in 2017 (listed above).
+SM3055 Networking, Minor, replaced by Networking, Minor in 2017 (listed above).
+SM3089 Statistics, Minor, discontinued 2020
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Full Time
+- Internal
+- See above
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+COMP 1005
+Programming Fundamentals
+10
+INFO 1003
+Professional Practice, Communication and Ethics
+10
+BUSM 1042
+Introduction to Business Analytics
+10
+ACCT 1005
+Accounting in Context
+10
+
+Credit Points
+40
+Spring session
+COMP 2005
+Computer Networking (Advanced)
+10
+INFS 2002
+Database Design and Development (Advanced)
+10
+INFS 1016
+Digital Transformation and Design Thinking
+10
+Select one elective or Major/Minor subject
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+INFS 2012
+Digital Technologies and Security
+10
+INFO 3004
+Human-Computer Interaction (Advanced)
+10
+INFS 2014
+Systems Analysis and Design (Advanced)
+10
+Select one elective or Major/Minor subject
+10
+
+Credit Points
+40
+Spring session
+INFO 3019
+Project Management
+10
+INFS 3024
+Enterprise Architecture
+10
+Select two electives or Major/Minor subjects
+20
+
+Credit Points
+40
+Year 3
+Autumn session
+INFS 3023
+Advanced Systems Development Methodologies
+10
+INFS 3007
+Emerging Trends in Information Systems (Advanced)
+10
+Select two electives or Major subjects
+20
+
+Credit Points
+40
+Spring session
+COMP 3019
+Professional Experience (Advanced)
+10
+INFS 3027
+Social Computing and Systems Thinking
+10
+Select two electives or Major/Minor subjects
+20
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Spring session
+Credit Points
+COMP 1005
+Programming Fundamentals
+10
+ACCT 1005
+Accounting in Context
+10
+INFS 2002
+Database Design and Development (Advanced)
+10
+INFS 1016
+Digital Transformation and Design Thinking
+10
+
+Credit Points
+40
+Autumn session
+INFO 1003
+Professional Practice, Communication and Ethics
+10
+BUSM 1042
+Introduction to Business Analytics
+10
+INFS 2012
+Digital Technologies and Security
+10
+INFS 2014
+Systems Analysis and Design (Advanced)
+10
+
+Credit Points
+40
+Year 2
+Spring session
+COMP 2005
+Computer Networking (Advanced)
+10
+INFO 3019
+Project Management
+10
+Select two electives or Major/Minor subjects
+20
+
+Credit Points
+40
+Autumn session
+INFS 3023
+Advanced Systems Development Methodologies
+10
+INFO 3004
+Human-Computer Interaction (Advanced)
+10
+Select two electives or Major/Minor subjects
+20
+
+Credit Points
+40
+Year 3
+Spring session
+INFS 3027
+Social Computing and Systems Thinking
+10
+INFS 3024
+Enterprise Architecture
+10
+Select two electives or Major/Minor subjects
+20
+
+Credit Points
+40
+Autumn session
+INFS 3007
+Emerging Trends in Information Systems (Advanced)
+10
+COMP 3019
+Professional Experience (Advanced)
+10
+Select two electives or Major/Minor subjects
+20
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Autumn session
+Credit Points
+COMP 1005
+Programming Fundamentals
+10
+COMM 1026
+Principles of Professional Communication 1
+
+Note: From Autumn 2024 COMM 1026 is replaced by COMM 1044
+10
+COMM 1044
+Professional Communication
+
+INFS 1015
+Systems Analysis and Design (Advanced)
+10
+INFS 1002
+Information Systems in Context
+10
+
+Credit Points
+40
+Spring session
+MATH 1030
+Statistics for Business
+10
+Select one of the following:
+10
+COMP 2004
+Computer Networking
+
+COMP 2005
+Computer Networking (Advanced)
+
+Select one of the following:
+10
+INFS 2001
+Database Design and Development
+
+INFS 2002
+Database Design and Development (Advanced)
+
+Select one elective
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+COMP 2020
+Technologies for Web Applications
+10
+Select one of the following:
+10
+INFO 3003
+Human-Computer Interaction
+
+INFO 3004
+Human-Computer Interaction (Advanced)
+
+Select two electives
+20
+
+Credit Points
+40
+Spring session
+INFO 3001
+Computer Security
+10
+COMP 2027
+Cyber Security
+10
+From Autumn 2024 INFO 3001 is replaced by COMP 2027
+
+INFS 3012
+Information Systems Deployment and Management
+10
+COMP 3013
+Mobile Applications Development
+10
+Select one elective
+10
+
+Credit Points
+50
+Year 3
+Autumn session
+INFO 3008
+Professional Development
+10
+INFS 3006
+Emerging Trends in Information Systems
+10
+Select two electives
+20
+
+Credit Points
+40
+Spring session
+COMP 3019
+Professional Experience (Advanced)
+10
+INFO 3011
+Social Computing
+10
+Select two electives
+20
+
+Credit Points
+40
+
+Total Credit Points
+250
+Year 1
+Spring session
+Credit Points
+INFS 1002
+Information Systems in Context
+10
+MATH 1030
+Statistics for Business
+10
+COMP 1005
+Programming Fundamentals
+10
+Select one elective
+10
+
+Credit Points
+40
+Autumn session
+COMM 1026
+Principles of Professional Communication 1
+
+Note: From Autumn 2024 COMM 1026 is replaced by COMM 1044
+10
+COMM 1044
+Professional Communication
+
+INFS 1015
+Systems Analysis and Design (Advanced)
+10
+Select two electives
+20
+
+Credit Points
+40
+Year 2
+Spring session
+INFO 3001
+Computer Security
+10
+COMP 2027
+Cyber Security
+10
+From Autumn 2024 INFO 3001 is replaced by COMP 2027
+
+INFS 3012
+Information Systems Deployment and Management
+10
+Select one of the following:
+10
+INFS 2001
+Database Design and Development
+
+INFS 2002
+Database Design and Development (Advanced)
+
+Select one of the following:
+10
+COMP 2004
+Computer Networking
+
+COMP 2005
+Computer Networking (Advanced)
+
+
+Credit Points
+50
+Autumn session
+COMP 2020
+Technologies for Web Applications
+10
+Select one of the following:
+10
+INFO 3003
+Human-Computer Interaction
+
+INFO 3004
+Human-Computer Interaction (Advanced)
+
+Select two electives
+20
+
+Credit Points
+40
+Year 3
+Spring session
+INFO 3011
+Social Computing
+10
+COMP 3013
+Mobile Applications Development
+10
+Select two electives
+20
+
+Credit Points
+40
+Autumn session
+COMP 3019
+Professional Experience (Advanced)
+10
+INFO 3008
+Professional Development
+10
+INFS 3006
+Emerging Trends in Information Systems
+10
+Select one elective
+10
+
+Credit Points
+40
+
+Total Credit Points
+250
+
+Courselist Tables:
+
+courselist table1:
+INFS 1015Systems Analysis and Design (Advanced)10
+COMP 2005Computer Networking (Advanced)10
+INFS 2002Database Design and Development (Advanced)10
+INFO 3004Human-Computer Interaction (Advanced)10
+INFS 3007Emerging Trends in Information Systems (Advanced)10
+COMP 3019Professional Experience (Advanced)10
+Total Credit Points60
+
+courselist table2:
+INFS 3007Emerging Trends in Information Systems (Advanced)10
+COMP 3019Professional Experience (Advanced)10
+INFS 1015Systems Analysis and Design (Advanced)10
+Select three subjects of the following:30
+COMP 2005Computer Networking (Advanced)
+INFS 2002Database Design and Development (Advanced)
+INFO 3004Human-Computer Interaction (Advanced)
+COMP 2016Programming Techniques (Advanced)
+INFS 3018Web Systems Development (Advanced)
+Total Credit Points60

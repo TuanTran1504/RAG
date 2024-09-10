@@ -1,0 +1,36 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Mobile Computing, Minor (0146)
+- Western Sydney University Minor Code:
+- Previous Code: SM3057.1
+- This minor covers theories and technologies used for the development of distributed applications for hand-held mobile devices. Students completing this minor will understand and apply the advanced principles related to mobile: hardware devices, user interface design, data storage and transmission, and communication networks. This minor is only available to students enrolled in Bachelor of Information and Communications Technology, Bachelor of Information and Communications Technology (Advanced), Bachelor of Computer Science, Bachelor of Computer Science (Advanced) Bachelor of Information Systems or Bachelor of Information Systems Advanced.
+- Location
+- Minor Structure
+- Student must complete 40 credit points as follows
+- The subjects listed below count towards completion of this minor for students who passed these subjects in Autumn/SCC S2, 2021 or earlier.
+- INFO 2003 Technologies for Mobile Applications, replaced by INFS 3012 Information Systems Deployment and Management
+- INFS 3012 Information Systems Deployment and Management
+- Related Programs
+
+Location Table:
+- Campbelltown Campus
+- Internal
+- CDMS@westernsydney.edu.au
+- Parramatta Campus - Victoria Road
+- Internal
+- CDMS@westernsydney.edu.au
+- Penrith Campus
+- Internal
+- CDMS@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+INFO 3003Human-Computer Interaction10
+INFS 3012Information Systems Deployment and Management10
+COMP 3013Mobile Applications Development10
+COMP 3025Wireless and Mobile Networks10
+Total Credit Points40

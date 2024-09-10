@@ -1,0 +1,14 @@
+Academic Handbook Current Edition COMP 3027 Robotic Programming Credit Points 10 Legacy Code 301205 Coordinator Vernon Asuncion Opens in new window Description Robot Operating System (ROS) is a software integration system that is now widely used for robotics software deployment. The philosophy behind ROS is to modularise software that can work for other robots through small changes in the code. This subject focuses on the main concepts of software development under ROS by looking at the file hierarchical systems (e.g. Packages, Stacks, Messages, Services and others), module communication types through Nodes, Topics, Services, Messages, Bags, Master and how they integrate to operate robot sensors and actuators. This subject also looks at actual AI software examples using C++/Python and Answer Set Programming (ASP). School Computer, Data & Math Sciences Discipline Programming Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Pre-requisite(s) COMP 2014 Object Oriented Programming and COMP 2019 Systems Programming 1
+
+OR
+
+COMP 2014 Object Oriented Programming and COMP 3015 Operating Systems Programming
+
+OR
+
+MECH 4003 Mobile Robotics Assumed Knowledge Basic knowledge of Linux, C++/Python and Object Oriented Programming (OOP). Learning Outcomes Describe the software systems for robotics.
+Illustrate how drivers written for various robot parts are viewed as nodes and services under the ROS system framework.
+Explain how different �eprocesses�f made for other applications can be incorporated onto their own software projects under ROS through the use of standard/predefined topics.
+Describe how various state-of-the-art AI software can be embedded into a ROS system by having them as a backend for certain ROS processing tasks (nodes).
+Develop software for interacting with sensor and controlling actuators using ROS tools.
+Develop software using current state-of-the-art AI systems as backend for processes as ROS Nodes. Subject Content Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Practical 10 Hours 20 Y Individual Y  Intra-session Exam 2 hours 40 Y Individual Y  Report 10 page report (2000 words approx.) 40 N Individual N Teaching Periods Autumn (2024) Penrith (Kingswood) On-site Subject Contact Vernon Asuncion Opens in new window View timetable Opens in new window Structures that include subject Artificial Intelligence, Major (0031) Bachelor of Computer Science (3506) Bachelor of Computer Science (Advanced) (3634) Computer Science (COMP) Robotics, Minor (0275) Systems Programming, Major (0064)

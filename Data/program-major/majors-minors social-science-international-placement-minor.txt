@@ -1,0 +1,19 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Social Science International Placement, Minor (0333)
+- Western Sydney University Minor Code:
+- Minor subjects
+- 40 credit points for Minor subjects for Program 1735 - Bachelor of Humanitarian and Development Studies
+
+Location Table:
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+HUMN 3100Social Sciences International Placement (1): Preparation for Placement10
+HUMN 3101Social Sciences International Placement (II): Placement20
+HUMN 3102Social Sciences International Placement (III): Post-placement Reflections10
+Total Credit Points40

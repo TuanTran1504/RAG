@@ -1,0 +1,31 @@
+Academic Handbook Current Edition MATH 3003 Analysis Credit Points 10 Legacy Code 200023 Coordinator Azeef Parayil Ajmal Opens in new window Description Analysis provides the theoretical basis of real and complex numbers, including differentiation and integration. Topics include: field axioms and completeness, sequences, series, convergence, compactness, continuity, differentiability, integrability, and related theorems in both the real and complex number systems. School Computer, Data & Math Sciences Discipline Mathematics Student Contribution Band HECS Band 1 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Pre-requisite(s) MATH 2001 Equivalent Subjects LGYA 3794 - Advanced Mathematical Topics Learning Outcomes On successful completion of this subject, students should be able to: Explain the difference between pointwise and uniform convergence
+Test for convergence sequences and uniform convergence of series of functions on a given interval
+Apply interchange theorems for uniformly convergent sequences and series
+Explain the definition of the Riemann integral
+Calculate upper and lower sums and integrals of simple functions
+Prove and apply theorems concerning classes of integrable functions and integrability of sums and products
+Find limits of sequences via the use of Riemann sums
+Test for differentiability of a function of a complex variable using the Cauchy-Riemann equations
+Explain what is meant by an analytic function
+Apply the Cauchy-Riemann equations to harmonic functions
+Parametrize a path and then to evaluate some complex integrals directly
+Evaluate complex integrals by using results such as the Cauchy integral formulae and residue theorem
+Work out Taylor and Laurent series for some of the simpler functions Subject Content - field axioms
+- completeness
+- limits
+- compactness
+- cauchy sequences
+- uniform Continuity
+- uniform convergence
+- Continuity
+- differentiability
+- Rolle's theorem and mvt
+- Riemann integral
+- differentiation of complex functions
+- cauchy-Riemann equations
+- analytic functions
+- contour integrals
+- Cauchy's theorem
+- Taylor and Laurent series
+- residues
+- evaluation of certain real integrals Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Quiz 50 minutes  20 N Individual Y  Quiz 50 minutes 20 N Individual Y  Final Exam 2 hours 60 N Individual Y Prescribed Texts Teaching Periods Autumn (2024) Campbelltown On-site Subject Contact Azeef Parayil Ajmal Opens in new window View timetable Opens in new window Penrith (Kingswood) On-site Subject Contact Azeef Parayil Ajmal Opens in new window View timetable Opens in new window Parramatta - Victoria Rd On-site Subject Contact Azeef Parayil Ajmal Opens in new window View timetable Opens in new window Structures that include subject Bachelor of Mathematics (3778) Mathematics (MATH) Mathematics, Major (0059) Mathematics, Minor (0059) Secondary Mathematics Education, Major (0350)

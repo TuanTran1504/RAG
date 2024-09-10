@@ -1,0 +1,83 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Graduate Diploma in Public Health (4704)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 051237A
+- This program applies to students who commenced in Spring 2020 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- For Commencement Year 2016 to 2020 Spring - please refer to 4704.2 Graduate Diploma in Public Health
+- For Commencement Year 2015 - please refer to 4704.1 Graduate Diploma in Public Health
+- The Graduate Diploma program in public health is designed for health professionals who wish to extend and consolidate both practical and research skills for public health practice. For this, students will study a wide range of evaluation processes and research methods relating to public health and policy analysis, economic evaluation, epidemiology and biostatistics. This program provides an entry point to the Master of Public Health for those who wish to continue on their professional development journey with further studies.
+- Study Mode
+- One year full-time or two years part-time.
+- Program Advice
+- apa_pghealthsci@westernsydney.edu.au
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Admission
+- Applicants must have either:
+- An undergraduate or master degree in any discipline
+- or
+- A Graduate Diploma or Graduate Certificate in any discipline and two years full-time equivalent work experience in a relevant health-related discipline.
+- Applicants seeking admission on the basis of work experience must support their application with a Statement of Service for all work experience listed on the application.
+- Statement of Service form
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Program Structure Current
+- Program Structure 2023
+
+Location Table:
+- Online
+- Full Time
+- Online
+- Dr Sadia Hossain
+- Online
+- Part Time
+- Online
+- Dr Sadia Hossain
+- Parramatta Campus - Victoria Road
+- Full Time
+- Internal
+- Dr Sadia Hossain
+- Parramatta Campus - Victoria Road
+- Part Time
+- Internal
+- Dr Sadia Hossain
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Domain Subjects
+PUBH 7016Introduction to Epidemiology10
+PUBH 7033The Social Determinants of Health10
+PUBH 7031Health Systems and Policy10
+PUBH 7011Health Advancement and Health Promotion10
+Focus Subjects
+HLTH 7008Introduction to Biostatistics10
+PUBH 5001Infectious Diseases and Outbreak Response10
+PUBH 7010Epidemiology of Non-Communicable Diseases10
+Select any 10cp postgraduate subject offered across the university10
+Total Credit Points80
+
+courselist table2:
+Domain Subjects
+PUBH 7016Introduction to Epidemiology10
+PUBH 7033The Social Determinants of Health10
+PUBH 7031Health Systems and Policy10
+PUBH 7011Health Advancement and Health Promotion10
+Focus Subjects
+HLTH 7008Introduction to Biostatistics10
+Please note that as of Spring 2023, PUBH 7004 has been replaced by PUBH 5001
+PUBH 7010Epidemiology of Non-Communicable Diseases10
+Select any 10cp level 7 subject offered across the university10
+Total Credit Points70

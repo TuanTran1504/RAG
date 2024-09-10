@@ -1,0 +1,29 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Finance and Investment, Major (0228)
+- Western Sydney University Major Code:
+- Previous Code:  SP2016.1
+- This major introduces students to the fundamental concepts of finance theory – the time value of money, risk and return, capital budgeting and capital structure – and to the tools of financial decision-making in the context of the Australian institutional environment. Students examine the investment, financing and dividend decisions of corporations and develop an understanding of the basic practices of financial management from the perspective of both large and small firms. It also introduces the concept of investment analysis in the context of property. It explores the unique features of income-producing property and examines the performance of these properties, their loans and their taxation through the application of a variety of investment techniques. Also covered are risk analysis techniques for income-producing properties and portfolios.
+- Location
+- Major Structure
+- Students must successfully complete 60 credit points as listed below.
+- Related Programs
+
+Location Table:
+- Parramatta City Campus - Macquarie Street
+- Internal
+- Dr Hilal Hurriyet
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+ACCT 7012Corporate Finance10
+BUSM 7032Financial Institutions and Markets (MAF)10
+BUSM 7053International Finance10
+FINC 7017Property Investment Analysis10
+MKTG 7024Property Portfolio Analysis10
+BUSM 7083Security Analysis and Portfolio Theory10
+Total Credit Points60

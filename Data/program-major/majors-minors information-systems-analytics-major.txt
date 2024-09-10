@@ -1,0 +1,33 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Information Systems Analytics, Major (0166)
+- Western Sydney University Major Code:
+- Previous Code: M3101.1
+- This major is not available to students enrolled in  in 3639Bachelor of Information and Communications Technology, Technology, 3684 Bachelor of Information and Communications Technology (Advanced),   Technology (Advanced), 3687Bachelor of Information Systems or 3688 Bachelor of Information Systems Advanced.
+- By completing Information Systems Analytics major you will gain cutting edge skills that will give you knowledge in how to assess and analyse currently available business data, make sense of it and based on the analysis select the most optimum business strategy. To achieve this within this major you will also learn about the complexities of Information Systems implementations, the components that make up the information systems, types of information systems and their nature of interactions. Furthermore, this major will give you cutting edge knowledge in how to best understand the complex relationships between business requirements and specific Information System technologies.
+- Location
+- Major Structure
+- This major is not available to students enrolled in Bachelor of Information and Communications Technology, Bachelor of Information and Communications Technology (Advanced),  Bachelor of Information Systems or Bachelor of Information Systems Advanced.
+- Students must complete 80 credit points as follows.
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- Dr Ana Hol
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+COMP 1005Programming Fundamentals10
+INFS 1006Systems Analysis and Design10
+INFS 1002Information Systems in Context10
+INFS 2001Database Design and Development10
+COMP 2020Technologies for Web Applications10
+COMP 3020Social Web Analytics10
+INFS 3006Emerging Trends in Information Systems10
+INFO 3011Social Computing10
+Total Credit Points80

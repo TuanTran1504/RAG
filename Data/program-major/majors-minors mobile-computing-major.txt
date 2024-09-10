@@ -1,0 +1,45 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Mobile Computing, Major (0146)
+- Western Sydney University Major Code:
+- Previous Code: M3074.1
+- This major is only available to students enrolled in the Bachelor of Information and Communications Technology, Bachelor of Information and Communications Technology (Advanced), Bachelor of Computer Science, Bachelor of Computer Science (Advanced), Bachelor of Information Systems or Bachelor of Information Systems (Advanced).
+- This major covers theories and technologies used for the development of distributed applications for hand-held mobile devices. Students completing this major will understand the advanced principles related to mobile hardware devices, data storage and transmission, and communication networks. In addition they will identify, analyse, and formulate solutions to real-world problems in the mobile domain. In devising these solutions students will also consider principles associated with user interface design, professional and ethical issues, in particular those relating to security and privacy of user data and user behaviour related to mobile devices and its applications.
+- Location
+- Curriculum delivered through an agreement with another party
+- Major Structure
+- Students must complete 80 credit points as follows
+- The subjects listed below count towards completion of this major for students who passed these subjects in Autumn/SCC S2, 2021 or earlier.
+- INFO 2003 - Technology for Mobile Applications, replaced by INFS 3012 Information Systems Deployment and Management
+- INFS 3012 Information Systems Deployment and Management
+- Related Programs
+
+Location Table:
+- Campbelltown Campus
+- Internal
+- CDMS@westernsydney.edu.au
+- Parramatta Campus - Victoria Road
+- Internal
+- CDMS@westernsydney.edu.au
+- Penrith Campus
+- Internal
+- CDMS@westernsydney.edu.au
+- Sydney City Campus*
+- Internal
+- Antoinette Cevenini
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+INFS 2001Database Design and Development10
+INFO 3003Human-Computer Interaction10
+COMP 3013Mobile Applications Development10
+INFO 3007Network Security10
+COMP 3018Professional Experience10
+INFO 3011Social Computing10
+COMP 3025Wireless and Mobile Networks10
+INFS 3012Information Systems Deployment and Management10
+Total Credit Points80

@@ -1,0 +1,41 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Undergraduate Certificate in Engineering (7182)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- This program has been suspended from 2023.
+- This program applies to students who commenced in Block C, 2021 or later.
+- The fourth industrial revolution, also known as Industry 4.0, is affecting almost every industry worldwide and rapidly transforming how businesses operate. The Undergraduate Certificate in Engineering is designed to provide basic employability skills and an introduction to the skills needed to navigate Industry 4.0. In addition to introducing students to the skills, knowledge, and attributes required for further studies in Engineering, students who successfully complete the Undergraduate Certificate will gain entry into the Diploma of Engineering.
+- Study Mode
+- Six months full-time.
+- Program Advice
+- UG Certificate Course Enquiries
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Admission
+- This program is open to Australian Citizens and Permanent Residents who are aged 17 years or over and not currently enrolled in or completing Year 12 in the same year of intended admission.
+- For more information on applying please see the link to The College admission pages below.
+- https://www.westernsydney.edu.au/thecollege/how_to_apply
+- Assumed knowledge: Any two units of English, 2 units of Science (preferably physics) as well as Mathematics equivalent to a two-unit subject in the NSW Higher School Certificate
+- Program Structure
+- Qualification for this award requires the successful completion of 40 credit points including the subjects listed below.
+
+Location Table:
+- Online
+- Full Time
+- Online
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+ENGR 1049Introduction to Engineering Practice (Block)10
+ELEC 1011Engineering Computing (Block)10
+MATH 1036Mathematics for Engineers Preliminary (UG Cert)10
+ENGR 1051Engineering Physics (Block)10
+Total Credit Points40

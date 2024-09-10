@@ -1,0 +1,34 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Web and Mobile Computing, Testamur Major (T010)
+- Western Sydney University Major Code:
+- Previous Code: ST3082
+- The widespread deployment of web and mobile devices has made them a target of choice for companies to carry out their everyday business. The contemporary developers are expected to understand the strengths and limitations of web and mobile technologies and fit these to create successful user-friendly web and/or mobile applications. This specialisation is aimed at developing knowledge and skills in theoretical concepts and practical technologies needed to design and develop complex software applications across a range of web and mobile platforms. Students with these knowledge and skills will have greater prospects of finding employment with reputable companies or building their career as self-employed developers.
+- Location
+- Curriculum delivered through an agreement with another party
+- Major Structure
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- Dr Quang Vinh Nguyen
+- Sydney City Campus*
+- Internal
+- Mahsa Razavi
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Students must complete 40 credit points as follows
+INFS 7009Web Technologies10
+COMP 7009Mobile Computing10
+Select two of the following:20
+COMP 7004Cloud Computing
+COMP 7008Internet of Things
+INFO 7013Web Engineering
+INFS 7006Software Testing and Automation
+Total Credit Points40

@@ -1,0 +1,444 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Bachelor of Information and Communications Technology/Bachelor of Arts (3654)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 068787J
+- Program Status: CURRENT
+This program applies to students who commenced in 2014 or later.
+- This double degree is designed in recognition of the globalising nature of the information technology industry. In addition to providing a strong technical background in IT, the program also provides students with the necessary knowledge in an Arts major such as: International Relations and Asian Studies; Culture and Society; English; History and Political Thought; Philosophy; Chinese; Japanese, Arabic, Indonesian and Psychological Studies.
+- In the IT area, the program allows students to develop skills in program design, application development, systems analysis and design, computer networking, web development, data analysis, and the implementation of technology to solve real-world problems.
+- Students in this double degree also have the opportunity to complete a semester of study overseas and receive advanced standing towards their BA majors and minors subject to WSU limits on advanced standing. Students are encouraged to do so but must discuss this with a BA program advisor first.
+- Study Mode
+- Four years full-time. Eight years part-time.
+- Program Advice
+- CDMS@westernsydney.edu.au
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Work Intergrated Learning
+- There is an optional work component available in this program.  Please contact the Program Advisor listed above for information.
+- International students should be aware that if an elective is a requirement of the program but the work itself was not registered with CRICOS, students can still complete these electives but it would be counted towards the work limitation.  For more details, refer to the 'Work Integrated Learning (WIL) for international students' website.
+- Work Integrated Learning (WIL) for international students
+- Admission
+- Assumed knowledge required: HSC Mathematics and any two units of HSC English.
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- International students currently completing an Australian Year 12 in or outside Australia, an International Baccalaureate in Australia or a New Zealand National Certificate of Educational Achievement (NCEA) level 3 must apply via UAC International.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Program Structure Current
+- Students who complete this award will graduate with a Bachelor of Information and Communications Technology and a Bachelor of Arts.
+- The conceptual design of this BICT/BA double degree is as follows.
+- In Years 1 to 3 students will complete 160 credit points of Bachelor of Information and Communications Technology subjects which includes a BICT minor as listed in the program structure.
+- In Years 1 to 4 students will complete the four Level 1 Bachelor of Arts core subjects, one Bachelor of Arts Major and one Bachelor of Arts Minor from the list of Majors and Minors. Students may need to travel between campuses to complete the Arts component of the program.
+- Students must complete the following four Level 1 Bachelor of Arts (BA) core subjects
+- Bachelor of Arts Majors
+- Bachelor of Arts Minors
+- Bachelor of Information and Communications Technology Minors
+- Sequence Current
+- This sequence applies to students who commenced in Spring 2023.
+- If you commenced in Autumn 2023 please refer to the Autumn 2023 Sequence tab for details. If you commenced prior to 2023 please refer to the Sequence 2022 tab for details.
+- Qualification for this award requires the successful completion of 320 credit points as specified in the structure below.
+- Recommended Sequence Autumn 2023
+- This sequence applies to students who commenced in Autumn 2023.
+- If you commenced prior to 2023 please refer to the Sequence 2022 tab for details.
+- Qualification for this award requires the successful completion of 320 credit points as specified in the structure below.
+- Program Structure 2022
+- Students who complete this award will graduate with a Bachelor of Information and Communications Technology/Bachelor of Arts.
+- The conceptual design of this BICT/BA double degree is as follows
+- Students must complete the four Level 1 Bachelor of Arts (BA) core subjects
+- For details of the relevant BA core subjects, refer to the current listing of Bachelor of Arts.
+- 1706 Bachelor of Arts
+- Bachelor of Arts Majors
+- Bachelor of Arts Minors
+- The majors and minors listed below count towards completion of this Program for students who began studying these majors and minors prior to the years indicated below.
+- M1052 Cultural and Social Analysis, Major, replaced by Culture and Society, Major in 2020 (listed above).
+M1054 History and Political Thought, Major, replaced by History and Political Thought, Major in 2020 (listed above).
+M1108 International English, Major, replaced by M1129 International English, Major in 2018.
+M1129 International English, Major, replaced by International English, Major in 2020 (listed above).
+- SM1070 Cultural and Social Analysis, Minor, replaced by Culture and Society, Minor in 2020 (listed above).
+SM1072 History and Political Thought, Minor, replaced by History and Political Thought, Minor in 2020 (listed above).
+SM1120 International English, Minor, replaced by SM1132 International English, Minor in 2018.
+SM1132 International English, Minor, replacedy by International English, Minor in 2020 (listed above).
+- Recommended Sequence 2022
+- Qualification for this award requires the successful completion of 320 credit points as specified below.
+- Students who complete this award will graduate with a Bachelor of Information and Communications Technology/Bachelor of Arts.
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Full Time
+- Internal
+- See above
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+COMP 1005
+Programming Fundamentals
+10
+INFO 1003
+Professional Practice, Communication and Ethics
+10
+HUMN 1013
+Contextualising Indigenous Australia (Day Mode)
+10
+Select one of the following
+10
+MATH 1038
+Mathematics for Computing
+
+MATH 1006
+Discrete Mathematics
+
+
+Credit Points
+40
+Spring session
+INFS 2001
+Database Design and Development
+10
+COMP 2021
+Software Engineering Fundamentals
+10
+COMP 2015
+Programming Techniques
+10
+BA core subject (level 1)
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+BA major subject
+10
+BA minor subject
+10
+BA core subject (Level 1)
+10
+One ICT minor subject
+10
+
+Credit Points
+40
+Spring session
+COMP 2004
+Computer Networking
+10
+COMP 3028
+Software Construction
+10
+BA core subject (level 1)
+10
+BA major subject
+10
+
+Credit Points
+40
+Year 3
+Autumn session
+COMP 3018
+Professional Experience
+10
+COMP 2027
+Cyber Security
+10
+One ICT minor subject
+10
+BA core subject (level 1)
+10
+
+Credit Points
+40
+Spring session
+INFO 3019
+Project Management
+10
+One ICT minor subject
+10
+One ICT minor subject
+10
+BA major subject
+10
+
+Credit Points
+40
+Year 4
+Autumn session
+BA major subject
+10
+BA major subject
+10
+BA minor subject
+10
+BA minor subject
+10
+
+Credit Points
+40
+Spring session
+BA major subject
+10
+BA major subject
+10
+BA minor subject
+10
+BA minor subject
+10
+
+Credit Points
+40
+
+Total Credit Points
+320
+Year 1
+Autumn session
+Credit Points
+COMP 1005
+Programming Fundamentals
+10
+MATH 1038
+Mathematics for Computing
+10
+INFO 1003
+Professional Practice, Communication and Ethics
+10
+HUMN 1013
+Contextualising Indigenous Australia (Day Mode)
+10
+
+Credit Points
+40
+Spring session
+INFS 2001
+Database Design and Development
+10
+COMP 2021
+Software Engineering Fundamentals
+10
+COMP 2015
+Programming Techniques
+10
+BA core subject (level 1)
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+BA major subject
+10
+BA minor subject
+10
+BA core subject (Level 1)
+10
+One ICT minor subject
+10
+
+Credit Points
+40
+Spring session
+COMP 2004
+Computer Networking
+10
+COMP 3028
+Software Construction
+10
+BA core subject (level 1)
+10
+BA major subject
+10
+
+Credit Points
+40
+Year 3
+Autumn session
+COMP 3018
+Professional Experience
+10
+COMP 2027
+Cyber Security
+10
+One ICT minor subject
+10
+BA core subject (level 1)
+10
+
+Credit Points
+40
+Spring session
+INFO 3019
+Project Management
+10
+One ICT minor subject
+10
+One ICT minor subject
+10
+BA major subject
+10
+
+Credit Points
+40
+Year 4
+Autumn session
+BA major subject
+10
+BA major subject
+10
+BA minor subject
+10
+BA minor subject
+10
+
+Credit Points
+40
+Spring session
+BA major subject
+10
+BA major subject
+10
+BA minor subject
+10
+BA minor subject
+10
+
+Credit Points
+40
+
+Total Credit Points
+320
+Year 1
+Autumn session
+Credit Points
+COMP 1005
+Programming Fundamentals
+10
+COMM 1026
+Principles of Professional Communication 1
+10
+INFS 1006
+Systems Analysis and Design
+10
+MATH 1028
+Statistical Decision Making
+10
+
+Credit Points
+40
+Spring session
+COMP 2004
+Computer Networking
+10
+COMP 2015
+Programming Techniques
+10
+INFS 2001
+Database Design and Development
+10
+BA core subject (Level 1)
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+COMP 2020
+Technologies for Web Applications
+10
+INFS 2006
+Object Oriented Analysis
+10
+COMP 3007
+Computer Networks and Internets
+10
+BA core subject (Level1)
+10
+
+Credit Points
+40
+Spring session
+INFS 3017
+Web Systems Development
+10
+COMP 3020
+Social Web Analytics
+10
+BA core subject (Level 1)
+10
+BA major subject
+10
+
+Credit Points
+40
+Year 3
+Autumn session
+INFO 3003
+Human-Computer Interaction
+10
+INFO 3008
+Professional Development
+10
+COMP 3015
+Operating Systems Programming
+10
+BA core subject (Level 1)
+10
+
+Credit Points
+40
+Spring session
+COMP 3018
+Professional Experience
+10
+BA major subject
+10
+BA major subject
+10
+BA minor subject
+10
+
+Credit Points
+40
+Year 4
+Autumn session
+BA major subject
+10
+BA major subject
+10
+BA minor subject
+10
+BA minor subject
+10
+
+Credit Points
+40
+Spring session
+BA major subject
+10
+BA major subject
+10
+BA major subject
+10
+BA minor subject
+10
+
+Credit Points
+40
+
+Total Credit Points
+320
+
+Courselist Tables:
+
+courselist table1:
+HUMN 1052Australian Politics and Active Citizenship10
+LANG 1029Foundations of Academic English10
+HUMN 1053Diversity, Language and Culture10
+LANG 1030Thinking Critically About Texts and Society10
+Total Credit Points40

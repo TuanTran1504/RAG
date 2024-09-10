@@ -1,0 +1,225 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Graduate Certificate in Science (exit only) (3776)
+- Western Sydney University Program Code:
+- AQF Level:
+- Graduate Certificate in Science (Exit only)
+- This program applies to students who commenced in 2020 or later.
+- The Graduate Certificate in Science (Exit only) is an early exit award from the Master of Science.
+- Program Advice
+- science@westernsydney.edu.au
+- Location
+- Admission
+- The Graduate Certificate in Science (Exit only) is an early exit award from the Master of Science
+- Program Structure 2023
+- Qualification for this award requires the successful completion of 40 credit points comprising: 10 credit points of core subjects and at least 10 credit points from Alternate Pool 1
+AND up to 20 credit points from Alternate Pool 2.
+- Core Subject
+- All students are required to complete the following core unit:
+- Students are required to complete 30 credit points as follows:
+- Choose at least 10 credit points from Alternate Pool 1 and
+- Choose up to 20 credit points from Alternate Pool 2.
+- Alternate Pool 1
+- This pool comprises science subjects across different disciplines which complement your specialisation.
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 7011 Predictive Analytics, replaced by  COMP 7023 Predictive Analytics
+MATH 7012 Programming for Data Science, replaced by  COMP 7024 Programming for Data Science
+MATH 7014 Social Media Intelligence, replaced by  COMP 7025 Social Media Intelligence
+- Alternate Pool 2
+- This pool comprises subjects from other fields that add breadth to your studies.
+- Please note that the availability of Alternate Subjects may vary from year to year. New subjects may become available and some others discontinued. The most recent version of 3749 Master of Science indicates which subjects are offered in the program. The School will publish information on which subjects are available in a session.
+- Program Structure 2024
+- Qualification for this award requires the successful completion of 40 credit points comprising: 10 credit points of core subjects and at least 10 credit points from Alternate Pool 1
+AND up to 20 credit points from Alternate Pool 2.
+- Core Subject
+- All students are required to complete the following core unit:
+- Students are required to complete 30 credit points as follows:
+- Choose at least 10 credit points from Alternate Pool 1 and
+- Choose up to 20 credit points from Alternate Pool 2.
+- Alternate Pool 1
+- This pool comprises science subjects across different disciplines which complement your specialisation.
+- Equivalent Subjects
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 7011 Predictive Analytics, replaced by  COMP 7023 Predictive Analytics
+MATH 7012 Programming for Data Science, replaced by  COMP 7024 Programming for Data Science
+MATH 7014 Social Media Intelligence, replaced by  COMP 7025 Social Media Intelligence
+- Alternate Pool 2
+- This pool comprises subjects from other fields that add breadth to your studies.
+- Please note that the availability of Alternate Subjects may vary from year to year. New subjects may become available and some others discontinued. The most recent version of 3749 Master of Science indicates which subjects are offered in the program. The School will publish information on which subjects are available in a session.
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Full Time
+- Internal
+- See above
+- Parramatta Campus - Victoria Road
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+MATH 7016The Nature of Data10
+
+courselist table2:
+NATS 7053MSc Research Project (extended)20
+HORT 7004Industry Project10
+NATS 7054Professional Topic10
+NATS 7016Food Preservation and Packaging Technologies10
+NATS 7015Food Evaluation10
+NATS 7018Food Quality Management10
+NATS 7017Food Product Design10
+HLTH 7003Community and Public Health Nutrition10
+HLTH 7011Nutritional Assessment Methods10
+PUBH 7022Public Health, Policy and Society10
+HLTH 7010Nutrition Promotion10
+HORT 7006Plant-Climate Interactions in Controlled Environments10
+HORT 7001Advanced Greenhouse Technology10
+HORT 7002Greenhouse Control Systems10
+HORT 7003Greenhouse Crop Production10
+AGRI 7001Agricultural Biosecurity10
+AGRI 7002Agricultural Biotechnology10
+AGRI 7003Agricultural Technologies10
+AGRI 7004Livestock Production Systems10
+MATH 7018Scientific Informatics10
+PHYS 7001A Cosmic Perspective10
+PHYS 7002Space Instrumentation, Technology and Communication10
+PHYS 7003Space Science, Planetary Science and Meteorology10
+BIOS 7001Emerging Technologies for Biological Science10
+AGEN 7002Ecosystems in a Changing World10
+COMP 7006Data Science10
+COMP 7023Predictive Analytics10
+COMP 7024Programming for Data Science10
+COMP 7025Social Media Intelligence10
+COMP 7016Visualisation10
+
+courselist table3:
+ACCT 7015Financial Reports for Decision Making10
+BUSM 7099Understanding Contemporary Organisations10
+MKTG 7019Marketing Systems10
+BUSM 7018Contemporary People Management10
+ECON 7001Economics10
+BUSM 7040Governance, Ethics and Social Entrepreneurship10
+BUSM 7086Strategic Business Management10
+PUBH 7016Introduction to Epidemiology10
+NURS 7022Ethics in Health Research10
+ENGR 7017Professional Practice and Communication10
+PUBH 7019Occupational Health Management10
+PUBH 7024Safety and Risk Management10
+CIVL 7014Sustainable Systems10
+CIVL 7018Water Treatment and Distribution10
+CIVL 7008Advanced Waste Management10
+ENVL 7002Planning and Environmental Regulation10
+BUSM 7014Compliance Management10
+BUSM 7078Project Management10
+BUSM 7011Business Operations and Logistics10
+BUSM 7092Supply Chain Management10
+MKTG 7033Customer Experience10
+BUSM 7046Innovation for New Markets10
+BUSM 7048Innovation, Creativity and Foresight10
+BUSM 7043Industrial Relations and Workplace Change10
+BUSM 7024Developing Human Capital and Organisational Capability10
+BUSM 7086Strategic Business Management10
+PUBH 7011Health Advancement and Health Promotion10
+HLTH 7001A Global Perspective on Social Determinants of Health10
+HLTH 7015Qualitative Research Methodology in Health10
+HLTH 7006Health Services and Facilities Planning10
+ARCH 7001Developing Sustainable Places10
+POLI 7002Translation from Theory and Research to Policy10
+PUBH 7020Policy, Power and Politics in Health Care Provision10
+PUBH 7014Health and Socio-political Issues in Aged Care10
+HLTH 7007Health Workforce Planning10
+HLTH 7002Building Organisational Capacity in Health Care10
+PUBH 7028Surveillance and Disaster Planning10
+PUBH 7015Introduction to Clinical Epidemiology10
+PUBH 7006Data Management and Programming for Epidemiology10
+PUBH 7010Epidemiology of Non-Communicable Diseases10
+PUBH 7005Controversies in Epidemiology10
+PUBH 7002Analytic Approaches in Epidemiology10
+PUBH 7025Statistical Methods in Epidemiology10
+CIVL 7014Sustainable Systems10
+
+courselist table4:
+MATH 7016The Nature of Data10
+
+courselist table5:
+NATS 7053MSc Research Project (extended)20
+HORT 7004Industry Project10
+NATS 7054Professional Topic10
+NATS 7016Food Preservation and Packaging Technologies10
+NATS 7015Food Evaluation10
+NATS 7018Food Quality Management10
+NATS 7017Food Product Design10
+HLTH 7003Community and Public Health Nutrition10
+HLTH 7011Nutritional Assessment Methods10
+PUBH 7022Public Health, Policy and Society10
+HLTH 7010Nutrition Promotion10
+HORT 7006Plant-Climate Interactions in Controlled Environments10
+HORT 7001Advanced Greenhouse Technology10
+HORT 7002Greenhouse Control Systems10
+HORT 7003Greenhouse Crop Production10
+AGRI 7001Agricultural Biosecurity10
+AGRI 7002Agricultural Biotechnology10
+AGRI 7003Agricultural Technologies10
+AGRI 7004Livestock Production Systems10
+MATH 7018Scientific Informatics10
+PHYS 7001A Cosmic Perspective10
+PHYS 7002Space Instrumentation, Technology and Communication10
+PHYS 7003Space Science, Planetary Science and Meteorology10
+BIOS 7001Emerging Technologies for Biological Science10
+AGEN 7002Ecosystems in a Changing World10
+COMP 7006Data Science10
+COMP 7023Predictive Analytics10
+COMP 7024Programming for Data Science10
+COMP 7025Social Media Intelligence10
+COMP 7016Visualisation10
+
+courselist table6:
+ACCT 7015Financial Reports for Decision Making10
+BUSM 7099Understanding Contemporary Organisations10
+MKTG 7019Marketing Systems10
+BUSM 7018Contemporary People Management10
+ECON 7001Economics10
+BUSM 7040Governance, Ethics and Social Entrepreneurship10
+BUSM 7086Strategic Business Management10
+PUBH 7016Introduction to Epidemiology10
+NURS 7022Ethics in Health Research10
+ENGR 7017Professional Practice and Communication10
+PUBH 7019Occupational Health Management10
+PUBH 7024Safety and Risk Management10
+CIVL 7014Sustainable Systems10
+CIVL 7018Water Treatment and Distribution10
+CIVL 7008Advanced Waste Management10
+ENVL 7002Planning and Environmental Regulation10
+BUSM 7014Compliance Management10
+BUSM 7078Project Management10
+BUSM 7011Business Operations and Logistics10
+BUSM 7092Supply Chain Management10
+MKTG 7033Customer Experience10
+BUSM 7046Innovation for New Markets10
+BUSM 7048Innovation, Creativity and Foresight10
+BUSM 7043Industrial Relations and Workplace Change10
+BUSM 7024Developing Human Capital and Organisational Capability10
+BUSM 7086Strategic Business Management10
+PUBH 7011Health Advancement and Health Promotion10
+HLTH 7001A Global Perspective on Social Determinants of Health10
+HLTH 7015Qualitative Research Methodology in Health10
+HLTH 7006Health Services and Facilities Planning10
+ARCH 7001Developing Sustainable Places10
+POLI 7002Translation from Theory and Research to Policy10
+PUBH 7020Policy, Power and Politics in Health Care Provision10
+PUBH 7014Health and Socio-political Issues in Aged Care10
+HLTH 7007Health Workforce Planning10
+HLTH 7002Building Organisational Capacity in Health Care10
+PUBH 7028Surveillance and Disaster Planning10
+PUBH 7015Introduction to Clinical Epidemiology10
+PUBH 7006Data Management and Programming for Epidemiology10
+PUBH 7010Epidemiology of Non-Communicable Diseases10
+PUBH 7005Controversies in Epidemiology10
+PUBH 7002Analytic Approaches in Epidemiology10
+PUBH 7025Statistical Methods in Epidemiology10
+CIVL 7014Sustainable Systems10

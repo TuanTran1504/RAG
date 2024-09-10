@@ -1,0 +1,60 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Networked Systems, Major (0065)
+- Western Sydney University Major Code:
+- Previous Code: M3115.1
+- This major is only available to students enrolled in the Bachelor of Computer Science and Bachelor of Computer Science Advanced. This major aims to develop graduates with sound skills in the discipline of networked computer systems. Recent advances in computer and telecommunications networked systems, particularly those based on TCP/IP, have increased the importance of network technologies in the discipline of computer science. This major covers a wide range of topics including computer communication network concepts and protocols, multimedia systems, Internet standards and technologies, network security, wireless and mobile computing, and distributed systems. The candidates are also introduced to some of the relevant current key research issues of the field.
+- Location
+- Major Structure Current
+- This major structure applies to students who commenced in 2024 or later. If you commenced prior to 2024 please refer to the Structure 2022-23 tab for details.
+- This major is only available to students in Bachelor of Computer Science or Bachelor of Computer Science (Advanced).
+- Students must complete 80 credit points as follows.
+- Major Structure 2022 - 2023
+- If you commenced in 2024 or later please refer to the Structure 2024 tab for details.
+- This major is only available to students in Bachelor of Computer Science or Bachelor of Computer Science (Advanced).
+- Students must complete 80 credit points as follows.
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- A/Prof Yun Bai
+- Penrith Campus
+- Internal
+- A/Prof Yun Bai
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+COMP 3007Computer Networks and Internets10
+COMP 3014Networked Systems Design10
+INFO 3007Network Security10
+INFO 3015Internet of Things and Smart Environments10
+Select three of the following:30
+INFO 3002Ethical Hacking Principles and Practice
+COMP 3025Wireless and Mobile Networks
+COMP 3015Operating Systems Programming
+COMP 3020Social Web Analytics
+COMP 3033Quantum Computing and Communication
+COMP 3012Introduction to Cloud Computing
+Select one of the following:10
+INFO 3006Information Security
+INFO 3021Information Security (Advanced)
+Total Credit Points80
+
+courselist table2:
+COMP 2004Computer Networking10
+COMP 3007Computer Networks and Internets10
+INFO 3006Information Security10
+COMP 3014Networked Systems Design10
+INFO 3007Network Security10
+COMP 3025Wireless and Mobile Networks10
+Select two of the following:20
+INFO 3002Ethical Hacking Principles and Practice
+INFO 3015Internet of Things and Smart Environments
+COMP 3015Operating Systems Programming
+COMP 3020Social Web Analytics
+Total Credit Points80

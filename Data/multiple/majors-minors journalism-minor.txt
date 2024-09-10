@@ -1,0 +1,61 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Journalism, Minor (0069)
+- Western Sydney University Minor Code:
+- Previous Code: SM1088.1
+- The Journalism minor integrates theoretical approaches to news and information-based media with the development of practical journalistic and storytelling skills for online, print and broadcast platforms.
+- Location
+- *Curriculum delivered through an agreement with another party
+- Minor Structure Current
+- This structure applies to students who commenced in 2024 or later. If you commenced prior to 2024 please refer to the Structure 2023 tab for details
+- Students must complete 40 credit points as follows:
+- Minor Structure 2023
+- If you commenced in 2024 or later please refer to the Structure 2024 tab for details.
+- Students must complete 40 credit points, consisting of 20 credit points at Level 2 and 20 credit points at Level 3, from the subjects listed below
+- Level 2 Subjects
+- Level 3 Subjects
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+- Penrith Campus
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+- Online
+- Online
+- EnquiriesHCA@westernsydney.edu.au
+- Sydney City Campus*
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+COMM 1018News and Media Today10
+AND
+Choose 30 credit points from the following Level 2 or Level 3 subjects:30
+COMM 2017Feature Writing
+COMM 2022Journalism: Research and Investigation
+COMM 2027News Reporting
+COMM 3025News Teams
+COMM 3055Digital Story Production
+COMM 3056Constructive News and Solutions Journalism
+Total Credit Points40
+
+courselist table2:
+COMM 2017Feature Writing10
+COMM 2022Journalism: Research and Investigation10
+COMM 2027News Reporting10
+COMM 2029Photo Journalism10
+Total Credit Points40
+
+courselist table3:
+COMM 3015Digital Journalism Production20
+COMM 3025News Teams10
+COMM 3037Transmedia Production10
+Total Credit Points40

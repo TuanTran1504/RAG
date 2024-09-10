@@ -1,0 +1,17 @@
+Academic Handbook Current Edition ENGR 3006 Control Systems Credit Points 10 Legacy Code 300009 Coordinator Upul Gunawardana Opens in new window Description This subject introduces the fundamental concepts of automatic control engineering. It covers traditional and contemporary design and analysis techniques; the concepts required to design continuous time and discrete time controllers. Matlab is utlilized considerably. School Eng, Design & Built Env Discipline Other Engineering And Related Technologies Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Pre-requisite(s) ELEC 2011 OR
+MECH 3004 Assumed Knowledge 200238 - Mathematics for Engineers 2
+• Ordinary Differential Equations
+• First order, Second order, and Higher order.
+• Laplace transforms
+• Multivariable Calculus     
+• Functions of two or more variables
+• Double integrals
+• Triple integrals.
+Similar to that contained in 200238 - Mathematics for Engineers 2.
+Students should also have the appropriate background and competence in the safe use of computers, test equipment, components and data sheets. Learning Outcomes Apply the meaning of open and closed loop configurations to control systems.
+Formulate and analyse models of real systems using physical characteristics.
+Evaluate the performance of control system configurations in the time domain.
+Analyse block diagrams and signal flow graph models.
+Apply complex frequency concepts to the s-plane in the context of damping, damped frequency and stability.
+Apply root locus methods for design of controllers.
+Identify the issues associated with the use of digital controllers such as the computer. Subject Content Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Quiz 3 x 2 hour online quizzes 30 N Individual Y  Practical 2 hours on alternate weeks 20 N Individual Y  Final Exam 2 hours 50 N Individual Y Teaching Periods Sydney City Campus - Term 1 (2024) Sydney City On-site Subject Contact Upul Gunawardana Opens in new window View timetable Opens in new window Spring (2024) Penrith (Kingswood) On-site Subject Contact Upul Gunawardana Opens in new window View timetable Opens in new window Parramatta City - Macquarie St On-site Subject Contact Upul Gunawardana Opens in new window View timetable Opens in new window Sydney City Campus - Term 3 (2024) Sydney City On-site Subject Contact Upul Gunawardana Opens in new window View timetable Opens in new window Structures that include subject Electrical Engineering, Testamur Major (T102) Electrical, Testamur Major (T035) Mechanical and Industrial Eng. (MECH) Other Engr. and Related Tech (ENGR)

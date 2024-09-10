@@ -1,0 +1,40 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Immersion Language, Minor (0014)
+- Western Sydney University Minor Code:
+- Previous Code: SM1128.1
+- Location
+- Minor Structure
+- Students would be eligible for this minor after having successfully completed 40 credit points from the following Language and Society and Culture subjects.
+- Related Programs
+
+Location Table:
+- Bankstown City Campus
+- External
+- EnquiriesHCA@westernsydney.edu.au
+- Parramatta Campus - Victoria Road
+- External
+- EnquiriesHCA@westernsydney.edu.au
+- Penrith Campus
+- External
+- EnquiriesHCA@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Language Subjects
+Complete two subjects of formal language study selected from the following:20
+LANG 1009Immersion Language Beginner 101
+LANG 1010Immersion Language Beginner 102
+LANG 2019Immersion Language Heritage Background 201
+LANG 2020Immersion Language Heritage Background 202
+LANG 3035Immersion Language Native Speaker 301
+LANG 3036Immersion Language Native Speaker 302
+Society and Culture Subjects
+Complete the following two subjects of study related to the society and culture of the country in which the language is being studied. These subjects may be taught in English or the local language. The areas covered may be practical or theoretical in topics such as history, geography, politics, art, drama, film, cultural studies.20
+LANG 3037Immersion Society and Culture 301
+LANG 3038Immersion Society and Culture 302
+Total Credit Points40

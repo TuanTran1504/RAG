@@ -1,0 +1,35 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Geotechnical, Concentration (0117)
+- Western Sydney University Concentration Code:
+- Previous Code: SM3066.1
+- Location
+- Concentration Structure
+- This concentration is only available to students enrolled in Bachelor of Engineering (Honours) or 3689 Bachelor of Engineering - Civil major only.
+- From 2024, please refer to Geotechnical, Minor (0117) This minor is available to all students in Bachelor of Engineering (Honours) (3740) and Bachelor of Engineering Advanced (Honours) (3771).
+- Students must complete 4 subjects as follows.
+- The subjects listed below count towards completion of this concentration for students who passed these subjects in 2020 or earlier.
+- EART 3004 Hydrogeology, replaced by CIVL 3018 Hydrogeology
+- CIVL 3018 Hydrogeology
+- The subjects listed below count towards completion of this concentration for students who passed these subjects in 2022 or earlier.
+- CIVL 3010 Highway Infrastructure replaced by CIVL 3022 Bridge Embankment Design (Spring 2023)
+- CIVL 3022 Bridge Embankment Design
+- Related Programs
+
+Location Table:
+- Penrith Campus
+- Internal
+- beng@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Students must complete 40 credit points from the following40
+CIVL 3022Bridge Embankment Design
+CIVL 3018Hydrogeology
+CIVL 4008Pile Foundations
+CIVL 4011Waste Management
+Total Credit Points40

@@ -1,0 +1,35 @@
+Academic Handbook Current Edition HLTH 2021 Research Methods (Quantitative and Qualitative) Credit Points 10 Legacy Code 400864 Coordinator Anannya Singharay Opens in new window Description This subject further explores research methods used to acquire knowledge in healthcare. This includes research designs, international standards, key statistics, and interpretation of results. The range of health research methods will be presented, and studies about treatment effectiveness (clinical trials and systematic reviews), diagnostic effectiveness and qualitative approaches will be explored in detail. Pathways for early-career research are also introduced. School Health Sciences Discipline Health, Not Elsewhere Classified. Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 2 subject Pre-requisite(s) HLTH 1001 Learning Outcomes On successful completion of this subject, students should be able to: Identify the main questions, types and levels of evidence
+Interpret the STARD statement, including statistical results, for tests of diagnostic effectiveness
+Interpret the CONSORT statement, including statistical results, for clinical trials
+Interpret the PRISMA statement, including statistical results, for systematic reviews
+Describe designs and key issues for conducting other quantitative research
+Describe designs and key issues for conducting qualitative research
+Identify strategies for presenting and describing data from qualitative research
+Specify pathways, processes and resources for conducting beginner research
+Specify requirements and resources for research proposal and ethics submission
+Identify the main methodologies, research questions, types and levels of evidence for quantitative and qualitative research.
+Describe structured approaches and methods for assessing quality of evidence.
+Interpret the CONSORT statement for assessing reporting quality of clinical trials.
+Interpret results in quantitative and qualitative research reports.
+Specify requirements for research proposals and conducting ethical research.
+Identify pathways and processes for commencing a career in research. Subject Content 1.Quantitative Research
+i.Overview of questions, types and levels for evidence.
+ii.Randomised controlled trials
+*RCT design and the CONSORT statement
+*RCT statistical testing for continuous and categorical data
+iii.Studies of diagnostic effectiveness
+*Diagnostic study design and the STARD statement
+*Statistical testing for diagnostic studies
+iv.Cohort, case-control and other epidemiological studies
+v.Systematic reviews
+*SR design and the PRISMA statement
+*Meta-analysis for continuous and categorical data
+2.Qualitative research
+i.Overview of qualitative paradigms, methodologies, research questions and study designs
+ii.Strategies for presenting and describing qualitative data
+iii.Applications, strengths and limitation of qualitative and quantitative research compared.
+iv.Integrating or mixed methods
+3.Beginning research
+i.Formal study options
+ii.Workplace research: action research, audits and quality assurance
+iii.Research preparation, protocol writing and ethical approval Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Quiz 30 minutes 10 N Individual   Short-answer questions about an RCT 600 words total document text as counted by Turnitin 10 N Individual   CONSORT appraisal of an RCT 1,200 words total document text as counted by Turnitin 20 N Individual   Final Examination 2 hours 50 N Individual   Participation in class activities Weeks 3-14 10 N Individual Prescribed Texts Structures that include subject Bachelor of Health Science (Clinical Sciences) (exit only) (4789) Bachelor of Health Science (Sport and Exercise Science) (4658) Bachelor of Medical Research (4647) Bachelor of Podiatric Medicine (4708) Bachelor of Traditional Chinese Medicine (4710) Medical Studies (MEDI) Other Health (HLTH) Rehabilitation Therapies (REHA)

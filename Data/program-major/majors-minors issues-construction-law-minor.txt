@@ -1,0 +1,27 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Issues in Construction Law, minor (0345)
+- Effective from:
+- Western Sydney University Minor Code:
+- This specialisation is designed to develop legal skills and knowledge relevant to the construction industry and related fields. Students will study key aspects of law in the construction industry including managing legal risks, law related to construction delay and disruption and remedies in the construction context.
+- Minor Structure
+- Students must complete 40 credit points from the following subjects:
+- Related Programs
+
+Location Table:
+- Parramatta South Campus - Victoria Road
+- Internal
+- Dr Rangika Palliyaarachchi
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+LAWS 6003Managing Legal Risk in Construction Law10
+LAWS 5005Construction Law10
+LAWS 6001Law of Construction Delay and Disruption10
+LAWS 6002Remedies in the Construction Context10
+LAWS 5004Work Health and Safety Law10
+LAWS 5001Law of Employment10

@@ -1,0 +1,232 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Social Sciences, Major (0216)
+- Western Sydney University Major Code:
+- Previous Code: M4017.1
+- Location
+- Recommended Sequence
+- Full-time start-year intake
+- Full-time mid-year intake
+- Equivalent Subjects
+- The subjects listed below count towards completion of this major for students who passed these subjects in 2020 or earlier.
+- HLTH 2002 Agriculture, Food and Health, replaced by AGRI 2006 Agriculture, Food and Health
+- AGRI 2006 Agriculture, Food and Health
+- PUBH 2007 Environmental Planning and Climate Change, replaced by ENVL 2006 Environmental Planning and Climate Change
+- ENVL 2006 Environmental Planning and Climate Change
+- The subject listed below counts towards completion of this major for students who passed this subject from 2H 2022 or earlier.
+- BEHV 2007 Internship and Community Engagement, replaced by BEHV 2019 Citizenship and Community Engagement
+- BEHV 2019 Citizenship and Community Engagement
+- Related Programs
+
+Location Table:
+- Hawkesbury Campus
+- Internal
+- science@westernsydney.edu.au
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+AGRI 1004
+Feeding the Planet
+10
+NATS 1019
+Scientific Literacy
+10
+BIOS 1001
+Biodiversity
+10
+CHEM 1008
+Introductory Chemistry
+10
+
+Credit Points
+40
+Spring session
+EART 1004
+Soils
+10
+MATH 1026
+Quantitative Thinking
+10
+PROC 1002
+Food Science 1
+10
+HORT 1004
+Horticultural Production Systems
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+HORT 2001
+Greenhouse Technology for Food Sustainability
+10
+ENVL 2006
+Environmental Planning and Climate Change
+10
+HUMN 2032
+Issues in World Development: Rich World, Poor World
+10
+Communication Project Management (COM 343) - in partnership with Charles Sturt University
+10
+
+Credit Points
+40
+Spring session
+AGRI 2005
+Sustainable Food Production
+10
+AGRI 2006
+Agriculture, Food and Health
+10
+NATS 2025
+Natural Science Research Methods
+10
+BEHV 2019
+Citizenship and Community Engagement
+10
+
+Credit Points
+40
+Year 3
+Autumn session
+NATS 3015
+Field Project 1
+10
+AGRI 3001
+Analysis of Agricultural Supply and Demand
+10
+HUMN 3077
+Sustainable Futures
+10
+ENVL 3005
+Planning the City: Development, Community and Systems
+10
+
+Credit Points
+40
+Spring session
+NATS 3017
+Field Project 2
+10
+INFO 3011
+Social Computing
+10
+HUMN 2015
+Community and Social Action
+10
+HUMN 2053
+The Economics of Cities and Regions
+10
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Spring session
+Credit Points
+PROC 1002
+Food Science 1
+10
+HORT 1004
+Horticultural Production Systems
+10
+NATS 1019
+Scientific Literacy
+10
+Select one elective
+10
+
+Credit Points
+40
+Autumn session
+AGRI 1004
+Feeding the Planet
+10
+BIOS 1001
+Biodiversity
+10
+CHEM 1008
+Introductory Chemistry
+10
+MATH 1026
+Quantitative Thinking
+10
+
+Credit Points
+40
+Year 2
+Spring session
+AGRI 2005
+Sustainable Food Production
+10
+AGRI 2006
+Agriculture, Food and Health
+10
+NATS 2025
+Natural Science Research Methods
+10
+EART 1004
+Soils
+10
+
+Credit Points
+40
+Autumn session
+NATS 3015
+Field Project 1
+10
+HORT 2001
+Greenhouse Technology for Food Sustainability
+10
+HUMN 2032
+Issues in World Development: Rich World, Poor World
+10
+Communication Project Management (COM 343) - in partnership with Charles Sturt University
+10
+
+Credit Points
+40
+Year 3
+Spring session
+NATS 3017
+Field Project 2
+10
+INFO 3011
+Social Computing
+10
+HUMN 2015
+Community and Social Action
+10
+HUMN 2053
+The Economics of Cities and Regions
+10
+
+Credit Points
+40
+Autumn session
+AGRI 3001
+Analysis of Agricultural Supply and Demand
+10
+AGRI 3001
+Analysis of Agricultural Supply and Demand
+10
+HUMN 3077
+Sustainable Futures
+10
+ENVL 3005
+Planning the City: Development, Community and Systems
+10
+
+Credit Points
+40
+
+Total Credit Points
+240
+
+Courselist Tables:

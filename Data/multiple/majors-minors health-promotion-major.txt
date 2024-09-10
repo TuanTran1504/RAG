@@ -1,0 +1,55 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Health Promotion, Major (0052)
+- Western Sydney University Major Code:
+- Previous code: M4019.1
+- Only available to 4656 Bachelor of Health Science students
+- Health Promotion extends beyond raising awareness of healthcare issues. It also involves developing and implementing strategies for communities, individuals and policy makers to support good health and wellbeing. Health Promotion graduates help address health inequities in communities, link individuals and communities with healthcare, and assist individuals and communities to follow healthy behaviours, working across sectors and engaging collaboratively with communities to do so. Health promotion projects are as diverse as injury prevention, skin cancer prevention, HIV/AIDS awareness and community development. Health promotion professionals work in diverse settings including healthcare, workplace and educational facilities, community, local, state and federal government, private industry and not-for profit organisations. The major combines studies of health politics and planning, health promotion practice and public health with a comprehensive foundation in the health sciences to develop the professional competencies important for ethical and safe practice. Students will develop the skills required to work in multidisciplinary teams. Evidence-based practice is one of the most important trends in healthcare today and a strong feature of the program. Students in T109 Clinical Science, who would not otherwise have the opportunity to take the 140-hour unit MEDI 3007 Professional Health Placement may choose to do so. This Major will be identified on the Student’s Academic Transcript following completion of the course.
+- MEDI 3007 Professional Health Placement
+- Location
+- Curriculum delivered through an agreement with another party
+- Major Structure
+- For 4656 Bachelor of Health Science students enrolled in testamur majors T021 Public Health, T019 Health Services Management. This second major will be noted on the student’s transcript. This major is made up of 80 credit points.
+- 0052 Health Promotion – for 4656 Bachelor of Health Science students enrolled in testamur majors T021 Public Health, T019 Health Services Management. This second major will be noted on the student’s transcript. This major is made up of 80 credit points.
+- For 4656 Bachelor of Health Science students enrolled in testamur majors T109 Clinical Sciences. This second major will be noted on the student’s transcript. This major is made up of 80 credit points.
+- Student must complete the following 80 credit points as part of the Bachelor of Health Science (This Major is not listed on the student’s testamur and may not be taken in conjunction with the T018 Health Promotion or 0052 Health Promotion or T110 Recreational Therapy)
+- Related Programs
+
+Location Table:
+- Campbelltown Campus
+- Internal
+- HealthSciences@westernsydney.edu.au
+- Online
+- HealthSciences@westernsydney.edu.au
+- Sydney City Campus*
+- Internal
+- Dr Andrey Zheluk
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+PUBH 1010Health Promotion Theory and Approaches10
+BIOS 1035Anatomy and Physiology in Health10
+PUBH 1011Promoting Health Collaboratively in Communities10
+HLTH 2024Research Methods in Health10
+PUBH 3022Advances and Challenges in Health Promotion10
+PUBH 3025Health Policy and Advocacy10
+PUBH 3026Health Promotion Planning and Implementation10
+HLTH 3018Ethical and Legal Issues in Health Care10
+Total Credit Points80
+
+courselist table2:
+PUBH 1010Health Promotion Theory and Approaches10
+PUBH 1011Promoting Health Collaboratively in Communities10
+HLTH 2024Research Methods in Health10
+PUBH 3022Advances and Challenges in Health Promotion10
+PUBH 3025Health Policy and Advocacy10
+PUBH 3026Health Promotion Planning and Implementation10
+Select of the following:10
+HLTH 3018Ethical and Legal Issues in Health Care
+MEDI 3007Professional Health Placement
+Select one elective10
+Total Credit Points80

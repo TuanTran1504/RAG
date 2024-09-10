@@ -1,0 +1,26 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Economics, Minor (0300)
+- Effective from:
+- Western Sydney University Minor Code:
+- Taking a largely microeconomic perspective, this economics minor provides students with insight to how economies function, and how public policy and the way organisations behave affect social, economic and environmental problems. Students develop critical thinking skills by examining competing economic theories, and applying these to economic events, outcomes and government policies.  In addition, students will gain sought-after skills in evaluating and developing cost-benefit analyses for specific projects.
+- Location
+- Minor Structure
+- Students must complete 40 credit points as follows.
+- Related Programs
+
+Location Table:
+- Parramatta City Campus-Macquarie Street
+- Internal
+- Program Advice
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+ECON 1011Principles of Economics10
+ECON 1014Consumers, Firms and Markets10
+ECON 3002Corporations, Economic Power and Policy10
+BUSM 2005Cost Benefit Analysis10

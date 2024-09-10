@@ -1,0 +1,65 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Cyber Security, Major (0066)
+- Western Sydney University Major Code:
+- Previous Code: M3116.1
+- The Cyber Security major aims to develop graduates with sound skills in the discipline of information systems security. Today, the widespread use of networked systems means protecting these systems from various attacks is more important than ever. Cyber Security is an essential aspect of today’s information systems. This major covers fundamental information security knowledge and security protocols from basic cryptography algorithms to their applications in computer systems and networked systems. Students will learn fundamental security concepts, practical implementation of the security application programs as well as ethical hacking techniques to protect cyber security.
+- Location
+- Major Structure Current
+- This major structure applies to students who commenced in 2024 or later. If you commenced prior to 2024 please refer to the Structure 2022-23 tab for details.
+- Students must complete 80 credit points as follows.
+- Major Structure 2022 - 2023
+- If you commenced in 2024 or later please refer to the Structure 2024 tab for details.
+- Students must complete 80 credit points as follows.
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- CDMS@westernsydney.edu.au
+- Penrith Campus
+- Internal
+- CDMS@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+COMP 2008Computer Organisation10
+INFO 3002Ethical Hacking Principles and Practice10
+INFO 3007Network Security10
+Select one of the following:10
+COMP 3015Operating Systems Programming
+COMP 2019Systems Programming 1
+Select one of the following:10
+COMP 2009Data Structures and Algorithms
+COMP 2030Data Structures and Algorithms (Advanced)
+Select one of the following:10
+INFO 3006Information Security
+INFO 3021Information Security (Advanced)
+Select two from the following:20
+COMP 3007Computer Networks and Internets
+COMP 2027Cyber Security
+INFO 3015Internet of Things and Smart Environments
+COMP 3033Quantum Computing and Communication
+COMP 3020Social Web Analytics
+Total Credit Points80
+
+courselist table2:
+COMP 2008Computer Organisation10
+COMP 2009Data Structures and Algorithms10
+INFO 3002Ethical Hacking Principles and Practice10
+INFO 3006Information Security10
+INFO 3007Network Security10
+Select one of the following:10
+COMP 3015Operating Systems Programming
+COMP 2019Systems Programming 1
+Select two from the following:20
+COMP 3007Computer Networks and Internets
+INFO 3001Computer Security
+INFO 3015Internet of Things and Smart Environments
+COMP 3033Quantum Computing and Communication
+COMP 3020Social Web Analytics
+Total Credit Points80

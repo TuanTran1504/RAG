@@ -1,0 +1,18 @@
+Academic Handbook Current Edition MATH 1028 Statistical Decision Making Credit Points 10 Legacy Code 300700 Coordinator Volker Gebhardt Opens in new window Description Statistical Decision Making introduces students to various statistical techniques for analysing and interpreting data.  Presentation of the content will emphasise the correct principles and procedures for collecting and analysing data, using statistical software.  Topics include describing different sets of data, probability distributions, statistical inference, and simple linear regression and correlation. 
+The open-source statistical software package R will be introduced and used in this subject.
+
+Analysing and interpreting data is crucial in many sectors of modern economy and society.  Thus, basic competencies in statistics, data collection and data analysis are essential employability skills in virtually every profession. School Computer, Data & Math Sciences Discipline Statistics Student Contribution Band HECS Band 1 10cp Check your fees via the Fees page. Level Undergraduate Level 1 subject Equivalent Subjects COMP1014
+MATH1033 Incompatible Subjects MATH1003
+MATH1025
+MATH1032
+MATH1030
+ECON1006
+MATH1012 Learning Outcomes On successful completion of this subject, students should be able to: Analyse data using traditional methods or modern resampling methods
+Use technology to assist in performing statistical analysis
+Recognise the limitations of data collection methods and demonstrate awareness of the influence of these limitations on inference
+Choose the correct statistical method for analysis and correctly interpret the results
+Aanalyse data using traditional methods or modern resampling methods
+Recognise the limitations in data collection methods and have awareness in the role of data collection on inference Subject Content Collecting and describing data
+Probability
+Confidence intervals and hypothesis tests
+Simple linear regression Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Short Answer 50 minutes 11 Y Individual Y  Short Answer 15 minutes  (per workshop exercise) 24 N Individual Y  Report 15 hours per student 15 N Group Y  Final Exam 2 hours 50 Y Individual Y Prescribed Texts Teaching Periods Autumn (2024) Campbelltown On-site Subject Contact Sherwin Bagheri Opens in new window View timetable Opens in new window Penrith (Kingswood) On-site Subject Contact Sherwin Bagheri Opens in new window View timetable Opens in new window Parramatta - Victoria Rd On-site Subject Contact Sherwin Bagheri Opens in new window View timetable Opens in new window Structures that include subject Bachelor of Computer Science (3506) Bachelor of Computer Science (Advanced) (3634) Bachelor of Information and Communications Technology (3639) Bachelor of Information and Communications Technology (Advanced) (3684) Bachelor of Information and Communications Technology (Health Information Management) (3711) Bachelor of Information and Communications Technology/Bachelor of Arts (3654) Bachelor of Mathematics (3778) Computer Science (COMP) Data Science and Machine Learning, Minor (0322) Economics and Econometrics (ECON) Graduate Diploma in Information and Communications Technology (3700) Master of Information and Communications Technology (3699) Master of Information and Communications Technology (Advanced) (3698) Mathematics (MATH) Mathematics, Major (0059) Mathematics, Minor (0059) Social Media Analytics, Minor (0147) Statistics, Minor (0148)

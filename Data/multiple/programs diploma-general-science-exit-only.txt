@@ -1,0 +1,165 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Diploma in General Science (exit only) (7185)
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 108483A
+- This program applies to students who commenced in 2022 or later.
+- This program is an exit only program.
+- Program Structure
+- Students must successfully complete:
+- Core subjects Level 1:
+- Core subjects Level 2:
+- Core subjects Level 3:
+- Focus subjects Level 1:
+- Focus subjects Level 2:
+- Focus subjects level 3:
+
+Location Table:
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+NATS 1019Scientific Literacy10
+CHEM 1008Introductory Chemistry10
+And10
+BIOS 1001Biodiversity
+or
+BIOS 1012Cell Biology
+
+courselist table2:
+MATH 1003Biometry10
+MATH 1014Mathematics 1A10
+BIOS 1001Biodiversity10
+CHEM 1008Introductory Chemistry10
+NATS 1019Scientific Literacy10
+BIOS 1012Cell Biology10
+MATH 1026Quantitative Thinking10
+CHEM 1012Essential Chemistry10
+
+courselist table3:
+MATH 2001Advanced Calculus10
+CHEM 2001Analytical Chemistry10
+NATS 2019Forensic and Environmental Analysis10
+PUBH 2010Epidemiology10
+NATS 2042Science Research Methods10
+BIOS 2042Biochemistry10
+NATS 2001Advanced Science Project A10
+NATS 2002Advanced Science Project B10
+
+courselist table4:
+BIOS 3012Conservation Biology10
+NATS 3027Laboratory Quality Management10
+NATS 3040Topics in Medical Science10
+NATS 3008Complex Forensic Studies10
+NATS 3015Field Project 110
+NATS 3044Complex Case Studies in Science10
+NATS 3043Advanced Science Research Project C20
+NATS 3055Practicum 110
+
+courselist table5:
+MATH 1015Mathematics 1B10
+AGRI 1003Animal Science10
+NATS 1008Forensic Science10
+AGRI 1005Human Animal Interactions10
+AGRI 1009Wildlife Studies10
+BIOS 1012Cell Biology10
+BIOS 1027Management of Aquatic Environments10
+PHYS 1002Physics 110
+PHYS 1006Physics 210
+NATS 1003Digital Forensic Photography10
+ENVL 1006Environmental Health Issues and Solutions10
+ENVL 1004Introduction to Environmental Science10
+AGRI 2007Introduction to Agrifood10
+PROC 1005Introduction to Food Science10
+NATS 1009Human Anatomy and Physiology 110
+NATS 1010Human Anatomy and Physiology 210
+NATS 1022Functional Anatomy10
+
+courselist table6:
+BIOS 2022Microbiology 110
+AGRI 2004Animal Reproduction10
+EART 2001Climate Change Science10
+BIOS 2006Comparative Physiology10
+BIOS 2018Genetics10
+CHEM 2010Physical Chemistry10
+CHEM 2008Organic Chemistry10
+BIOS 2008Ecology10
+BIOS 2021Metabolism10
+NATS 2010Crime Scene Investigation10
+NATS 2031Toxicology10
+NATS 2004Anatomy of the Thorax and Abdomen10
+CHEM 2006Inorganic Chemistry10
+PHYS 2004The Cosmos in Perspective: Information and Life10
+BIOS 2040Invertebrate Zoology10
+BIOS 2041Vertebrate Zoology10
+NATS 2033Cell Form and Function10
+NATS 2034Human Systems Physiology 110
+NATS 2035Human Systems Physiology 210
+ENVL 2007Environmental Monitoring and Assessment10
+EART 2004Soils and Substrates10
+HORT 2003Plant Production10
+PROC 2002Innovative Foods10
+NATS 2021Imaging Science10
+
+courselist table7:
+NATS 3037Neuroanatomy10
+BIOS 3014Genes, Genomics and Human Health10
+AGRI 3002Animal Nutrition and Feeding10
+AGRI 3005Animal Production10
+NATS 3020Food Safety10
+PUBH 3007Disease Prevention and Control10
+CHEM 3010Forensic Chemistry10
+AGRI 3007Water in the Landscape10
+AGEN 3001Animal Behaviour10
+NATS 3014Experimental Foods10
+PUBH 3005Disaster and Emergency Management10
+NATS 3006Anatomy of the Head and Neck10
+CHEM 3004Advanced Organic Chemistry10
+CHEM 3003Advanced Inorganic Chemistry10
+HLTH 3001Applied Nutrition10
+NATS 3017Field Project 210
+PROC 3003Food Product Development10
+PHYS 3001Astroinformatics10
+PUBH 3017Occupational Health and Safety10
+NATS 3038Quality Assurance and Food Analysis10
+NATS 3039Science Research Project10
+CHEM 3001Advanced Analytical Chemistry10
+CHEM 3005Advanced Physical Chemistry10
+NATS 3034Molecular Medicine10
+NATS 3012Environmental Forensic Investigations10
+NATS 3003Advanced Mortuary Practice10
+EART 3006Science of the Anthropocene10
+BIOS 3027Molecular Biology of the Cell10
+BIOS 3026Evolution and Genetics10
+BIOS 3028Pathological Basis of Human Disease10
+PHYS 3006Classical Physics10
+BIOS 3032Plant Science10
+EART 3007Land Degradation and Contamination10
+PUBH 3021Air Pollution & Control10
+NATS 3046Advanced Physiology10
+PHYS 3007Quantum Physics10
+MEDI 3008Mortuary Practice10
+ENVL 3010Environmental Planning, Policy & Regulation10
+BIOS 3034Molecular Biotechnology10
+BIOS 3033Applied Bioinformatics10
+BIOS 3035Sustainable Environments10
+HORT 3002Protected Cropping Technology10
+AGRI 3009Agricultural Technology10
+BIOS 3036Agricultural Biosecurity10
+NATS 3048Food Formulations10
+PROC 3007Food Innovation and Technology10
+AGRI 3010Animal Health and Welfare10
+HLTH 3019Nutrition, Health and Disease10
+HLTH 3020Global Nutrition and Food10
+PHYS 3008Biomedical Physics10
+NATS 3026Forensic Biology10
+NATS 3023Forensic Anthropology10
+BIOS 3038Metabolism10
+NATS 3053Crime Scene Investigation10
+BIOS 3039Ecology10
+NATS 3054Human Systems Physiology 210
+NATS 3056Practicum 210

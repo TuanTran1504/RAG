@@ -1,0 +1,29 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Finance and Tax Law, minor (0344)
+- Effective from:
+- Western Sydney University Minor Code:
+- The specialisation is designed to meet the needs of legal and non-legal professionals from Australia and overseas. This specialisation will develop specialised skills and knowledge to develop careers in the taxation and finance system. Students will be able to examine how the Australian legal and regulatory compliance requirements frame the provision of financial advice and the financial services sector as well as critically evaluate the policy rationale behind the regulation of the provision of financial advice within the Australian financial services sector to apply relevant regulatory provisions to case studies.
+- Minor Structure
+- Students must complete 40 credit points from the following subjects:
+- Related Programs
+
+Location Table:
+- Parramatta South Campus - Victoria Road
+- Internal
+- Dr Rangika Palliyaarachchi
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+LAWS 7031Principles of Taxation10
+LAWS 7011Contemporary Issues in Taxation10
+LAWS 7040Financial Advice (Regulatory and Legal Obligations)10
+LAWS 7010Company Law10
+LAWS 6005International Banking and Finance Law10
+LAWS 7069Revenue Law10
+LAWS 7077Self-Managed Superannuation and Trusts10
+LAWS 7060Law of Associations10

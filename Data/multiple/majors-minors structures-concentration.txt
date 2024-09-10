@@ -1,0 +1,33 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Structures, Concentration (0116)
+- Western Sydney University Concentration Code:
+- Previous Code: SM3065.1
+- This concentration is only available to students enrolled in 3740 Bachelor of Engineering (Honours) or 3689 Bachelor of Engineering - Civil or Construction majors only.
+- Location
+- Concentration Structure Current
+- This concentration is only available to students enrolled in Bachelor of Engineering (Honours) or 3689 Bachelor of Engineering - Civil or Construction majors only.
+- From 2024, please refer to Structures, Minor (0116). This minor is available to all students in Bachelor of Engineering (Honours) (3740) and Bachelor of Engineering Advanced (Honours) (3771).
+- The subjects listed below count towards completion of this concentration for students who passed these subjects in 2022 or earlier.
+- CIVL 3010 Highway Infrastructure replaced by CIVL 3021  Bridge Engineering Design (Autumn 2023)
+- Related Programs
+
+Location Table:
+- Penrith Campus
+- Internal
+- beng@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Students must complete 40 credit points from the following40
+CIVL 3021Bridge Engineering Design
+CIVL 4001Applied Mechanics
+CIVL 4002Composite Structures
+CIVL 3010Highway Infrastructure
+CIVL 4008Pile Foundations
+CIVL 4009Timber Structures (UG)
+Total Credit Points40

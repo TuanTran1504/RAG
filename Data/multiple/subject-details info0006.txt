@@ -1,0 +1,18 @@
+Academic Handbook Current Edition INFO 0006 Computer Fundamentals (WSTC Prep) Credit Points 10 Legacy Code 700277 Coordinator Buddhima De Silva Opens in new window Description The Computer Fundamentals subject aims to develop a solid theoretical foundation to help students prepare for further study in Information and Communications Technology while developing/enhancing students' practical skills in Business Processing Applications. Topics in the subject include the underpinning concepts of Information Technology, Software and Hardware, Computer Networking, Internet, Security of Information Systems, Privacy and Ethics, Use of MS Office applications and HTML. School Western Sydney The College Discipline Information Technology, Not Elsewhere Classified. Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 0 Preparatory subject Restrictions Students must be enrolled at Western Sydney, The College. Learning Outcomes On successful completion of this subject, students should be able to: Identify and describe the basic components and concepts of Information Technology.
+Identify the basic components and protocols of computer networking and internetworking.
+Explain the key security issues of information technology.
+Recognise and explain the social, ethical and privacy issues relating to computing.
+Demonstrate competency in the use of the following Microsoft Applications: Word, Excel, PowerPoint.
+Create a Basic Web site using HTML. Subject Content Theory topics
+1. Introduction to underpinning concepts of Information Technology
+2. Computer Hardware and Software
+3. Data representation and converting number systems
+4. Communication Networks
+5. The Internet and the World Wide Web
+a. Security, social, ethical and privacy issues.
+Practical Topics
+6. Introduction to the Windows Environment
+7. Introduction to MS Word
+8. Introduction to MS PowerPoint
+9. Introduction to MS Excel
+10. Introduction to HTML Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Participation and tutorial activities 10 activities 10 N Individual   Electronic Portfolio 2 activities 20 N Individual   Electronic Portfolio/ Presentation 2 activities, presentation (5-10 min) 25 N Individual   Intra-session Exam 60 minutes 10 N Individual   Final Examination 2 hours 35 N Individual Structures that include subject Other information Technology (INFO)

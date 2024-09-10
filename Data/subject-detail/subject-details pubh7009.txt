@@ -1,0 +1,18 @@
+Academic Handbook Current Edition PUBH 7009 Epidemiology and Quantitative Methods Credit Points 10 Legacy Code 400417 Coordinator Dafna Merom Opens in new window Description In this subject, students will study the fundamental concepts and principles of epidemiology and biostatistics and will be given the opportunities through exercise and tutorials to apply these concepts and principles to published public health literature. The subject is designed to give students the skills to interpret and critically evaluate public health literature and to equip the students with the skills for public health research. A range of research studies is examined, including studies of occurrence and risk factors for disease, and studies evaluating intervention treatments or programs. Both the epidemiological and statistical evidence for the findings are critically assessed. School Health Sciences Discipline Epidemiology Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Postgraduate Coursework Level 7 subject Equivalent Subjects LGYB 7971 - Epidemiology and Quantitative Methods Restrictions Students must be enrolled in a postgraduate program. Learning Outcomes On successful completion of this subject, students should be able to: Apply the fundamental principles and terminology common to all areas of epidemiology to public health literature and practice
+Explain the strengths and limitations of different epidemiological study designs in addressing specific research questions and become familiar with the hierarchy of evidence to understand causality
+Calculate and interpret different measures of disease occurrence, measures of risk, source of bias and study validity
+Interpret and critically evaluate epidemiological and public health literature
+Apply the logic of hypothesis testing, type-1 and type-2 error, statistical significance, statistical power and effect size
+Select and apply appropriate methods for the statistical analysis of categorical, ordinal and continuous data for within- and between-subjects study designs
+Present findings from basic analyses in tables and figures
+Interpret SPSS output and use SPSS software to conduct basic analysis of epidemiologic data Subject Content 1. Observational study design: Cohort studies , Case control studies, Cross sectional studies, ecological studies and surveillance
+2. Experimental studies: randomised controlled trials (RCT) , cluster randomised controlled trials, quasi-experimental designs
+3. Measures of disease frequency (incidence and prevalence) and measures of association
+4. Bias, confounding and effect modification
+5. Interpretation and evaluation of public health literature ?causality, strength of evidence
+6. Descriptive statistics and data presentation
+7. Continuous and categorical study variables
+8. Hypothesis testing, statistical significance, power and effect size
+9. Tests of statistical significance for continuous and categorical variables and within-and between-subjects study designs (X2, t tests and ANOVA)
+10. Correlation and simple linear regression
+11. Use of SPSS and interpretation of its output Prescribed Texts Structures that include subject Master of Health (Research Studies)/PhD (4681) Public Health (PUBH)

@@ -1,0 +1,298 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Bachelor of Mathematics (3778)
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 103731H
+- The Bachelor of Mathematics will commence in 2022.
+- The essence of mathematics is the use of abstraction and logic to discover, describe and completely and unambiguously understand systems. Mathematics is essential for modelling phenomena in many fields, including science, engineering, economics, finance, medicine, and politics. The fact that mathematicians are able to model, analyse and solve practical problems makes them highly sought after by employers. The Bachelor of Mathematics will give you a solid basis in key areas of mathematics. You also have the option of completing majors in Financial Mathematics, Data Science, or Computational Mathematics, or you can use the degree as a pathway to secondary teaching.
+- Study Mode
+- Three years full-time or six years part-time.
+- Program Advice
+- Mr Neil Hopkins
+- Location
+- Inherent Requirements
+- There are inherent requirements for this program that you must meet in order to complete your program and graduate. Make sure you read and understand the requirements for this program online.
+- https://www.westernsydney.edu.au/ir/inherent_requirements/mathematics
+- Admission
+- Assumed Knowledge: Students should have either HSC Mathematics Advanced, or HSC Mathematics Extension 1, or Mathematics Extension 2, and at least two units of HSC English.
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Program Structure
+- Qualification for the Bachelor of Mathematics requires the successful completion of 240 credit points which include the subjects listed in the recommended sequences below.
+- Recommended Sequence
+- Full-time start-year intake
+- Part-time start-year intake
+- Recommended Majors
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 3004 Discovery Project, replaced by COMP 3035 Discovery Project
+
+Location Table:
+- Campbeltown Campus
+- Full Time
+- Internal
+- See above
+- Campbelltown Campus
+- Part Time
+- Internal
+- See above
+- Parramatta Campus - Victoria Road
+- Full Time
+- Internal
+- See above
+- Parramatta Campus - Victoria Road
+- Part Time
+- Internal
+- See above
+- Penrith Campus
+- Full Time
+- Internal
+- See above
+- Penrith Campus
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+MATH 1006
+Discrete Mathematics
+10
+MATH 1014
+Mathematics 1A
+10
+COMP 1005
+Programming Fundamentals
+10
+MATH 1028
+Statistical Decision Making
+10
+
+Credit Points
+40
+Spring session
+MATH 1015
+Mathematics 1B
+10
+COMP 2023
+Mathematical Programming
+10
+Select two major subjects from your chosen major or two electives
+20
+
+Credit Points
+40
+Year 2
+Autumn session
+MATH 2010
+Linear Algebra
+10
+MATH 2001
+Advanced Calculus
+10
+MATH 3012
+Combinatorics
+10
+Select one major subject from your chosen major or one elective
+10
+
+Credit Points
+40
+Spring session
+MATH 2003
+Differential Equations
+10
+MATH 3007
+Predictive Modelling
+10
+From Spring 2022 MATH 3007 Predictive Modelling is replaced by COMP 3032 Machine Learning
+
+COMP 3032
+Machine Learning
+10
+MATH 3015
+Groups and Symmetry
+10
+Select one major subject from your chosen major or one elective
+10
+
+Credit Points
+50
+Year 3
+Autumn session
+MATH 3003
+Analysis
+10
+MATH 3013
+Fields and Equations
+10
+Select two major subjects from your chosen major or two electives
+20
+
+Credit Points
+40
+Spring session
+MATH 3006
+Mathematical Modelling
+10
+Students enrolled in T079 Data Science must complete:
+10
+COMP 3035
+Discovery Project
+
+All students NOT enrolled in T079 must complete
+
+MATH 3016
+Mathematics Project
+
+And all students must complete two major subjects from your chosen major or two electives
+20
+
+Credit Points
+40
+
+Total Credit Points
+250
+Year 1
+Autumn session
+Credit Points
+MATH 1006
+Discrete Mathematics
+10
+COMP 1005
+Programming Fundamentals
+10
+
+Credit Points
+20
+Spring session
+COMP 2023
+Mathematical Programming
+10
+Select one major subject from your chosen major or one elective
+10
+
+Credit Points
+20
+Year 2
+Autumn session
+MATH 1014
+Mathematics 1A
+10
+MATH 1028
+Statistical Decision Making
+10
+
+Credit Points
+20
+Spring session
+MATH 1015
+Mathematics 1B
+10
+Select one major subject from your chosen major or one elective
+10
+
+Credit Points
+20
+Year 3
+Autumn session
+MATH 2010
+Linear Algebra
+10
+MATH 2001
+Advanced Calculus
+10
+
+Credit Points
+20
+Spring session
+MATH 2003
+Differential Equations
+10
+MATH 3007
+Predictive Modelling
+10
+From Spring 2022 MATH 3007 Predictive Modelling is replaced by COMP 3032 Machine Learning
+
+COMP 3032
+Machine Learning
+10
+
+Credit Points
+30
+Year 4
+Autumn session
+MATH 3012
+Combinatorics
+10
+Select one major subject from your chosen major or one elective
+10
+
+Credit Points
+20
+Spring session
+MATH 3015
+Groups and Symmetry
+10
+Select one major subject from your chosen major or one elective
+10
+
+Credit Points
+20
+Year 5
+Autumn session
+MATH 3003
+Analysis
+10
+Select one major subject from your chosen major or one elective
+10
+
+Credit Points
+20
+Spring session
+MATH 3006
+Mathematical Modelling
+10
+Select one major subject from your chosen major or one elective
+10
+
+Credit Points
+20
+Year 6
+Autumn session
+MATH 3013
+Fields and Equations
+10
+Select one major subject from your chosen major or one elective
+10
+
+Credit Points
+20
+Spring session
+Students enrolled in T079 Data Science must complete:
+10
+COMP 3035
+Discovery Project
+
+All students NOT enrolled in T079 must complete
+
+MATH 3016
+Mathematics Project
+
+And all students must complete one major subject from your chosen major or one elective
+10
+
+Credit Points
+20
+
+Total Credit Points
+250
+
+Courselist Tables:

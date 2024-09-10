@@ -1,0 +1,108 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Music, Major (0209)
+- Western Sydney University Major Code:
+- Previous Code: M1117.1
+- The Music major provides students from outside the Music program with a comprehensive introduction to current practice in the fields of music, performance and sound production for sound design, composition and performance. Foundation level subjects examine the fundamentals of music performance, acoustics, stereo recording and mixing, MIDI systems and sequencing, sound synthesis, and composition utilising environmental sound. Technical concepts are contextualised within a survey of electroacoustic music and sonic arts practice. Students will also examine studio techniques, new performance technologies, and composition and design for screen media.
+- Location
+- Major Structure
+- Special Requirement
+- Students undertaking this major will be selected by one of three methods:
+- 1. Attain an HSC Music result in band 4 or above. No audition is required.
+- 2. Hold the following AMEB or equivalent (e.g. Trinity College) qualification:
+- No audition is required.
+- 3. Attend an audition in person as a performer and/or composer. Applicants applying as a composer will need to bring recordings and/or scores of original compositions to the audition. After applying to UAC or Directly to Western applicants are required to book an audition online.
+- Online audition booking system
+- If not auditioning, applicants will need to upload their supporting documentation (e.g. AMEB certificates demonstrating level of achievement in performance and musicianship and/or music theory).
+- Students must complete 80 credit points as follows
+- The subjects listed below count towards completion of this major for students who passed these subjects in 2023 or earlier.
+- PERF 2031 The Music Industry, replaced by PERF 2033 Recording Studio Practices
+- PERF 2033 Recording Studio Practices
+- The subjects listed below count towards completion of this major for students who passed these subjects in 2021 or earlier.
+- PERF 2003 Collaboration and Live Music Performance, replaced by PERF 2016 Music Group Performance
+PERF 1008 Introduction to Music Performance, replaced by PERF 1010 Music Performance 1
+PERF 2013 Introduction to the Sound Studio, replaced by PERF 2022 Studio Production, replaced by  PERF 2026 Advanced Production
+PERF 3025 Sound and Performance: Expanded Practice, replaced by PERF 3007 Expanded Music Performance, replaced by PERF 3027 Interactive Electronic Media and Performance
+PERF 3024 Sound Composition for Screen Media, replaced by PERF 3022 Screen Media Composition
+PERF 1019 Sound Synthesis and the Sound Environment, replaced by PERF 1018 Sound Design, replaced by PERF 1025 Sound Design
+PERF 2021 Sound Technologies and Machine Musicianship, replaced by PERF 2008 Digital Musicianship, replaced by PERF 2027 Electronic Music Production
+PERF 1018 Sound Design, replaced by PERF 1025 Sound Design
+PERF 2022 Studio Production, replaced by PERF 2026 Advanced Production
+PERF 2008 Digital Musicianship, replaced by PERF 2027 Electronic Music Production
+PERF 2007 Expanded Music Performance, replaced by PERF 3027 Interactive Electronic Media and Performance
+PERF 3019 Professional Music Project, replaced by PERF 3026 Applied Professional Music Contexts
+PERF 2026 Advanced Production, replaced by PERF 2031 The Music Industry
+PERF 2027 Electronic Music Production, replaced by PERF 2029 Music Multimedia Project
+PERF 3027 Interactive Electronic Media and Performance, replaced by PERF 3028 Expanded Performance
+PERF 3026 Applied Professional Music Contexts, replaced by PERF 3029 Intercultural Music Project
+- PERF 2016 Music Group Performance
+- PERF 1010 Music Performance 1
+- PERF 3022 Screen Media Composition
+- PERF 1025 Sound Design
+- PERF 1025 Sound Design
+- PERF 2031 The Music Industry
+- PERF 2029 Music Multimedia Project
+- PERF 3028 Expanded Performance
+- PERF 3029 Intercultural Music Project
+- Related Programs
+
+Location Table:
+- Penrith Campus
+- Internal
+- enquiriesHCA@uws.edu.au
+
+Sequence Tables:
+Year 1
+Spring session
+Credit Points
+PERF 1025
+Sound Design
+10
+
+Credit Points
+10
+Year 2
+Spring session
+PERF 2029
+Music Multimedia Project
+10
+
+Credit Points
+10
+Autumn session
+PERF 1010
+Music Performance 1
+10
+PERF 2033
+Recording Studio Practices
+10
+
+Credit Points
+20
+Year 3
+Spring session
+PERF 3022
+Screen Media Composition
+10
+PERF 3029
+Intercultural Music Project
+10
+
+Credit Points
+20
+Autumn session
+PERF 2016
+Music Group Performance
+10
+PERF 3028
+Expanded Performance
+10
+
+Credit Points
+20
+
+Total Credit Points
+80
+
+Courselist Tables:

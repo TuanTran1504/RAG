@@ -1,0 +1,208 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Bachelor of Building Design Management (Honours) (3801)
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS code:
+- This program applies to students who commenced in 2025 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- For Commencement Year 2021 to 2024 - please refer to 3727 Bachelor of Building Design Management
+- For commencement year 2020, please refer to: 3727.2 Bachelor of Building Design Management
+- For commencement year 2016, please refer to: 3727.1 Bachelor of Building Design Management
+- The Bachelor of Building Design Management (Honours) program develops essential skills crucial for excelling in the integrated design and delivery of building projects. Encompassing all facets of building design, it begins with an initial design concept, extends to the formation of a design brief, oversees project documentation, ensures quality control management during the construction phase, and culminates in a project handover.
+- Students will develop an understanding of ‘buildability’ issues, accurate cost forecasting, risk management and sustainable project delivery. Students will also develop skills needed to work in a multi-disciplinary project team and negotiate favourable outcomes in complex project environments through simulations of real-life building projects and approved practical experiences. Graduates of the program will be well-prepared for roles as Design Coordinators or Design Administrators, with a clear pathway to becoming Design Managers at large construction contractors.
+- Study Mode
+- Four years full-time or eight years part-time.
+- Program Advice
+- Program Advice
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Accreditation
+- The Bachelor of Building Design Management (Honours) is accredited by the Australian Institute of Building (AIB) and Chartered Institute of Building (CIOB).
+- Inherent Requirements
+- Inherent Requirements
+- There are inherent requirements for this program that you must meet in order to complete your program and graduate. Make sure you read and understand the requirements for this program online.
+- Inherent requirements are available on the webpage at https://www.westernsydney.edu.au/ir/inherent_requirements/inherent_requirements_for_building_design_and_construction_management
+- Work Integrated Learning
+- Work Integrated Learning
+- There is a mandatory work component required for completion of this program.  Please contact the Program Advisor listed above for information.
+- International students should also refer to the link below for more information and a link to the Commonwealth Register of Institutions and Courses for Overseas Students (CRICOS).
+- Work Integrated Learning (WIL) for international students
+- All students enrolled in Bachelor of Building Design Management (Honours) must obtain, through their own initiative, 1200 hours of industry related employment prior to graduation.
+- Admission
+- Assumed knowledge required: English.
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- International students currently completing an Australian Year 12 in or outside Australia, an International Baccalaureate in Australia or a New Zealand National Certificate of Educational Achievement (NCEA) level 3 must apply via UAC International.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Sequence
+- Qualification for this award requires the successful completion of 320 credit points which include the subjects listed in the recommended sequence below.
+- Full-time
+- Industry Experience
+- All students enrolled in Bachelor of Building Design Management must obtain, through their own initiative, 1200 hours of industry related employment prior to graduation.
+- To facilitate the recording of such experience it will be necessary to enrol in BLDG 4012 Industry Based Learning and have an Industry Experience Diary signed off.
+- BLDG 4012 Industry Based Learning
+- BLDG 4012 Industry Based Learning
+- Elective Spaces
+- Electives within the sequence may be used towards obtaining a Minor or completing any electives from the pool of Optional Electives or from other Schools.
+- Optional Electives
+
+Location Table:
+- Parramatta - Victoria Road
+- Full Time
+- Internal
+- See above
+- Parramatta - Victoria Road
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+BLDG 1015
+Residential Building
+10
+ARCH 1004
+Drawing and CAD
+10
+ENGR 1036
+Construction Communication
+10
+BLDG 1007
+Construction Work Safety
+10
+
+Credit Points
+40
+Spring session
+BLDG 1014
+Non-Residential Building
+10
+BLDG 2011
+Contract Administration
+10
+BLDG 1013
+Building Science
+10
+BLDG 1009
+Environmental Building Design
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+CIVL 2016
+Civil and Substructure
+10
+BLDG 3007
+Design Brief Formulation
+10
+BLDG 2002
+Building Measurement
+10
+Select one elective
+10
+
+Credit Points
+40
+Spring session
+ACCT 1001
+Accounting Information for Managers
+10
+BLDG 3001
+Building Design Process
+10
+BLDG 2001
+Building Estimates and Tendering
+10
+Select one elective
+10
+
+Credit Points
+40
+Year 3
+Autumn session
+CIVL 3016
+Building Superstructure
+10
+ARCH 2003
+Development Control
+10
+BUSM 3077
+Construction Project Management
+10
+Select one elective
+10
+
+Credit Points
+40
+Spring session
+JUST 3003
+Building Law
+10
+BLDG 2004
+Built Heritage
+10
+CIVL 3017
+Construction Scheduling
+10
+Select one elective
+10
+
+Credit Points
+40
+Year 4
+Autumn session
+BLDG 4009
+Residential Building Project
+10
+BLDG 4008
+Digital Construction
+10
+BLDG 4014
+Building Design Project (Development Application)
+20
+
+Credit Points
+40
+Spring session
+CIVL 4015
+Complex Building Project
+10
+BLDG 4017
+Advanced Digital Construction
+10
+BLDG 4015
+Building Design Project (Construction Certificate)
+20
+
+Credit Points
+40
+
+Total Credit Points
+320
+
+Courselist Tables:
+
+courselist table1:
+GEOM 3001Advanced Building Measurement10
+BLDG 3017Building Certification Ethics10
+BLDG 3010Building Cost Studies10
+BLDG 2003Building Regulations Studies10
+BLDG 3011Construction Business Management10
+BLDG 3004Construction Information Systems10
+BLDG 3015Contract Management10
+BLDG 3014Introduction to Building Fire Safety10
+BLDG 2015Leading Teams in Construction10
+BLDG 3008Negotiation in the Built Environment10
+ENGR 3021Professional Practice10
+BLDG 3009Quality and Value Management10
+CIVL 2017Sustainable Construction Materials10

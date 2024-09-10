@@ -1,0 +1,35 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Human Rights Law, minor (0347)
+- Effective from:
+- Western Sydney University Minor Code:
+- A minor in Human Rights offers students a comprehensive exploration of international and domestic human rights frameworks, cultivating a deep understanding of ethical and legal considerations. The minor will explore the role of human rights in protecting vulnerable communities including children and the elderly.  Students will refine their critical thinking, positioning themselves to tackle pressing global challenges with empathy and expertise. Armed with Human Rights knowledge, students become catalysts for change, advocating for justice and empowerment across diverse societies.
+- Minor Structure
+- Students must complete 10 credit points as follows:
+- Students must complete 30 credit points from the following subjects:
+- Related Programs
+
+Location Table:
+- Parramatta South Campus - Victoria Road
+- Internal
+- Dr Rangika Palliyaarachchi
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+LAWS 7022International Human Rights Law10
+
+courselist table2:
+LAWS 7051Elder Law10
+LAWS 5007Children's Rights: Local and International10
+JUST 7007Issues in the Criminal Justice System10
+LAWS 7014Human Rights in Practice and Theory10
+LAWS 7008Bioethics10
+LAWS 7019International Criminal Law and Justice10
+LAWS 5008Law and Public Policy10
+LAWS 5001Law of Employment10
+LAWS 7015Information and Data Governance Law and Policy10
+LAWS 7007Australian Migration Law10

@@ -1,0 +1,464 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Bachelor of Information and Communications Technology/Bachelor of Business (Accounting) (3738)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 089214F
+- This program applies to students who commenced in 2017 or later.
+- This double degree targets the wide application of information technology in Accounting.   It provides students with a strong technical background in IT and Accounting.  It allows students to develop skills in application development, program design, systems analysis and design, networks, web development, and the implementation of technology. This degree combines information technology with knowledge required by professional Accountants.
+- Students may be required to travel between campuses for some learning experiences.
+- Study Mode
+- Four years full-time.
+- Program Advice
+- Program Advice
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Accreditation
+- The business component of this program is accredited by the Association to Advance Collegiate Schools of Business (AACSB). The Bachelor of Business (Accounting) is accredited with and satisfies the pre-admission educational requirements for membership of CPA Australia (CPA), Chartered Accountants Australia and New Zealand (CAANZ) and the Institute of Public Accountants (IPA). Completion of this degree will allow students to claim a number of exemptions from the Chartered Institute of Management Accountants (CIMA) in obtaining the CIMA Professional Qualification.
+- Inherent Requirements
+- There are inherent requirements for this program that you must meet in order to complete your program and graduate. Make sure you read and understand the requirements for this program online.
+- Inherent Requirements
+- Admission
+- Assumed knowledge: HSC Mathematics and any two subjects of HSC English.
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- International students currently completing an Australian Year 12 in or outside Australia, an International Baccalaureate in Australia or a New Zealand National Certificate of Educational Achievement (NCEA) level 3 must apply via UAC International.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Program Structure Current
+- Students who complete this award will graduate with a Bachelor of Information and Communications Technology with a Minor in ICT and a Bachelor of Business, with a Major in Accounting noted on their testamur.
+- Business Component
+- Core Subjects (compulsory 40 credit points)
+- Professional Subjects - Choose 40 credit points
+- The professional subjects provide a focus on careers. Students are required to complete one subject from each of the four key focus areas: numeracy and analytics, career planning, innovation, and enterprise engagement, a total of 40 credit points. The professional core subjects that are recommended for the Bachelor of Business (Accounting) major are specified in the major.
+- Accreditation Subjects
+- Students who successfully complete the Bachelor of Business (Accounting) component of the degree may apply for membership of CPA Australia. Applicants for membership of CPA Australia have the option of either completing Taxation Law with an accredited Higher Education Provider OR in the CPA Program. http://www.cpaaustralia.com.au/apps/careers/accreditedcourses/CourseDetails.aspx?Id=4321
+- Students should note that in order to achieve accreditation with the CPA Australia, Chartered Accounting Australia and New Zealand (CA) and the Institute of Public Accountants (IPA) they will need to complete an additional four subjects (40 credit points) over and above the 320 credit points of this program.
+- Sequence Current
+- This sequence applies to students who commenced in Spring 2023.
+- If you commenced in Autumn 2023 please refer to the Autumn 2023 Sequence tab for details. If you commenced prior to 2023 please refer to the Sequence 2022 tab for details.
+- Qualification for this award requires the successful completion of 320 credit points as per the recommended sequence.
+- Full-time start-year intake
+- Bachelor of Information and Communications Technology Minors
+- Recommended Sequence Autumn 2023
+- This sequence applies to students who commenced in Autumn 2023 or later. If you commenced prior to 2023 please refer to the Sequence 2022 tab for details.
+- Qualification for this award requires the successful completion of 320 credit points as per the recommended sequence.
+- Full-time start-year intake
+- Bachelor of Information and Communications Technology Minors
+- Program Structure 2022
+- Qualification for this award requires the successful completion of 320 credit points as per the recommended sequence.
+- Students who complete this award will graduate with a Bachelor of Information and Communications Technology and a Bachelor of Business, with a Major in Accounting noted on their testamur.
+- Business Component
+- Core Subjects (compulsory 40 credit points)
+- Professional Subjects - Choose 40 credit points
+- The professional subjects provide a focus on careers. Students are required to complete one subject from each of the four key focus areas: numeracy and analytics, career planning, innovation, and enterprise engagement, a total of 40 credit points. The professional core subjects that are recommended for the Bachelor of Business (Accounting) major are specified in the major.
+- Bachelor of Business Accounting Major
+- Choose 80 credit points from the T046 Accounting major. This is a testamur major.
+- Recommended Sequence 2022
+- Use the link to the Bachelor of Business (BBus) Accounting Major to see the core, professional and major subjects required.
+- Students should follow the recommended sequence below and not the recommended sequence listed under the BBus Accounting Major.
+- Full-Time start-year intake
+- Bachelor of Information & Communications Technology Pool Subjects
+
+Location Table:
+- Campbelltown Campus
+- Full Time
+- Internal
+- See above
+- Parramatta Campus - Victoria Road
+- Full Time
+- Internal
+- See above
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+BBUS core subject 1
+10
+BBUS core subject 2
+10
+COMP 1005
+Programming Fundamentals
+10
+Select one of the following
+10
+MATH 1038
+Mathematics for Computing
+
+MATH 1006
+Discrete Mathematics
+
+
+Credit Points
+40
+Spring session
+BBUS core subject 3
+10
+BBUS core subject 4
+10
+COMP 2015
+Programming Techniques
+10
+COMP 2021
+Software Engineering Fundamentals
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+BBUS professional subject 1
+10
+BBUS major subject 1
+10
+INFO 1003
+Professional Practice, Communication and Ethics
+10
+HUMN 1013
+Contextualising Indigenous Australia (Day Mode)
+10
+
+Credit Points
+40
+Spring session
+BBUS professional subject 2
+10
+BBUS major subject 2
+10
+INFS 2001
+Database Design and Development
+10
+COMP 2004
+Computer Networking
+10
+
+Credit Points
+40
+Year 3
+Autumn session
+BBUS major subject 3
+10
+BBUS major subject 4
+10
+COMP 2027
+Cyber Security
+10
+BICT minor subject
+10
+
+Credit Points
+40
+Spring session
+BBUS major subject 5
+10
+BBUS major subject 6
+10
+COMP 3028
+Software Construction
+10
+BICT minor subject
+10
+
+Credit Points
+40
+Year 4
+Autumn session
+BICT minor subject
+10
+BICT minor subject
+10
+BBUS major subject 7
+10
+BBUS professional subject 3
+10
+
+Credit Points
+40
+Spring session
+BBUS professional subject 4
+10
+BBUS major subject 8
+10
+INFO 3019
+Project Management
+10
+COMP 3018
+Professional Experience
+10
+
+Credit Points
+40
+
+Total Credit Points
+320
+Year 1
+Autumn session
+Credit Points
+BBUS core subject 1
+10
+BBUS core subject 2
+10
+COMP 1005
+Programming Fundamentals
+10
+MATH 1038
+Mathematics for Computing
+10
+
+Credit Points
+40
+Spring session
+BBUS core subject 3
+10
+BBUS core subject 4
+10
+COMP 2015
+Programming Techniques
+10
+COMP 2021
+Software Engineering Fundamentals
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+BBUS professional subject 1
+10
+BBUS major subject 1
+10
+INFO 1003
+Professional Practice, Communication and Ethics
+10
+HUMN 1013
+Contextualising Indigenous Australia (Day Mode)
+10
+
+Credit Points
+40
+Spring session
+BBUS professional subject 2
+10
+BBUS major subject 2
+10
+INFS 2001
+Database Design and Development
+10
+COMP 2004
+Computer Networking
+10
+
+Credit Points
+40
+Year 3
+Autumn session
+BBUS major subject 3
+10
+BBUS major subject 4
+10
+COMP 2027
+Cyber Security
+10
+BICT minor subject
+10
+
+Credit Points
+40
+Spring session
+BBUS major subject 5
+10
+BBUS major subject 6
+10
+COMP 3028
+Software Construction
+10
+BICT minor subject
+10
+
+Credit Points
+40
+Year 4
+Autumn session
+BICT minor subject
+10
+BICT minor subject
+10
+BBUS major subject 7
+10
+BBUS professional subject 3
+10
+
+Credit Points
+40
+Spring session
+BBUS professional subject 4
+10
+BBUS major subject 8
+10
+INFO 3019
+Project Management
+10
+COMP 3018
+Professional Experience
+10
+
+Credit Points
+40
+
+Total Credit Points
+320
+Year 1
+Autumn session
+Credit Points
+INFS 1006
+Systems Analysis and Design
+10
+COMP 1005
+Programming Fundamentals
+10
+Select two BBus core subjects
+20
+
+Credit Points
+40
+Spring session
+INFS 2001
+Database Design and Development
+10
+COMP 2015
+Programming Techniques
+10
+Select two BBus core subjects
+20
+
+Credit Points
+40
+Year 2
+Autumn session
+INFS 2006
+Object Oriented Analysis
+10
+COMP 2020
+Technologies for Web Applications
+10
+Select one BBus professional subject
+10
+Select one BBus major subject
+10
+
+Credit Points
+40
+Spring session
+INFS 3017
+Web Systems Development
+10
+COMP 2004
+Computer Networking
+10
+Select one BBus professional subject
+10
+Select one BBus major subject
+10
+
+Credit Points
+40
+Year 3
+Autumn session
+COMP 3007
+Computer Networks and Internets
+10
+INFO 3003
+Human-Computer Interaction
+10
+Select two BBus major subjects
+20
+
+Credit Points
+40
+Spring session
+COMP 3020
+Social Web Analytics
+10
+Select one BICT pool subject from the list below
+10
+Select two BBus major subjects
+20
+
+Credit Points
+40
+Year 4
+Autumn session
+INFO 3008
+Professional Development
+10
+COMP 3015
+Operating Systems Programming
+10
+Select one BBus professional subject
+10
+Select one BBus major subject
+10
+
+Credit Points
+40
+Spring session
+COMP 3018
+Professional Experience
+10
+Select one BICT Pool subject from the list below
+10
+Select one BBus professional subject
+10
+Select one BBus major subject
+10
+
+Credit Points
+40
+
+Total Credit Points
+320
+
+Courselist Tables:
+
+courselist table1:
+LAWS 1001Enterprise Law10
+BUSM 1008Enterprise Leadership10
+BUSM 1006Enterprise Innovation and Markets10
+BUSM 1010Financing Enterprises10
+Total Credit Points40
+
+courselist table2:
+ACCT 2001Contemporary Management Accounting10
+ECON 2002Corporate Financial Management10
+LAWS 2010Law of Business Organisations10
+LAWS 3070Taxation Law10
+Total Credit Points40
+
+courselist table3:
+LAWS 1001Enterprise Law10
+BUSM 1008Enterprise Leadership10
+BUSM 1006Enterprise Innovation and Markets10
+BUSM 1010Financing Enterprises10
+
+courselist table4:
+ACCT 2001Contemporary Management Accounting10
+ECON 2002Corporate Financial Management10
+LAWS 2010Law of Business Organisations10
+LAWS 3070Taxation Law10
+Total Credit Points40
+
+courselist table5:
+PHYS 3001Astroinformatics10
+INFS 3005Developing Web Applications with XML10
+INFO 3002Ethical Hacking Principles and Practice10
+COMP 3013Mobile Applications Development10
+INFO 3007Network Security10
+COMP 3019Professional Experience (Advanced)10
+COMP 3023Systems and Network Management10
+COMP 3024Video Games Development10

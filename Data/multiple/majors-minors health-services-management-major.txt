@@ -1,0 +1,45 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Health Services Management, Major (0053)
+- Western Sydney University Major Code:
+- Previous Code: M4020.1
+- Only available to 4656 Bachelor of Health Science students
+- Health Services Management plays a vital role in ensuring that investment in health is well spent and that businesses are efficient and sustainable. Graduates will be skilled in managing and responding to change within the health system and in roles that deal with policy initiative, development and evaluation. The major complements the comprehensive foundation in the health sciences, of the Bachelor of Health Science, and will develop the competencies important for ethical practice, quality care and the skills to work in multidisciplinary teams. The Health Services Management major includes 140 hours of professional placement experience in unit BUSM 2044 Health Service Management. Students in T109 Clinical Science, who would not otherwise have the opportunity to take the 140-hour unit MEDI 3007 Professional Health Placement may choose to do so. The Major is identified on a graduate’s academic transcript as a completed unit set.
+- BUSM 2044 Health Service Management
+- MEDI 3007 Professional Health Placement
+- Location
+- Major Structure
+- Student must complete the following 80cps (This Major is not listed on the testamur and may not be taken in conjunction with the T019 Health Services Management or 0240 Health Practice Management or T110 Recreational Therapy or 0053 Major Health Service Management or 0170 Health Management)
+- Equivalent Major Subjects
+- The subject listed below count towards completion of the major for students who may have passed this subject in 2022 or earlier.
+- BUSM 2043 Project Management in Humanitarian and Development Studies, replaced by BUSM 3082 Project Management in Humanitarian and Development Studies
+- BUSM 3082 Project Management in Humanitarian and Development Studies
+- Related Programs
+
+Location Table:
+- Campbelltown Campus
+- Internal
+- HealthSciences@westernsydney.edu.au
+- Sydney City Campus*
+- Internal
+- Dr Andrey Zheluk
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+BUSM 1037Health Administration and Management10
+BUSM 2044Health Service Management10
+BUSM 1026Organisational Behaviour10
+MATH 1012Management Analytics10
+BUSM 3005Creating Change and Innovation10
+BUSM 3082Project Management in Humanitarian and Development Studies10
+BUSM 3080Health Care Systems and Organisation Culture10
+And for T018 Health Promotion or T021 Public Health10
+HLTH 3018Ethical and Legal Issues in Health Care
+Or for T109 Clinical Science select on of the following:
+HLTH 3018Ethical and Legal Issues in Health Care
+MEDI 3007Professional Health Placement
+Total Credit Points80

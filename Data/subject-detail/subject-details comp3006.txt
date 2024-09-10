@@ -1,0 +1,16 @@
+Academic Handbook Current Edition COMP 3006 Computer Graphics Credit Points 10 Legacy Code 300093 Coordinator Hanh Nguyen Vo Opens in new window Description Computer Graphics will examine elementary graphics concepts, algorithms and programming skills for producing graphical applications, in both two-dimension (2D) and three-dimension (3D) using Open GL. Techniques and algorithms will be programmed in Processing, which is a very easy-to-learn programming language yet powerful and comprehensive. School Computer, Data & Math Sciences Discipline Computer Graphics Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Pre-requisite(s) COMP 2014 OR
+COMP 2015 OR
+COMP 2016 OR
+COMP 2020 Learning Outcomes On successful completion of this subject, students should be able to: Explain the main concepts employed in two-dimension (2D) and three-dimension (3D) computer graphics
+Apply colour, geometry, transformation interaction, animation techniques in 2D graphics
+Evaluate image processing techniques in 2D graphics
+Apply primitives, geometric objects, transformation and interaction in 3D graphics
+Apply viewing, materials, lights, modelling, hierarchy, curves and surfaces in 3D graphics Subject Content Processing in context
+Colours and shapes including coordinates, primitives and vertices
+Variables, data types, arrays, arithmetic, control and functions
+Curves, trigonometry, random and transformation
+Interaction handling, motion and animation
+Image processing techniques
+Primitives in 3D
+Geometric objects, transformations and interaction in 3D
+Viewing, materials, lights and modelling and 3D Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Practical 2 hours for each session 15 N Individual Y  Applied Project A 2D Computer Graphics Program. The program may require a few hundred lines of code 20 N Group Y  Applied Project A 3D Computer Graphics Program. The program may require a few hundred lines of code 15 N Group Y  Final Exam 2 hours 50 N Individual Y Teaching Periods Autumn (2024) Parramatta - Victoria Rd On-site Subject Contact Quang Vinh Nguyen Opens in new window View timetable Opens in new window Structures that include subject Artificial Intelligence, Major (0031) Bachelor of Computer Science (3506) Bachelor of Computer Science (Advanced) (3634) Computer Science (COMP) Entertainment Computing, Major (0145) Entertainment Computing, Minor (0145) Game Programming, Testamur Major (T061) Graphics and Visual Simulation, Minor (0324) Interactive Analytics, Major (0203) Multimedia Computing, Minor (0328) Multimedia Computing, Testamur Major (T147) Systems Programming, Major (0064) Video Games, Minor (0276)

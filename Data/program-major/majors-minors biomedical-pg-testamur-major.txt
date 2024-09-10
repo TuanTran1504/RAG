@@ -1,0 +1,35 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Biomedical, Testamur Major (T055)
+- Western Sydney University Major Code:
+- Previous Code:  ST3098.1
+- Location
+- Major Structure
+- Biomedical Specialised Alternate Subjects
+- Specialist alternate subject offerings are dependent on sufficient student demand and may not be offered annually.
+- Students enrolled in 3693 Master of Engineering select seven specialist subjects from the list below.
+- Students exiting with 3694 Graduate Diploma in Engineering (exit only) select six specialised alternate subjects.
+- Students enrolled in 3695 Graduate Certificate in Engineering select four specialised alternate subjects.
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- Engineering@westernsydney.edu.au
+- Parramatta City Campus - Macquarie Street
+- Internal
+- Engineering@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+ELEC 7005Advanced Signal Processing10
+ELEC 7008Instrumentation and Measurement (PG)10
+ENGR 7024Advanced Biomedical Electronics10
+ENGR 7025Human Physiology and Biomedical Technologies10
+ENGR 7023Advanced Biomedical Data and Images10
+HLTH 7008Introduction to Biostatistics10
+MECH 7005Advanced Robotics10

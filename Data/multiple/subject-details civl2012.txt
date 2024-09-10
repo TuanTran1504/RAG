@@ -1,0 +1,15 @@
+Academic Handbook Current Edition CIVL 2012 Soil Mechanics Credit Points 10 Legacy Code 300985 Coordinator Pan Hu Opens in new window Description This is an introductory subject covering the use of soil, and the water in it, as an engineering material. It will provide students with a basic understanding of the physical and mechanical properties of soils, simple soil testing methods to characterise soil strength and deformation behaviour, and how to apply basic techniques to assess the hydro-mechanical response of soils subjected to loading. School Eng, Design & Built Env Discipline Geotechnical Engineering Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 2 subject Pre-requisite(s) MATH 1016 Equivalent Subjects CIVL 2011 - Soil Engineering CIVL 2013 - Soil Mechanics (WSTC AssocD) Learning Outcomes On successful completion of this subject, students should be able to: Explain the concepts of soil mechanics
+Apply soil mechanics concepts to soil engineering problems
+Analyse the response of soil and the water in it when subjected to loading
+Apply basic laboratory tests to measure the engineering properties of soils
+Solve simple design problems in soil engineering Subject Content soil formation
+clay mineralogy
+soil classification
+soil compaction
+effective stress in soils
+flow of water in soils
+flow nets and the engineering effects of water movements
+consolidation and settlement
+stress increases in soils
+shear strength in soils
+lateral stresses in soils Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Short Answer  5 N Individual N  Report 15 pages in total 15 N Individual N  Quiz Closed book - 2x 50 minutes 30 N Individual N  Final Exam 2 hours 50 N Individual Y Teaching Periods Autumn (2024) Penrith (Kingswood) On-site Subject Contact Pan Hu Opens in new window View timetable Opens in new window Parramatta - Victoria Rd On-site Subject Contact Pan Hu Opens in new window View timetable Opens in new window Sydney City Campus - Term 2 (2024) Sydney City On-site Subject Contact Pan Hu Opens in new window View timetable Opens in new window Structures that include subject Civil Engineering (CIVL) Civil Engineering, Testamur Major (T131) Civil, Testamur Major (T033) Construction Engineering, Testamur Major (T132) Construction, Testamur Major (T034)

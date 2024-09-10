@@ -1,0 +1,29 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Information Governance, Testamur Major (T122)
+- Western Sydney University Major Code:
+- Previous Code: ST3080.1
+- Information governance creates opportunities to maximise the value of all business information, ensure regulatory compliance and warrant opportunities to minimize risks in an increasingly security conscious global landscape. This major covers foundation in information and data governance and data security critical to the success of all industries. Students will learn essential knowledge and practical skills in information security, information governance law and policy, data analytics, as well as various aspects in business management, social media analytics and applied cybersecurity.
+- Location
+- Major Structure
+- Students must complete the following three subjects
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- 
+- postgradit@scem.uws.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+COMP 7007Information Security Management10
+MATH 7016The Nature of Data10
+LAWS 7015Information and Data Governance Law and Policy10
+Select one of the following:10
+BUSM 7086Strategic Business Management
+MATH 7014Social Media Intelligence
+INFO 7015Applied Cybersecurity

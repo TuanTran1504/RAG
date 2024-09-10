@@ -1,0 +1,87 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Education Studies - Primary Science Teaching Specialisation, Major (0189)
+- Western Sydney University Major Code:
+- Previous Code: M1128.1
+- Students enrolled in the Bachelor of Arts (Pathway to Teaching Primary) must complete one of the following Education Studies Majors:
+- The Education Studies Major – Primary Science Teaching Specialisation will provide students with 40 credit points of expert content knowledge which, together with completion of subjects in the Master of Teaching (Primary) will enable students to graduate from the Master of Teaching (Primary) with a Primary Science Teaching Specialisation. Students must take a minimum of 40 credit points from the Science program pool of subjects and complete 40 credit points of the Primary pool subjects.
+- Location
+- Major Structure Current
+- This structure applies to students who commenced in 2024 or later. If you commenced prior to 2024 please refer to the relevant Structure tab for details.
+- Students must complete 80 credit points as follows.
+- Major Structure 2023
+- This structure applies to students who commenced in 2023 or prior. If you commenced in 2024 or later, please refer to the relevant Structure tab for details.
+- Students must complete 80 credit points as follows.
+- The subject listed below count towards completion of this major for students who passed this subject in 2023 or earlier.
+- TEAC 7023 Culture, Subjectivities and Schooling, replaced by TEAC 7032 Diversity, Social Justice and Learning
+TEAC 7149 Understanding and Teaching Children, replaced by TEAC 7161 Educational Psychology for Learning and Teaching
+- TEAC 7032 Diversity, Social Justice and Learning
+- TEAC 7161 Educational Psychology for Learning and Teaching
+- The subjects listed below count towards completion of this major for students who passed these subjects in 2021 or earlier.
+- BIOS 1022 - Introduction to Human Biology
+BIOS 1025 - Introduction to Physiology
+TEAC 7016 - Classrooms Without Borders
+- Related Programs
+
+Location Table:
+- Bankstown City Campus
+- Internal
+- Dr Karin Louise
+- Campbelltown Campus
+- Internal
+- Dr Karin Louise
+- Parramatta Campus - Victoria Road
+- Internal
+- Dr Karin Louise
+- Penrith Campus
+- Internal
+- Dr Karin Louise
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Science Pool
+TEAC 2054Scientific Discovery and Invention10
+Select three of the following:30
+AGRI 1003Animal Science
+BIOS 1001Biodiversity
+BIOS 1012Cell Biology
+NATS 1001Concepts in Human Anatomy
+BIOS 2008Ecology
+NATS 1023Introduction to Physiology
+CHEM 1008Introductory Chemistry
+BIOS 1027Management of Aquatic Environments
+PHYS 1002Physics 1
+AGRI 1009Wildlife Studies
+Primary Pool
+Students must have successfully completed 160 credit points of study before completing the following four primary pool subjects:
+TEAC 7156Aboriginal Education: Past, Present and Future10
+TEAC 7032Diversity, Social Justice and Schooling10
+TEAC 7092Primary Human Society and its Environment10
+TEAC 7161Educational Psychology for Learning and Teaching10
+Total Credit Points80
+
+courselist table2:
+Science Pool
+TEAC 2054Scientific Discovery and Invention10
+Select three of the following:30
+AGRI 1003Animal Science
+BIOS 1001Biodiversity
+BIOS 1012Cell Biology
+NATS 1001Concepts in Human Anatomy
+BIOS 2008Ecology
+NATS 1023Introduction to Physiology
+CHEM 1008Introductory Chemistry
+BIOS 1027Management of Aquatic Environments
+PHYS 1002Physics 1
+AGRI 1009Wildlife Studies
+Primary Pool
+Students must have successfully completed 160 credit points of study before completing the following four primary pool subjects:
+TEAC 7156Aboriginal Education: Past, Present and Future10
+TEAC 7032Diversity, Social Justice and Schooling10
+TEAC 7092Primary Human Society and its Environment10
+TEAC 7161Educational Psychology for Learning and Teaching10
+Total Credit Points80

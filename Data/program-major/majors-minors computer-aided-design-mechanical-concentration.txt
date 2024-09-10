@@ -1,0 +1,41 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Computer Aided Design (Mechanical), Concentration (0124)
+- Western Sydney University Concentration Code:
+- Previous Code: SM3099.1
+- Location
+- Curriculum delivered through an agreement with another party
+- Concentration Structure
+- This concentration is only available to students enrolled in Bachelor of Engineering (Honours) - Mechanical major only.
+- Students must complete four subjects as follows.
+- The subjects listed below count towards completion of this concentration for students who passed these subjects in 2020 or earlier.
+- ENGR 2012  Graphics 3: 3D Engineering Specifications and Visualisation, replaced by ENGR 2024 Design Graphics: Communication for Manufacture
+ENGR 2019 Sustainable Design 2: Product Service Systems, replaced by ENGR 3025 Designing for Circular Economy (Advanced)
+ENGR 2013 Graphics 4: Kinetic Narratives, replaced by ENGR 2022 Design Practice: Sustainable Manufacturing
+- ENGR 2024 Design Graphics: Communication for Manufacture
+- ENGR 3025 Designing for Circular Economy (Advanced)
+- ENGR 2022 Design Practice: Sustainable Manufacturing
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- beng@westernsydney.edu.au
+- Penrith Campus
+- Internal
+- beng@westernsydney.edu.au
+- Sydney City Campus*
+- Internal
+- Peter Lendrum
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+MECH 4001Computational Fluid Dynamics10
+ENGR 2024Design Graphics: Communication for Manufacture10
+ENGR 3025Designing for Circular Economy (Advanced)10
+ENGR 2022Design Practice: Sustainable Manufacturing10
+Total Credit Points40

@@ -1,0 +1,52 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Game Programming, Testamur Major (T061)
+- Western Sydney University Major Code:
+- Previous Code: MT3012.1
+- Location
+- Major Structure Current
+- This major structure applies to students who commenced in 2024 or later. If you commenced prior to 2024 please refer to the Structure 2020-23 tab for details.
+- Students must complete 80 credit points as follows.
+- Major Structure 2020 - 2023
+- If you commenced in 2024 or later please refer to the Structure 2024 tab for details.
+- Students must complete 80 credit points as follows.
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- Dr Anton Bogdanovych
+- Penrith Campus
+- Internal
+- Dr Anton Bogdanovych
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+COMP 2004Computer Networking10
+COMP 3006Computer Graphics10
+MATH 1006Discrete Mathematics10
+INFO 1003Professional Practice, Communication and Ethics10
+COMP 2020Technologies for Web Applications10
+COMP 3024Video Games Development10
+Select one elective10
+Select one of the following:10
+COMP 2014Object Oriented Programming
+COMP 2015Programming Techniques
+Total Credit Points80
+
+courselist table2:
+COMP 2004Computer Networking10
+COMP 3006Computer Graphics10
+MATH 1006Discrete Mathematics10
+INFO 3003Human-Computer Interaction10
+COMP 3021Special Effects Programming10
+COMP 2020Technologies for Web Applications10
+COMP 3024Video Games Development10
+Select one of the following:10
+COMP 2014Object Oriented Programming
+COMP 2015Programming Techniques
+Total Credit Points80

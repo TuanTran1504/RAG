@@ -1,0 +1,187 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Secondary English Education, Major (0354)
+- Effective from:
+- Western Sydney University Major Code:
+- The Secondary English Education Major will provide students with 60 credit points of English discipline knowledge and 20 credit points of English pedagogy and curriculum knowledge. Together with completion of subjects in the Bachelor of Education (Secondary), this Major will enable students to meet requirements to graduate from the Bachelor of Education (Secondary) with the English teaching area. The Secondary English Education Major will span the Foundation and Development phases of the Bachelor of Education (Secondary), enabling students to develop strong pedagogical content knowledge, an understanding of evidence-based pedagogies, and skills in using assessment and feedback to guide and enhance student learning.
+- Location
+- Major Structure
+- Students must successfully complete 80 credit points as follows.
+- Start-year intake
+- Mid-year intake
+- Alternate Subjects
+- Students complete two of the following subjects, with at least one subject at Level 3:
+- Related Programs
+
+Location Table:
+- Bankstown City Campus
+- Internal
+- SecondaryEnquiries@westernsydney.edu.au
+- Penrith Campus
+- Internal
+- SecondaryEnquiries@westernsydney.edu.au
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+COMM 1004
+Approaches to Text
+10
+
+Credit Points
+10
+Spring session
+LANG 1015
+Introduction to Literary Studies
+10
+
+Credit Points
+10
+Year 2
+Autumn session
+LANG 2035
+Methods of Reading
+10
+
+Credit Points
+10
+Spring session
+LANG 3094
+The Value of Literature
+10
+Select one Alternate subject (from Alternate subjects listed below)
+10
+
+Credit Points
+20
+Year 3
+Autumn session
+Select one Level 3 Alternate subject (from Alternate subjects listed below)
+10
+
+Credit Points
+10
+Spring session
+TEAC 3053
+English Curriculum 7-10
+10
+
+Credit Points
+10
+Year 4
+Autumn session
+TEAC 4019
+English Curriculum 11-12
+10
+
+Credit Points
+10
+
+Total Credit Points
+80
+Year 1
+Spring session
+Credit Points
+LANG 1015
+Introduction to Literary Studies
+10
+
+Credit Points
+10
+Autumn session
+COMM 1004
+Approaches to Text
+10
+
+Credit Points
+10
+Year 2
+Spring session
+LANG 3094
+The Value of Literature
+10
+Select one Alternate subject (from Alternate subjects listed below)
+10
+
+Credit Points
+20
+Autumn session
+LANG 2035
+Methods of Reading
+10
+
+Credit Points
+10
+Year 3
+Spring session
+TEAC 3053
+English Curriculum 7-10
+10
+
+Credit Points
+10
+Autumn session
+Select one Level 3 Alternate subject (from Alternate subjects listed below)
+10
+
+Credit Points
+10
+Year 4
+Autumn session
+TEAC 4019
+English Curriculum 11-12
+10
+
+Credit Points
+10
+
+Total Credit Points
+80
+
+Courselist Tables:
+
+courselist table1:
+Level 2 Subjects
+LANG 2015Cultural History of Books and Reading10
+COMM 2016Experimental Writing and Electronic Publication10
+COMM 2020Introduction to Film Studies10
+LANG 2033Literature and Decolonisation10
+LANG 2050Medieval and Early Modern Literature10
+LANG 2036Modern Australian Poetry and Poetics10
+LANG 2058Race in Literature10
+HUMN 2044Representing Everyday Life in Literary and Visual Cultures10
+LANG 2039The Short Story: Nineteenth Century Women’s Writing10
+LANG 2044The Gothic10
+LANG 2048Working Grammar10
+LANG 2051Writing and Reading Sci-Fi and Fantasy10
+COMM 2043Writing Fiction10
+Level 3 Subjects
+LANG 300119th Century American Literature10
+LANG 300220th Century American Literature10
+COMM 3005Australian Textual Studies10
+LANG 3019Children's and Young Adult Fiction10
+COMM 3006Cinema and Experience10
+LANG 3100Comedy and Tragedy: Dramas of Death and Rebirth10
+LANG 3069Contemporary Irish Writing10
+LANG 3027Creative Non-Fiction10
+COMM 3013Creative Writing Project10
+LANG 3028Crime Fiction10
+LANG 3029Culture, Discourse and Meaning10
+LANG 3033Film and Drama10
+LANG 3050Introduction to Stylistics10
+LANG 3059Law, Literature and Culture10
+LANG 3061Literary Animals10
+LANG 3062Literature and Philosophy10
+CART 3001Modernism10
+COMM 3024Modernity and Cinema10
+LANG 3066Postcolonial Literatures10
+CULT 3020Representing Crime10
+LANG 3072Short Fiction in the Americas10
+LANG 3086The Novel10
+LANG 3087Women's Writing10
+LANG 3089World Literature in Translation10
+LANG 3091Writing and Society10
+COMM 3041Writing For Performance10
+COMM 3042Writing Poetry10

@@ -1,0 +1,19 @@
+Academic Handbook Current Edition ECON 3001 Applied Econometrics Credit Points 10 Legacy Code 200054 Coordinator Gulay Avsar Opens in new window Description This subject builds on the econometric methods of Economic Modelling. The focus is on the linear model in econometrics in its application to economic and financial time series. The emphasis is on learning by doing in small group workshops. School Business Discipline Econometrics Student Contribution Band HECS Band 4 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Pre-requisite(s) MATH 2002 OR
+ECON 3004 Learning Outcomes On successful completion of this subject, students should be able to: Choose the appropriate econometric model to estimate in terms of: a.The theoretical foundations of the model; b.The empirical questions to be addressed, and; c.The nature of the data used to estimate the model
+Identify variations on the classical linear model when using data which is both cross sectional and time series.
+Explain issues of modelling with endogenous regressors.
+Estimate and interpret and test models with limited dependent variables.
+Estimate and interpret linear econometric models using modern time series methods.
+Estimate models with panel data and show how they are related to modern policy evaluation.
+Have developed proficiency in the use of STATA for econometric modelling. Subject Content Review of Topics in Regression Analysis
+Discrete Dependent Variables:
+Binary Response Model
+The Tobit Model
+Instrumental Variable Estimation:
+Omitted Variables/Two Stage Least Squares
+Errors in Variables Problem
+Testing for Endogeneity and Overidentification
+Regression Analysis with Time Series:
+OLS, Serial Correlation and Heteroscedasticity
+Distributed Lag Models/Unit Root
+Spurious Regression/Error Correction Model Structures that include subject Economics and Econometrics (ECON)

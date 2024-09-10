@@ -1,0 +1,38 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Mathematics Teaching Specialisation (Birth - 5/Birth -12), Minor (0157)
+- Western Sydney University Minor Code:
+- Previous Code: SM1149.1
+- Students enrolled in a Bachelor of Arts (Pathway to Teaching Birth-5/Birth-12) will complete two subjects in Year 3 from the Mathematics teaching subjects sets in order to complete a minor in Mathematics and meet the BA component of a NESA teaching specialisation in Mathematics. Students enrolled in a Bachelor of Arts (Pathway to Teaching Early Childhood/Primary) may use their flexible subjects to study four specialised subjects in Mathematics. These 4 subjects together with completion of subjects in the Master of Teaching (Birth-5 Years/Birth-12 Years), enable students to graduate from the Master of Teaching (Birth-5 Years/Birth-12 Years) with a NESA Primary Teaching Specialisation in Mathematics.
+- Location
+- Minor Structure
+- Students must complete 40 credit points from the subjects listed as follows
+- Related Programs
+
+Location Table:
+- Bankstown City Campus
+- Internal
+- Jaydene Barnes
+- Parramatta Campus - Victoria Road
+- Internal
+- Jaydene Barnes
+- Penrith Campus
+- Internal
+- Jaydene Barnes
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Students must complete the following two subjects:
+TEAC 2029Fundamentals for Working Mathematically10
+TEAC 1024Mathematical Patterns and Relationships10
+Select two of the following:20
+MATH 1001Analysis of Change
+MATH 1006Discrete Mathematics
+MATH 2010Linear Algebra
+MATH 1026Quantitative Thinking
+MATH 1030Statistics for Business
+Total Credit Points40

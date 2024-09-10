@@ -1,0 +1,26 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Biomedical Engineering, Minor (0122)
+- Western Sydney University Minor Code:
+- The Biomedical Engineering minor includes elements from the bioelectronics, biomechanical and biomechatronic specialisations. This allows students to undertake multidisciplinary study within engineering, which combines knowledge from electronics, chemical, materials, mechanical and mechatronic engineering with the life sciences of medicine, biology and molecular biology. Graduates will be equipped with professional skills to work in biomedical industry as engineers, with a good understanding of multidisciplinary principles and practices.
+- Location
+- Minor Structure
+- This minor is only available to students enrolled in Bachelor of Engineering (Honours) (3740) and Bachelor of Engineering Advanced (Honours) (3771).
+- Students must complete 4 subjects as follows.
+
+Location Table:
+- Penrith Campus
+- Internal
+- beng@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+HLTH 2003Biomechanics10
+ENGR 3004Biomedical Signals and Data Analysis10
+ENGR 4038Biomedical Electronics10
+BIOS 1022Introduction to Human Biology10
+Total Credit Points40

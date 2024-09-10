@@ -1,0 +1,90 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Diploma in Engineering Extended (7162)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 085667J
+- This program is suspended from Term 1, 2025, no new students will be admitted from this session.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- This program applies to students who commenced in Term 1, 2018 or later.
+- This program is designed to provide students with the first year subjects included in the Bachelor of Engineering Science. The inclusion of additional preparatory subjects is designed to assist students in the transition to study at University level. The Diploma is delivered via extended face to face hours in smaller learning environments.
+- Students who successfully complete this Diploma will articulate into Bachelor of Engineering Science with up to one year (80 CPs) equivalent of advanced standing.
+- Study Mode
+- One and a half years full-time (four terms).
+- Program Advice
+- College Program Enquiries
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Admission
+- This program is open to Australian Citizens and Permanent Residents who are aged 17 years or over and not currently enrolled in or completing Year 12 in the same year of intended admission.
+- International Students
+- IELTS 5.5 with minimum 5.0 in each sub band; or equivalent results from The College English Language Program or The College English Entrance Test; and completion of year 11 or equivalent with specified results.
+- Program Structure
+- Qualification for this award requires the successful completion of 140 credit points which include the subjects listed in the pathways below.
+- Students are categorised into Pathways. See individual links below for detailed program structure.
+- Recent School Leavers and Non-Credentialed Applicants
+- International Students
+
+Location Table:
+- Penrith Campus
+- Full Time
+- Internal
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Students must be enrolled in 7162 Diploma in Engineering Extended to complete this field of study.
+Students must pass all Preparatory subjects (WSTC Prep) for which no advanced standing will be granted in the University degree program.
+Note that students must pass 40 credit points from the following preparatory subjects prior to enrolling in the University level subjects listed below.
+Term 1 of Study
+LANG 0042Professional Communication Skills for Engineering (WSTC Prep)10
+MATH 0006Mathematics 1 (WSTC Prep)10
+PHYS 0001Foundation Physics 1 (WSTC Prep)10
+COMP 0001Introductory Programming (WSTC Prep)10
+Term 2 of Study
+GEDU 0008Tertiary Study Skills in Engineering (WSTC Prep)0
+MATH 0008Mathematics 2 (WSTC Prep)10
+PHYS 0003Foundation Physics 2 (WSTC Prep)10
+ENGR 1026Introduction to Engineering Practice (WSTC)10
+ELEC 1008Engineering Computing (WSTC)10
+Term 3 of Study
+MATH 1023Mathematics for Engineers Preliminary (WSTC)10
+ENGR 1010Engineering Materials (WSTC)10
+ENGR 1013Engineering Physics (WSTC)10
+Term 4 of Study
+ELEC 1005Electrical Fundamentals (WSTC)10
+ENGR 1020Fundamentals of Mechanics (WSTC)10
+MATH 1018Mathematics for Engineers 1 (WSTC)10
+Total Credit Points140
+
+courselist table2:
+Students must be enrolled in 7162 Diploma in Engineering Extended to complete this field of study.
+Students must pass all Preparatory subjects (WSTC Prep) for which no advanced standing will be granted in the University degree program.
+Note that students must pass 40 credit points from the following preparatory subjects prior to enrolling in the University level subjects listed below.
+Term 1 of Study
+LANG 0042Professional Communication Skills for Engineering (WSTC Prep)10
+LANG 0026English for International Students 1 (WSTC Prep)0
+MATH 0006Mathematics 1 (WSTC Prep)10
+PHYS 0001Foundation Physics 1 (WSTC Prep)10
+COMP 0001Introductory Programming (WSTC Prep)10
+Term 2 of Study
+GEDU 0008Tertiary Study Skills in Engineering (WSTC Prep)0
+MATH 0008Mathematics 2 (WSTC Prep)10
+PHYS 0003Foundation Physics 2 (WSTC Prep)10
+ENGR 1026Introduction to Engineering Practice (WSTC)10
+ELEC 1008Engineering Computing (WSTC)10
+Term 3 of Study
+MATH 1023Mathematics for Engineers Preliminary (WSTC)10
+ENGR 1010Engineering Materials (WSTC)10
+ENGR 1013Engineering Physics (WSTC)10
+Term 4 of Study
+ELEC 1005Electrical Fundamentals (WSTC)10
+ENGR 1020Fundamentals of Mechanics (WSTC)10
+MATH 1018Mathematics for Engineers 1 (WSTC)10
+Total Credit Points140

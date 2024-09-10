@@ -1,0 +1,12 @@
+Academic Handbook Current Edition CIVL 3022 Bridge Embankment Design Credit Points 10 Coordinator Chin Leo Opens in new window Description This subject focuses on the design of a real-world highway bridge approach embankment on soft ground. It aims to provide students with specialised knowledge covering ground improvement to support the approach embankment, characterisation of the foundation soil based on real site investigation data, loading combinations, settlement and stability considerations. The design will be taught with reference to relevant Australian and international design codes adopted by Australian industry. Industry speakers will be invited to provide industry perspective and insights of embankment design. The knowledge and skills developed in this subject will prepare students for roles as geotechnical design engineers. School Eng, Design & Built Env Discipline Geotechnical Engineering Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Pre-requisite(s) CIVL 2012 Soil Mechanics
+AND
+ENGR 2016 Pavement Materials and Design Restrictions Students must complete 160 credit points before enrolling into this subject. Learning Outcomes 1. Apply soil mechanics and geotechnical engineering principles in bridge approach embankment design.
+2. Interpret soil properties and soil test data for use in geotechnical analysis and design.
+3. Use engineering software in geotechnical analysis, simulation and design.
+4. Integrate relevant Australian and international standards in the design of approach embankment.
+5. Collaborate with team members and others in a respectful and responsible manner, each being accountable for their individual contributions. Subject Content Introduction of bridge approach embankment
+Characterisation of foundation soil
+Ground improvement techniques
+Stability analysis
+Settlement analysis
+Design criteria and standards Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Practical 2 hours (per practical) 10 N Individual Y  Quiz 1.5 hours 30 N Individual N  Report 25-30 pages (including calculations and diagrams) 60 N Group N Structures that include subject Civil Engineering (CIVL) Civil Engineering, Testamur Major (T131) Civil, Testamur Major (T033) Geotechnical, Concentration (0117) Geotechnical, Minor (0117)

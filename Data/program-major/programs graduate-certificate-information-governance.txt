@@ -1,0 +1,105 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Graduate Certificate in Information Governance (3774)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 103726E
+- This program applies to students who commenced in 2021 or later.
+- The Graduate Certificate in Information Governance (Grad Cert in IG) is designed to provide essential knowledge in information technology as well as business and legal aspects of information governance. Students will graduate with the knowledge and skills, to operate with best practice as professionals engaged in managing information assets and ensuring regulatory compliance creating a pathway to higher studies and/or commencing a career in information governance.
+- Study Mode
+- Six months full-time or one year part-time.
+- Program Advice
+- Dr Quang Vinh Nguyen
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Admission
+- Applicants must have successfully completed an undergraduate degree in any discipline.
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Program Structure
+- Qualification for this award requires the successful completion of 40 credit points consisting of the following subjects.
+- Recommended Sequence
+- Full-time start-year intake
+- Part-time mid-year intake
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Full Time
+- Internal
+- See above
+- Parramatta Campus - Victoria Road
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+Year 1
+Quarter 1 session
+Credit Points
+BUSM 7014
+Compliance Management
+10
+
+Credit Points
+10
+Autumn session
+MATH 7016
+The Nature of Data
+10
+COMP 7007
+Information Security Management
+10
+LAWS 7015
+Information and Data Governance Law and Policy
+10
+
+Credit Points
+30
+
+Total Credit Points
+40
+Year 1
+Quarter 3 session
+Credit Points
+BUSM 7014
+Compliance Management
+10
+
+Credit Points
+10
+Quarter 4 session
+MATH 7016
+The Nature of Data
+10
+
+Credit Points
+10
+Autumn session
+COMP 7007
+Information Security Management
+10
+LAWS 7015
+Information and Data Governance Law and Policy
+10
+
+Credit Points
+20
+
+Total Credit Points
+40
+
+Courselist Tables:
+
+courselist table1:
+BUSM 7014Compliance Management10
+MATH 7016The Nature of Data10
+COMP 7007Information Security Management10
+LAWS 7015Information and Data Governance Law and Policy10
+Total Credit Points40

@@ -1,0 +1,21 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Robotics, Minor (0275)
+- Western Sydney University Minor Code:
+- Previous Code: SM3124.1
+- Minor Structure
+- Students must complete 40 credit points from the subjects listed below.
+- Related Programs
+
+Location Table:
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+COMP 2014Object Oriented Programming10
+ENGR 1018Fundamentals of Mechanics10
+MECH 4003Mobile Robotics10
+COMP 3027Robotic Programming10

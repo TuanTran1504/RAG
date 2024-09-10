@@ -1,0 +1,35 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Business Analytics, Major (0220)
+- Western Sydney University Major Code:
+- Previous Code:  SP2020.1
+- Location
+- Major Structure
+- This major is taught by School of Computing, Data and Mathematical Sciences and is offered in Autumn and Spring sessions. Please see the below subjects for offering details and locations.
+- Students must successfully complete 60 credit points as listed below.
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 7011 Predictive Analytics, replaced by  COMP 7023 Predictive Analytics
+- MATH 7012 Programming for Data Science, replaced by COMP 7024 Programming for Data Science 
+MATH 7014 Social Media Intelligence, replaced by COMP 7025 Social Media Intelligence
+- COMP 7024 Programming for Data Science
+- COMP 7025 Social Media Intelligence
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- Dr Laurel Jackson
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+COMP 7006Data Science10
+COMP 7023Predictive Analytics10
+COMP 7024Programming for Data Science10
+COMP 7025Social Media Intelligence10
+MATH 7016The Nature of Data10
+COMP 7016Visualisation10
+Total Credit Points60

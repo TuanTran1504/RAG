@@ -1,0 +1,65 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Digital Cultures, Minor (0070)
+- Western Sydney University Minor Code:
+- Previous Code: SM1117.1
+- The Digital Cultures minor offers students the opporty to learn about how cutting edge technology and digital practices are changing society. By selecting from subjects analysing new media, visual arts, and digital design and the effects that the use of these new technologies have on culture and society, students will gain the necessary skills to position themselves for careers in a wide variety of contexts that require understanding of technology or digital media and its impact. Complementing these analytical skills, students will also gain practical skills in the creation of digital media and design.
+- Location
+- Minor Structure
+- Students must complete 40 credit points as follows
+- Note: Students in the Bachelor of Creative Industries complete the structure under the heading Bachelor of Creative Industries below.
+- Bachelor of Creative Industries Students
+- Creative Industries students must undertake DESN 1011 Image Design or DESN 1021 Web and Time-based Design as their Introduction to Major subject, and then complete the following subjects to achieve this minor:
+- DESN 1011 Image Design
+- DESN 1021 Web and Time-based Design
+- The subjects listed below count towards completion of the minor for students who may have passed subjects in the list in 2023 or earlier.
+- COMM 1032 Writing Ecologies, replaced by COMM 1044 Professional Communication
+- COMM 1044 Professional Communication
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+- Penrith Campus
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+HUMN 3033Digital Cultures10
+HUMN 2020Digital Humanities and Research Methods (UG)10
+Select two of the following:20
+Level 1 Pool
+COMM 1012Data, Mediation, Power
+DESN 1011Image Design
+COMM 1020Media Cultures and Industries
+DESN 1018Visual Storytelling
+DESN 1021Web and Time-based Design
+COMM 1044Professional Communication
+Level 2 Pool
+COMM 2024Media Law and Ethics
+DESN 2014Researching the Visual
+Level 3 Pool
+DESN 3002Data Visualisation
+DESN 3008Interactive Design: Apps
+COMM 3022Media Memory
+HUMN 3096What is the Human?
+Total Credit Points40
+
+courselist table2:
+HUMN 3033Digital Cultures10
+HUMN 2020Digital Humanities and Research Methods (UG)10
+Select two of the following:20
+DESN 3002Data Visualisation
+DESN 1011Image Design
+DESN 3008Interactive Design: Apps
+COMM 3022Media Memory
+DESN 2014Researching the Visual
+DESN 1021Web and Time-based Design
+HUMN 3096What is the Human?
+Total Credit Points40

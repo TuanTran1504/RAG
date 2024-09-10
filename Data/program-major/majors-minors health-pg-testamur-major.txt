@@ -1,0 +1,150 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Health, Testamur Major (T140)
+- Western Sydney University Major Code:
+- Health, Testamur Major
+- Structure Current
+- Master of Project Management
+- Pathway A - Research (Testamur major stream)
+- In addition to the core subjects and Research Project subjects, students must complete the following
+- Pathway B – Coursework (Testamur major stream)
+- In addition to the core subjects , students must complete the following
+- Pathway C – Work Placement (Testamur major stream)
+- In addition to the core subjects and Work Placement subjects, students must complete the following
+- Graduate Diploma in Project Management
+- Students in the Graduate Diploma in Project Management should complete 50 credit points from the following list (40cps to complete the major plus an extra 10cps selected from the pool to complete the program).
+- Structure 2021 - 2024
+- Pathway A - Research (Testamur major stream)
+- In addition to the core subjects and Research Project subjects, students must complete three 10 credit point Management alternate subjects and three 10 credit point Health subjects.
+- Pathway B – Coursework (Testamur major stream)
+- In addition to the core subjects, students must complete three 10 credit point Management alternate subjects, 40 credit points of Health subjects and an additional three 10 credit point Health subjects.
+- Pathway C – Work Placement (Testamur major stream)
+- In addition to the core subjects and Work Integrated Learning subjects, students must complete three 10 credit point Management alternate subjects and three 10 credit point Health subjects.
+- Related Programs
+
+Location Table:
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+PUBH 7031Health Systems and Policy10
+PUBH 7033The Social Determinants of Health10
+Plus 20 credit points chosen from20
+PUBH 7011Health Advancement and Health Promotion
+HLTH 7022Advanced Health Service Management
+PUBH 7034Workplace Safety and Risk Management
+Total Credit Points40
+
+courselist table2:
+PUBH 7031Health Systems and Policy10
+PUBH 7033The Social Determinants of Health10
+HLTH 7027Professional Project in Health 120
+Plus 40 credit points chosen from the Health Specialisation subjects40
+HLTH 7022Advanced Health Service Management
+PUBH 7029Digital Health Management
+PUBH 7011Health Advancement and Health Promotion
+HLTH 7024Health Services Financing
+PUBH 7031Health Systems and Policy
+PUBH 7030Health Systems Planning and Evaluation
+HLTH 7025Healthcare Data for Decision-Making
+PUBH 7016Introduction to Epidemiology
+PUBH 7032Patient-centred digital healthcare
+HLTH 7029Quality and Safety
+PUBH 7033The Social Determinants of Health
+PUBH 7028Surveillance and Disaster Planning
+PUBH 7034Workplace Safety and Risk Management
+Total Credit Points80
+
+courselist table3:
+PUBH 7031Health Systems and Policy10
+PUBH 7033The Social Determinants of Health10
+Plus 20 credit points chosen from20
+PUBH 7011Health Advancement and Health Promotion
+HLTH 7022Advanced Health Service Management
+PUBH 7034Workplace Safety and Risk Management
+Total Credit Points40
+
+courselist table4:
+HLTH 7022Advanced Health Service Management
+PUBH 7029Digital Health Management
+PUBH 7011Health Advancement and Health Promotion
+HLTH 7024Health Services Financing
+PUBH 7031Health Systems and Policy
+PUBH 7030Health Systems Planning and Evaluation
+HLTH 7025Healthcare Data for Decision-Making
+PUBH 7016Introduction to Epidemiology
+PUBH 7032Patient-centred digital healthcare
+HLTH 7029Quality and Safety
+PUBH 7033The Social Determinants of Health
+PUBH 7028Surveillance and Disaster Planning
+PUBH 7034Workplace Safety and Risk Management
+Total Credit Points0
+
+courselist table5:
+Management subjects - offered in Quarter 2 and Quarter 4 sessions
+Select three of the following:30
+BUSM 7018Contemporary People Management
+ACCT 7015Financial Reports for Decision Making
+BUSM 7040Governance, Ethics and Social Entrepreneurship
+BUSM 7065Managing in the Global Context
+BUSM 7086Strategic Business Management
+BUSM 7092Supply Chain Management
+Health Subjects - Students must complete the following 20 credit points
+PUBH 7031Health Systems and Policy10
+PUBH 7033The Social Determinants of Health10
+Plus 10 credit points chosen from10
+PUBH 7011Health Advancement and Health Promotion
+HLTH 7022Advanced Health Service Management
+PUBH 7034Workplace Safety and Risk Management
+Total Credit Points60
+
+courselist table6:
+Management subjects - offered in Quarter 2 and Quarter 4 sessions
+Select three of the following:30
+BUSM 7018Contemporary People Management
+ACCT 7015Financial Reports for Decision Making
+BUSM 7040Governance, Ethics and Social Entrepreneurship
+BUSM 7065Managing in the Global Context
+BUSM 7086Strategic Business Management
+BUSM 7092Supply Chain Management
+Health subjects - Students must complete the following 40 credit points:
+PUBH 7031Health Systems and Policy10
+PUBH 7033The Social Determinants of Health10
+HLTH 7027Professional Project in Health 120
+Plus 30 credit points chosen from the Health Specialisation subjects30
+HLTH 7022Advanced Health Service Management
+PUBH 7029Digital Health Management
+PUBH 7011Health Advancement and Health Promotion
+HLTH 7024Health Services Financing
+PUBH 7031Health Systems and Policy
+PUBH 7030Health Systems Planning and Evaluation
+HLTH 7025Healthcare Data for Decision-Making
+PUBH 7016Introduction to Epidemiology
+PUBH 7032Patient-centred digital healthcare
+HLTH 7027Professional Project in Health 1
+HLTH 7029Quality and Safety
+PUBH 7033The Social Determinants of Health
+PUBH 7028Surveillance and Disaster Planning
+PUBH 7034Workplace Safety and Risk Management
+Total Credit Points100
+
+courselist table7:
+Management subjects - offered in Quarter 2 and Quarter 4 sessions
+Select three of the following:30
+BUSM 7018Contemporary People Management
+ACCT 7015Financial Reports for Decision Making
+BUSM 7040Governance, Ethics and Social Entrepreneurship
+BUSM 7065Managing in the Global Context
+BUSM 7086Strategic Business Management
+BUSM 7092Supply Chain Management
+Must complete the following 20 credit points
+PUBH 7031Health Systems and Policy10
+PUBH 7033The Social Determinants of Health10
+Plus 10 credit points chosen from10
+PUBH 7011Health Advancement and Health Promotion
+HLTH 7022Advanced Health Service Management
+PUBH 7034Workplace Safety and Risk Management
+Total Credit Points60

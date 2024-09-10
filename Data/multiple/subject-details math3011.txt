@@ -1,0 +1,10 @@
+Academic Handbook Current Edition MATH 3011 Probabilistic Models and Inference Credit Points 10 Legacy Code 301250 Coordinator Oliver Obst Opens in new window Description The subject provides students with an understanding of probabilistic models and inference. It covers model-based approaches for complex systems - from constructing these models to applying information to models. The models, which can be created manually and obtained by learning from data, will also be useful to make decisions under uncertainty. A variety of models and techniques will be discussed; examples include Monte Carlo Methods, Decision Theory, Bayesian networks, Markov networks, and the use of information theory. School Computer, Data & Math Sciences Discipline Statistics Student Contribution Band HECS Band 1 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Pre-requisite(s) MATH 1033
+OR
+MATH 1028
+AND
+COMP 1013
+OR
+COMP 2023 Assumed Knowledge Probability, Linear Algebra, Basic Programming. Learning Outcomes 1. Manually construct probabilistic models for specific data.
+2. Automatically construct probabilistic models by learning from data.
+3. Use the models to make decisions under uncertainty.
+4. Accurately represent a probabilistic model using a graphical representation. Subject Content Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Intra-session Exam 2 hours 30 N Individual Y  Applied Project 15 pages 40 N Individual Y  Quiz 6x40 min 30 N Individual Y Teaching Periods Autumn (2024) Parramatta - Victoria Rd On-site Subject Contact Oliver Obst Opens in new window View timetable Opens in new window Structures that include subject Bachelor of Data Science (3769) Computational Mathematics, Testamur Major (T118) Data Science, Testamur Major (T079) Mathematics (MATH)

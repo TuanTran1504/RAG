@@ -1,0 +1,23 @@
+Academic Handbook Current Edition MECH 2004 Mechanics of Materials (WSTC AssocD) Credit Points 10 Legacy Code 700116 Coordinator Abbas Ranjbar Opens in new window Description Mechanics of Materials is the study of the stresses and deformation of a body made of any elastic solid material and how these are related to the body's shape and the load applied to it.  This subject looks at how and why structural components including bars and beams deform and break.  It concentrates on how these are affected by the geometry of the body and loading.  Types of loadings considered include normal loads, torsional loads and bending loads.  The main objective of the subject is to introduce students to the aspects of stress, strain and internal force development in the components and the methods to determine the deformation and deflections of the components.  Energy methods and impact loadings are also considered.Offerings of alternate subjects are dependent on there being sufficient student enrolment numbers. If enrolments are low, the College may cancel delivery of the alternate subject. School Eng, Design & Built Env Discipline Mechanical And Industrial Engineering And Technology Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 2 subject Pre-requisite(s) ENGR 1019 Equivalent Subjects MECH 2003 - Mechanics of Materials Restrictions Learning Outcomes On successful completion of this subject, students should be able to: Predict stress, strain and deformation in an axially loaded member.
+Calculate support reactions in statically indeterminate an axially loaded member
+Represent a general traction as stresses
+Represent a general displacement as strains
+Predict stress and angle of twist in a circular shaft undergoing torsion
+Construct bending moment and shear force diagrams, for beams carrying point forces, distributed forces and couples
+Calculate bending stresses and deflections for beams
+Calculate transverse shear stresses in beams
+Calculate strain energy in axially loaded columns, shafts under torsion and beams under bending
+Predict stress, strain and deformation as a result of an impact loading
+Use energy methods to calculate the deflection of a truss
+Predict the buckling of columns
+Observe, analyse and document the measurements in the real world and use them to verify the theory presented in the lectures. Subject Content Normal stress, strain and deformation.
+Statically indeterminate components
+Representing a general traction as stresses
+Representing a general displacement as strains
+Torsional stresses and deformations
+2D stress transformations
+Bending moment and shear force diagrams
+Bending stresses and deflections
+Transverse shear stresses
+Energy methods
+Buckling of columns Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Practical 6 hours 10 N Group/Individual N  Intra-session Exam 1 hour 15 N Individual N  Quiz ~0.5 hour each 25 N Individual N  Final Exam 2 hours 50 N Individual N Prescribed Texts Teaching Periods Quarter 2 (2024) Nirimba Education Precinct Hybrid Subject Contact Abbas Ranjbar Opens in new window View timetable Opens in new window Structures that include subject Civil Engineering (CIVL) Civil, Testamur Major (T033) Mechanical and Industrial Eng. (MECH) Mechanical, Testamur Major (T036) Robotics and Mechatronics, Testamur Major (T037)

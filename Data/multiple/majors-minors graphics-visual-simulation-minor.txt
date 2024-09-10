@@ -1,0 +1,28 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Graphics and Visual Simulation, Minor (0324)
+- Western Sydney University Minor Code:
+- Visualising complex data sets is an important component of popular news reports, scientific and engineering applications, and business presentations. This minor equips computing students with specialised skills required to develop software that represents complex data sets in a meaningful and accessible way, covering both the mathematical background required to comprehend data and software development techniques required to represent it on a computer.
+- Location
+- Students must complete 40 credit points as follows
+
+Location Table:
+- Parramatta Victoria Road Campus
+- Full-time
+- Internal
+- cdms@westernsydney.edu.au
+- Parramatta Vicotria Road Campus
+- Part-time
+- Internal
+- cdms@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+COMP 1014Thinking About Data10
+COMP 2026Visual Analytics10
+COMP 2018Simulation Fundamentals10
+COMP 3006Computer Graphics10

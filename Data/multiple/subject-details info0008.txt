@@ -1,0 +1,26 @@
+Academic Handbook Current Edition INFO 0008 Computer Studies (WSTC Prep) Credit Points 10 Legacy Code 700201 Coordinator Frank Gutierrez Opens in new window Description This subject introduces and develops basic competencies in using computers and application software for the Building Design Management and Construction Management industries.  The ability to use computers and application software for creating word-processed documents, spreadsheets, as well as understanding the processes involved with creating and analysing designs and managing projects has become an integral part of the required skill set for these industries. This subject has been developed to enhance students' practical ability as well as build a theoretical foundation for further study. School Western Sydney The College Discipline Information Technology, Not Elsewhere Classified. Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 0 Preparatory subject Equivalent Subjects INFO 0009 - Computer Studies (UWSC) Restrictions Learning Outcomes On successful completion of this subject, students should be able to: Identify and describe the basic computer concepts and use of computers in the Construction industry.
+Explain the key security issues of information technology.
+Explain the social, ethical and privacy issues relating to computing.
+Recognise the basic process of designing, estimating and scheduling of a construction project.
+Demonstrate competency in the use of the following Microsoft Applications: Word, Excel, PowerPoint.
+Describe basic functions in the use of MS-Project
+Describe basic functions in the use of design software, such as ArchiCAD. Subject Content Theory topics
+- Introduction to Information Systems and Technology
+- The Internet and the World Wide Web
+- Software
+- Hardware
+- Basic process of designing, estimating and scheduling of a construction project.
+- Introduction to Microsoft Project
+- Introduction to ArchiCAD.
+Practical Topics
+- Introduction to the Windows Environment
+- Using the Internet and the World Wide Web
+- Introduction to word processing
+- Introduction to PowerPoint
+- Introduction to Excel
+- Introduction to Creating WebPages;
+- Introduction to Access Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Tutorial & Classroom Participation Approx 20-30 mins each 15% N Individual   Portfolio  2 activities 35% N Individual   a.	Report
+b.	Report
+c.	Presentation
+ 500 words each report
+7 slides 40% N Individual   Online Quizzes 30 mins each 10% N Individual Prescribed Texts Structures that include subject Computer Science (COMP) Information Systems (INFS) Other information Technology (INFO)

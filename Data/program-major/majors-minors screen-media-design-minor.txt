@@ -1,0 +1,34 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Screen Media Design, Minor (0204)
+- Western Sydney University Minor Code:
+- Previous Code: SM1135.1
+- This Screen Media Design minor comprises subjects that focus on principles of screen and sound media, video production and interactive design production as a tool for strategic communication. Students who complete this minor will satisfy the NESA requirements for teaching Graphics and Multimedia as a second teaching area within the Technological and Applied Studies discipline.
+- Location
+- Minor Structure
+- Students must successfully complete 40 credit points as follows.
+- Equivalent Subjects
+- The subjects listed below count towards completion of this minor for students who passed these subjects in 2022 or earlier.
+- COMM 2042 Visual Effects, replaced by COMM 2051 Animation and Visual Effects
+- COMM 2051 Animation and Visual Effects
+- COMM 2035 Screen and Sound Practices 1, replaced by COMM 1041 Screen Media Fundamentals
+- COMM 3037 Transmedia Production, no longer offered as part of this minor
+- COMM 1015 Fundamentals of Media Arts Production/COMM 1039 Introduction to Screen Media, no longer offered as part of this minor
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- Dan Johnston
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+COMM 2019Interactive Design: Games10
+DESN 3008Interactive Design: Apps10
+COMM 1041Screen Media Fundamentals10
+COMM 2051Animation and Visual Effects10
+Total Credit Points40

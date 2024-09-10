@@ -1,0 +1,35 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Entertainment Computing, Major (0145)
+- Western Sydney University Major Code:
+- Previous Code: M3068.1
+- This major will deal with a comprehensive focus on the technical and theoretical knowledge of design, development and deployment of software applications in the field of Entertainment Computing.
+- Location
+- Major Structure
+- Students must complete 80 credit points as follows.
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2023 or earlier.
+- INFO 3008 Professional Development
+- Related Programs
+
+Location Table:
+- Penrith Campus
+- Internal
+- CDMS@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+COMP 3006Computer Graphics10
+COMP 2004Computer Networking10
+INFS 2001Database Design and Development10
+COMP 2011Games Technology10
+COMP 1005Programming Fundamentals10
+INFO 3008Professional Development10
+From Spring 2024 INFO 3008 replaced by INFO 3019
+INFO 3019Project Management10
+INFS 1006Systems Analysis and Design10
+COMP 3024Video Games Development10
+Total Credit Points90

@@ -1,0 +1,42 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Business Studies, Major (0127)
+- Western Sydney University Major Code:
+- Previous Code: M2516.1
+- The Business Studies Major provides a comprehensive foundation of business knowledge through carefully selected business units designed to equip students with knowledge in Accounting, Economics, Applied Finance, Management and International Business. As such, this major provides students with a range of career prospects in general business, not-for-profit and the public sector as well as meeting the requirements of a pathway to teach secondary school Business Studies.
+- Location
+- Major Structure
+- Students must successfully complete 80 credit points as listed below.
+- The business subjects in this major, which is a compulsory major in program Bachelor of Business (Pathway to Teaching Secondary), are offered at the Parramatta City, Bankstown and Campbelltown campuses. The secondary teaching subjects in this program are generally offered at the Parramatta South, Bankstown and Penrith campuses or online. Students may be required to travel between campuses in order to complete this major and program.
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MKTG 1005 Consumers, Firms and Markets, replaced by ECON 1014 Consumers, Firms and Markets
+- ECON 1014 Consumers, Firms and Markets
+- Related Programs
+
+Location Table:
+- Bankstown City Campus
+- Internal
+- Course Advice
+- Campbelltown Campus
+- Internal
+- Course Advice
+- Parramatta Campus - Victoria Road
+- Internal
+- Course Advice
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Core Subjects
+ECON 1014Consumers, Firms and Markets10
+ACCT 1005Accounting in Context10
+ECON 2002Corporate Financial Management10
+BUSM 2031Managing in the Global Environment10
+HUMN 3043Globalisation and Sustainability10
+BUSM 3005Creating Change and Innovation10
+BUSM 3036Leadership and Entrepreneurship10
+ECON 3017Macroeconomic Measures and Models10
+Total Credit Points80

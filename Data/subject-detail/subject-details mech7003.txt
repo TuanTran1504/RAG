@@ -1,0 +1,14 @@
+Academic Handbook Current Edition MECH 7003 Advanced Dynamic Systems Credit Points 10 Legacy Code 301019 Coordinator Mobarak Hossain Opens in new window Description This subject covers three-dimensional kinematics and kinetics of a rigid body. The principles of virtual work are used to investigate the equilibrium and dynamics of mechanisms. Some key aspects of mechanical vibrations are introduced, including vibration response, vibration isolation and vibration measurement. School Eng, Design & Built Env Discipline Mechanical Engineering Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Postgraduate Coursework Level 7 subject Restrictions Students must be enrolled in a postgraduate program Learning Outcomes On successful completion of this subject, students should be able to: Use Virtual work to determine the equilibrium position of a mechanism
+Analyse the three-dimensional kinematics and kinetics of a rigid body
+Model a real world system as a collection of simple mechanical components
+Determine the response to free and forced vibrations using standard differential methods or Laplace transforms
+Balance a rotating disk to reduce vibrations according to standards
+Analyse vibration isolation systems and measurement systems
+Verify the theory presented in the lectures by taking the measurements in the real world and use them for verification purposes Subject Content 1. Virtual work and potential energy method
+2. Three-dimensional kinematics and kinetics of a rigid body
+3. Modelling a real world system and determining the equations of motion for mechanical systems
+4. Response to free and forced vibrations
+5. Balancing a rotating disk
+6. Vibration isolation
+7. Vibration measurement
+8. Using Laplace transforms to determine the response to impulse and step forces. Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Final Exam 2 hours 50 N Individual Y  Quiz 4 x 1 hour 20 N Individual Y  Report 10 pages 20 N Individual Y  Practical 2 times x 3 hours each 10 N Individual Y Teaching Periods Autumn (2024) Parramatta City - Macquarie St On-site Subject Contact Helen Wu Opens in new window View timetable Opens in new window Structures that include subject Bachelor of Research Studies (8083) Engineering, Testamur Major (T012) Mechanical and Industrial Eng. (MECH) Mechanical and Mechatronic, Testamur Major (T112) Mechanical, Testamur Major (T036) Mechatronic and Biomedical, Testamur Major (T116) Mechatronic, Testamur Major (T063)

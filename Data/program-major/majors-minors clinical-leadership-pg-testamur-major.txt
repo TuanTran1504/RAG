@@ -1,0 +1,86 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Clinical Leadership, Testamur Major (T013)
+- Western Sydney University Major Code:
+- Previous Codes: A4016.1, A4017.1, A4028.1, A4029.1
+- The Clinical Leadership major provides students with an opportunity for clinical nurse leaders (nurse clinicians, nurse managers) and aspiring nurse leaders to gain formal education in contemporary clinical leadership to support them to facilitate nursing excellence within the clinical practice environment. Graduates who complete the Clinical Leadership major will be prepared to take on clinical leadership roles such as clinical nurse specialist and clinical nurse consultant.
+- Major Structure
+- Select the link for your program below to see details of the major
+- Graduate Diploma in Nursing (Clinical Leadership) - 60 cp 1 year Pathway
+- 60 credit point Pathway Structure
+- Qualification for this award requires the successful completion of 60 credit points including the subjects listed below.
+- Graduate Diploma in Nursing (Clinical Leadership) - 80 cp 1 year Pathway
+- 80 credit point Pathway Structure
+- Qualification for this award requires the successful completion of 80 credit points including the subjects listed below.
+- Master of Nursing (Clinical Leadership) - 1 year pathway
+- 1 year Pathway
+- Qualification for this award requires the successful completion of 80 credit points including the subjects listed below.
+- The subjects listed below count towards completion of this major for students who passed these subjects in Autumn 2021 or earlier.
+- NURS 7008 - Capstone Experience in Health Care, replaced by NURS 7065 Capstone Experience in Health Care
+- NURS 7065 Capstone Experience in Health Care
+- Master of Nursing (Clinical Leadership) - 1.5 year pathway
+- 1.5 year Pathway
+- Qualification for this award requires the successful completion of 120 credit points including the subjects listed below.
+- The subjects listed below count towards completion of this major for students who passed these subjects in Autumn 2021 or earlier.
+- NURS 7008 - Capstone Experience in Health Care, replaced by NURS 7065 Capstone Experience in Health Care
+- NURS 7065 Capstone Experience in Health Care
+- Related Programs
+
+Location Table:
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+HLTH 7002Building Organisational Capacity in Health Care10
+NURS 7019Cultural and Social Diversity in Health Care10
+NURS 7023Evidence Based Health Care10
+PUBH 7018Leadership for Quality and Safety in Health Care10
+NURS 7028Leadership in Clinical Practice10
+PUBH 7020Policy, Power and Politics in Health Care Provision10
+Total Credit Points60
+
+courselist table2:
+HLTH 7002Building Organisational Capacity in Health Care10
+NURS 7019Cultural and Social Diversity in Health Care10
+NURS 7023Evidence Based Health Care10
+PUBH 7018Leadership for Quality and Safety in Health Care10
+NURS 7028Leadership in Clinical Practice10
+NURS 7040Perspectives on Nursing10
+PUBH 7020Policy, Power and Politics in Health Care Provision10
+Select one elective10
+Total Credit Points80
+
+courselist table3:
+HLTH 7002Building Organisational Capacity in Health Care10
+NURS 7019Cultural and Social Diversity in Health Care10
+NURS 7023Evidence Based Health Care10
+PUBH 7018Leadership for Quality and Safety in Health Care10
+NURS 7028Leadership in Clinical Practice10
+Select one elective10
+Select one of the following 20 credit point subjects:20
+NURS 7065Capstone Experience in Health Care
+NURS 7042Research Project in Health Care
+OR complete the two following 10 credit point subjects:
+NURS 7043Scholarship for Practice Change in Health Care
+NURS 7045Writing for Publication
+Total Credit Points80
+
+courselist table4:
+HLTH 7002Building Organisational Capacity in Health Care10
+NURS 7019Cultural and Social Diversity in Health Care10
+NURS 7023Evidence Based Health Care10
+PUBH 7018Leadership for Quality and Safety in Health Care10
+NURS 7028Leadership in Clinical Practice10
+NURS 7040Perspectives on Nursing10
+PUBH 7020Policy, Power and Politics in Health Care Provision10
+Select three electives30
+Select one of the following 20 credit point subjects:20
+NURS 7065Capstone Experience in Health Care
+NURS 7042Research Project in Health Care
+OR complete the two following 10 credit point subjects:
+NURS 7043Scholarship for Practice Change in Health Care
+NURS 7045Writing for Publication
+Total Credit Points120

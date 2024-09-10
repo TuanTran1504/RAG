@@ -1,0 +1,42 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Eco-Socially Conscious Design and Manufacturing, Minor (0310)
+- Western Sydney University Minor Code:
+- Previous code: SM3128.1
+- This minor aims to prepare eco-socially aware students for roles in a wide range of industries and to deal with environmental and humanitarian problems created as a result of industrial and other human activities. Students from different disciplines examine sustainability issues from environmental, humanities and economical angles and work together on “real world” problems supported by academics and industry partners.  In evaluating the social and environmental impacts, students gain essential skills in decision-making, designing and manufacturing products in a sustainable and equitable manner. Students learn to apply a holistic approach to solving problems in the ongoing automation of manufacturing and industrial practices in the Fourth Industrial Revolution (or Industry 4.0).
+- This minor is a Challenge Minor, which is an innovative transdisciplinary minor co-created with students as partners. With a Challenge Minor, your learning reaches beyond your discipline, giving you the chance to amplify your learning in new directions. For more information, visit the Challenge Minor website.
+- Location
+- Minor Structure
+- Students must complete 40 credit points as follows.
+
+Location Table:
+- Parramatta South
+- Internal
+- M.Darestani@westernsydney.edu.au
+- Parramatta City
+- Internal
+- M.Darestani@westernsydney.edu.au
+- Hawkesbury
+- Internal
+- M.Darestani@westernsydney.edu.au
+- Campbelltown
+- Internal
+- M.Darestani@westernsydney.edu.au
+- Penrith
+- Internal
+- M.Darestani@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Select three of the following:30
+ENVL 2008Australian Ecosystems: Threats and Solutions
+BEHV 1001Behaviour and Environment
+ENGR 1042Sustainable Materials and Smart Manufacturing
+BUSM 3028Innovation, Enterprise and Society
+The below Capstone subject can only be completed after two elective subjects from the above pool have been completed, but can be taken in the same semester as a final pool subject.  Pool subjects are available in a variety of semesters allowing students flexibility for completion.
+ENGR 3022Special Technical Project10
+Total Credit Points40

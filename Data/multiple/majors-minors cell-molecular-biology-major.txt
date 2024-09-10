@@ -1,0 +1,48 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Cell and Molecular Biology, Major (0167)
+- Western Sydney University Major Code:
+- Previous Code: M4007.1
+- New discoveries in cell and molecular biology can translate into viable products in emerging biotech industries. This major will equip business students with knowledge and skills in fundamental biology and chemistry, biochemistry and molecular biology which will assist them in turning new findings in cell and molecular biology into productive business ventures. As knowledge and technologies expand in this area, the ability to read, critique and evaluate emerging research will be an important asset.
+- Location
+- Major Structure
+- Students must complete 8 subjects as follows.
+- The subject listed below count towards completion of this major for students who passed this subject in 2019 or earlier.
+- BIOS 2020 Immunology, replaced by NATS 2036 Immunology
+- NATS 2036 Immunology
+- Related Programs
+
+Location Table:
+- Campbelltown Campus
+- Internal
+- Dr Sebastian Holmes
+- Hawkesbury Campus
+- Internal
+- Dr Sebastian Holmes
+- Parramatta Campus - Victoria Road
+- Internal
+- Dr Sebastian Holmes
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Level 1
+CHEM 1008Introductory Chemistry10
+BIOS 1012Cell Biology10
+CHEM 1005Essential Chemistry 210
+Level 2
+BIOS 2014Functional Proteins and Genes10
+Select one of the following:10
+BIOS 2026Molecular Biology
+BIOS 2021Metabolism
+NATS 2036Immunology
+Level 3
+Select three of the following:30
+NATS 3034Molecular Medicine
+BIOS 3014Genes, Genomics and Human Health
+NATS 3001Advanced Immunology
+BIOS 3001Advanced Cell Biology
+Total Credit Points80

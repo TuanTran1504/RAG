@@ -1,0 +1,37 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Water and Environment, Concentration (0118)
+- Western Sydney University Concentration Code:
+- Location
+- Concentration Structure
+- This concentration is only available to students enrolled in 3740 Bachelor of Engineering (Honours) or 3689 Bachelor of Engineering - Civil major only.
+- From 2024, please refer to Water and Environment, Minor (0118). This minor is available to all students in Bachelor of Engineering (Honours) (3740) and Bachelor of Engineering Advanced (Honours) (3771).
+- Student must complete 40 credit points from the subjects listed below
+- The subjects listed below count towards completion of this concentration for students who passed these subjects in 2020 or earlier.
+- EART 3004 - Hydrogeology, replaced by CIVL 3018 Hydrogeology
+CIVL 4014 - Water and Wastewater Treatment, replaced by CIVL 2018 Water Supply Systems Design
+- CIVL 3018 Hydrogeology
+- CIVL 2018 Water Supply Systems Design
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- beng@westernsydney.edu.au
+- Penrith Campus
+- Internal
+- beng@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Select 40 credit points of the following:40
+EART 3005Statistical Hydrology
+CIVL 3018Hydrogeology
+CIVL 4012Water Resource Engineering
+CIVL 2018Water Supply Systems Design
+CIVL 4011Waste Management
+Total Credit Points40

@@ -1,0 +1,19 @@
+Academic Handbook Current Edition PROC 3008 Materials Processing and Applications Credit Points 10 Legacy Code 301411 Coordinator Leo Zhang Opens in new window Description This subject focuses on the materials aspects of advanced material processing with an emphasis on microstructures. This extends students' knowledge in advanced materials, their properties, processing technologies, potential applications and simulations. Students will gain skills and experience with commercial software packages to solve sophisticated problems associated with materials engineering as well as develop experimentation techniques for the validation of these problems. School Eng, Design & Built Env Discipline Materials Engineering Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Learning Outcomes On successful completion of this subject, students should be able to: Apply the principles of commonly used advanced materials processing technologies to a given technical situation.
+Apply powder metallurgy processing principles to consolidate a desired material component.
+Evaluate the phenomena of heat transfer and phase/microstructure change in typical laser-based manufacturing.
+Identify the processing fundamentals for common engineering materials.
+Evaluate how microstructure and processing influence the performance of various advanced materials
+Use simulation to model a material process.
+Demonstrate teamwork, leadership and project management skills to manage a set task in a professional, respectful and ethical manner.
+Communicate findings in written and oral formats demonstrating academic integrity and clarity Subject Content 1.Introduction and overview of advanced materials processing technologies
+2.Fundamentals of heat and mass transfer, and phase transformations
+3.Manufacturing processes with phase change
+4.Processing and applications of metals, ceramics, polymers, composites and biomimetics
+5.Characterisation of metals, ceramics, polymers, composites and biomimetics
+6.Numerical simulation and optimisation of materials processing
+7.Guest lecture & industry site visit
+8.Future applications of advanced materials Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Numerical Problem Solving 6 pages per problem 
+(10% each)  30 N Individual N  Log/Workbook 4 pages per report (5% each) 30 N Individual N  Case Study 6000 words 
+(for report)
+15 minutes (for presentation)
+ 40 Y Both (Individual & Group) Y Structures that include subject Advanced Manufacturing, Concentration (0282) Advanced Manufacturing, Testamur Major (T126) Materials Engineering, Concentration (0280) Materials Engineering, Testamur Major (T128) Process and Resources Eng. (PROC) Sustainability Engineering, Testamur Major (T129)

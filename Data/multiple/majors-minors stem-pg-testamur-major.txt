@@ -1,0 +1,35 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- STEM, Testamur Major (T135)
+- Western Sydney University Major Code:
+- The Master of Education,  STEM testamur major is designed for teachers seeking to enhance their knowledge in science, technology, engineering and mathematics, and their capacity to plan, deliver and evaluate effectively integrated STEM learning experiences. Students will develop specialised skills to enable them to critically analyse, reflect on and synthesise multi-disciplinary approaches to STEM teaching, drawing on appropriate theoretical knowledge, allowing them to plan and deliver exemplary practice in STEM teaching. Students will also gain the skills required to be STEM leaders in schools, developing, enacting and evaluating interdisciplinary curriculum reform for the future.
+- Location
+- Major Structure
+- Students will select from the major subjects that are on offer in any given semester. Major subjects can be studied in any order.
+- Students must successfully complete 40 credit points as listed below.
+
+Location Table:
+- Online
+- 
+- Online
+- Course Advice
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+TEAC 7121STEM foundations10
+TEAC 7018Computational Thinking across the STEM Curriculum10
+Select two of the following20
+TEAC 7065Leading Mathematics in the Primary School
+TEAC 7011Assessment and Intervention for Mathematics and Numeracy Learning
+TEAC 7074Mathematics for Contemporary Learners
+TEAC 7002Addressing Diversity in Mathematics Teaching and Learning
+TEAC 7122Science for Contemporary Learners
+TEAC 7012Assessment and Intervention for Science Learning
+TEAC 7120STEM Pedagogies in Practice
+TEAC 7152Applied Robotics and Programming in Secondary STEM Education
+TEAC 7151Applied Mathematics and Science in Secondary STEM Education
+Total Credit Points40

@@ -1,0 +1,18 @@
+Academic Handbook Current Edition ENGR 6003 Fire Technology and Engineering Principles Credit Points 10 Coordinator Sameera Wijesiri Pathirana Opens in new window Description The subject introduces students to the basic principles of fire behaviour and fire safety design so that they can appreciate fire safety principles and interpret fire safety engineering design concepts. Students will learn the basics of combustion, building fire characteristics, smoke movement, responses of fire safety devices, building fire resistance, response of building occupants, fire safety engineering design and assessment methodology. The subject provides the basis for understanding fire safety engineering and the techniques and tools used in fire safety engineering. The subject is designed for building surveyors, who will be assessing performance solutions by fire safety engineers. School Eng, Design & Built Env Discipline Fire Technology Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Postgraduate Coursework Level 6 subject Incompatible Subjects ENGR7011 Fire Technology Principles
+ENGR7009 Fire Engineering Principles Restrictions Students must be enrolled in a postgraduate program. Assumed Knowledge Building construction knowledge by working in the construction industry in an appropriate capacity for at least two years. Learning Outcomes After successful completion of this Subject, students will be able to: Interpret the basic principles of the fire phenomenon including the nature of fire, heat transfer, and initiation and propagation.
+Analyse enclosure fire hazards and determine fire loads, fire growth rates and flashover.
+Evaluate the principles used in fire engineering design and assessment.
+Evaluate the functions of various fire safety subsystems, such as suppression, smoke and heat control, detection, warning and egress provisions, and risk management which are used in the development of fire safety engineering solutions.
+Interpret fire safety engineering reports. Subject Content The nature of fire and heat transfer processes
+Fire initiation and propagation
+Enclosure fires
+Fire suppression
+Smoke, heat control and tenability
+Detection and warning
+Fire Testing standards (AS1530.1, AS1530.2, AS 1530.4)
+Australian Fire Engineering Guidelines methodology 
+Risk assessment (event trees and fault trees)
+Human behaviour in fires 
+Occupant characteristics, movement and egress  
+Risk treatments and risk management 
+Fire engineering reports Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Numerical Problem Solving 2000 words  (equivalent) 30 N Individual N  Professional Task 1000 words 20 N Individual N  Final Exam 2 hours 50 Y Individual Y Teaching Periods Autumn (2024) Online Online Subject Contact Sameera Wijesiri Pathirana Opens in new window View timetable Opens in new window Structures that include subject Graduate Diploma in Building Surveying (3789) Master of Building Surveying (3703) Other Engr. and Related Tech (ENGR)

@@ -1,0 +1,74 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Bachelor of Applied Data Science (3770)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 105990F
+- This program applies to students who commenced in 2021 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- For commencement year 2016 - 2020, please refer to: 3734.1 Bachelor of Data Science
+- The Bachelor of Applied Data Science is not a stand-alone program, but is designed to be undertaken as a bolt-on in combination with any bachelor degree. In order to graduate with a Bachelor of Applied Data Science, students must have completed all requirements from their first bachelor’s degree, as well as the 80 credit points required for this program. Hence students in a three-year bachelor degree wishing to enrol into this program must complete a total of 320 credit points (240 credit points from first degree plus 80 credit points for the bolt-on). Likewise, students in a four-year bachelor degree wishing to enrol into this program must complete a total of 400 credit points (320 credit points for the first degree plus 80 credit points for the bolt-on).
+- Digital data plays an increasingly important role in many areas of endeavour. Extracting information from data has become a science in itself – Data Science. Graduates from many disciplines, will benefit from skills in Data Science. This program teaches a blend of skills from mathematics, statistics and computing, Graduates will know how to embark on data driven investigations, and conduct visual and computational analytics for application in their own primary discipline.
+- Study Mode
+- Four years for students completing a three-year Western Sydney Bachelor degree and the Bachelor of Applied Data Science. Five years for students completing a four-year Western Sydney Bachelor degree and the Bachelor of Applied Data Science.
+- Program Advice
+- Dr Laurence Park
+- Location
+- Programs delivered through an agreement with another party
+- Admission
+- Recommended studies: Mathematics, Computing/IT
+- Assumed knowledge required: Mathematics equivalent to 2 Unit HSC
+- To be eligible for admission, a student must attain a minimum ATAR of 75, or the equivalent rank for their primary undergraduate degree.
+- Concurrent Degree Form
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- International students currently completing an Australian Year 12 in or outside Australia, an International Baccalaureate in Australia or a New Zealand National Certificate of Educational Achievement (NCEA) level 3 must apply via UAC International.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Special Requirements Prerequisites
+- Students must have completed all requirements for another bachelors degree in order to graduate with the Bachelor of Applied Data Science.
+- Program Structure
+- The Bachelor of Applied Data Science is not a stand-alone degree, but is designed to be undertaken in combination with any Western Sydney bachelor degree. The standard study duration for both degrees would be:
+- Recommend Sequence
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 1033 Thinking About Data,  replaced by COMP 1014 Thinking About Data
+- MATH 1002 Analytics Programming,  replaced by COMP 1013 Analytics Programming
+- MATH 2009 Introduction to Data Science, replaced by COMP 2025 Introduction to Data Science
+- MATH 2014 Visual Analytics, replaced by  COMP 2026 Visual Analytics
+- MATH 3004 Discovery Project, replaced by COMP 3035 Discovery Project
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Full Time
+- Internal
+- See above
+- Parramatta Campus - Victoria Road
+- Part Time
+- Internal
+- See above
+- Vietnam Campus*
+- Full Time
+- Internal
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+AUTUMN SESSION
+COMP 1014Thinking About Data10
+COMP 1013Analytics Programming10
+COMP 2026Visual Analytics10
+COMP 3002Applications of Big Data10
+SPRING SESSION
+COMP 3020Social Web Analytics10
+COMP 3035Discovery Project10
+MATH 3007Predictive Modelling10
+From Spring 2022 MATH 3007 Predictive Modelling is replaced by COMP 3032 Machine Learning
+COMP 3032Machine Learning10
+COMP 2025Introduction to Data Science10

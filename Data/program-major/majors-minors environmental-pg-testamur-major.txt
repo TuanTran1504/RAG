@@ -1,0 +1,36 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Environmental, Testamur Major (T058)
+- Western Sydney University Major Code:
+- Previous Code: ST3094.1
+- Location
+- Major Structure
+- Environmental Specialised Alternate subjects
+- Specialist alternate subject offerings are subject to sufficient student demand and may not be offered annually.
+- Students enrolled in 3693 Master of Engineering choose seven specialist subjects from the list below
+- Students exiting with 3694 Graduate Diploma in Engineering (exit only) choose six specialised alternate subjects
+- Students enrolled in 3695 Graduate Certificate in Engineering choose four specialised alternate subjects
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- Engineering@westernsydney.edu.au
+- Parramatta City Campus-Macquarie Street
+- Internal
+- Engineering@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+CIVL 7008Advanced Waste Management10
+BLDG 7004Building in Bushfire Prone Areas10
+ENVL 7002Planning and Environmental Regulation10
+ENGR 7020Sustainability and Risk Engineering (PG)10
+ENGR 7027Spatial Tools and Mapping10
+CIVL 7017Wastewater Treatment and Recycling10
+CIVL 7018Water Treatment and Distribution10
+PUBH 7034Workplace Safety and Risk Management10

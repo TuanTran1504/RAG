@@ -1,0 +1,1147 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Master of Information Governance (3779)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 095722B
+- This program applies to students who commenced in 2021 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- For commencement year 2017, please refer to: 3748.1 Master of Information Governance
+- Information governance provides a framework for managing information including creating, using, sharing, storing and deleting information. This helps in ensuring appropriate behaviours and decisions around effective and efficient use of information. The Master of Information Governance provides the knowledge and skillset required for the next generation of managers and consultants that cover the technical, business and legal aspects of information governance. Students will undertake 120 hours of industry placement as a Work Integrated Learning component which is required for successful completion of this program. Possible job roles include information governance officer, information manager, information management specialise, and data protection officer.
+- Early Exits
+- Students may exit this program on completion of 40 credit points with a 3774 Graduate Certificate in Information Governance or on completion of 80 credit points with a 3775 Graduate Diploma in Information Governance
+- Study Mode
+- Two years full-time or four years part-time.
+- Program Advice
+- Dr Quang Vinh Nguyen
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Accreditation
+- Master of Information Governance is accredited at Professional Level by the Australian Computer Society.
+- Work Integrated Learning
+- There is a mandatory work component required for completion of this program.  Please contact the Program Advisor listed above for information.
+- International students should also refer to the link below for more information and a link to the Commonwealth Register of Institutions and Courses for Overseas Students (CRICOS).
+- Work Integrated Learning (WIL) for international students
+- Admission
+- Applicants must have
+- Additional Information
+- Applicants who have successfully completed a Bachelor degree or a Master degree in ICT or a related field in information governance, and gained at least 1 year full-time equivalent professional working experience in Australia may be eligible for 40 credit points of Credit for Prior Learning subject to approval by the relevant Director of Academic Programs (DAP).
+- Standard English entry requirement would be enough for this course.
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Sequence Current
+- This sequence applies to students who commenced in 2024 or later. If you commenced prior to 2024 please refer to the relevant Sequence tab for details.
+- Qualification for this award requires the successful completion of 160 credit points which include the units listed in the recommended sequence below.
+- Full-time start - year intake
+- Full-time mid - year intake
+- Part-time start - year intake
+- Part-time mid - year intake
+- Additional Completion Requirements
+- Students must complete a four week full-time or part-time equivalent industry placement as a Work Integrated Learning (WIL) component and must enrol in the ICT Practicum unit to receive recognition for WIL.
+- Alternate Subjects
+- Recommended Sequence 2023
+- This sequence applies to students who commenced in 2023 or later. If you commenced prior to 2023 please refer to the Sequence 2022 tab for details.
+- Qualification for this award requires the successful completion of 160 credit points which include the units listed in the recommended sequence below.
+- Full-time start - year intake
+- Full-time mid - year intake
+- Part-time start - year intake
+- Part-time mid - year intake
+- Additional Completion Requirements
+- Students must complete a four week full-time or part-time equivalent industry placement as a Work Integrated Learning (WIL) component and must enrol in the ICT Practicum unit to receive recognition for WIL.
+- Recommended Sequence 2021 - 2022
+- If you commenced in 2023 or later please refer to the Sequence 2023 tab for details.
+- Qualification for this award requires the successful completion of 160 credit points which include the units listed in the recommended sequence below.
+- Full-time start - year intake
+- Full-time mid - year intake
+- Part-time start - year intake
+- Part-time mid - year intake
+- Additional Completion Requirements
+- Students must complete a four week full-time or part-time equivalent industry placement as a Work Integrated Learning (WIL) component and must enrol in the ICT Practicum unit to receive recognition for WIL.
+- Alternate subjects
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2020 or earlier.
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 7011 Predictive Analytics, replaced by  COMP 7023 Predictive Analytics
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Full Time
+- Internal
+- See above
+- Parramatta Campus - Victoria Road
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+Year 1
+Credit Points
+QUARTER 1 SESSION
+
+LAWS 7009
+Commercial Law
+10
+AUTUMN SESSION
+
+ENGR 7017
+Professional Practice and Communication
+10
+COMP 7015
+Programming Proficiency
+10
+MATH 7016
+The Nature of Data
+10
+QUARTER 3 SESSION
+
+BUSM 7014
+Compliance Management
+10
+SPRING SESSION
+
+COMP 7013
+Network Technologies
+10
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+QUARTER 4 SESSION
+
+BUSM 7086
+Strategic Business Management
+10
+
+Credit Points
+80
+Year 2
+AUTUMN SESSION
+
+COMP 7007
+Information Security Management
+10
+NATS 7057
+Research Preparation in Post Graduate Studies
+10
+LAWS 7015
+Information and Data Governance Law and Policy
+10
+Select one Alternate subject
+10
+QUARTER 3 SESSION
+
+COMP 7016
+Visualisation
+10
+SPRING SESSION
+
+INFO 7015
+Applied Cybersecurity
+10
+INFO 6002
+Postgraduate Capstone Project
+10
+INFO 7005
+IT Project Management
+10
+
+Credit Points
+80
+
+Total Credit Points
+160
+Year 1
+Credit Points
+QUARTER 3 SESSION
+
+LAWS 7009
+Commercial Law
+10
+BUSM 7014
+Compliance Management
+10
+SPRING SESSION
+
+ENGR 7017
+Professional Practice and Communication
+10
+COMP 7015
+Programming Proficiency
+10
+AUTUMN SESSION
+
+MATH 7016
+The Nature of Data
+10
+COMP 7013
+Network Technologies
+10
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+Select one Alternate subject
+10
+
+Credit Points
+80
+Year 2
+SPRING SESSION
+
+INFO 7015
+Applied Cybersecurity
+10
+NATS 7057
+Research Preparation in Post Graduate Studies
+10
+INFO 6001
+IT Project Management
+10
+QUARTER 4 SESSION
+
+BUSM 7086
+Strategic Business Management
+10
+AUTUMN SESSION
+
+COMP 7007
+Information Security Management
+10
+LAWS 7015
+Information and Data Governance Law and Policy
+10
+INFO 6002
+Postgraduate Capstone Project
+10
+COMP 7016
+Visualisation
+10
+
+Credit Points
+80
+
+Total Credit Points
+160
+Year 1
+Credit Points
+QUARTER 1 SESSION
+
+LAWS 7009
+Commercial Law
+10
+AUTUMN SESSION
+
+COMP 7015
+Programming Proficiency
+10
+QUARTER 3 SESSION
+
+BUSM 7014
+Compliance Management
+10
+SPRING SESSION
+
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+
+Credit Points
+40
+Year 2
+AUTUMN SESSION
+
+ENGR 7017
+Professional Practice and Communication
+10
+MATH 7016
+The Nature of Data
+10
+SPRING SESSION
+
+COMP 7013
+Network Technologies
+10
+INFO 7005
+IT Project Management
+10
+
+Credit Points
+40
+Year 3
+AUTUMN SESSION
+
+NATS 7057
+Research Preparation in Post Graduate Studies
+10
+LAWS 7015
+Information and Data Governance Law and Policy
+10
+SPRING SESSION
+
+INFO 7015
+Applied Cybersecurity
+10
+QUARTER 4 SESSION
+
+BUSM 7086
+Strategic Business Management
+10
+
+Credit Points
+40
+Year 4
+AUTUMN SESSION
+
+COMP 7007
+Information Security Management
+10
+Select one Alternate subject
+10
+QUARTER 3 SESSION
+
+COMP 7016
+Visualisation
+10
+SPRING SESSION
+
+INFO 6002
+Postgraduate Capstone Project
+10
+
+Credit Points
+40
+
+Total Credit Points
+160
+Year 1
+Credit Points
+QUARTER 3 SESSION
+
+LAWS 7009
+Commercial Law
+10
+SPRING SESSION
+
+COMP 7015
+Programming Proficiency
+10
+AUTUMN SESSION
+
+MATH 7016
+The Nature of Data
+10
+ENGR 7017
+Professional Practice and Communication
+10
+
+Credit Points
+40
+Year 2
+QUARTER 3 SESSION
+
+BUSM 7014
+Compliance Management
+10
+SPRING SESSION
+
+NATS 7057
+Research Preparation in Post Graduate Studies
+10
+AUTUMN SESSION
+
+COMP 7013
+Network Technologies
+10
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+
+Credit Points
+40
+Year 3
+SPRING SESSION
+
+INFO 7005
+IT Project Management
+10
+QUARTER 4 SESSION
+
+BUSM 7086
+Strategic Business Management
+10
+AUTUMN SESSION
+
+COMP 7007
+Information Security Management
+10
+LAWS 7015
+Information and Data Governance Law and Policy
+10
+
+Credit Points
+40
+Year 4
+SPRING SESSION
+
+INFO 7015
+Applied Cybersecurity
+10
+Select one Alternate subject
+10
+AUTUMN SESSION
+
+INFO 6002
+Postgraduate Capstone Project
+10
+COMP 7016
+Visualisation
+10
+
+Credit Points
+40
+
+Total Credit Points
+160
+Year 1
+Credit Points
+QUARTER 1 SESSION
+
+LAWS 7009
+Commercial Law
+10
+AUTUMN SESSION
+
+ENGR 7017
+Professional Practice and Communication
+10
+COMP 7015
+Programming Proficiency
+10
+MATH 7016
+The Nature of Data
+10
+QUARTER 3 SESSION
+
+BUSM 7014
+Compliance Management
+10
+SPRING SESSION
+
+COMP 7013
+Network Technologies
+10
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+QUARTER 4 SESSION
+
+BUSM 7086
+Strategic Business Management
+10
+
+Credit Points
+80
+Year 2
+AUTUMN SESSION
+
+COMP 7007
+Information Security Management
+10
+NATS 7057
+Research Preparation in Post Graduate Studies
+10
+LAWS 7015
+Information and Data Governance Law and Policy
+10
+INFO 7016
+Postgraduate Project A
+10
+QUARTER 3 SESSION
+
+COMP 7016
+Visualisation
+10
+SPRING SESSION
+
+INFO 7015
+Applied Cybersecurity
+10
+INFO 7017
+Postgraduate Project B
+10
+INFO 7005
+IT Project Management
+10
+
+Credit Points
+80
+
+Total Credit Points
+160
+Year 1
+Credit Points
+QUARTER 3 SESSION
+
+LAWS 7009
+Commercial Law
+10
+BUSM 7014
+Compliance Management
+10
+SPRING SESSION
+
+ENGR 7017
+Professional Practice and Communication
+10
+COMP 7015
+Programming Proficiency
+10
+AUTUMN SESSION
+
+MATH 7016
+The Nature of Data
+10
+COMP 7013
+Network Technologies
+10
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+INFO 7005
+IT Project Management
+10
+
+Credit Points
+80
+Year 2
+SPRING SESSION
+
+INFO 7015
+Applied Cybersecurity
+10
+NATS 7057
+Research Preparation in Post Graduate Studies
+10
+INFO 7016
+Postgraduate Project A
+10
+QUARTER 4 SESSION
+
+BUSM 7086
+Strategic Business Management
+10
+AUTUMN SESSION
+
+COMP 7007
+Information Security Management
+10
+LAWS 7015
+Information and Data Governance Law and Policy
+10
+INFO 7017
+Postgraduate Project B
+10
+COMP 7016
+Visualisation
+10
+
+Credit Points
+80
+
+Total Credit Points
+160
+Year 1
+Credit Points
+QUARTER 1 SESSION
+
+LAWS 7009
+Commercial Law
+10
+AUTUMN SESSION
+
+COMP 7015
+Programming Proficiency
+10
+QUARTER 3 SESSION
+
+BUSM 7014
+Compliance Management
+10
+SPRING SESSION
+
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+
+Credit Points
+40
+Year 2
+AUTUMN SESSION
+
+ENGR 7017
+Professional Practice and Communication
+10
+MATH 7016
+The Nature of Data
+10
+SPRING SESSION
+
+COMP 7013
+Network Technologies
+10
+INFO 7005
+IT Project Management
+10
+
+Credit Points
+40
+Year 3
+AUTUMN SESSION
+
+NATS 7057
+Research Preparation in Post Graduate Studies
+10
+LAWS 7015
+Information and Data Governance Law and Policy
+10
+SPRING SESSION
+
+INFO 7015
+Applied Cybersecurity
+10
+QUARTER 4 SESSION
+
+BUSM 7086
+Strategic Business Management
+10
+
+Credit Points
+40
+Year 4
+AUTUMN SESSION
+
+INFO 7016
+Postgraduate Project A
+10
+COMP 7007
+Information Security Management
+10
+QUARTER 3 SESSION
+
+COMP 7016
+Visualisation
+10
+SPRING SESSION
+
+INFO 7017
+Postgraduate Project B
+10
+
+Credit Points
+40
+
+Total Credit Points
+160
+Year 1
+Credit Points
+QUARTER 3 SESSION
+
+LAWS 7009
+Commercial Law
+10
+SPRING SESSION
+
+COMP 7015
+Programming Proficiency
+10
+AUTUMN SESSION
+
+MATH 7016
+The Nature of Data
+10
+ENGR 7017
+Professional Practice and Communication
+10
+
+Credit Points
+40
+Year 2
+QUARTER 3 SESSION
+
+BUSM 7014
+Compliance Management
+10
+SPRING SESSION
+
+NATS 7057
+Research Preparation in Post Graduate Studies
+10
+AUTUMN SESSION
+
+COMP 7013
+Network Technologies
+10
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+
+Credit Points
+40
+Year 3
+SPRING SESSION
+
+INFO 7005
+IT Project Management
+10
+QUARTER 4 SESSION
+
+BUSM 7086
+Strategic Business Management
+10
+AUTUMN SESSION
+
+COMP 7007
+Information Security Management
+10
+LAWS 7015
+Information and Data Governance Law and Policy
+10
+
+Credit Points
+40
+Year 4
+SPRING SESSION
+
+INFO 7015
+Applied Cybersecurity
+10
+INFO 7016
+Postgraduate Project A
+10
+AUTUMN SESSION
+
+INFO 7017
+Postgraduate Project B
+10
+COMP 7016
+Visualisation
+10
+
+Credit Points
+40
+
+Total Credit Points
+160
+Year 1
+Credit Points
+QUARTER 1 SESSION
+
+LAWS 7009
+Commercial Law
+10
+AUTUMN SESSION
+
+ENGR 7017
+Professional Practice and Communication
+10
+COMP 7015
+Programming Proficiency
+10
+MATH 7016
+The Nature of Data
+10
+QUARTER 3 SESSION
+
+BUSM 7014
+Compliance Management
+10
+SPRING SESSION
+
+COMP 7013
+Network Technologies
+10
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+QUARTER 4 SESSION
+
+BUSM 7086
+Strategic Business Management
+10
+
+Credit Points
+80
+Year 2
+AUTUMN SESSION
+
+COMP 7007
+Information Security Management
+10
+NATS 7057
+Research Preparation in Post Graduate Studies
+10
+LAWS 7015
+Information and Data Governance Law and Policy
+10
+Select one Alternate subject
+10
+SPRING SESSION
+
+INFO 7015
+Applied Cybersecurity
+10
+INFO 7016
+Postgraduate Project A
+10
+INFO 7005
+IT Project Management
+10
+Select one Alternate subject
+10
+
+Credit Points
+80
+
+Total Credit Points
+160
+Year 1
+Credit Points
+QUARTER 3 SESSION
+
+LAWS 7009
+Commercial Law
+10
+BUSM 7014
+Compliance Management
+10
+SPRING SESSION
+
+ENGR 7017
+Professional Practice and Communication
+10
+COMP 7015
+Programming Proficiency
+10
+AUTUMN SESSION
+
+MATH 7016
+The Nature of Data
+10
+COMP 7013
+Network Technologies
+10
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+INFO 7005
+IT Project Management
+10
+
+Credit Points
+80
+Year 2
+SPRING SESSION
+
+INFO 7015
+Applied Cybersecurity
+10
+NATS 7057
+Research Preparation in Post Graduate Studies
+10
+Select one Alternate subject
+10
+QUARTER 4 SESSION
+
+BUSM 7086
+Strategic Business Management
+10
+AUTUMN SESSION
+
+COMP 7007
+Information Security Management
+10
+LAWS 7015
+Information and Data Governance Law and Policy
+10
+INFO 7016
+Postgraduate Project A
+10
+Select one Alternate subject
+
+
+Credit Points
+70
+Autumn session
+Select one Alternate subject
+10
+
+Credit Points
+10
+
+Total Credit Points
+160
+Year 1
+Credit Points
+QUARTER 1 SESSION
+
+LAWS 7009
+Commercial Law
+10
+AUTUMN SESSION
+
+COMP 7015
+Programming Proficiency
+10
+QUARTER 3 SESSION
+
+BUSM 7014
+Compliance Management
+10
+SPRING SESSION
+
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+
+Credit Points
+40
+Year 2
+AUTUMN SESSION
+
+ENGR 7017
+Professional Practice and Communication
+10
+MATH 7016
+The Nature of Data
+10
+SPRING SESSION
+
+COMP 7013
+Network Technologies
+10
+INFO 7005
+IT Project Management
+10
+
+Credit Points
+40
+Year 3
+AUTUMN SESSION
+
+NATS 7057
+Research Preparation in Post Graduate Studies
+10
+Select one Alternate subject
+10
+SPRING SESSION
+
+INFO 7015
+Applied Cybersecurity
+10
+QUARTER 4 SESSION
+
+BUSM 7086
+Strategic Business Management
+10
+
+Credit Points
+40
+Year 4
+AUTUMN SESSION
+
+COMP 7007
+Information Security Management
+10
+LAWS 7015
+Information and Data Governance Law and Policy
+10
+SPRING SESSION
+
+INFO 7016
+Postgraduate Project A
+10
+Select one Alternate subject
+10
+
+Credit Points
+40
+
+Total Credit Points
+160
+Year 1
+Credit Points
+QUARTER 3 SESSION
+
+LAWS 7009
+Commercial Law
+10
+SPRING SESSION
+
+COMP 7015
+Programming Proficiency
+10
+AUTUMN SESSION
+
+MATH 7016
+The Nature of Data
+10
+ENGR 7017
+Professional Practice and Communication
+10
+
+Credit Points
+40
+Year 2
+QUARTER 3 SESSION
+
+BUSM 7014
+Compliance Management
+10
+SPRING SESSION
+
+NATS 7057
+Research Preparation in Post Graduate Studies
+10
+AUTUMN SESSION
+
+COMP 7013
+Network Technologies
+10
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+
+Credit Points
+40
+Year 3
+SPRING SESSION
+
+INFO 7005
+IT Project Management
+10
+QUARTER 4 SESSION
+
+BUSM 7086
+Strategic Business Management
+10
+AUTUMN SESSION
+
+COMP 7007
+Information Security Management
+10
+LAWS 7015
+Information and Data Governance Law and Policy
+10
+
+Credit Points
+40
+Year 4
+SPRING SESSION
+
+INFO 7015
+Applied Cybersecurity
+10
+Select one Alternate subject
+10
+AUTUMN SESSION
+
+INFO 7016
+Postgraduate Project A
+10
+Select one Alternate subject
+10
+
+Credit Points
+40
+
+Total Credit Points
+160
+
+Courselist Tables:
+
+courselist table1:
+INFO 7004ICT Practicum0
+
+courselist table2:
+COMP 7018Advanced Cloud Computing10
+PUBH 7001Advanced Health Classifications and Coding10
+INFS 7001Advanced Healthcare Data Environments10
+INFS 7002Advanced Healthcare Software and Systems10
+INFO 7001Advanced Machine Learning10
+INFO 7002Advanced Topics in Artificial Intelligence10
+INFO 7014Advanced Topics in Cybersecurity10
+INFS 7003Advanced Topics in ICT10
+COMP 7002Advanced Topics in Networking10
+COMP 7020Artificial Intelligence Ethics and Organisations10
+COMP 7003Big Data10
+COMP 7004Cloud Computing10
+INFO 7018Cloud Systems Development10
+LAWS 7010Company Law10
+INFS 7004Content Management Systems and Web Analytics10
+COMP 7006Data Science10
+COMP 7028Hands-on Quantum Computing10
+COMP 7008Internet of Things10
+COMP 7021Knowledge Representation and Reasoning10
+BUSM 7065Managing in the Global Context10
+COMP 7009Mobile Computing10
+COMP 7011Multimedia Communication Systems10
+COMP 7022Natural Language Processing10
+COMP 7012Network Management10
+COMP 7023Predictive Analytics10
+MATH 7017Probabilistic Graphical Models10
+COMP 7024Programming for Data Science10
+INFS 7008Systems and Network Security10
+COMP 7025Social Media Intelligence10
+INFS 7006Software Testing and Automation10
+BUSM 7099Understanding Contemporary Organisations10
+INFO 7013Web Engineering10
+INFS 7009Web Technologies10
+COMP 7017Wireless Networking10
+INFO 6003Postgraduate Research Project10
+
+courselist table3:
+INFO 7004ICT Practicum0
+
+courselist table4:
+INFO 7004ICT Practicum0
+
+courselist table5:
+COMP 7018Advanced Cloud Computing10
+PUBH 7001Advanced Health Classifications and Coding10
+INFS 7001Advanced Healthcare Data Environments10
+INFS 7002Advanced Healthcare Software and Systems10
+INFO 7001Advanced Machine Learning10
+INFO 7002Advanced Topics in Artificial Intelligence10
+INFO 7014Advanced Topics in Cybersecurity10
+INFS 7003Advanced Topics in ICT10
+COMP 7002Advanced Topics in Networking10
+COMP 7019Applied Machine Learning10
+COMP 7020Artificial Intelligence Ethics and Organisations10
+COMP 7003Big Data10
+COMP 7004Cloud Computing10
+INFO 7018Cloud Systems Development10
+LAWS 7010Company Law10
+INFS 7004Content Management Systems and Web Analytics10
+COMP 7006Data Science10
+COMP 7028Hands-on Quantum Computing10
+COMP 7008Internet of Things10
+COMP 7021Knowledge Representation and Reasoning10
+BUSM 7065Managing in the Global Context10
+COMP 7009Mobile Computing10
+COMP 7011Multimedia Communication Systems10
+COMP 7022Natural Language Processing10
+COMP 7012Network Management10
+COMP 7023Predictive Analytics10
+MATH 7017Probabilistic Graphical Models10
+COMP 7024Programming for Data Science10
+INFS 7008Systems and Network Security10
+COMP 7025Social Media Intelligence10
+INFS 7006Software Testing and Automation10
+BUSM 7099Understanding Contemporary Organisations10
+COMP 7016Visualisation10
+INFO 7013Web Engineering10
+INFS 7009Web Technologies10
+COMP 7017Wireless Networking10

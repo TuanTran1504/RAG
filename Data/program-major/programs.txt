@@ -1,0 +1,12 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Programs
+- Undergraduate
+- Postgraduate
+
+Location Table:
+
+Sequence Tables:
+
+Courselist Tables:

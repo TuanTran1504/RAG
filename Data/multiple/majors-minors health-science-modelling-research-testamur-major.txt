@@ -1,0 +1,26 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Health Science Modelling and Research, Testamur Major (T141)
+- Western Sydney University Major Code:
+- In this Field of Study students investigate the structure and operation of the health care system, and how data modelling can be applied to support effective decision-making. Management and change issues in health care are considered from the perspective of data generation, management, and communication to enable system operation and enhancement, such as tele-health and tele-medicine.  Applied research findings enable students to use health informatics to inform management and decision making in the health care environment.
+- Students must complete 40 credit points as follows
+- Master of Data Science
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- 
+- Internal
+- Dr Sadia Hossain
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Core subjects
+PUBH 7031Health Systems and Policy10
+HLTH 7025Healthcare Data for Decision-Making10
+PUBH 7030Health Systems Planning and Evaluation10
+INFS 7001Advanced Healthcare Data Environments10
+Total Credit Points40

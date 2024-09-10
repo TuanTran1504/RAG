@@ -1,0 +1,30 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Innovation and Entrepreneurship, Testamur Major (T008)
+- Western Sydney University Major Code:
+- Previous Code:  ST3051.1
+- Entrepreneurship, innovation and new markets are pertinent activities that have collectively become cornerstones of how firms grow and interact with society. This specialisation is aimed at developing knowledge and skills in the processes to create new economic and social value, seeking funding for new ventures, application of digital technologies in emerging businesses and developing start-ups and rejuvenating existing businesses.
+- Location
+- Major Structure
+- Students must complete 40 credit points as follows.
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- postgradit@scem.uws.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Students must complete the following two subjects:
+BUSM 7048Innovation, Creativity and Foresight10
+BUSM 7072New Venture Finance10
+Select two subjects or 20 credit points from the following:20
+BUSM 7028Entrepreneurial Management Capabilities
+BUSM 7046Innovation for New Markets
+BUSM 7045Innovation Through Digital Technology
+BUSM 7084Start-up

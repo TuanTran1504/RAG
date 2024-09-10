@@ -1,0 +1,22 @@
+Academic Handbook Current Edition MECH 3002 Advanced Mechanics of Materials Credit Points 10 Legacy Code 300761 Coordinator Baolin Wang Opens in new window Description This subject builds on the Mechanics of Materials to provide students with knowledge about impacts of deformation, stresses, strains and strength on materials and components essential in understanding how to improve mechanical design. Students' analytic and problem solving skills are developed through analysis of impacts including non-elastic deformation, orientation of the reference axes, and how materials fail. Using knowledge about materials, students evaluate impacts on materials, the mechanisms to control properties of materials, and use mathematical calculations and techniques to determine stresses and strains on simple components. Overall, students develop the capacity to select appropriate materials and improve mechanical design. School Eng, Design & Built Env Discipline Mechanical Engineering Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Pre-requisite(s) MECH 2003 Learning Outcomes On successful completion of this subject, students should be able to: Use mathematical calculations to determine a range of stresses
+Use graphical techniques to represent transformation equations for stresses and angles
+Evaluate failure of materials in demonstrating knowledge of the relationship between the structure of materials and mechanical properties
+Outline the mechanisms associated with creep, fatigue, and stress concentrations
+Determine appropriate methods for controlling the properties of materials such as an alloy Subject Content Stresses beyond the yield point 
+Residual stresses 
+Failure Theories 
+Non-elastic bending 
+Residual stress in bending 
+Strain energy, Castigliano's Theorem 
+Un-symmetric bending of beam 
+Shear centre 
+Transformation of stress, transformation of strain, state of three-dimensional stress 
+Eccentric load and buckling of column 
+Pressure vessels 
+Work - energy principle Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Participation  2 hours
+(per class)
+ 10 N Individual N  Numerical Problem Solving 15 minutes
+(per Quiz)
+ 20 N Individual N  Practical 3 hours
+(per Practical) 
+ 20 N Individual N  Final Exam 2 hours 50 N Individual N Teaching Periods Sydney City Campus - Term 1 (2024) Sydney City On-site Subject Contact Baolin Wang Opens in new window View timetable Opens in new window Spring (2024) Penrith (Kingswood) On-site Subject Contact Baolin Wang Opens in new window View timetable Opens in new window Parramatta City - Macquarie St On-site Subject Contact Baolin Wang Opens in new window View timetable Opens in new window Sydney City Campus - Term 3 (2024) Sydney City On-site Subject Contact Baolin Wang Opens in new window View timetable Opens in new window Structures that include subject Materials Engineering, Testamur Major (T128) Mechanical Engineering, Testamur Major (T103) Mechanical and Industrial Eng. (MECH) Mechanical, Testamur Major (T036)

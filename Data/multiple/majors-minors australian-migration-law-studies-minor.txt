@@ -1,0 +1,27 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Australian Migration Law Studies, minor (0346)
+- Effective from:
+- Western Sydney University Minor Code:
+- The specialisation is designed to meet the needs of legal and non-legal professionals from Australia and overseas. This specialisation will develop specialised skills and knowledge to develop careers in the migration system. It will provide students with comprehensive knowledge of Australian migration legislation, jurisprudence and policy.
+- Minor Structure
+- Students must complete 40 credit points from the following subjects:
+- Related Programs
+
+Location Table:
+- Parramatta South Campus - Victoria Road
+- Internal
+- Dr Rangika Palliyaarachchi
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+LAWS 7041Administrative Law10
+LAWS 7003Australia's Visa System 110
+LAWS 7004Australia's Visa System 210
+LAWS 7007Australian Migration Law10
+LAWS 7038Visa Cancellation and Review20
+Total Credit Points60

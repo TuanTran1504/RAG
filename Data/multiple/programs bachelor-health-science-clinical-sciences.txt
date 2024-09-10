@@ -1,0 +1,592 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Bachelor of Health Science (Clinical Sciences) (exit only) (4789)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 108484M
+- 4789 Bachelor of Health Science (Clinical Science) is an early exit point for students who have completed three years of study from the following Programs: 4708 Bachelor of Podiatric Medicine, 4706 Bachelor of Physiotherapy, 4763 Bachelor of Speech Pathology, 4711 Bachelor of Occupational Therapy.
+- Study Mode
+- Three years full-time.
+- Program Advice
+- HealthSciences@westernsydney.edu.au
+- Location
+- Recommended Sequence
+- Early Exit from 4708 Bachelor of Podiatric Medicine – 4789 Bachelor of Health Science (Clinical Science)
+- Qualification for this award requires the successful completion of 240 credit points as per the recommended sequence below.
+- Early Exit from 4706 Bachelor of Physiotherapy – 4789 Bachelor of Health Science (Clinical Science)
+- Qualification for this award requires the successful completion of 240 credit points as per the recommended sequence below.
+- Suggested Minors
+- Health Promotion, Minor
+- Physical Activity and Health, Minor
+- Health and Recreation, Minor
+- Early Exit from 4763 Bachelor of Speech Pathology – 4789 Bachelor of Health Science (Clinical Science)
+- Qualification for this award requires the successful completion of 240 credit points as per the recommended sequence below.
+- Suggested Minors
+- Culture and Society, Minor
+- Child and Community, Minor
+- Indigenous Australian Studies, Minor
+- Linguistics, Minor
+- Public Health, Minor
+- Health Practice Management, Minor
+- Alternate Subject Pool
+- Early Exit from 4711 Bachelor of Occupational Therapy – 4789 Bachelor of Health Science (Clinical Science)
+- Qualification for this award requires the successful completion of 240 credit points as per the recommended sequence below.
+- Early Exit from 4710 Bachelor of Traditional Chinese Medicine – 4789 Bachelor of Health Science (Clinical Science)
+- Qualification for this award requires the successful completion of 240 credit points as per the recommended sequence below.
+
+Location Table:
+- Campbelltown Campus
+- Full Time
+- Internal
+- See above
+- Campbelltown Campus
+- Part Time
+- Internal
+- See Above
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+PUBH 1006
+Population Health and Society
+10
+NATS 1009
+Human Anatomy and Physiology 1
+10
+REHA 1003
+Introduction to Podiatry
+10
+HLTH 1010
+Professional Health Competencies
+10
+
+Credit Points
+40
+Spring session
+NATS 1022
+Functional Anatomy
+10
+NATS 1010
+Human Anatomy and Physiology 2
+10
+HLTH 1001
+Foundations of Research and Evidence-Based Practice
+10
+COMM 1007
+Communication in Health
+10
+
+Credit Points
+40
+Year 2
+1H session
+REHA 2005
+Pathomechanics and Podiatric Medicine
+10
+
+Credit Points
+10
+Autumn session
+HLTH 2003
+Biomechanics
+10
+HLTH 2021
+Research Methods (Quantitative and Qualitative)
+10
+NATS 2038
+Pathophysiology 1
+10
+
+Credit Points
+30
+2H session
+REHA 2007
+Podiatry Pre-Clinical
+10
+REHA 2003
+Musculoskeletal Disorders and Imaging
+10
+
+Credit Points
+20
+Spring session
+NATS 3037
+Neuroanatomy
+10
+NATS 2008
+Clinical Pharmacology
+10
+
+Credit Points
+20
+Year 3
+1H session
+REHA 3027
+Pharmacology for Podiatrists
+10
+
+Credit Points
+10
+Autumn session
+PUBH 2005
+Culture, Diversity and Health
+10
+Select two minor subjects or two electives
+20
+
+Credit Points
+30
+Spring session
+BEHV 1014
+Psychology and Health
+10
+HLTH 3005
+Evidence-Based Practice
+10
+Select two minor subjects or two electives
+20
+Year 3 Podiatric Medicine subjects not listed above that the student may have already undertaken can be counted as electives.
+
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Autumn session
+Credit Points
+PUBH 1006
+Population Health and Society
+10
+NATS 1009
+Human Anatomy and Physiology 1
+10
+REHA 1002
+Introduction to Physiotherapy Practice
+10
+HLTH 1013
+Professional Competencies in Health
+10
+
+Credit Points
+40
+Spring session
+NATS 1010
+Human Anatomy and Physiology 2
+10
+COMM 1007
+Communication in Health
+10
+HLTH 1012
+Evidence in Health
+10
+NATS 1022
+Functional Anatomy
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+HLTH 2003
+Biomechanics
+10
+HLTH 2021
+Research Methods (Quantitative and Qualitative)
+10
+PUBH 2005
+Culture, Diversity and Health
+10
+NATS 2038
+Pathophysiology 1
+10
+
+Credit Points
+40
+2H session
+REHA 2001
+Core Competencies in Physiotherapy Practice
+10
+
+Credit Points
+10
+Spring session
+NATS 3037
+Neuroanatomy
+10
+NATS 2008
+Clinical Pharmacology
+10
+BEHV 1014
+Psychology and Health
+10
+
+Credit Points
+30
+Year 3
+1H session
+REHA 3009
+Exercise Rehabilitation
+10
+
+Credit Points
+10
+Autumn session
+Select two minor subjects and one elective or three electives
+30
+
+Credit Points
+30
+Spring session
+PUBH 3023
+Evidence in Professional Reasoning
+10
+Select two minor subjects and one elective or three electives
+30
+Year 3 Physiotherapy subjects not listed above that the student may have already undertaken can be counted as electives.
+
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Autumn session
+Credit Points
+PUBH 1006
+Population Health and Society
+10
+HLTH 1013
+Professional Competencies in Health
+10
+NATS 1009
+Human Anatomy and Physiology 1
+10
+REHA 1005
+Introduction to Speech Pathology Practice
+10
+
+Credit Points
+40
+Spring session
+COMM 1007
+Communication in Health
+10
+HLTH 1012
+Evidence in Health
+10
+NATS 1010
+Human Anatomy and Physiology 2
+10
+REHA 1006
+Communication and Mealtime Foundations
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+PUBH 2005
+Culture, Diversity and Health
+10
+HLTH 2024
+Research Methods in Health
+10
+REHA 2018
+Elements of Language: Analysis and Application
+10
+REHA 2017
+Communication Changes Across the Lifespan
+10
+
+Credit Points
+40
+Spring session
+REHA 2016
+Hearing, Speech and Swallowing Science
+10
+REHA 2019
+Optimising Communication for Adults
+10
+REHA 2020
+Optimising Communication for Children
+10
+BEHV 1014
+Psychology and Health
+10
+
+Credit Points
+40
+Year 3
+Autumn session
+BEHV 2002
+Brain and Behaviour
+10
+REHA 3046
+Optimising Mealtimes Across the Lifespan
+10
+Select two minor subjects
+20
+Or select two alternate subjects
+
+Or select one alternate subject and one elective
+
+
+Credit Points
+40
+Spring session
+HLTH 3005
+Evidence-Based Practice
+10
+From 2023 HLTH 3005 is replaced by PUBH 3023 Evidence in Professional Reasoning
+
+PUBH 3023
+Evidence in Professional Reasoning
+
+REHA 3045
+Communication Access in Communities
+10
+Select two minor subjects
+20
+Or select two alternate subjects
+
+Or select one alternate subject and one elective
+
+Note: Students not completing a minor must complete a minimum of two, level 3 alternate or elective units
+
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Autumn session
+Credit Points
+PUBH 1006
+Population Health and Society
+10
+NATS 1009
+Human Anatomy and Physiology 1
+10
+REHA 1001
+Introduction to Occupational Therapy
+10
+HLTH 1013
+Professional Competencies in Health
+10
+
+Credit Points
+40
+Spring session
+REHA 1004
+Occupational Therapy Practice 1
+10
+NATS 1010
+Human Anatomy and Physiology 2
+10
+COMM 1007
+Communication in Health
+10
+HLTH 1012
+Evidence in Health
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+REHA 2004
+Occupational Therapy Practice 2
+10
+PUBH 2005
+Culture, Diversity and Health
+10
+NATS 2038
+Pathophysiology 1
+10
+HLTH 2021
+Research Methods (Quantitative and Qualitative)
+10
+
+Credit Points
+40
+Spring session
+REHA 2006
+People, Environment and Occupations
+10
+NATS 3037
+Neuroanatomy
+10
+BEHV 1014
+Psychology and Health
+10
+NATS 1022
+Functional Anatomy
+10
+
+Credit Points
+40
+Year 3
+1H session
+REHA 3021
+Occupation and Neurology
+10
+REHA 3020
+Occupation and Mental Health
+10
+Select two minor subjects or two electives
+20
+
+Credit Points
+40
+Spring session
+REHA 4009
+Occupational Justice
+10
+HLTH 3005
+Evidence-Based Practice
+10
+From 2023 HLTH 3005 Evidence-Based Practice is replaced by PUBH 3023 Evidence in Professional Reasoning
+
+PUBH 3023
+Evidence in Professional Reasoning
+
+Select two minor subjects or two electives
+20
+Year 3 or 4 Occupational Therapy units not listed above that the student may have already undertaken can be counted as electives.
+
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Autumn session
+Credit Points
+CMPL 1001
+Traditional Chinese Medicine 1
+10
+NATS 1009
+Human Anatomy and Physiology 1
+10
+PUBH 2005
+Culture, Diversity and Health
+10
+HLTH 1013
+Professional Competencies in Health
+10
+
+Credit Points
+40
+Spring session
+CMPL 1002
+Traditional Chinese Medicine 2
+10
+NATS 1010
+Human Anatomy and Physiology 2
+10
+BIOS 1012
+Cell Biology
+10
+Choose one elective subject
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+CMPL 2006
+Traditional Chinese Medicine 3
+10
+CMPL 2002
+Channels and Points 1
+10
+CMPL 2004
+Chinese Materia Medica 1
+10
+NATS 2038
+Pathophysiology 1
+10
+
+Credit Points
+40
+Spring session
+CMPL 2003
+Channels and Points 2
+10
+CMPL 2005
+Chinese Materia Medica 2
+10
+HLTH 1012
+Evidence in Health
+10
+NATS 2039
+Pathophysiology 2
+10
+
+Credit Points
+40
+Year 3
+Autumn session
+CMPL 3002
+Chinese Medicinal Formulas
+10
+CMPL 3003
+Traditional Chinese Medicine Practice 1
+10
+CMPL 3001
+Acupuncture Techniques
+10
+HLTH 2021
+Research Methods (Quantitative and Qualitative)
+10
+
+Credit Points
+40
+Spring session
+NATS 2008
+Clinical Pharmacology
+10
+CMPL 3004
+Traditional Chinese Medicine Practice 2
+10
+CMPL 4004
+Classical Texts in Chinese Medicine
+10
+Choose one elective subject
+10
+
+Credit Points
+40
+
+Total Credit Points
+240
+
+Courselist Tables:
+
+courselist table1:
+COMM 3008Communication Research Project10
+LANG 3045Intercultural Communication10
+HLTH 3018Ethical and Legal Issues in Health Care10
+LANG 3016Bilingualism and Biculturalism10
+BEHV 3019Psychology of Language10
+BEHV 3009Developmental Psychology10
+WELF 3008Learning through Indigenous Australian Community Service (Day Mode)10
+NURS 3023Maternal and Infant Health Care10
+WELF 3011Professional Practice in Aged Care and Disability10
+WELF 3003Community Engaged Learning10
+BUSM 3036Leadership and Entrepreneurship10
+BUSM 3052Organisational Learning and Development10
+COMM 3046Personal Branding Strategies: Build and Manage Your Career Profile10
+CEDS 3001Bridging the Gap: Re-engaging Indigenous Learners10
+REHA 3049Speech Pathology Practice 110
+REHA 3048Speech Pathologists Working with Children, Families and Communities10
+REHA 3047Speech Pathologists Working with Adults, Families and Communities10
+REHA 3050Speech Pathology Practice 210

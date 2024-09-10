@@ -1,0 +1,29 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Human Resource Management, Major (0134)
+- Western Sydney University Major Code:
+- Previous Code: SP2025.1
+- Graduates of the Master of Business Administration with the Human Resource Management major are eligible for professional accreditation with the Australian Human Resources Institute (AHRI). This major equips graduates to work in the field of human resource management. Key functional areas are considered within a strategic and contextualised framework, with an underlying objective of searching for ways to strengthen organisations for all stakeholders. This education builds the necessary knowledge base for working in employment relations.
+- Location
+- Major Structure
+- Students must successfully complete 60 credit points which includes all core subjects listed below.
+- Related Programs
+
+Location Table:
+- Parramatta City Campus-Macquarie Street
+- Internal
+- Dr Laurel Jackson
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+BUSM 7024Developing Human Capital and Organisational Capability10
+BUSM 7025Diversity, Labour Markets and Workforce Planning10
+BUSM 7027Employment Relations Professional Practice10
+BUSM 7043Industrial Relations and Workplace Change10
+BUSM 7081Reward Management10
+BUSM 7087Strategic Employment Relations10
+Total Credit Points60

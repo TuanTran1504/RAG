@@ -1,0 +1,14 @@
+Academic Handbook Current Edition CIVL 2008 Introduction to Structural Engineering (WSTC AssocD) Credit Points 10 Legacy Code 700115 Coordinator Abbas Ranjbar Opens in new window Description This subject covers the basic concepts in analysing and designing simple structural members.  It consists of the fundamentals of structural analysis, concrete structures and steel structures.Offerings of alternate subjects are dependent on there being sufficient student enrolment numbers. If enrolments are low, the College may cancel delivery of the alternate subject. School Eng, Design & Built Env Discipline Civil Engineering Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 2 subject Pre-requisite(s) MECH 2004 Equivalent Subjects CIVL 2007 - Introduction to Structural Engineering Restrictions Learning Outcomes On successful completion of this subject, students should be able to: Analyse the reactions and internal forces in statically determinate structures under a variety of loading conditions
+Determine the influence lines for statically determinate beams
+Determine the deflections of statically determinate beams, trusses and frames
+Use force methods to analyse statically indeterminate beams
+Recognise the effect of material properties on the behaviour of simple steel and concrete structures
+Apply structural analysis in the design process
+Design simple steel and reinforced concrete flexural elements and specify appropriate materials Subject Content 1. Analysis of statically determinate beams and frames
+2. Analyse of statically determinate trusses
+3. Influence lines for beams and trusses
+4. Deflections of trusses, beams and frames
+5. Force method for statically indeterminate structures
+6. Determine dead and live loads on steel and concrete structures
+7. Determine sizes for simple steel beams under load
+8. Determine dimensions and reinforcement for reinforced concrete beams under load Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Quiz 20 minutes each 30 N Individual N  Intra-session Exam 2 hours 20 N Individual N  Final Exam 2 hours 50 N Individual N Prescribed Texts Teaching Periods Quarter 4 (2024) Nirimba Education Precinct Hybrid Subject Contact Abbas Ranjbar Opens in new window View timetable Opens in new window Structures that include subject Civil Engineering (CIVL) Civil, Testamur Major (T033)

@@ -1,0 +1,30 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Space Science, Testamur Major (T030)
+- Western Sydney University Major Code:
+- Previous Code: ST3063.1
+- Space Science is a fast-growing area in science with a broad range of applications. The Space Science major aims to equip graduates with advanced knowledge and skills in the disciplines of Space Science, Computing and Data Science. This major covers fundamental Space Science, statistical analysis, machine learning, deep learning, Data Science, ICT, Space Law, Astrophysics, as well as various Space Science applications. Students will also learn the basic theories and algorithms that are essential in the design and development of Space Science.
+- Location
+- Major Structure
+- Students must complete 40 credit points as follows:
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- CDMS@westernsydney.edu.au
+- Penrith Campus
+- Internal
+- CDMS@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+PHYS 7001A Cosmic Perspective10
+LAWS 7026International Space Law - Commercial Aspects10
+PHYS 7002Space Instrumentation, Technology and Communication10
+PHYS 7003Space Science, Planetary Science and Meteorology10
+Total Credit Points40

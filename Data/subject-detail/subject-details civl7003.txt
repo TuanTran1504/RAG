@@ -1,0 +1,12 @@
+Academic Handbook Current Edition CIVL 7003 Advanced Geotechnical Engineering Credit Points 10 Legacy Code 300604 Coordinator Samanthika Liyanapathirana Opens in new window Description This subject will provide an overview of soil mechanics concepts required for the solution of practical geotechnical engineering problems.  Students will be taught soil and foundation analysis including design techniques. The topics will cover shallow foundations, pile foundations, the stability of earth retaining structures, excavations, soft soils, groundwater flow and stability of slopes. Practical engineering cases will be emphasized. School Eng, Design & Built Env Discipline Geotechnical Engineering Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Postgraduate Coursework Level 7 subject Equivalent Subjects LGYA 6113 - Foundation Engineering (PG) Restrictions Students must be enrolled in a postgraduate program Assumed Knowledge Fundamental knowledge of soil mechanics. Learning Outcomes On successful completion of this subject, students should be able to: Apply soil mechanics principles to analyse foundation problems
+Apply a systematic engineering approach to designing foundations
+Interpret soil properties and soil test data for use in foundation analysis and design
+Apply engineering software as a tool in foundation analysis and design
+Interpret and apply Australian Standards when designing foundations Subject Content Introduction to foundation engineering
+Site investigations
+Shallow foundation design
+Mat foundations
+Lateral earth pressure
+Retaining structures
+Slope stability
+Soft soils Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Applied Project Equivalent 25 pages 30 N Group N  Applied Project Equivalent 25 pages 30 N Individual N  Final Exam 2 hours 40 N Individual N Structures that include subject Bachelor of Research Studies (8083) Civil Engineering (CIVL) Civil and Environmental, Testamur Major (T111) Civil, Testamur Major (T033) Engineering, Testamur Major (T012)

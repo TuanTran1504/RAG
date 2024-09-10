@@ -1,0 +1,48 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Graduate Diploma in Construction Law (Exit) (3796)
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS code: 108751H
+- This program applies to students who commenced in Spring 2022 or later.
+- The Graduate Diploma in Construction Law is available to students who may wish to exit the Master of Construction Law program after completing four subjects including two core subjects.
+- Study Mode
+- Six months full-time or one year part-time.
+- Program Advice
+- Program Advice
+- Location
+- Accreditation Note
+- Accreditation with Australian Institute of Building (AIB), Royal Institution of Chartered Surveyors (RICS) and Chartered Institute of Building (CIOB) will be sought.
+- The Graduate Diploma in Construction Law is an exit only from the Master of Construction Law program
+- Upon completion of 40 credit points students can exit the Master of Construction Law with a Graduate Diploma in Construction Law.
+- The 40 credit points must include
+
+Location Table:
+- Parramatta City - Macquarie Street campus
+- Internal
+- Full-time
+- See above
+- Parramatta City - Macquarie Street campus
+- Internal
+- Part-time
+- See above
+- Parramatta - Victoria Road campus
+- Internal
+- Full-time
+- See above
+- Parramatta - Victoria Road campus
+- Internal
+- Part-time
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+LAWS 5005Construction Law10
+BLDG 5001Construction Claims10
+10cps of subjects from the remaining core Law subjects10
+10cps of subjects from the remaining core Construction subjects10
+Total Credit Points40

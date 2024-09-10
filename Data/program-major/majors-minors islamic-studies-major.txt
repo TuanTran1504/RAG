@@ -1,0 +1,61 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Islamic Studies, Major (0020)
+- Western Sydney University Major Code:
+- Previous Code: M1056.1
+- Students engage in interdisciplinary study essential to an understanding of Islam, past and present. The area of study balances historical and modern Islamic studies and research methods. One of the keys to Islamic Studies is ‘relevance’ to contemporary Australian society but relevance can only come from a sound comprehension of past traditions in Islamic scholarship and their socio-historical contexts. Preparation for graduate study is also a key objective of this program, with its focus on developing critical and interdisciplinary research skills through a combination of approaches. Students are encouraged to undertake a minor in Arabic to complement the Islamic Studies major.
+- Location
+- Major Structure
+- This major may be able to be studied entirely online, depending on student subject selection.
+- Students must successfully complete 80 credit points from the subjects listed below, with no less than three Level 3 subjects.
+- Students must complete the following compulsory subjects.
+- Students must also complete four subjects from the following pools with a minimum of two subjects at Level 3.
+- Note: Not all units will be offered each year. Units will be offered on a rotational basis.
+- The subjects listed below count towards completion of this major for students who passed any of these subjects in 2020 or earlier.
+- LANG 3008 - Applied Critical Methods, no longer offered.
+HUMN 3025 - Conceptualising Islam, no longer offered.
+LANG 2017 - Great Texts of Islam: Quran and Hadith, replaced by PHIL 2011 The Qur'an: An Introduction
+HUMN 2063 - New Ethnicities, Old Racisms, replaced by HUMN 2056 The Racial State
+
+BEHV 3013 - Humanities Internship, no longer offered as part of this major.
+HUMN 3055 - Islam in the Modern World, replaced by HUMN 2031 Islam in the Modern World
+HUMN 1047 - Understanding Islam and Muslim Societies, replaced by HUMN 1061 Islam: Past, Present and Future
+- PHIL 2011 The Qur'an: An Introduction
+- HUMN 2056 The Racial State
+- HUMN 2056 The Racial State
+- HUMN 2031 Islam in the Modern World
+- HUMN 1061 Islam: Past, Present and Future
+- Related Programs
+
+Location Table:
+- Bankstown City Campus
+- Internal
+- enquiriesHCA@uws.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+PHIL 1002Hadith: The Prophetic Tradition10
+LAWS 3040Islamic Law in a Changing World10
+HUMN 1061Islam: Past, Present and Future10
+PHIL 2011The Qur'an: An Introduction10
+Total Credit Points40
+
+courselist table2:
+Level 2 Subject Pool
+HUMN 2031Islam in the Modern World
+HUMN 2061Women with Muslim Identity
+Level 3 Subject Pool
+PHIL 3009Ethical Traditions in Islam
+HUMN 3047History of Muslim Civilisations and Ideas
+HUMN 3105History of Religion
+HUMN 3056Islam in the West
+HUMN 3054Islam in Southeast Asia
+HUMN 3057Islam, Media and Conflict
+HUMN 3058Islamic Revivalism in the Globalised World
+HUMN 3061Mystical Islam: The Emergence of Sufism in World History
+HUMN 3075Sociology of Religion
+HUMN 3081The International Relations of the Middle East Since 1945

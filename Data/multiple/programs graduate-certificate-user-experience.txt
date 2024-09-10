@@ -1,0 +1,73 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Graduate Certificate in User Experience (3788)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 106079G
+- This program applies to students who commenced in 2021 or later.
+- Advancements in digital technology, hardware and software have led to the flourishing of end user applications in various forms and mediums. Today, there is an application for everything. However, with the proliferation of such systems it is necessary to address the needs and requirements of the user and provide the appropriate end user experience during interaction with the computing technology. This program introduces the theoretical principles of user experience, as well as the practical elements and tools that make applications and systems easy and enjoyable to use. Ultimately, this qualification will provide candidates with the skills to conceptualise, design, implement and evaluate digital and mobile applications.
+- Study Mode
+- Six months full-time or one year part-time.
+- Program Advice
+- Program Advice
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Admission
+- Applicants must have:
+- Successfully completed an undergraduate degree, or higher, in any discipline; or
+- Have a minimum of five years full-time equivalent professional work experience, of which a minimum of two years must be in roles relating to IT, ICT, Application Development or Software Development, Computing or Computer Science.
+- Applicants seeking admission on the basis of work experience must support their application with a Statement of Service for all work experience listed on the application.
+- Statement of Service form
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Program Structure
+- Qualification for this award requires the successful completion of 40 credit points including the subjects listed below.
+- Students from a non-computing background
+- Students from a computing background
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Full Time
+- Internal
+- See above
+- Parramatta Campus - Victoria Road
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Students must complete the following subjects:
+COMP 7015Programming Proficiency10
+INFO 7003Advanced Topics in User System Interaction10
+Select one of the following:10
+COMP 7016Visualisation
+INFO 7013Web Engineering
+INFS 7004Content Management Systems and Web Analytics
+Select one of the following:10
+BEHV 7016Digital Social Research in Action
+MKTG 7034Digital Marketing
+Total Credit Points40
+
+courselist table2:
+Students must complete the following subjects:
+INFS 7009Web Technologies10
+INFO 7003Advanced Topics in User System Interaction10
+Select one of the following:10
+COMP 7016Visualisation
+INFO 7013Web Engineering
+INFS 7004Content Management Systems and Web Analytics
+Select one of the following:10
+BEHV 7016Digital Social Research in Action
+MKTG 7034Digital Marketing
+Total Credit Points40

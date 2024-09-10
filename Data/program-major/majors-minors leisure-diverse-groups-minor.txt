@@ -1,0 +1,48 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Leisure for Diverse Groups, Minor (0253)
+- Western Sydney University Minor Code:
+- Previous Code: SM4005.1
+- The Leisure for Diverse Groups Minor is recommended as complementary study for, and is only available to, those completing the Recreational Therapy Testamur major of the Bachelor of Health Science. This minor facilitates understanding of different modalities that can be used in recreational therapy practice. This is an interdisciplinary minor with subjects taken from the Schools of Health Science, Education, and Humanities and Communication Arts and will therefore require students to travel to other campuses
+- Location
+- Minor Structure Current
+- Minor Structure 2022
+- Related Programs
+
+Location Table:
+- Penrith Campus
+- Internal
+- HealthSciences@westernsydney.edu.au
+- Bankstown City Campus
+- Internal
+- HealthSciences@westernsydney.edu.au
+- Campbelltown Campus
+- Internal
+- HealthSciences@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Select four of the following:40
+TEAC 3051Creativity and Cultural Wellbeing for Communities
+PERF 2017Music and Wellbeing
+SPRT 3022Outdoor Education, Sustainability and Health
+WELF 3011Professional Practice in Aged Care and Disability
+REHA 3013Intersections of Health, Leisure and Wellbeing
+Total Credit Points40
+
+courselist table2:
+Select four of the following:40
+TEAC 2037Learning and Creativity
+SPRT 2007PDHPE: Games for Diverse Groups
+SPRT 2007 has been replaced by SPRT 2013 from 2023
+PERF 2017Music and Wellbeing
+SPRT 1005Outdoor Recreation
+SPRT 1005 has been replaced by SPRT 3022 from 2023
+HLTH 3008Gymnastics and Dance
+WELF 3011Professional Practice in Aged Care and Disability
+REHA 3013Intersections of Health, Leisure and Wellbeing
+Total Credit Points40

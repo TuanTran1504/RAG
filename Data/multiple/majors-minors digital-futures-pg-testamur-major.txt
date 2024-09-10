@@ -1,0 +1,32 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Digital Futures, Testamur Major (T005)
+- Western Sydney University Major Code:
+- Previous code:  ST3052.1
+- Digital technology is influencing practically every aspect of today’s knowledge economy and is driving advances in all sectors of society. Many jobs require broad competencies and understandings of the powerful role of technology in society. There is also an increasing demand for practical computing and software skills including for research and analysis of data. This major will allow students to develop practical as well as theoretical skills in this field.
+- Location
+- Major Structure
+- The subject listed below counts towards completion of this major for students who passed the subject in 2021 or earlier.
+- COMM 7007 - Media Project Proposal (20 credit points), replaced by COMM 7013 Ideate, Develop: Makerspace 1 (10 credit points)
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- postgradit@scem.uws.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Students must complete the following two subjects:
+CULT 7004Global Digital Futures10
+COMM 7009Mobile Media10
+Select two subjects or 20 credit points from the following:20
+HUMN 7012Cyber Justice (PG)
+COMM 7003Foundations of Media Arts Production (PG)
+COMM 7011Researching Convergent Media
+COMM 7013Ideate, Develop: Makerspace 1
+Total Credit Points40

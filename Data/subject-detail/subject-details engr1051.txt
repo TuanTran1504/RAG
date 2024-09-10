@@ -1,0 +1,18 @@
+Academic Handbook Current Edition ENGR 1051 Engineering Physics (Block) Credit Points 10 Coordinator Shubhekshya Basnet Opens in new window Description This subject serves as an introduction to the fundamentals of engineering physics with appropriate applications in a wide range of engineering and industrial design systems. Students will be expected to solve problems by applying the laws and principles of engineering physics in the following areas covered by the Subject – units and vectors, linear and circular motion, photons, electrons and atoms, force systems and equilibrium, work and energy applications, dynamics of rotational motion, fluid dynamics, heat and thermodynamics, periodic motion and wave phenomena, electricity and magnetism. School Eng, Design & Built Env Discipline Other Engineering And Related Technologies Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 1 subject Equivalent Subjects ENGR 1011 (300963) Engineering Physics
+ENGR 1013 (700151) Engineering Physics (WSTC)
+ENGR 1028 (300464) Physics and Materials
+ENGR 1035 (700020) Physics and Materials (WSTC)
+700117 Physics and Materials (WSTC Assoc Deg)
+ENGR 1012 (700153) Engineering Physics (WSTC AssocD) Restrictions Students must be enrolled in program :- 7178 Diploma of Aerotropolis Industry 4.0 (Mechatronic Skills) or 7182 Undergraduate Certificate in Engineering Learning Outcomes 1. Identify and apply System Internationale (SI) units in the areas covered in this unit.
+2. Analyse and solve problems by applying the laws and principles of engineering physics in the following areas covered by the unit – units and vectors, linear and circular motion, photons, electrons and atoms, force systems and equilibrium, work and energy applications, dynamics of rotational motion, fluid dynamics, heat and thermodynamics, periodic motion and wave phenomena, electricity and magnetism.
+3. Plan, conduct and document experiments performed in the laboratory on – measurements and uncertainties, acceleration due to gravity, coefficients of friction, standing waves, spectral line analysis.
+4. Interpret the results of experiments against the theory including the estimation of experimental uncertainties. Subject Content 1. Units and Vectors
+2. Linear and circular motion
+3. Photons, electrons and atoms
+4. Force systems and equilibrium
+5. Work and energy applications
+6. Dynamics of rotational motion
+7. Fluid dynamics
+8. Heat and thermodynamics
+9. Periodic motion and wave phenomena
+10. Electricity and magnetism Special Requirements Essential equipment College approved Calculator. Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Practical  45 N  N  Numerical Problem Solving  40 N  N  Case Study  15 N  N Structures that include subject Diploma in Aerotropolis Industry 4.0 (Mechatronics Skills) (7178) Diploma in Aerotropolis Industry 4.0 (Mechatronics Skills)/Bachelor of Engineering Science (6046) Other Engr. and Related Tech (ENGR) Undergraduate Certificate in Engineering (7182)

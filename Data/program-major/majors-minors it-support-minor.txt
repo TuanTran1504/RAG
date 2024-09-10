@@ -1,0 +1,29 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- IT Support, Minor (0205)
+- Western Sydney University Minor Code:
+- Previous Code: SM3054.1
+- The minor prepares students to work with, train and support other people in their use of technology. With its practical orientation, it provides a sound foundation in information technology and computing particularly through learning by direct hands-on experience in class, laboratories and in real-world work experience sites. It is for people who want to work with computers within the IT (Information Technology) industry. This minor is only available to students enrolled in the Bachelor of Information and Communications Technology or Bachelor of Information and Communications Technology (Advanced).
+- Location
+- Minor Structure
+- Students must complete 40 credit points as follows.
+- Related Programs
+
+Location Table:
+- Penrith Campus
+- Internal
+- CDMS@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+INFO 3005I.T. Support Practicum10
+COMP 2013LAN Workshop10
+INFO 1002PC Workshop10
+Select one of the following:10
+MKTG 1006Marketing Principles
+COMP 2019Systems Programming 1
+Total Credit Points40

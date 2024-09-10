@@ -1,0 +1,2428 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Advanced Manufacturing, Testamur Major (T126)
+- Western Sydney University Major Code:
+- Previous Code: MT3048.1
+- Manufacturing is continuously transforming as it integrates automation, analytics, intelligence, digitalisation, and Internet of Things (IoT) into physical operations. In this major, students integrate techniques and methods to improve the sustainability and efficiency of manufacturing, taking advantage of digitisation tools. Students tackle complex problems, propose innovative solutions, and apply critical thinking to industry problems considering social, ethical and environmental factors. Job opportunities are varied and include Digital Product Design Engineer, Digital Process Engineer, Additive Manufacturing Engineer, Digital Twins Engineer, Systems Engineer, Automation Specialist, Robotics Specialists, Advanced Sensors Specialists, Industry 4.0 Transformation Specialist. All students complete a mandatory 300 to 450 hour industrial placement.
+- Location
+- Major Sequence Current
+- This major sequence applies to students who commenced in 2024 or later. If you commenced prior to 2024 please refer to the Sequence 2022-23 tab for details.
+- This major is included in Bachelor of Engineering Science, Bachelor of Engineering (Honours), Bachelor of Engineering Advanced (Honours) and Bachelor of Engineering (Honours)/Bachelor of Business.
+- Please follow the recommended sequence for your program as noted below.
+- Bachelor of Engineering (Honours) (3740)
+- Qualification for this award requires the successful completion of 320 credit points, which include the subjects listed in the recommended sequence below.
+- * All students undertaking the Bachelor of Engineering (Honours) are required to enrol in MATH 1021 Mathematics for Engineers Preliminary and undertake a readiness test at the beginning of their study.
+- MATH 1021 Mathematics for Engineers Preliminary
+- The readiness test will be conducted at the beginning of the first semester of enrolment and the result will be used to determine whether a student will remain in MATH 1021 Mathematics for Engineers Preliminary or be transferred by the School to MATH 1016 Mathematics for Engineers 1.
+- MATH 1021 Mathematics for Engineers Preliminary
+- MATH 1016 Mathematics for Engineers 1
+- Students remaining in MATH 1021 Mathematics for Engineers Preliminary will be required to complete MATH 1016 Mathematics for Engineers 1 during second semester and will be encouraged to complete MATH 1019 Mathematics for Engineers 2 during the Summer session.
+- MATH 1021 Mathematics for Engineers Preliminary
+- MATH 1016 Mathematics for Engineers 1
+- MATH 1019 Mathematics for Engineers 2
+- ** Electives must be Level 2 or higher (An exception applies for students completing MATH 1021 Mathematics for Engineers Preliminary. This subject will then count as one of the elective subjects)
+- Start-year intake
+- Mid-year intake
+- Bachelor of Engineering Advanced (Honours) (3771)
+- Qualification for this award requires the successful completion of 320 credit points, which include the subjects listed in the recommended sequence below.
+- ** Electives must be Level 2 or higher
+- Start-year intake
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2023 or earlier.
+- BUSM 2047 Venture Makers Foundations, replaced by BUSM 2049 Creative and Innovative Thinkers
+- Mid -year intake
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2023 or earlier.
+- BUSM 2047 Venture Makers Foundations, replaced by BUSM 2049 Creative and Innovative Thinkers
+- Bachelor of Engineering (Honours)/Bachelor of Business (3800)
+- Qualification for this award requires the successful completion of 440 credit points, which include the subjects listed in the recommended sequence below.
+- Start-year intake
+- Mid-year intake
+- Bachelor of Engineering Science (3691)
+- Qualification for this award requires the successful completion of 240 credit points, which include the subjects listed in the recommended sequence below.
+- * All students undertaking the Bachelor of Engineering Science are required to enrol in MATH 1021 Mathematics for Engineers Preliminary and undertake a readiness test at the beginning of their study.
+- MATH 1021 Mathematics for Engineers Preliminary
+- The readiness test will be conducted at the beginning of the first semester of enrolment and the result will be used to determine whether a student will remain in MATH 1021 Mathematics for Engineers Preliminary or be transferred by the School to MATH 1016 Mathematics for Engineers 1.
+- MATH 1021 Mathematics for Engineers Preliminary
+- MATH 1016 Mathematics for Engineers 1
+- Students remaining in MATH 1021 Mathematics for Engineers Preliminary will be required to complete MATH 1016 Mathematics for Engineers 1 during second semester and will be encouraged to complete MATH 1019 Mathematics for Engineers 2 during the Summer session.
+- MATH 1021 Mathematics for Engineers Preliminary
+- MATH 1016 Mathematics for Engineers 1
+- MATH 1019 Mathematics for Engineers 2
+- Students who finish MATH 1021 Mathematics for Engineers Preliminary will then use this subject as an elective.
+- MATH 1021 Mathematics for Engineers Preliminary
+- Start-year intake
+- Mid-year intake
+- Major Sequence 2022-23
+- If you commenced in 2024 or later please refer to the Sequence 2024 tab for details.
+- This major is included in Bachelor of Engineering Science, Bachelor of Engineering (Honours), Bachelor of Engineering Advanced (Honours) and Bachelor of Engineering (Honours)/Bachelor of Business.
+- Please follow the recommended sequence for your program as noted below.
+- Select the link for your program below to see details of the major
+- Bachelor of Engineering (Honours)
+- Qualification for this award requires the successful completion of 320 credit points, which include the subjects listed in the recommended sequence below.
+- * All students undertaking the Bachelor of Engineering (Honours) are required to enrol in MATH 1021 Mathematics for Engineers Preliminary and undertake a readiness test at the beginning of their study.
+- MATH 1021 Mathematics for Engineers Preliminary
+- The readiness test will be conducted at the beginning of the first semester of enrolment and the result will be used to determine whether a student will remain in MATH 1021 Mathematics for Engineers Preliminary or be transferred by the School to MATH 1016 Mathematics for Engineers 1.
+- MATH 1021 Mathematics for Engineers Preliminary
+- MATH 1016 Mathematics for Engineers 1
+- Students remaining in MATH 1021 Mathematics for Engineers Preliminary will be required to complete MATH 1016 Mathematics for Engineers 1 during second semester and will be encouraged to complete MATH 1019 Mathematics for Engineers 2 during the Summer session.
+- MATH 1021 Mathematics for Engineers Preliminary
+- MATH 1016 Mathematics for Engineers 1
+- MATH 1019 Mathematics for Engineers 2
+- Start-year intake
+- Alternate subjects may be used to complete one of the minors listed below.
+- Biomedical Engineering, Minor
+Indigenous Australian Studies, Minor
+Materials Engineering, Minor
+- Mid-year intake
+- Alternate subjects may be used to complete one of the minors listed below.
+- Biomedical Engineering, Minor
+Indigenous Australian Studies, Minor
+Materials Engineering, Minor
+- Bachelor of Engineering Advanced (Honours)
+- Qualification for this award requires the successful completion of 320 credit points, which include the subjects listed in the recommended sequence below.
+- Start-year intake
+- Alternate Pool
+- Alternate subjects may be used to complete one of the minors listed below.
+- Biomedical Engineering, Minor
+Indigenous Australian Studies, Minor
+Materials Engineering, Minor
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MECH 4005 Advanced Engineering Thesis 1: Preliminary Investigations, replaced by ENGR 4037 Advanced Engineering Thesis 1: Preliminary Investigations
+- MECH 4006 Advanced Engineering Thesis 2: Detailed Investigations, replaced by ENGR 4036 Advanced Engineering Thesis 2: Detailed Investigations
+- The subjects listed below count towards completion of this program for students who passed these subjects in Autumn 2022 or earlier.
+- ENGR 1008 - Engineering Materials, replaced by PROC 1008 - Introduction to Materials Engineering
+- Mid -year intake
+- Alternate Pool
+- Alternate subjects may be used to complete one of the minors listed below.
+- Biomedical Engineering, Minor
+Indigenous Australian Studies, Minor
+Materials Engineering, Minor
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MECH 4005 Advanced Engineering Thesis 1: Preliminary Investigations, replaced by ENGR 4037 Advanced Engineering Thesis 1: Preliminary Investigations
+- MECH 4006 Advanced Engineering Thesis 2: Detailed Investigations, replaced by ENGR 4036 Advanced Engineering Thesis 2: Detailed Investigations
+- The subjects listed below count towards completion of this program for students who passed these subjects in Autumn 2022 or earlier.
+- ENGR 1008 - Engineering Materials, replaced by PROC 1008 - Introduction to Materials Engineering
+- Bachelor of Engineering (Honours)/Bachelor of Business (3728)
+- Qualification for this award requires the successful completion of 400 credit points, which include the subjects listed in the recommended sequence below.
+- Start-year intake
+- The subjects listed below count towards completion of this program for students who passed these subjects in Autumn 2022 or earlier.
+- ENGR 1008 - Engineering Materials, replaced by PROC 1008 - Introduction to Materials Engineering
+- Mid-year intake
+- The subjects listed below count towards completion of this program for students who passed these subjects in Autumn 2022 or earlier.
+- ENGR 1008 - Engineering Materials, replaced by PROC 1008 - Introduction to Materials Engineering
+- Bachelor of Engineering Science
+- Qualification for this award requires the successful completion of 240 credit points, which include the subjects listed in the recommended sequence below.
+- * All students undertaking the Bachelor of Engineering Science are required to enrol in MATH 1021 Mathematics for Engineers Preliminary and undertake a readiness test at the beginning of their study.
+- MATH 1021 Mathematics for Engineers Preliminary
+- The readiness test will be conducted at the beginning of the first semester of enrolment and the result will be used to determine whether a student will remain in MATH 1021 Mathematics for Engineers Preliminary or be transferred by the School to MATH 1016 Mathematics for Engineers 1.
+- MATH 1021 Mathematics for Engineers Preliminary
+- MATH 1016 Mathematics for Engineers 1
+- Students remaining in MATH 1021 Mathematics for Engineers Preliminary will be required to complete MATH 1016 Mathematics for Engineers 1 during second semester and will be encouraged to complete MATH 1019 Mathematics for Engineers 2 during the Summer session.
+- MATH 1021 Mathematics for Engineers Preliminary
+- MATH 1016 Mathematics for Engineers 1
+- MATH 1019 Mathematics for Engineers 2
+- Students who finish MATH 1021 Mathematics for Engineers Preliminary will then use this subject as an elective.
+- MATH 1021 Mathematics for Engineers Preliminary
+- Start-year intake
+- Mid-year intake
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- Program Advice
+- Parramatta City Campus-Macquarie Street
+- Internal
+- Program Advice
+- Penrith Campus
+- Internal
+- Program Advice
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+ENGR 1011
+Engineering Physics
+10
+ELEC 1006
+Engineering Computing
+10
+ENGR 1024
+Introduction to Engineering Practice
+10
+Select one of the following:
+10
+MATH 1021
+Mathematics for Engineers Preliminary
+
+MATH 1016
+Mathematics for Engineers 1
+
+
+Credit Points
+40
+Spring session
+ENGR 1018
+Fundamentals of Mechanics
+10
+ELEC 1003
+Electrical Fundamentals
+10
+PROC 1008
+Introduction to Materials Engineering
+10
+Select one of the following:
+10
+MATH 1016
+Mathematics for Engineers 1
+
+MATH 1019
+Mathematics for Engineers 2
+
+
+Credit Points
+40
+Year 2
+Autumn session
+MECH 2001
+Kinematics and Kinetics of Machines
+10
+MECH 2003
+Mechanics of Materials
+10
+ELEC 2001
+Circuit Theory
+10
+ENGR 2035
+Modern Digital Design and Development
+10
+
+Credit Points
+40
+Spring session
+MECH 3004
+Dynamics of Mechanical Systems
+10
+ENGR 2001
+Automated Manufacturing
+10
+ELEC 2008
+Microcontrollers and PLCs
+10
+Select one elective** or minor subject
+10
+
+Credit Points
+40
+Year 3
+Autumn session
+PROC 2003
+Materials Selection and Design
+10
+MECH 3005
+Mechanical Design
+10
+ENGR 3033
+Digital Manufacturing and IIoT
+10
+Select one elective** or minor subject
+10
+
+Credit Points
+40
+Spring session
+MECH 4003
+Mobile Robotics
+10
+ENGR 4039
+Design for Advanced Manufacturing
+10
+MECH 3006
+Mechatronic Design
+10
+MECH 4002
+Computer Aided Engineering
+10
+Industrial Experience
+
+ENGR 3017
+Industrial Experience (Engineering)
+0
+
+Credit Points
+40
+Year 4
+Autumn session
+ENGR 4041
+Final Year Project 1 (UG Engineering)
+20
+MECH 4004
+Robotics
+10
+PROC 3008
+Materials Processing and Applications
+10
+
+Credit Points
+40
+Spring session
+ENGR 4042
+Final Year Project 2 (UG Engineering)
+20
+Select two electives** or minor subjects
+20
+
+Credit Points
+40
+
+Total Credit Points
+320
+Year 1
+Spring session
+Credit Points
+ENGR 1018
+Fundamentals of Mechanics
+10
+ELEC 1003
+Electrical Fundamentals
+10
+PROC 1008
+Introduction to Materials Engineering
+10
+Select one of the following:
+10
+MATH 1021
+Mathematics for Engineers Preliminary
+
+MATH 1016
+Mathematics for Engineers 1
+
+
+Credit Points
+40
+Autumn session
+ENGR 1011
+Engineering Physics
+10
+ELEC 1006
+Engineering Computing
+10
+ENGR 1024
+Introduction to Engineering Practice
+10
+Select one of the following:
+10
+MATH 1019
+Mathematics for Engineers 2
+
+MATH 1016
+Mathematics for Engineers 1
+
+
+Credit Points
+40
+Year 2
+Spring session
+ENGR 2001
+Automated Manufacturing
+10
+ELEC 2008
+Microcontrollers and PLCs
+10
+Select two electives** or minor subjects
+20
+
+Credit Points
+40
+Autumn session
+MECH 2001
+Kinematics and Kinetics of Machines
+10
+MECH 2003
+Mechanics of Materials
+10
+ELEC 2001
+Circuit Theory
+10
+ENGR 2035
+Modern Digital Design and Development
+10
+
+Credit Points
+40
+Year 3
+Spring session
+MECH 4002
+Computer Aided Engineering
+10
+ENGR 4039
+Design for Advanced Manufacturing
+10
+MECH 3006
+Mechatronic Design
+10
+MECH 3004
+Dynamics of Mechanical Systems
+10
+
+Credit Points
+40
+Autumn session
+PROC 3008
+Materials Processing and Applications
+10
+MECH 3005
+Mechanical Design
+10
+ENGR 3033
+Digital Manufacturing and IIoT
+10
+PROC 2003
+Materials Selection and Design
+10
+Industrial Experience
+
+ENGR 3017
+Industrial Experience (Engineering)
+0
+
+Credit Points
+40
+Year 4
+Spring session
+ENGR 4041
+Final Year Project 1 (UG Engineering)
+20
+MECH 4003
+Mobile Robotics
+10
+Select one elective** or minor subject
+10
+
+Credit Points
+40
+Autumn session
+ENGR 4042
+Final Year Project 2 (UG Engineering)
+20
+MECH 4004
+Robotics
+10
+Select one elective** or minor subject
+10
+
+Credit Points
+40
+
+Total Credit Points
+320
+Year 1
+Autumn session
+Credit Points
+MATH 1034
+Mathematics for Engineers 1 (Advanced)
+10
+ENGR 1024
+Introduction to Engineering Practice
+10
+ENGR 1047
+Advanced Engineering Physics 1
+10
+ELEC 1006
+Engineering Computing
+10
+
+Credit Points
+40
+Spring session
+MATH 1035
+Mathematics for Engineers 2 (Advanced)
+10
+ELEC 1003
+Electrical Fundamentals
+10
+ENGR 1018
+Fundamentals of Mechanics
+10
+ENGR 2023
+Advanced Engineering Physics 2
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+MECH 2003
+Mechanics of Materials
+10
+MECH 2001
+Kinematics and Kinetics of Machines
+10
+ELEC 2001
+Circuit Theory
+10
+ENGR 2035
+Modern Digital Design and Development
+10
+
+Credit Points
+40
+Spring session
+MECH 3004
+Dynamics of Mechanical Systems
+10
+PROC 1008
+Introduction to Materials Engineering
+10
+ENGR 2001
+Automated Manufacturing
+10
+Select one elective** or Minor subject
+10
+Students who fail to maintain a minimum GPA of 5.0 at the end of completion of 160 Credit Points, and again at the completion of 200 Credit points will be automatically transferred to the B. Engineering (Honours) (3740) program.
+
+
+Credit Points
+40
+Year 3
+Autumn session
+PROC 3008
+Materials Processing and Applications
+10
+MECH 3005
+Mechanical Design
+10
+ENGR 3033
+Digital Manufacturing and IIoT
+10
+BUSM 2049
+Creative and Innovative Thinkers
+10
+
+Credit Points
+40
+Spring session
+MECH 4003
+Mobile Robotics
+10
+ENGR 4039
+Design for Advanced Manufacturing
+10
+MECH 3006
+Mechatronic Design
+10
+ELEC 2008
+Microcontrollers and PLCs
+10
+Industrial Experience
+
+ENGR 3017
+Industrial Experience (Engineering)
+0
+
+Credit Points
+40
+Year 4
+Autumn session
+ENGR 4043
+Advanced Engineering Thesis 1: Preliminary Investigations
+20
+MECH 4004
+Robotics
+10
+Select one elective** or minor subject
+10
+
+Credit Points
+40
+Spring session
+ENGR 4044
+Advanced Engineering Thesis 2: Detailed Investigations
+20
+Select two electives** or minor subjects
+20
+Electives must be Level 2 or higher
+
+
+Credit Points
+40
+
+Total Credit Points
+320
+Year 1
+Spring session
+Credit Points
+MATH 1034
+Mathematics for Engineers 1 (Advanced)
+10
+ENGR 1018
+Fundamentals of Mechanics
+10
+ELEC 1003
+Electrical Fundamentals
+10
+ENGR 2023
+Advanced Engineering Physics 2
+10
+
+Credit Points
+40
+Autumn session
+MATH 1035
+Mathematics for Engineers 2 (Advanced)
+10
+ENGR 1024
+Introduction to Engineering Practice
+10
+ENGR 1047
+Advanced Engineering Physics 1
+10
+ELEC 1006
+Engineering Computing
+10
+
+Credit Points
+40
+Year 2
+Spring session
+ENGR 2001
+Automated Manufacturing
+10
+Select one elective** or Minor subject
+10
+ELEC 2008
+Microcontrollers and PLCs
+10
+PROC 1008
+Introduction to Materials Engineering
+10
+
+Credit Points
+40
+Autumn session
+MECH 2003
+Mechanics of Materials
+10
+MECH 2001
+Kinematics and Kinetics of Machines
+10
+ELEC 2001
+Circuit Theory
+10
+ENGR 2035
+Modern Digital Design and Development
+10
+Students who fail to maintain a minimum GPA of 5.0 at the end of completion of 160 Credit Points, and again at the completion of 200 Credit points will be automatically transferred to the B. Engineering (Honours) (3740) program.
+
+
+Credit Points
+40
+Year 3
+Spring session
+MECH 4003
+Mobile Robotics
+10
+ENGR 4039
+Design for Advanced Manufacturing
+10
+MECH 3006
+Mechatronic Design
+10
+MECH 3004
+Dynamics of Mechanical Systems
+10
+
+Credit Points
+40
+Autumn session
+PROC 3008
+Materials Processing and Applications
+10
+MECH 3005
+Mechanical Design
+10
+ENGR 3033
+Digital Manufacturing and IIoT
+10
+BUSM 2049
+Creative and Innovative Thinkers
+10
+Industrial Experience
+
+ENGR 3017
+Industrial Experience (Engineering)
+0
+
+Credit Points
+40
+Year 4
+Spring session
+ENGR 4043
+Advanced Engineering Thesis 1: Preliminary Investigations
+20
+Select two electives** or minor subjects
+20
+
+Credit Points
+40
+Autumn session
+ENGR 4044
+Advanced Engineering Thesis 2: Detailed Investigations
+20
+MECH 4004
+Robotics
+10
+Select one elective** or minor subject
+10
+
+Credit Points
+40
+
+Total Credit Points
+320
+Year 1
+Autumn session
+Credit Points
+ENGR 1011
+Engineering Physics
+10
+MATH 1016
+Mathematics for Engineers 1
+10
+BBus Core Subject 1
+10
+BBus Core Subject 2
+10
+
+Credit Points
+40
+Spring session
+PROC 1008
+Introduction to Materials Engineering
+10
+ELEC 1003
+Electrical Fundamentals
+10
+BBus Core Subject 3
+10
+BBus Core Subject 4
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+ENGR 1018
+Fundamentals of Mechanics
+10
+ENGR 1024
+Introduction to Engineering Practice
+10
+MATH 1019
+Mathematics for Engineers 2
+10
+BBus Professional Subject 1
+10
+
+Credit Points
+40
+Spring session
+ELEC 2008
+Microcontrollers and PLCs
+10
+ENGR 4039
+Design for Advanced Manufacturing
+10
+ENGR 2001
+Automated Manufacturing
+10
+BBus Professional Subject 2
+10
+
+Credit Points
+40
+Year 3
+Autumn session
+MECH 2003
+Mechanics of Materials
+10
+PROC 2003
+Materials Selection and Design
+10
+ELEC 1006
+Engineering Computing
+10
+ENGR 2035
+Modern Digital Design and Development
+10
+
+Credit Points
+40
+Spring session
+MECH 4002
+Computer Aided Engineering
+10
+MECH 4003
+Mobile Robotics
+10
+BBus Major Subject 1
+10
+BBus Major Subject 2
+10
+
+Credit Points
+40
+Year 4
+Autumn session
+MECH 2001
+Kinematics and Kinetics of Machines
+10
+ELEC 2001
+Circuit Theory
+10
+BBus Major Subject 3
+10
+BBus Major Subject 4
+10
+
+Credit Points
+40
+Spring session
+MECH 3006
+Mechatronic Design
+10
+MECH 3004
+Dynamics of Mechanical Systems
+10
+BBus Major Subject 5
+10
+BBus Major Subject 6
+10
+Industrial Experience
+
+ENGR 3017
+Industrial Experience (Engineering)
+0
+
+Credit Points
+40
+Year 5
+Autumn session
+PROC 3008
+Materials Processing and Applications
+10
+MECH 3005
+Mechanical Design
+10
+BBus Major Subject 7
+10
+BBus Major Subject 8
+10
+
+Credit Points
+40
+Spring session
+ENGR 4041
+Final Year Project 1 (UG Engineering)
+20
+BBus Professional Subject 3
+10
+BBus Professional Subject 4
+10
+
+Credit Points
+40
+Year 6
+Autumn session
+ENGR 4042
+Final Year Project 2 (UG Engineering)
+20
+ENGR 3033
+Digital Manufacturing and IIoT
+10
+MECH 4004
+Robotics
+10
+
+Credit Points
+40
+
+Total Credit Points
+440
+Year 1
+Spring session
+Credit Points
+PROC 1008
+Introduction to Materials Engineering
+10
+ENGR 1024
+Introduction to Engineering Practice
+10
+BBus Core Subject 1
+10
+BBus Core Subject 2
+10
+
+Credit Points
+40
+Autumn session
+MATH 1016
+Mathematics for Engineers 1
+10
+ENGR 1011
+Engineering Physics
+10
+ENGR 1018
+Fundamentals of Mechanics
+10
+ELEC 1006
+Engineering Computing
+10
+
+Credit Points
+40
+Year 2
+Spring session
+ELEC 1003
+Electrical Fundamentals
+10
+ENGR 4039
+Design for Advanced Manufacturing
+10
+BBus Core Subject 3
+10
+BBus Core Subject 4
+10
+
+Credit Points
+40
+Autumn session
+PROC 2003
+Materials Selection and Design
+10
+MATH 1019
+Mathematics for Engineers 2
+10
+MECH 2003
+Mechanics of Materials
+10
+MECH 2001
+Kinematics and Kinetics of Machines
+10
+
+Credit Points
+40
+Year 3
+Spring session
+MECH 3004
+Dynamics of Mechanical Systems
+10
+ENGR 2001
+Automated Manufacturing
+10
+BBus Professional Subject 1
+10
+BBus Professional Subject 2
+10
+
+Credit Points
+40
+Autumn session
+ENGR 2035
+Modern Digital Design and Development
+10
+ELEC 2001
+Circuit Theory
+10
+BBus Major Subject 1
+10
+BBus Major Subject 2
+10
+
+Credit Points
+40
+Year 4
+Spring session
+ELEC 2008
+Microcontrollers and PLCs
+10
+MECH 4002
+Computer Aided Engineering
+10
+BBus Major Subject 3
+10
+BBus Major Subject 4
+10
+
+Credit Points
+40
+Autumn session
+PROC 3008
+Materials Processing and Applications
+10
+MECH 3005
+Mechanical Design
+10
+ENGR 3033
+Digital Manufacturing and IIoT
+10
+BBus Major Subject 5
+10
+Industrial Experience
+
+ENGR 3017
+Industrial Experience (Engineering)
+0
+
+Credit Points
+40
+Year 5
+Spring session
+MECH 3006
+Mechatronic Design
+10
+BBus Major Subject 6
+10
+BBus Major Subject 7
+10
+BBus Major Subject 8
+10
+
+Credit Points
+40
+Autumn session
+ENGR 4041
+Final Year Project 1 (UG Engineering)
+20
+MECH 4004
+Robotics
+10
+BBus Professional Subject 3
+10
+
+Credit Points
+40
+Year 6
+Spring session
+ENGR 4042
+Final Year Project 2 (UG Engineering)
+20
+MECH 4003
+Mobile Robotics
+10
+BBus Professional Subject 4
+10
+
+Credit Points
+40
+
+Total Credit Points
+440
+Year 1
+Autumn session
+Credit Points
+ENGR 1011
+Engineering Physics
+10
+ELEC 1006
+Engineering Computing
+10
+ENGR 1024
+Introduction to Engineering Practice
+10
+Select one of the following:
+10
+MATH 1021
+Mathematics for Engineers Preliminary
+
+MATH 1016
+Mathematics for Engineers 1
+
+
+Credit Points
+40
+Spring session
+ENGR 1018
+Fundamentals of Mechanics
+10
+PROC 1008
+Introduction to Materials Engineering
+10
+ELEC 1003
+Electrical Fundamentals
+10
+Select one of the following:
+10
+MATH 1016
+Mathematics for Engineers 1
+
+MATH 1019
+Mathematics for Engineers 2
+
+
+Credit Points
+40
+Year 2
+Autumn session
+MECH 2001
+Kinematics and Kinetics of Machines
+10
+MECH 2003
+Mechanics of Materials
+10
+ELEC 2001
+Circuit Theory
+10
+ENGR 3029
+Specialisation Workshop 1
+10
+
+Credit Points
+40
+Spring session
+MECH 3004
+Dynamics of Mechanical Systems
+10
+ENGR 2001
+Automated Manufacturing
+10
+ELEC 2008
+Microcontrollers and PLCs
+10
+ENGR 3030
+Specialisation Workshop 2
+10
+Industrial Experience
+
+ENGR 2033
+Industrial Experience (Engineering Technologist)
+0
+
+Credit Points
+40
+Year 3
+Autumn session
+ENGR 3013
+Engineering Science Project 1
+10
+MECH 3005
+Mechanical Design
+10
+ENGR 2035
+Modern Digital Design and Development
+10
+ENGR 3033
+Digital Manufacturing and IIoT
+10
+
+Credit Points
+40
+Spring session
+ENGR 3014
+Engineering Science Project 2
+10
+ENGR 4039
+Design for Advanced Manufacturing
+10
+Select two electives
+20
+Elective must be Level 2 or higher
+
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Spring session
+Credit Points
+ENGR 1018
+Fundamentals of Mechanics
+10
+PROC 1008
+Introduction to Materials Engineering
+10
+ELEC 1003
+Electrical Fundamentals
+10
+Select one of the following:
+10
+MATH 1021
+Mathematics for Engineers Preliminary
+
+MATH 1016
+Mathematics for Engineers 1
+
+
+Credit Points
+40
+Autumn session
+ELEC 1006
+Engineering Computing
+10
+ENGR 1011
+Engineering Physics
+10
+ENGR 1024
+Introduction to Engineering Practice
+10
+Select one of the following:
+10
+MATH 1016
+Mathematics for Engineers 1
+
+MATH 1019
+Mathematics for Engineers 2
+
+
+Credit Points
+40
+Year 2
+Spring session
+ENGR 3029
+Specialisation Workshop 1
+10
+ENGR 2001
+Automated Manufacturing
+10
+ELEC 2008
+Microcontrollers and PLCs
+10
+Select one elective (Level 2 or higher)
+10
+
+Credit Points
+40
+Autumn session
+MECH 2001
+Kinematics and Kinetics of Machines
+10
+MECH 2003
+Mechanics of Materials
+10
+ELEC 2001
+Circuit Theory
+10
+ENGR 3030
+Specialisation Workshop 2
+10
+Industrial Experience
+
+ENGR 2033
+Industrial Experience (Engineering Technologist)
+0
+
+Credit Points
+40
+Year 3
+Spring session
+ENGR 3013
+Engineering Science Project 1
+10
+MECH 3004
+Dynamics of Mechanical Systems
+10
+ENGR 4039
+Design for Advanced Manufacturing
+10
+Select one elective (Level 2 or higher)
+10
+
+Credit Points
+40
+Autumn session
+ENGR 3014
+Engineering Science Project 2
+10
+MECH 3005
+Mechanical Design
+10
+ENGR 2035
+Modern Digital Design and Development
+10
+ENGR 3033
+Digital Manufacturing and IIoT
+10
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Autumn session
+Credit Points
+ENGR 1011
+Engineering Physics
+10
+ELEC 1006
+Engineering Computing
+10
+ENGR 1024
+Introduction to Engineering Practice
+10
+Select one of the following:
+10
+MATH 1021
+Mathematics for Engineers Preliminary
+
+MATH 1016
+Mathematics for Engineers 1
+
+
+Credit Points
+40
+Spring session
+ENGR 1018
+Fundamentals of Mechanics
+10
+ELEC 1003
+Electrical Fundamentals
+10
+Select one elective
+10
+Electives can be any Level for Year 1 Elective
+
+Select one of the following:
+10
+MATH 1016
+Mathematics for Engineers 1
+
+MATH 1019
+Mathematics for Engineers 2
+
+
+Credit Points
+40
+Year 2
+Autumn session
+MECH 2001
+Kinematics and Kinetics of Machines
+10
+MECH 2003
+Mechanics of Materials
+10
+ELEC 2001
+Circuit Theory
+10
+ENGR 2035
+Modern Digital Design and Development
+10
+
+Credit Points
+40
+Spring session
+MECH 3004
+Dynamics of Mechanical Systems
+10
+ENGR 2001
+Automated Manufacturing
+10
+ELEC 2008
+Microcontrollers and PLCs
+10
+Select one elective
+10
+Electives can be any Level 2 or higher for Years 2-4 Electives
+
+
+Credit Points
+40
+Year 3
+Autumn session
+PROC 3008
+Materials Processing and Applications
+10
+MECH 3005
+Mechanical Design
+10
+ENGR 3033
+Digital Manufacturing and IIoT
+10
+Minor Alternate Subject
+10
+
+Credit Points
+40
+Spring session
+MECH 4003
+Mobile Robotics
+10
+MECH 3006
+Mechatronic Design
+10
+ENGR 4039
+Design for Advanced Manufacturing
+10
+Minor Alternate Subject
+10
+Industrial Experience
+
+ENGR 3017
+Industrial Experience (Engineering)
+0
+
+Credit Points
+40
+Year 4
+Autumn session
+ENGR 4025
+Final Year Project 1 (UG Engineering)
+10
+MECH 4004
+Robotics
+10
+Minor Alternate Subject
+10
+Select one elective
+10
+Elective subject must be Level 2 or higher
+
+
+Credit Points
+40
+Spring session
+ENGR 4026
+Final Year Project 2 (UG Engineering)
+10
+MECH 4002
+Computer Aided Engineering
+10
+Minor Alternate Subject
+10
+Select one elective
+10
+Elective subjects must be Level 2 or higher
+
+
+Credit Points
+40
+
+Total Credit Points
+320
+Year 1
+Spring session
+Credit Points
+Select one of the following:
+10
+MATH 1021
+Mathematics for Engineers Preliminary
+
+MATH 1016
+Mathematics for Engineers 1
+
+ENGR 1018
+Fundamentals of Mechanics
+10
+ELEC 1003
+Electrical Fundamentals
+10
+ENGR 1024
+Introduction to Engineering Practice
+10
+
+Credit Points
+40
+Autumn session
+Select one of the following:
+10
+MATH 1019
+Mathematics for Engineers 2
+
+MATH 1016
+Mathematics for Engineers 1
+
+ENGR 1011
+Engineering Physics
+10
+ELEC 1006
+Engineering Computing
+10
+Select one elective
+10
+Elective unit must be Level 1 or higher
+
+
+Credit Points
+40
+Year 2
+Spring session
+ENGR 2001
+Automated Manufacturing
+10
+ELEC 2008
+Microcontrollers and PLCs
+10
+Select one elective (Level 2 or higher)
+10
+Minor Alternate Subject
+10
+
+Credit Points
+40
+Autumn session
+MECH 2001
+Kinematics and Kinetics of Machines
+10
+MECH 2003
+Mechanics of Materials
+10
+ELEC 2001
+Circuit Theory
+10
+ENGR 2035
+Modern Digital Design and Development
+10
+
+Credit Points
+40
+Year 3
+Spring session
+MECH 4003
+Mobile Robotics
+10
+MECH 3006
+Mechatronic Design
+10
+MECH 3004
+Dynamics of Mechanical Systems
+10
+ENGR 4039
+Design for Advanced Manufacturing
+10
+Industrial Experience
+
+ENGR 3017
+Industrial Experience (Engineering)
+0
+
+Credit Points
+40
+Autumn session
+PROC 3008
+Materials Processing and Applications
+10
+MECH 3005
+Mechanical Design
+10
+ENGR 3033
+Digital Manufacturing and IIoT
+10
+Minor Alternate Subject
+10
+Industrial Experience
+
+ENGR 3017
+Industrial Experience (Engineering)
+0
+
+Credit Points
+40
+Year 4
+Spring session
+ENGR 4025
+Final Year Project 1 (UG Engineering)
+10
+MECH 4002
+Computer Aided Engineering
+10
+Minor Alternate Subject
+10
+Select one elective (Level 2 or higher)
+10
+
+Credit Points
+40
+Autumn session
+ENGR 4026
+Final Year Project 2 (UG Engineering)
+10
+MECH 4004
+Robotics
+10
+Minor Alternate Subject
+10
+Select one elective (Level 2 or higher)
+10
+
+Credit Points
+40
+
+Total Credit Points
+320
+Year 1
+Autumn session
+Credit Points
+MATH 1034
+Mathematics for Engineers 1 (Advanced)
+10
+ENGR 1024
+Introduction to Engineering Practice
+10
+ENGR 1047
+Advanced Engineering Physics 1
+10
+ELEC 1006
+Engineering Computing
+10
+
+Credit Points
+40
+Spring session
+MATH 1035
+Mathematics for Engineers 2 (Advanced)
+10
+ELEC 1003
+Electrical Fundamentals
+10
+ENGR 1018
+Fundamentals of Mechanics
+10
+Select one elective
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+MECH 2003
+Mechanics of Materials
+10
+MECH 2001
+Kinematics and Kinetics of Machines
+10
+ELEC 2001
+Circuit Theory
+10
+ENGR 2035
+Modern Digital Design and Development
+10
+
+Credit Points
+40
+Spring session
+MECH 2005
+Mathematics for Mechanical and Mechatronic Engineers
+10
+MECH 3004
+Dynamics of Mechanical Systems
+10
+ELEC 2008
+Microcontrollers and PLCs
+10
+ENGR 2001
+Automated Manufacturing
+10
+Students who fail to maintain a minimum GPA of 5.0 at the end of completion of 160 Credit Points, and again at the completion of 200 Credit points will be automatically transferred to the B. Engineering (Honours) (3740) program.
+
+
+Credit Points
+40
+Year 3
+Autumn session
+PROC 3008
+Materials Processing and Applications
+10
+MECH 3005
+Mechanical Design
+10
+ENGR 3033
+Digital Manufacturing and IIoT
+10
+Minor Alternate Subject
+10
+
+Credit Points
+40
+Spring session
+MECH 4003
+Mobile Robotics
+10
+MECH 3006
+Mechatronic Design
+10
+ENGR 4039
+Design for Advanced Manufacturing
+10
+Minor Alternate Subject
+10
+Industrial Experience
+
+ENGR 3017
+Industrial Experience (Engineering)
+0
+
+Credit Points
+40
+Year 4
+Autumn session
+ENGR 4037
+Advanced Engineering Thesis 1: Preliminary Investigations
+10
+MECH 4004
+Robotics
+10
+Minor Alternate Subject
+10
+Select one elective
+10
+Elective unit must be Level 2 or higher
+
+
+Credit Points
+40
+Spring session
+ENGR 4036
+Advanced Engineering Thesis 2: Detailed Investigations
+10
+Minor Alternate subject
+10
+Select two electives
+20
+Elective subjects must be Level 2 or higher
+
+
+Credit Points
+40
+
+Total Credit Points
+320
+Year 1
+Spring session
+Credit Points
+MATH 1034
+Mathematics for Engineers 1 (Advanced)
+10
+ENGR 1018
+Fundamentals of Mechanics
+10
+ELEC 1003
+Electrical Fundamentals
+10
+ENGR 1024
+Introduction to Engineering Practice
+10
+
+Credit Points
+40
+Autumn session
+MATH 1035
+Mathematics for Engineers 2 (Advanced)
+10
+ENGR 1047
+Advanced Engineering Physics 1
+10
+ELEC 1006
+Engineering Computing
+10
+ENGR 2035
+Modern Digital Design and Development
+10
+
+Credit Points
+40
+Year 2
+Spring session
+MECH 2005
+Mathematics for Mechanical and Mechatronic Engineers
+10
+ENGR 2001
+Automated Manufacturing
+10
+ELEC 2008
+Microcontrollers and PLCs
+10
+Select one elective
+10
+Elective unit must be Level 2 or higher
+
+
+Credit Points
+40
+Autumn session
+MECH 2003
+Mechanics of Materials
+10
+MECH 2001
+Kinematics and Kinetics of Machines
+10
+ELEC 2001
+Circuit Theory
+10
+select one elective
+10
+Students who fail to maintain a minimum GPA of 5.0 at the end of completion of 160 Credit Points, and again at the completion of 200 Credit points will be automatically transferred to the B. Engineering (Honours) (3740) program.
+
+
+Credit Points
+40
+Year 3
+Spring session
+MECH 4003
+Mobile Robotics
+10
+MECH 3006
+Mechatronic Design
+10
+ENGR 4039
+Design for Advanced Manufacturing
+10
+MECH 3004
+Dynamics of Mechanical Systems
+10
+
+Credit Points
+40
+Autumn session
+PROC 3008
+Materials Processing and Applications
+10
+MECH 3005
+Mechanical Design
+10
+ENGR 3033
+Digital Manufacturing and IIoT
+10
+Minor Alternate Subject
+10
+Industrial Experience
+
+ENGR 3017
+Industrial Experience (Engineering)
+0
+
+Credit Points
+40
+Year 4
+Spring session
+ENGR 4037
+Advanced Engineering Thesis 1: Preliminary Investigations
+10
+Minor Alternate Subject
+10
+Minor Alternate Subject
+10
+Select one elective
+10
+Elective unit must be Level 2 or higher
+
+
+Credit Points
+40
+Autumn session
+ENGR 4036
+Advanced Engineering Thesis 2: Detailed Investigations
+10
+MECH 4004
+Robotics
+10
+Minor Alternate Subject
+10
+Select one elective
+10
+Elective unit must be Level 2 or higher
+
+
+Credit Points
+40
+
+Total Credit Points
+320
+Year 1
+Autumn session
+Credit Points
+MATH 1016
+Mathematics for Engineers 1
+10
+ENGR 1011
+Engineering Physics
+10
+BBus Core Subject 1
+10
+BBus Core Subject 2
+10
+
+Credit Points
+40
+Spring session
+MATH 1019
+Mathematics for Engineers 2
+10
+ENGR 1018
+Fundamentals of Mechanics
+10
+BBus Core Subject 3
+10
+BBus Core Subject 4
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+ELEC 1006
+Engineering Computing
+10
+BBus Professional Subject 1
+10
+BBus Professional Subject 2
+10
+BBus Major Subject 1
+10
+
+Credit Points
+40
+Spring session
+PROC 1008
+Introduction to Materials Engineering
+10
+ELEC 1003
+Electrical Fundamentals
+10
+BBus Major Subject 2
+10
+BBus Major Subject 3
+10
+
+Credit Points
+40
+Year 3
+Autumn session
+MECH 2001
+Kinematics and Kinetics of Machines
+10
+MECH 2003
+Mechanics of Materials
+10
+ELEC 2001
+Circuit Theory
+10
+ENGR 2035
+Modern Digital Design and Development
+10
+
+Credit Points
+40
+Spring session
+ENGR 2001
+Automated Manufacturing
+10
+MECH 3004
+Dynamics of Mechanical Systems
+10
+ELEC 2008
+Microcontrollers and PLCs
+10
+MECH 4003
+Mobile Robotics
+10
+
+Credit Points
+40
+Year 4
+Autumn session
+PROC 3008
+Materials Processing and Applications
+10
+MECH 3005
+Mechanical Design
+10
+ENGR 3033
+Digital Manufacturing and IIoT
+10
+BBus Major Subject 4
+10
+
+Credit Points
+40
+Spring session
+ENGR 4039
+Design for Advanced Manufacturing
+10
+BBus Major Subject 5
+10
+BBus Major Subject 6
+10
+BBus Major Subject 7
+10
+Industrial Experience
+
+ENGR 3017
+Industrial Experience (Engineering)
+0
+
+Credit Points
+40
+Year 5
+Autumn session
+ENGR 4025
+Final Year Project 1 (UG Engineering)
+10
+MECH 4004
+Robotics
+10
+BBus Professional Subject 3
+10
+BBus Major Subject 8
+10
+
+Credit Points
+40
+Spring session
+ENGR 4026
+Final Year Project 2 (UG Engineering)
+10
+MECH 4002
+Computer Aided Engineering
+10
+MECH 3006
+Mechatronic Design
+10
+BBus Professional Subject 4
+10
+
+Credit Points
+40
+
+Total Credit Points
+400
+Year 1
+Spring session
+Credit Points
+MATH 1016
+Mathematics for Engineers 1
+10
+ENGR 1018
+Fundamentals of Mechanics
+10
+BBus Core Subject 1
+10
+BBus Core Subject 2
+10
+
+Credit Points
+40
+Autumn session
+MATH 1019
+Mathematics for Engineers 2
+10
+ENGR 1011
+Engineering Physics
+10
+BBus Core Subject 3
+10
+BBus Core Subject 4
+10
+
+Credit Points
+40
+Year 2
+Spring session
+PROC 1008
+Introduction to Materials Engineering
+10
+ELEC 1003
+Electrical Fundamentals
+10
+BBus Major Subject 1
+10
+BBus Major Subject 2
+10
+
+Credit Points
+40
+Autumn session
+ELEC 1006
+Engineering Computing
+10
+BBus Professional Subject 1
+10
+BBus Professional Subject 2
+10
+BBus Major Subject 3
+10
+
+Credit Points
+40
+Year 3
+Spring session
+ENGR 2001
+Automated Manufacturing
+10
+MECH 3006
+Mechatronic Design
+10
+ELEC 2008
+Microcontrollers and PLCs
+10
+MECH 4003
+Mobile Robotics
+10
+
+Credit Points
+40
+Autumn session
+MECH 2001
+Kinematics and Kinetics of Machines
+10
+MECH 2003
+Mechanics of Materials
+10
+ELEC 2001
+Circuit Theory
+10
+ENGR 2035
+Modern Digital Design and Development
+10
+
+Credit Points
+40
+Year 4
+Spring session
+ENGR 4039
+Design for Advanced Manufacturing
+10
+BBus Major Subject 4
+10
+BBus Major Subject 5
+10
+BBus Major Subject 6
+10
+
+Credit Points
+40
+Autumn session
+PROC 3008
+Materials Processing and Applications
+10
+MECH 3005
+Mechanical Design
+10
+ENGR 3033
+Digital Manufacturing and IIoT
+10
+BBus Major Subject 7
+10
+Industrial Experience
+
+ENGR 3017
+Industrial Experience (Engineering)
+0
+
+Credit Points
+40
+Year 5
+Spring session
+ENGR 4025
+Final Year Project 1 (UG Engineering)
+10
+MECH 4002
+Computer Aided Engineering
+10
+MECH 3004
+Dynamics of Mechanical Systems
+10
+BBus Professional Subject 3
+10
+
+Credit Points
+40
+Autumn session
+ENGR 4026
+Final Year Project 2 (UG Engineering)
+10
+MECH 4004
+Robotics
+10
+BBus Professional Subject 4
+10
+BBus Major Subject 8
+10
+
+Credit Points
+40
+
+Total Credit Points
+400
+Year 1
+Autumn session
+Credit Points
+ENGR 1011
+Engineering Physics
+10
+ELEC 1006
+Engineering Computing
+10
+ENGR 1024
+Introduction to Engineering Practice
+10
+Select one of the following:
+10
+MATH 1021
+Mathematics for Engineers Preliminary
+
+MATH 1016
+Mathematics for Engineers 1
+
+
+Credit Points
+40
+Spring session
+ENGR 1018
+Fundamentals of Mechanics
+10
+ELEC 1003
+Electrical Fundamentals
+10
+Select one elective
+10
+Elective can be any Level for Year 1
+
+Select one of the following:
+10
+MATH 1016
+Mathematics for Engineers 1
+
+MATH 1019
+Mathematics for Engineers 2
+
+
+Credit Points
+40
+Year 2
+Autumn session
+MECH 2001
+Kinematics and Kinetics of Machines
+10
+MECH 2003
+Mechanics of Materials
+10
+ELEC 2001
+Circuit Theory
+10
+ENGR 3029
+Specialisation Workshop 1
+10
+
+Credit Points
+40
+Spring session
+MECH 3004
+Dynamics of Mechanical Systems
+10
+ENGR 2001
+Automated Manufacturing
+10
+ELEC 2008
+Microcontrollers and PLCs
+10
+ENGR 3030
+Specialisation Workshop 2
+10
+Industrial Experience
+
+ENGR 2033
+Industrial Experience (Engineering Technologist)
+0
+
+Credit Points
+40
+Year 3
+Autumn session
+ENGR 3013
+Engineering Science Project 1
+10
+MECH 3005
+Mechanical Design
+10
+ENGR 2035
+Modern Digital Design and Development
+10
+ENGR 3033
+Digital Manufacturing and IIoT
+10
+
+Credit Points
+40
+Spring session
+ENGR 3014
+Engineering Science Project 2
+10
+MECH 4003
+Mobile Robotics
+10
+ENGR 4039
+Design for Advanced Manufacturing
+10
+Select one elective
+10
+Elective must be Level 2 or higher
+
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Spring session
+Credit Points
+Select one of the following:
+10
+MATH 1021
+Mathematics for Engineers Preliminary
+
+MATH 1016
+Mathematics for Engineers 1
+
+ENGR 1018
+Fundamentals of Mechanics
+10
+ELEC 1003
+Electrical Fundamentals
+10
+ENGR 1024
+Introduction to Engineering Practice
+10
+
+Credit Points
+40
+Autumn session
+Select one of the following:
+10
+MATH 1016
+Mathematics for Engineers 1
+
+MATH 1019
+Mathematics for Engineers 2
+
+ENGR 1011
+Engineering Physics
+10
+ELEC 1006
+Engineering Computing
+10
+Select one elective
+10
+Elective unit must be Level 1 or higher
+
+
+Credit Points
+40
+Year 2
+Spring session
+ENGR 3029
+Specialisation Workshop 1
+10
+ENGR 2001
+Automated Manufacturing
+10
+ELEC 2008
+Microcontrollers and PLCs
+10
+Select one elective (Level 2 or higher)
+10
+
+Credit Points
+40
+Autumn session
+MECH 2001
+Kinematics and Kinetics of Machines
+10
+MECH 2003
+Mechanics of Materials
+10
+ELEC 2001
+Circuit Theory
+10
+ENGR 3030
+Specialisation Workshop 2
+10
+Industrial Experience
+
+ENGR 2033
+Industrial Experience (Engineering Technologist)
+0
+
+Credit Points
+40
+Year 3
+Spring session
+ENGR 3013
+Engineering Science Project 1
+10
+MECH 4003
+Mobile Robotics
+10
+MECH 3004
+Dynamics of Mechanical Systems
+10
+ENGR 4039
+Design for Advanced Manufacturing
+10
+
+Credit Points
+40
+Autumn session
+ENGR 3014
+Engineering Science Project 2
+10
+MECH 3005
+Mechanical Design
+10
+ENGR 2035
+Modern Digital Design and Development
+10
+ENGR 3033
+Digital Manufacturing and IIoT
+10
+
+Credit Points
+40
+
+Total Credit Points
+240
+
+Courselist Tables:
+
+courselist table1:
+BIOS 1022Introduction to Human Biology10
+CEDS 3001Bridging the Gap: Re-engaging Indigenous Learners10
+ENGR 4038Biomedical Electronics10
+ENGR 3004Biomedical Signals and Data Analysis10
+HLTH 2003Biomechanics10
+HUMN 1013Contextualising Indigenous Australia (Day Mode)10
+HUMN 1058Indigenous Landscapes10
+HUMN 2038Pigments of the Imagination10
+HUMN 2048Revaluing Indigenous Economics (Day Mode)10
+HUMN 3082The Making of the 'Aborigines'10
+HUMN 3070Rethinking Research with Indigenous Australians: Independent Study Project (Day Mode)10
+PERF 2011From Corroborees to Curtain Raisers (Day Mode)10
+PROC 1008Introduction to Materials Engineering10
+PROC 2003Materials Selection and Design10
+PROC 4001Advanced Materials Topics10
+PROC 4002Engineering Materials from Waste10
+VISU 2003From Ochre to Acrylics to New Technologies10
+WELF 3008Learning through Indigenous Australian Community Service (Day Mode)10
+
+courselist table2:
+BIOS 1022Introduction to Human Biology10
+CEDS 3001Bridging the Gap: Re-engaging Indigenous Learners10
+ENGR 4038Biomedical Electronics10
+ENGR 3004Biomedical Signals and Data Analysis10
+HLTH 2003Biomechanics10
+HUMN 1013Contextualising Indigenous Australia (Day Mode)10
+HUMN 1058Indigenous Landscapes10
+HUMN 2038Pigments of the Imagination10
+HUMN 2048Revaluing Indigenous Economics (Day Mode)10
+HUMN 3082The Making of the 'Aborigines'10
+HUMN 3070Rethinking Research with Indigenous Australians: Independent Study Project (Day Mode)10
+PERF 2011From Corroborees to Curtain Raisers (Day Mode)10
+PROC 1008Introduction to Materials Engineering10
+PROC 2003Materials Selection and Design10
+PROC 4001Advanced Materials Topics10
+PROC 4002Engineering Materials from Waste10
+VISU 2003From Ochre to Acrylics to New Technologies10
+WELF 3008Learning through Indigenous Australian Community Service (Day Mode)10

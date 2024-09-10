@@ -1,0 +1,41 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Data Science and Machine Learning, Minor (0322)
+- Western Sydney University Minor Code:
+- Data science and machine learning are becoming increasingly important in large range of organisations dealing with large amounts of data. Analysing, processing and using the available data requires specialised skills combining mathematics, statistics and computing with a range of approaches in data science and machine learning. Students in this minor learn how to extract, model and visualise data to provide insights, solve challenging problems and develop predictions.
+- Students must complete 40 credit points as follows
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 2009 Introduction to Data Science is replaced by COMP 2025 Introduction to Data Science
+- No results found.
+
+Location Table:
+- Parramatta Victoria Road Campus
+- Full-time
+- Internal
+- cdms@westernsydney.edu.au
+- Parramatta Victoria Road Campus
+- Part-time
+- Internal
+- cdms@westernsydney.edu.au
+- Penrith Campus
+- Full-time
+- Internal
+- cdms@westernsydney.edu.au
+- Penrith Campus
+- Part-time
+- Internal
+- cdms@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+COMP 2025Introduction to Data Science10
+COMP 3020Social Web Analytics10
+COMP 3032Machine Learning10
+Select one of the following:10
+MATH 1028Statistical Decision Making
+COMP 1014Thinking About Data
+Total Credit Points40

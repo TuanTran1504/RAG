@@ -1,0 +1,42 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Mathematics, Minor (0059)
+- Western Sydney University Minor Code:
+- Previous Code: SM3025.1
+- This minor applies to students who commenced in 2022 or later.
+- Location
+- Minor Structure
+- Related Programs
+
+Location Table:
+- Campbelltown Campus
+- Internal
+- CDMS@westernsydney.edu.au
+- Parramatta Campus - Victoria Road
+- Internal
+- CDMS@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Students must complete a total of four subjects at Levels 1, 2, and 3, taking into account any prerequisite requirements of individual subjects.40
+level 1
+MATH 1014Mathematics 1A
+MATH 1015Mathematics 1B
+MATH 1006Discrete Mathematics
+MATH 1028Statistical Decision Making
+Level 2
+MATH 2001Advanced Calculus
+MATH 2003Differential Equations
+MATH 2010Linear Algebra
+COMP 2023Mathematical Programming
+Level 3
+MATH 3006Mathematical Modelling
+MATH 3003Analysis
+MATH 3015Groups and Symmetry
+MATH 3013Fields and Equations
+MATH 3012Combinatorics
+Total Credit Points40

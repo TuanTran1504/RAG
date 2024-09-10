@@ -1,0 +1,14 @@
+Academic Handbook Current Edition MATH 7012 Programming for Data Science Credit Points 10 Legacy Code 301113 Coordinator Franco Ubaudi Opens in new window Description The use of computers and computer programming for Data Science is fundamental to the discipline. This introductory subject will briefly cover the use of spreadsheet systems and then will consider programming in the statistical system "R" in detail.  Other special purpose languages will also be touched on briefly including SQL (Structured Query Language). School Computer, Data & Math Sciences Discipline Computer Science Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Postgraduate Coursework Level 7 subject Learning Outcomes On successful completion of this subject, students should be able to: Use Excel to manage and manipulate data.
+Extract, transform and load data using R and R-Studio; including reading and writing data files.
+Create complex R programs to conduct Data Science tasks.
+Use basic SQL to access databases.
+Apply simulation techniques to Data Science tasks.
+Create reports using Markdown and R-Markdown. Subject Content 1. Use of Spreadsheets for Data Science
+2. Introduction to R and R-Studio
+3. Data Types, Variables , Expressions, and Data Structures
+4. Input and Output
+5. Control Structures: Loops, ,Conditional Expressions, and Functions
+6. Simulation techniques
+7. Object-oriented programming in R
+8. Introduction to SQL
+9. Using Markdown for reporting Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Online Quizzes 5 x 30 minutes 20 N Individual   Computer Test Lab based 1 hour practical 40 N Individual   Assignment 3,000 words 40 N Individual Structures that include subject Computer Science (COMP) Master of Information and Communications Technology (Research) (8112) Mathematics (MATH)

@@ -1,0 +1,52 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Design for Sustainability, Minor (0339)
+- Western Sydney University Minor Code:
+- Design for sustainability combines principles of innovation, circular economy and sustainable manufacturing in ways that benefit society by reducing the consumption of resources, minimising waste, whilst improving quality of human life.
+- Location
+- Curriculum delivered through an agreement with another party
+- Inherent Requirements
+- Inherent Requirements
+- There are inherent requirements for this minor that you must meet in order to complete the minor and graduate. Make sure you read and understand the requirements for this minor online.
+- http://www.westernsydney.edu.au/ir/inherent_requirements/inherent_requirements_for_engineering_courses
+- Minor Structure
+- Students must complete four subjects as follows
+- Related Programs
+
+Location Table:
+- Parramatta City Campus
+- FT
+- Internal
+- Ming Zhao
+- Parramatta City Campus
+- PT
+- Internal
+- Ming Zhao
+- Penrith Campus
+- FT
+- Internal
+- Ming Zhao
+- Penrith Campus
+- PT
+- Internal
+- Ming Zhao
+- Sydney City Campus*
+- FT
+- Internal
+- Ming Zhao
+- Sydney City Campus*
+- PT
+- Internal
+- Ming Zhao
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+BUSM 3028Innovation, Enterprise and Society10
+ENGR 2024Design Graphics: Communication for Manufacture10
+ENGR 3025Designing for Circular Economy (Advanced)10
+ENGR 2022Design Practice: Sustainable Manufacturing10
+Total Credit Points40

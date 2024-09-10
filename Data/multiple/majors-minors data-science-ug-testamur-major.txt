@@ -1,0 +1,152 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Data Science, Testamur Major (T079)
+- Western Sydney University Major Code:
+- Previous Code:  MT3038.1
+- Data is ubiquitous, and analysing data plays an increasingly important role in many careers. Data Science is based on mathematics and statistics, but there is more to it: a Data Scientist has the required expertise to convert all forms of data into valuable information. Building on the Bachelor of Mathematics, this major equips graduates with additional skills and knowledge for designing experimental studies, building and fitting of models, visualisation, estimation and prediction, storage and retrieval of big data. Such skills are essential for tasks such as the analysis of customer transactions and behaviour, scientific investigations, financial trends, and online behaviour.
+- Location
+- Recommended Sequence
+- Students must successfully complete 80 credit points as per the recommended sequences below.
+- Full-time start-year intake
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 2009 Introduction to Data Science, replaced by COMP 2025 Introduction to Data Science
+- MATH 1002 Analytics Programming,  replaced by COMP 1013 Analytics Programming
+- MATH 2014 Visual Analytics, replaced by  COMP 2026 Visual Analytics
+- Part-time start-year intake
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 2009 Introduction to Data Science, replaced by COMP 2025 Introduction to Data Science
+- MATH 1002 Analytics Programming,  replaced by COMP 1013 Analytics Programming
+- MATH 2014 Visual Analytics, replaced by  COMP 2026 Visual Analytics
+- Related Programs
+
+Location Table:
+- Campbelltown Campus
+- Internal
+- Associate Professor Volker Gebhardt
+- Parramatta Campus - Victoria Road
+- Internal
+- Associate Professor Volker Gebhardt
+- Penrith Campus
+- Internal
+- Associate Professor Volker Gebhardt
+
+Sequence Tables:
+Year 1
+Spring session
+Credit Points
+MATH 2011
+Making Sense of Data
+10
+COMP 2025
+Introduction to Data Science
+10
+
+Credit Points
+20
+Year 2
+Autumn session
+COMP 1013
+Analytics Programming
+10
+
+Credit Points
+10
+Spring session
+COMP 2014
+Object Oriented Programming
+10
+
+Credit Points
+10
+Year 3
+Autumn session
+COMP 2026
+Visual Analytics
+10
+MATH 3011
+Probabilistic Models and Inference
+10
+
+Credit Points
+20
+Spring session
+MATH 3005
+Environmental Informatics
+10
+COMP 3020
+Social Web Analytics
+10
+
+Credit Points
+20
+
+Total Credit Points
+80
+Year 1
+Spring session
+Credit Points
+MATH 2011
+Making Sense of Data
+10
+
+Credit Points
+10
+Year 2
+Spring session
+COMP 2025
+Introduction to Data Science
+10
+
+Credit Points
+10
+Year 4
+Autumn session
+COMP 1013
+Analytics Programming
+10
+
+Credit Points
+10
+Spring session
+COMP 2014
+Object Oriented Programming
+10
+
+Credit Points
+10
+Year 5
+Autumn session
+COMP 2026
+Visual Analytics
+10
+
+Credit Points
+10
+Spring session
+COMP 3020
+Social Web Analytics
+10
+
+Credit Points
+10
+Year 6
+Autumn session
+MATH 3011
+Probabilistic Models and Inference
+10
+
+Credit Points
+10
+Spring session
+MATH 3005
+Environmental Informatics
+10
+
+Credit Points
+10
+
+Total Credit Points
+80
+
+Courselist Tables:

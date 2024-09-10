@@ -1,0 +1,35 @@
+Academic Handbook Current Edition MATH 1019 Mathematics for Engineers 2 Credit Points 10 Legacy Code 200238 Coordinator Wei Xing Zheng Opens in new window Description This subject is the second of two mathematics subjects to be completed by students enrolled in an Engineering degree during their first year of study.  The content covers a number of topics that build on the calculus knowledge from Mathematics for Engineers 1. The subject matter includes:  ordinary differential equations, Laplace transforms and multi-variable calculus. School Computer, Data & Math Sciences Discipline Mathematics Student Contribution Band HECS Band 1 10cp Check your fees via the Fees page. Level Undergraduate Level 1 subject Pre-requisite(s) MATH 1016 Equivalent Subjects - Incompatible Subjects MATH1035 Learning Outcomes On successful completion of this subject, students should be able to: Recognise and solve various types of first and second order differential equations and some higher order ordinary differential equations
+Set up a linear 2D system of differential equations and investigate its solution and the nature of its critical points
+Apply Laplace transforms in solving problems
+Use multivariable calculus techniques competently
+Evaluate multiple (double and triple) integrals. Subject Content First Order Ordinary Differential Equations - Separable and linear equations and applications.
+Second Order Linear ODEs- both homogeneous and non homogeneous with constant coefficients and applications, Euler Cauchy and Power series solutions.
+Higher Order ODEs - homogeneous and non homogeneous with constant coefficients and Euler-Cauchy.
+2D linear constant coefficient homogeneous systems, phase plane, critical points and criteria for critical points.
+Laplace Transforms and solving ODEs using Laplace transforms.
+Level curves and sketching regions in space
+Limits and continuity of functions of two variables
+Partial differentiation
+Chain rule
+Gradient vectors and directional derivatives
+Equations of normal lines and tangent planes
+Maxima, minima and saddle points
+Lagrange multipliers
+Double integrals in rectangular and polar coordinates and applications
+Triple integrals in rectangular, cylindrical and spherical coordinates and applications.
+1. First Order Ordinary Differential Equations - Separable and linear equations and applications.
+2. Second Order Linear ODEs- both homogeneous and non homogeneous with constant coefficients and applications, Euler Cauchy and Power series solutions.
+3. Higher Order ODEs - homogeneous and non homogeneous with constant coefficients and Euler-Cauchy.
+4. 2D linear constant coefficient homogeneous systems, phase plane, critical points and criteria for critical points.
+5. Laplace Transforms and solving ODEs using Laplace transforms.
+6. Level curves and sketching regions in space
+7. Limits and continuity of functions of two variables
+8. Partial differentiation
+9. Chain rule
+10. Gradient vectors and directional derivatives
+11. Equations of normal lines and tangent planes
+12. Maxima, minima and saddle points
+13. Lagrange multipliers
+14. Double integrals in rectangular and polar coordinates and applications
+15. Triple integrals in rectangular, cylindrical and spherical coordinates and applications
+15. Triple integrals in rectangular, cylindrical and spherical coordinates and applications. Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Quiz 30 minutes per quiz 10 N Individual N  Intra-session Exam 60 minutes 20 N Individual Y  Intra-session Exam 60 minutes 20 N Individual Y  Final Exam 120 minutes 50 Y Individual Y Summer On-site The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Numerical Problem Solving 60 minutes 20 N Individual Y  Numerical Problem Solving 60 minutes 20 N Individual Y  Final Exam 120 minutes 50 Y Individual Y  Quiz 30 minutes (per quiz) 10 N Individual N Teaching Periods Autumn (2024) Penrith (Kingswood) On-site Subject Contact Wei Xing Zheng Opens in new window View timetable Opens in new window Parramatta - Victoria Rd On-site Subject Contact Wei Xing Zheng Opens in new window View timetable Opens in new window Sydney City Campus - Term 1 (2024) Sydney City On-site Subject Contact Peter Lendrum Opens in new window View timetable Opens in new window Sydney City Campus - Term 2 (2024) Sydney City On-site Subject Contact Peter Lendrum Opens in new window View timetable Opens in new window Spring (2024) Penrith (Kingswood) On-site Subject Contact Wei Xing Zheng Opens in new window View timetable Opens in new window Parramatta - Victoria Rd On-site Subject Contact Wei Xing Zheng Opens in new window View timetable Opens in new window Sydney City Campus - Term 3 (2024) Sydney City On-site Subject Contact Peter Lendrum Opens in new window View timetable Opens in new window Summer (2024) Parramatta City - Macquarie St On-site Subject Contact Wei Xing Zheng Opens in new window View timetable Opens in new window Structures that include subject Advanced Manufacturing, Testamur Major (T126) Bachelor of Engineering (Honours) (3740) Bachelor of Engineering Science (3691) Civil Engineering, Testamur Major (T131) Civil, Testamur Major (T033) Construction Engineering, Testamur Major (T132) Construction, Testamur Major (T034) Electrical Engineering, Testamur Major (T102) Electrical and Electronic Eng. (ELEC) Electrical, Testamur Major (T035) Materials Engineering, Testamur Major (T128) Mathematics (MATH) Mechanical Engineering, Testamur Major (T103) Mechanical and Industrial Eng. (MECH) Mechanical, Testamur Major (T036) Other Engr. and Related Tech (ENGR) Robotics and Mechatronics Engineering, Testamur Major (T104) Robotics and Mechatronics, Testamur Major (T037) Sustainability Engineering, Testamur Major (T129)

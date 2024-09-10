@@ -1,0 +1,27 @@
+Academic Handbook Current Edition ENGR 1020 Fundamentals of Mechanics (WSTC) Credit Points 10 Legacy Code 700023 Coordinator Ben Kelley Opens in new window Description This subject deals with the action and interaction of forces, moments and couples in two and three dimensions, on machine elements and simple structures.  It examines the equilibrium of single bodies, of multi-body structures and of mechanisms.  It then covers the dynamics of a particle.  A systematic approach to solving practical engineering design problems is provided.  The subject makes extensive use of vector algebra. School Eng, Design & Built Env Discipline Other Engineering And Related Technologies Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 1 subject Pre-requisite(s) Students enrolled in 7034 Diploma in Engineering 7066 Diploma in Engineering Extended or 6033 Diploma in EngineeringBachelor of Engineering Studies must pass PHYS 0003 Foundation Physics 2 before enrolling in this unit Equivalent Subjects ENGR 1018 - Fundamentals of Mechanics ENGR 1019 - Fundamentals of Mechanics (WSTC Assoc Degree) Restrictions Learning Outcomes On successful completion of this subject, students should be able to: Manipulate vectors in 2 dimensions and 3 dimensions
+Use the equilibrium equations to evaluate unknown reactions and internal loads
+Evaluate the member forces in planar trusses
+Evaluate the inter-body forces in planar mechanisms
+Calculate the acceleration of a body under the action of an unbalanced force or couple
+Analyse static and kinetic friction
+Construct bending moment and shear force diagrams
+Replace a distributed force by a single equivalent force
+Identify under-constrained and statically indeterminate problems
+Take measurements in the real world and use them to verify the theory presented in the lectures Subject Content 1. Statics in two dimensions
+- Vectors
+- forces Moments and Couples
+- Free body diagrams
+- Equilibrium
+- Friction
+- Trusses
+- Frames and machines
+2. Statics in three dimensions
+3. Translational Dynamics
+- Acceleration
+- The work-energy equation
+- potential energy
+4. Rotational Dynamics
+5. Beam Diagrams
+- Internal Loads
+- Bending Moments and Shear Force diagrams
+- Distributed forces Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Practical 2 hours each 20 N Both (Individual & Group) N  Quiz 30 minutes 15 N Individual N  Intra-session Exam 1 hour 15 N Individual N  Final Exam 2 hours 50 N Individual N Prescribed Texts Teaching Periods Term 1 (2024) Penrith (Kingswood) On-site Subject Contact Ben Kelley Opens in new window View timetable Opens in new window Term 3 (2024) Penrith (Kingswood) On-site Subject Contact Ben Kelley Opens in new window View timetable Opens in new window Structures that include subject Diploma in Engineering (7034) Diploma in Engineering Extended (7162) Diploma in Engineering Fast Track (7035) Diploma in Engineering/Bachelor of Engineering Studies (6033) Other Engr. and Related Tech (ENGR)

@@ -1,0 +1,28 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Statistics, Minor (0148)
+- Western Sydney University Minor Code:
+- This minor covers topics in statistics from an introductory level to exploring complex statistical techniques that are used to analyse and interpret data generated in many disciplines. Students considering undertaking further postgraduate research studies in any discipline should consider taking this minor as part of their undergraduate degree.
+- This minor is open to all undergraduate students except those enrolled in the Bachelor of Science (Mathematical Science) program.
+- Students must complete 40 credit points as follows.
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 2009 Introduction to Data Science is replaced by COMP 2025 Introduction to Data Science
+
+Location Table:
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Select one of the following:10
+MATH 1003Biometry
+MATH 1028Statistical Decision Making
+MATH 1030Statistics for Business
+Select three of the following:30
+MATH 3005Environmental Informatics
+COMP 2025Introduction to Data Science
+MATH 2011Making Sense of Data
+MATH 3007Predictive Modelling
+Total Credit Points40

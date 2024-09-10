@@ -1,0 +1,44 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Public Health, Major (0055)
+- Western Sydney University Major Code:
+- Previous Code: M4021.1
+- Only available to 4656 Bachelor of Health Science students
+- Public health is the science of disease prevention, prolonging life and improving health for individuals and their communities. This work is achieved by promoting healthy lifestyles, researching disease prevention, conducting population health assessment and measurement, improving environmental health, engaging the community and detecting, preventing and responding to infectious diseases. Public health professionals are required to assess and respond to emerging public health issues and work in a variety of settings, including national and state health departments, community organisations and the global health sector. The Public Health major builds a student’s knowledge of the biological, social, cultural, economic and physical factors that underpin the health of a population and how to promote health for all. Students will also develop and use skills in epidemiology and biostatistics, surveillance and prevention, and public health policy. Students in T109 Clinical Science, who would not otherwise have the opportunity to take the 140- hour subject MEDI 3007 Professional Health Placement may choose to do so. This Major will be identified on the Student’s Academic Transcript following completion of the course
+- MEDI 3007 Professional Health Placement
+- Location
+- Curriculum delivered through an agreement with another party
+- Major Structure
+- For 4656 Bachelor of Health Science students enrolled in testamur majors T018 Health Promotion, T019 Health Services Management or T109 Clinical Sciences. This second major will be noted on the student’s transcript. This major is made up of 80 credit points.
+- Related Programs
+
+Location Table:
+- Campbelltown Campus
+- Internal
+- HealthSciences@westernsydney.edu.au
+- Online
+- HealthSciences@westernsydney.edu.au
+- Sydney City Campus*
+- Internal
+- Dr Andrey Zheluk
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+PUBH 1012Public Health10
+BIOS 1035Anatomy and Physiology in Health10
+HLTH 2022Biostatistics in Health10
+PUBH 2020Epidemiology for Public Health10
+PUBH 3024Harm Minimisation and Prevention10
+PUBH 3025Health Policy and Advocacy10
+PUBH 3027Public Health in a Changing World10
+For students in T018 Health Promotion or T019 Health Services Management:10
+HLTH 3018Ethical and Legal Issues in Health Care
+Or
+for students in T109 Clinical Science select one of the following:
+HLTH 3018Ethical and Legal Issues in Health Care
+MEDI 3007Professional Health Placement
+Total Credit Points80

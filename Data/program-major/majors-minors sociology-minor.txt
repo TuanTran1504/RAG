@@ -1,0 +1,41 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Sociology, Minor (0030)
+- Western Sydney University Minor Code:
+- Previous Code: SM1094.1
+- The minor in Sociology provides students with a thorough training in the methods, theories and select leading areas of contemporary sociology. As well as subjects in which methods and theories are taught, through the social science core, students enrolled in the Sociology minor will have opportunities to study a number of particular themes from a sociological perspective, including inequalities, deviance, identities, gender, religion, medicine and health care, ethnicity and migration, and the family, among other possibilities. A Bachelor of Social Science (BSS) with a minor in Sociology will prepare students for both employment and a research higher degree.
+- Location
+- Minor Structure
+- Students must complete 40 credit points as follows.
+- The subject listed below counts towards completion of this major for students who passed this subject in 2021 or earlier.
+- CULT 1005 - Crime, Deviance and Society, replaced by HUMN 1057 Doing Sociology
+- HUMN 1057 Doing Sociology
+- Related Programs
+
+Location Table:
+- Liverpool Campus
+- Internal
+- Professor Mary Hawkins
+- Penrith Campus
+- Internal
+- Professor Mary Hawkins
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Select 40 credit points of the following:40
+Autumn Session
+HUMN 1057Doing Sociology
+HUMN 2027Health, Illness and Biomedicine: A Sociological Perspective
+HUMN 2028Identity and Belonging
+HUMN 3049Home and Away: Ethnicity and Migration in Australia
+HUMN 3075Sociology of Religion
+Spring Session
+HUMN 1007Brave New World: Negotiating Social Change in the 21st Century
+HUMN 2025Families and Intimate Life
+HUMN 3098Genders and sexualities: beyond the binary
+HUMN 2065Self and Society
+Total Credit Points40

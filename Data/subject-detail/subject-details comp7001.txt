@@ -1,0 +1,29 @@
+Academic Handbook Current Edition COMP 7001 Advanced Routing Legacy Code 301065 Coordinator Ante Prodan Opens in new window Student Contribution Band Check your fees via the Fees page. Restrictions Learning Outcomes On successful completion of this subject, students should be able to: Explain how different layers co-exist in the campus design model and what routing/switching equipment operates at each level.
+Outline the technological and theoretical constraints of the OSPF routing protocol and its interaction with other routing technologies.
+Identify the proprietary nature of EIGRP and its operational constraints.
+Estimate the commercial impact of ISIS, its relationship to OSPF and its technological and theoretical differences with other routing protocols.
+Assess the redistribution between routing protocols and static routing entries, the technological and operational limitations imposed on a network infrastructure.
+Review route management and the implementation of efficiency into a network infrastructure.
+Identify address management, contrasting IPv4 with IPv6 implementation.
+Explain an understanding of BGP as an interior and exterior routing protocol and its relationship and synchronisation with ISIS, OSPF and EIGRP.
+Illustrate IP multicast and its utilisation in a network infrastructure.
+Evaluate research, investigate and troubleshoot by means of appropriate practical and exploration-based activities throughout your learning materials.
+Use direct feedback after Cisco and Packet Tracer assessments to evaluate your own learning.
+Integrate knowledge from other sources to provide context to the Cisco view.
+Communicate accurately and reliably, in a structured and coherent fashion, recognising purpose and audience.
+Work effectively with others in a distance setting where the collaboration is undertaken via computer-mediated communication.
+Formulate appropriate numerical and mathematical skills to analyse data.
+Find and select information for a specific purpose, including via the web or a router/switch CLI.
+Organise time, study methods and resources to suit the circumstances.
+Demonstrate how to configure routers, implementing complex routed scenarios through online lab sessions.
+Use specialist software tools.
+Plan and organise yourself and your work appropriately when working in a group. Subject Content 1. Pre CCNP review
+2. Routing Services
+3. Researching networking
+4. Configuring EIGRP
+5. Configuring the OSPF protocol
+6. Manipulating routing updates
+7. Implementing path control
+8. Implementing a BGP Solution for ISP Connectivity
+9. Implementing Routing Facilities for Branch Offices and Mobile Workers
+10. Implementing IPv6 in an Enterprise Network Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    TMA - Develop a network, Evaluate protocols, Complete Cisco activities 1000 words 16 Y Individual   TMA - Build a network, Critique a model, Complete Cisco activities 1000 words 17 Y Individual   TMA - Group Case Study, Evaluate a protocol, Cisco final exam (not for accreditation) 1000 words 17 Y Individual   Final Examination 3 hours 50 Y Individual

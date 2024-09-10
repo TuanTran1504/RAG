@@ -1,0 +1,193 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Diploma/Bachelor of Information and Communications Technology (Health Information Management) (6038)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 096984E
+- This program is suspended from Term 1, 2025, no new students will be admitted from this session.
+- This program applies to students who commenced in Term 1, 2018 or later.
+- The increasing use of electronic health records requires the accurate and efficient capture, maintenance, security and reporting of health information and the Bachelor of Information Communications Technology (Health Information Management) program will provide students with the knowledge and skills required to build software systems and undertake roles relating to the classification, coding and management of health information within a healthcare setting.
+- This program will offer students the opportunity to seek employment in health information management and/or clinical coding, recognised as workforce skills shortage areas. Specific content areas addressed include Health Informatics, Systems Analysis and Design, Medical Terminology, Database Design and Development, Healthcare Data Environments, Clinical Classification and Coding, Programming, Web Development, Computer Networking, Health Service Management, Activity Based Funding and Data Quality and Healthcare Software and Systems.
+- The program also offers direct industry experience via a 20-day work placement.
+- A Diploma in Information and Communications Technology (Health Information Management) is also available as an exit point at the end of the first year of the program.
+- Early Exit
+- Students may exit this program on completion of 100 credit points with a 7164 Diploma in Information and Communications Technology (Health Information Management) (exit only)
+- Study Mode
+- Three years full-time.
+- Students will be required to attend the Kingswood or Parramatta South campus for some learning experiences.
+- Program Advice
+- For program advice during your first year of study, please use the contact below
+- Miriam Krakovska
+- For program advice during your second and subsequent years of study, please use the Program Advice contact for the School of Computer, Data and Mathematical Sciences.
+- Program Advice
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Students will study at WSU The College Nirimba campus in their first year of study.
+- From second year onwards, students will study at either Campbelltown, Parramatta or Penrith campus.
+- Work Integrated Learning
+- There is a mandatory work component required for completion of this program.  Please contact the Program Advisor listed above for information.
+- International students should also refer to the link below for more information and a link to the Commonwealth Register of Institutions and Courses for Overseas Students (CRICOS).
+- Work Integrated Learning (WIL) for international students
+- Admission
+- For more information on applying please see link to The College admission pages below.
+- https://www.westernsydney.edu.au/thecollege/how_to_apply
+- Domestic students are required to have:
+- Students are also assumed to have completed a Mathematics subject, equivalent to the Mathematics subject in the NSW Higher School Certificate.
+- Met other entry requirements such as:
+- International students must satisfy one of the following language requirements"
+- Academic Entry Requirements vary according to country of origin. However, in general:
+- Recommended Sequence
+- Qualification for this award requires the successful completion of 260 credit points which include the subjects listed in the recommended sequence below.
+- Western Sydney University The College Subjects
+- Nirimba Campus
+- Students may exit at this point and graduate with the Diploma in ICT (Health Information Management) following a passing grade in all of the above subjects.
+- Students who progress to Year 2 may also be awarded the Diploma if they gain a passing grade in all of the above subjects.
+- Western Sydney University Subjects
+- For program advice during your second and subsequent years of study, please use the contact listed for the Bachelor of Information and Communications Technology (Health Information Management).
+- Bachelor of Information and Communications Technology (Health Information Management)
+- Campbelltown, Parramatta (Victoria Road) and Penrith Campus
+
+Location Table:
+- The College - Nirimba Education Precinct1
+- Full Time
+- Internal
+- See above
+- Campbelltown Campus2
+- Full Time
+- Internal
+- See above
+- Parramatta Campus - Victoria Road2
+- Full Time
+- Internal
+- See above
+- Penrith Campus2
+- Full Time
+- Internal
+- See above
+
+Sequence Tables:
+Year 1
+Credit Points
+Term 1 of study
+
+GEDU 0010
+Tertiary Study Skills in Information and Communications Technology (WSTC Prep)
+0
+COMP 0003
+Programming Design (WSTC Prep)
+5
+MATH 0008
+Mathematics 2 (WSTC Prep)
+10
+COMM 1027
+Principles of Professional Communication 1 (WSTC)
+10
+INFS 2005
+Introduction to Health Informatics (WSTC)
+10
+Term 2 of study
+
+MATH 0028
+Statistics for Academic Purposes (WSTC Prep)
+5
+INFS 1007
+Systems Analysis and Design (WSTC)
+10
+COMP 1006
+Programming Fundamentals (WSTC)
+10
+INFS 2003
+Database Design and Development (WSTC)
+10
+Term 3 of study
+
+COMP 2006
+Computer Networking (WSTC)
+10
+MATH 1029
+Statistical Decision Making (WSTC)
+10
+COMP 2017
+Programming Techniques (WSTC)
+10
+
+Credit Points
+100
+
+Total Credit Points
+100
+Year 2
+Autumn session
+Credit Points
+COMP 2020
+Technologies for Web Applications
+10
+COMP 3007
+Computer Networks and Internets
+10
+INFS 2006
+Object Oriented Analysis
+10
+HLTH 2007
+Fundamentals of Medical Concepts and Terminology
+10
+
+Credit Points
+40
+Spring session
+INFS 3017
+Web Systems Development
+10
+COMP 3020
+Social Web Analytics
+10
+INFS 3010
+Healthcare Data Environments
+10
+BUSM 2020
+Health Services Management
+10
+
+Credit Points
+40
+Year 3
+Autumn session
+INFO 3003
+Human-Computer Interaction
+10
+INFO 3008
+Professional Development
+10
+PUBH 2004
+Clinical Classification and Coding
+10
+BUSM 3015
+Health Services Management Practice
+10
+
+Credit Points
+40
+Spring session
+COMP 3018
+Professional Experience
+10
+INFS 3011
+Healthcare Software and Systems
+10
+INFS 3002
+Advanced Clinical Classification
+10
+INFS 3001
+Activity Based Funding/Casemix and Data Quality
+10
+
+Credit Points
+40
+
+Total Credit Points
+160
+
+Courselist Tables:

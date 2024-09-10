@@ -1,0 +1,13 @@
+Academic Handbook Current Edition MATH 3005 Environmental Informatics Credit Points 10 Legacy Code 301035 Coordinator Ryan Greenup Opens in new window Description Today, the environment is becoming more and more in the public eye. Methods of environmental monitoring and data analysis are an important source of information for science, business and government regulation. This subject aims to give students a good introduction to environmental informatics and the analysis of spatio-temporal data. School Computer, Data & Math Sciences Discipline Statistics Student Contribution Band HECS Band 1 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Pre-requisite(s) MATH 1028 OR
+MATH 1003 OR
+MATH 1030 Learning Outcomes On successful completion of this subject, students should be able to: Design an environmental sampling program
+Use and interpret control charts
+Estimate and interpret Tolerance and Prediction Intervals
+Use statistical software to conduct time series analyses
+Use statistical software to analyse spatial data Subject Content 1. Environmental Sampling
+2. Prediction and Tolerance Intervals
+3. Control Charts
+4. Time Series - Trend and Autocorrelation
+5. Autoregressive and Moving Average Process
+6. Models for Spatial Data
+7. Modelling Spatial Correlation Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Numerical Problem Solving 15 mins for each of 10  weeks 24 N Individual N  Quiz 3 quizzes of 30 minutes each 12 N Individual N  Applied Project To consist of 10 or so pages of text and computer output, equivalent to approx. 2000 words 14 N Group N  Final Exam One exam of 2 hours 50 N Individual N Structures that include subject Data Science, Testamur Major (T079) Mathematics (MATH) Statistics, Minor (0148)

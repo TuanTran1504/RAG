@@ -1,0 +1,30 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Policing, Public Safety and Security, Testamur Major (T066)
+- Western Sydney University Major Code:
+- Previous Code:  ST1010.1
+- This major has been retired at the end of 2023.
+- Location
+- Major Structure
+- This major is taught by the School of Social Sciences and is offered in Autumn and Spring sessions. Please refer to the below subjects for unit offering details and locations.
+- Students must successfully complete 60 credit points as listed below.
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- Professor Karl Roberts
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+POLI 7002Translation from Theory and Research to Policy10
+JUST 7001Contemporary Policing Practice10
+JUST 7002Executive Leadership in Policing10
+JUST 7003Governance and Accountability in Policing Practice10
+JUST 7004Vulnerability and Public Safety10
+JUST 7005Working with Offending Behaviour: Integrating Theory to Practice10
+Total Credit Points60

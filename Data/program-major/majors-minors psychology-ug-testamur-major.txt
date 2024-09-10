@@ -1,0 +1,98 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Psychology, Testamur Major (T133)
+- Western Sydney University Major Code:
+- Psychology develops students’ scientific understanding of human behaviour and experience. The underlying principles, theories and concepts of psychological knowledge are applied in areas of study that include the history and philosophy of psychology, individual differences in behaviour and personality, psychological health and well-being, psychological disorders and intervention, learning and memory, cognition, language and perception, motivation and emotion, neuroscience and the biological bases of behaviour, lifespan developmental psychology, social psychology, research methods and statistics.
+- Location
+- The Testamur Major in Psychology offered within the Bachelor of Arts is accredited by the Australian Psychology Accreditation Council (APAC) as an undergraduate three year sequence in Psychology.
+- Recommended Sequence
+- The accredited Psychology Testamur Major requires the following sequence of subjects:
+
+Location Table:
+- Bankstown City Campus
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+- Parramatta Campus - Victoria Road
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+- Penrith Campus
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+BEHV 1018
+Psychology: Human Behaviour
+10
+BEHV 2018
+Personality
+10
+
+Credit Points
+20
+Spring session
+BEHV 1016
+Psychology: Behavioural Science
+10
+BEHV 1003
+Introduction to Research Methods
+10
+
+Credit Points
+20
+Year 2
+Autumn session
+BEHV 2002
+Brain and Behaviour
+10
+MATH 2006
+Experimental Design and Analysis
+10
+BEHV 2010
+Perception
+10
+
+Credit Points
+30
+Spring session
+BEHV 2005
+Human Learning
+10
+BEHV 3014
+Motivation and Emotion
+10
+
+Credit Points
+20
+Year 3
+Autumn session
+BEHV 3004
+Advanced Research Methods
+10
+BEHV 3009
+Developmental Psychology
+10
+
+Credit Points
+20
+Spring session
+BEHV 3002
+Abnormal Psychology
+10
+BEHV 3007
+Cognitive Processes
+10
+BEHV 3023
+Social Psychology
+10
+
+Credit Points
+30
+
+Total Credit Points
+140
+
+Courselist Tables:

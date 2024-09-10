@@ -1,0 +1,88 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Education Studies - Primary English Teaching Specialisation, Major (0187)
+- Western Sydney University Major Code:
+- Previous Code: M1126.1
+- Students enrolled in the Bachelor of Arts (Pathway to Teaching Primary) must complete one of the following Education Studies Majors:
+- The Education Studies Major – Primary English Teaching Specialisation will provide students with 40 credit points of expert content knowledge which, together with completion of subjects in the Master of Teaching (Primary) will enable students to graduate from the Master of Teaching (Primary) with a Primary English Teaching Specialisation. Students must take 20 credit points from the English or Creative Writing or Linguistics or International English Major subjects, in addition to completing the core subjects LANG 1029 Foundations of Academic English and LANG 1030 Thinking Critically About Texts and Society which provides the 40 credit points of English content knowledge. Students must take 20 credit points from the Mathematics Pool subjects, and 40 credit points of Primary pool subjects.
+- LANG 1029 Foundations of Academic English
+- LANG 1030 Thinking Critically About Texts and Society
+- Location
+- Major Structure Current
+- This structure applies to students who commenced in 2024 or later. If you commenced prior to 2024 please refer to the relevant Structure tab for details.
+- Students must complete 80 credit points as follows.
+- English Pool
+- Students select any two subjects from any of the following four majors, dependent on timetable availability by campus.
+- Creative Writing, Major
+English, Major
+International English, Major
+Linguistics, Major
+- Students may also take the following subject towards the 20 credit point requirement above:
+- INFO 2009 Multiliteracies
+- Mathematics Pool
+- Primary Pool
+- Major Structure 2023
+- This structure applies to students who commenced in 2023 or prior. If you commenced in 2024 or later, please refer to the relevant Structure tab for details.
+- Students must complete 80 credit points as follows.
+- English Pool
+- Students select any two subjects from any of the following four majors, dependent on timetable availability by campus.
+- Creative Writing, Major
+English, Major
+International English, Major
+Linguistics, Major
+- Students may also take the following subject towards the 20 credit point requirement above:
+- INFO 2009 Multiliteracies
+- Mathematics Pool
+- Primary Pool
+- The subject listed below count towards completion of this major for students who passed this subject in 2023 or earlier.
+- TEAC 7023 Culture, Subjectivities and Schooling, replaced by TEAC 7032 Diversity, Social Justice and Learning
+TEAC 7149 Understanding and Teaching Children, replaced by TEAC 7161 Educational Psychology for Learning and Teaching
+- TEAC 7032 Diversity, Social Justice and Learning
+- TEAC 7161 Educational Psychology for Learning and Teaching
+- The subject listed below counts towards completion of this major for students who passed this subject in 2021 or earlier.
+- TEAC 7016 - Classrooms Without Borders
+- Related Programs
+
+Location Table:
+- Bankstown City Campus
+- Internal
+- Dr Karin Louise
+- Parramatta Campus - Victoria Road
+- Internal
+- Dr Karin Louise
+- Penrith Campus
+- Internal
+- Dr Karin Louise
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Students must complete the following two subjects:
+TEAC 2029Fundamentals for Working Mathematically10
+TEAC 1024Mathematical Patterns and Relationships10
+Total Credit Points20
+
+courselist table2:
+Students must have successfully completed 160 credit points of study before enrolling in the following Level 7 subjects:
+TEAC 7156Aboriginal Education: Past, Present and Future10
+TEAC 7032Diversity, Social Justice and Schooling10
+TEAC 7092Primary Human Society and its Environment10
+TEAC 7161Educational Psychology for Learning and Teaching10
+Total Credit Points40
+
+courselist table3:
+Students must complete the following two subjects:
+TEAC 2029Fundamentals for Working Mathematically10
+TEAC 1024Mathematical Patterns and Relationships10
+Total Credit Points20
+
+courselist table4:
+Students must have successfully completed 160 credit points of study before enrolling in the following Level 7 subjects:
+TEAC 7156Aboriginal Education: Past, Present and Future10
+TEAC 7032Diversity, Social Justice and Schooling10
+TEAC 7092Primary Human Society and its Environment10
+TEAC 7161Educational Psychology for Learning and Teaching10
+Total Credit Points40

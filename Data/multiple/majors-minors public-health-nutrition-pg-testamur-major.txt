@@ -1,0 +1,401 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Public Health Nutrition, Testamur Major (T068)
+- Western Sydney University Major Code:
+- Previous Code:  ST3079.1
+- This postgraduate major is designed for science graduates seeking to further their career in public health and health promotion; working in a variety of settings, such as local, state or national health organisations, non-government organisations, population health units, community health centres, and international aid agencies. Roles may include health promotion officer, research and evaluation officer, monitoring and surveillance officer, and health policy officer. This major builds an integrated understanding of relevant aspects of community and public health nutrition and its interrelation with other relevant disciplines. A capstone subject involving a public health nutrition research project allows students to integrate their knowledge and skills developed from the whole program and build on research skills that are scaffolded through the curriculum.
+- Location
+- Major Structure
+- Qualification for the award of Master of Science (Public Health Nutrition) requires the successful completion of 160 credit points comprising:
+- Students should note that the subjects available in Alternate Pool 1 and Alternate Pool 2 are listed under the Structure tab of the Master of Science page.
+- Recommended Sequence
+- Master of Science full-time start-year intake
+- Master of Science full-time mid-year intake
+- Major in other programs: full-time start-year intake
+- Students undertaking the major as part of a postgraduate program other than the Master of Science must complete 40 credit points of major subjects as follows.
+- Major in other programs: full-time mid-year intake
+- Students undertaking the major as part of a postgraduate program other than the Master of Science must complete 40 credit points of major subjects as follows.
+- Equivalent Subject
+- The subject listed below counts towards completion of this major for students who passed this subject in 2021 or earlier.
+- ENGR 7018 - Research Preparation in Post Graduate Studies, replaced by NATS 7057 Research Preparation in Post Graduate Studies
+- NATS 7057 Research Preparation in Post Graduate Studies
+- Recommended Sequence
+- Master of Science full-time start-year intake
+- Master of Science full-time mid-year intake
+- Major in other programs: full-time start-year intake
+- Students undertaking the major as part of a postgraduate program other than the Master of Science must complete 40 credit points of major subjects as follows.
+- Major in other programs: full-time mid-year intake
+- Students undertaking the major as part of a postgraduate program other than the Master of Science must complete 40 credit points of major subjects as follows.
+- Equivalent Subject
+- The subject listed below counts towards completion of this major for students who passed this subject in 2021 or earlier.
+- ENGR 7018 - Research Preparation in Post Graduate Studies, replaced by NATS 7057 Research Preparation in Post Graduate Studies
+- NATS 7057 Research Preparation in Post Graduate Studies
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- Science@westernsydney.edu.au
+- Hawkesbury
+- Internal
+- Science@westernsydney.edu.au
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+HLTH 7003
+Community and Public Health Nutrition
+10
+HLTH 7011
+Nutritional Assessment Methods
+10
+Select two alternate subjects
+20
+
+Credit Points
+40
+Spring session
+PUBH 7031
+Health Systems and Policy
+10
+HLTH 7010
+Nutrition Promotion
+10
+MATH 7016
+The Nature of Data
+10
+Select one alternate subject
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+NATS 7055
+Experiment Design and Project Management
+10
+Select three alternate subjects
+30
+
+Credit Points
+40
+Spring session
+Select 20 credit points from the following (note that MSc Research Project is a 20 credit point subject):
+20
+NATS 7033
+MSc Research Project
+
+HORT 7004
+Industry Project
+
+HORT 7005
+Industry Project (Extended)
+
+NATS 7054
+Professional Topic
+
+NATS 7057
+Research Preparation in Post Graduate Studies
+
+Select two alternate subjects
+20
+
+Credit Points
+40
+
+Total Credit Points
+160
+Year 1
+Spring session
+Credit Points
+PUBH 7031
+Health Systems and Policy
+10
+HLTH 7010
+Nutrition Promotion
+10
+MATH 7016
+The Nature of Data
+10
+Select one alternate subject
+10
+
+Credit Points
+40
+Autumn session
+HLTH 7003
+Community and Public Health Nutrition
+10
+NATS 7055
+Experiment Design and Project Management
+10
+HLTH 7011
+Nutritional Assessment Methods
+10
+Select one alternate subject
+10
+
+Credit Points
+40
+Year 2
+Spring session
+Select 20 credit points from the following (note that MSc Research Project is a 20 credit point subject):
+20
+NATS 7033
+MSc Research Project
+
+HORT 7004
+Industry Project
+
+HORT 7005
+Industry Project (Extended)
+
+NATS 7054
+Professional Topic
+
+NATS 7057
+Research Preparation in Post Graduate Studies
+
+Select two alternate subjects
+20
+
+Credit Points
+40
+Autumn session
+Select four alternate subjects
+40
+
+Credit Points
+40
+
+Total Credit Points
+160
+Year 1
+Autumn session
+Credit Points
+HLTH 7003
+Community and Public Health Nutrition
+10
+HLTH 7011
+Nutritional Assessment Methods
+10
+
+Credit Points
+20
+Spring session
+PUBH 7031
+Health Systems and Policy
+10
+HLTH 7010
+Nutrition Promotion
+10
+
+Credit Points
+20
+
+Total Credit Points
+40
+Year 1
+Spring session
+Credit Points
+PUBH 7031
+Health Systems and Policy
+10
+HLTH 7010
+Nutrition Promotion
+10
+
+Credit Points
+20
+Autumn session
+HLTH 7003
+Community and Public Health Nutrition
+10
+HLTH 7011
+Nutritional Assessment Methods
+10
+
+Credit Points
+20
+
+Total Credit Points
+40
+Year 1
+Autumn session
+Credit Points
+HLTH 7011
+Nutritional Assessment Methods
+10
+HLTH 7003
+Community and Public Health Nutrition
+10
+Select two alternate subjects
+20
+
+Credit Points
+40
+Spring session
+HLTH 7010
+Nutrition Promotion
+10
+PUBH 7031
+Health Systems and Policy
+10
+MATH 7016
+The Nature of Data
+10
+Select one alternate subject
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+NATS 7055
+Experiment Design and Project Management
+10
+Select three alternate subjects
+30
+
+Credit Points
+40
+Spring session
+Select 20 credit points from the following (note that MSc Research Project is a 20 credit point subject):
+20
+NATS 7033
+MSc Research Project
+
+NATS 7054
+Professional Topic
+
+NATS 7057
+Research Preparation in Post Graduate Studies
+
+Select two alternate subjects
+20
+
+Credit Points
+40
+
+Total Credit Points
+160
+Year 1
+Spring session
+Credit Points
+PUBH 7031
+Health Systems and Policy
+10
+HLTH 7010
+Nutrition Promotion
+10
+Select two alternate subjects
+20
+
+Credit Points
+40
+Autumn session
+HLTH 7003
+Community and Public Health Nutrition
+10
+HLTH 7011
+Nutritional Assessment Methods
+10
+Select two alternate subjects
+20
+
+Credit Points
+40
+Year 2
+Spring session
+MATH 7016
+The Nature of Data
+10
+Select 20 credit points from the following (note that MSc Research Project is a 20 credit point subject):
+20
+NATS 7033
+MSc Research Project
+
+NATS 7054
+Professional Topic
+
+NATS 7057
+Research Preparation in Post Graduate Studies
+
+Select one alternate subject
+10
+
+Credit Points
+40
+Autumn session
+NATS 7055
+Experiment Design and Project Management
+10
+Select three alternate subjects
+30
+
+Credit Points
+40
+
+Total Credit Points
+160
+Year 1
+Autumn session
+Credit Points
+HLTH 7003
+Community and Public Health Nutrition
+10
+HLTH 7011
+Nutritional Assessment Methods
+10
+
+Credit Points
+20
+Spring session
+PUBH 7031
+Health Systems and Policy
+10
+HLTH 7010
+Nutrition Promotion
+10
+
+Credit Points
+20
+
+Total Credit Points
+40
+Year 1
+Spring session
+Credit Points
+PUBH 7031
+Health Systems and Policy
+10
+HLTH 7010
+Nutrition Promotion
+10
+
+Credit Points
+20
+Autumn session
+HLTH 7003
+Community and Public Health Nutrition
+10
+HLTH 7011
+Nutritional Assessment Methods
+10
+
+Credit Points
+20
+
+Total Credit Points
+40
+
+Courselist Tables:
+
+courselist table1:
+HLTH 7003Community and Public Health Nutrition10
+PUBH 7031Health Systems and Policy10
+HLTH 7011Nutritional Assessment Methods10
+HLTH 7010Nutrition Promotion10
+Total Credit Points40

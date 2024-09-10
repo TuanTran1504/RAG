@@ -1,0 +1,35 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Mechatronic, Testamur Major (T063)
+- Western Sydney University Major Code:
+- Previous Code: ST3096.1
+- Location
+- Major Structure
+- Mechatronic Specialised Alternate Subjects
+- Specialist alternate subject offerings are subject to sufficient student demand and may not be offered annually.
+- Students enrolled in 3693 Master of Engineering choose seven specialist subjects from the list below
+- Students exiting with 3694 Graduate Diploma in Engineering (exit only) choose six specialised alternate subjects
+- Students enrolled in 3695 Graduate Certificate in Engineering choose four specialised alternate subjects
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- Engineering@westernsydney.edu.au
+- Parramatta City Campus - Macquarie Street
+- Internal
+- Engineering@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+ELEC 7001Advanced Control Systems10
+MECH 7003Advanced Dynamic Systems10
+ELEC 7003Advanced Electrical Machines and Drives10
+MECH 7004Advanced Mobile Robotics10
+MECH 7005Advanced Robotics10
+MECH 7007Mechanical System Design10
+MECH 7008Mechatronic System Design10

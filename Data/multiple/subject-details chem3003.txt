@@ -1,0 +1,33 @@
+Academic Handbook Current Edition CHEM 3003 Advanced Inorganic Chemistry Credit Points 10 Legacy Code 300907 Coordinator Feng Li Opens in new window Description Building on the foundations laid in Inorganic Chemistry, this subject focuses on structure and bonding in inorganic chemistry, and the stereochemistry of coordination complexes. Spectroscopic and magnetic properties of inorganic compounds are evaluated as a consequence of structure and bonding, and an introduction to X-ray methods for structure determination is given. Kinetics and mechanism of inorganic reactions are examined, and the area of bioinorganic chemistry is developed. Unique structures and reactions of organotransition metal chemistry are explored. Advanced Modules cover aqueous chemistry of cations and oxyanions, inorganic materials, molecular orbital theory in coordination complexes, group theory; lanthanides and actinides. School Science Discipline Inorganic Chemistry Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Pre-requisite(s) CHEM 2004 OR
+CHEM 2007 OR
+CHEM 2006 Equivalent Subjects LGYB 9729 - Inorganic Chemistry 3 CHEM 3011 - Inorganic Chemistry 3 LGYA 6134 - Advanced Inorganic Chemistry Restrictions Successful completion of 120 credit points Learning Outcomes On successful completion of this subject, students should be able to: Critically contrast the bonding theories in coordination complexes (valence bond theory, ligand field theory, molecular orbital theory) and assess their strengths
+Apply an understanding of kinetics and mechanism to reactions of coordination complexes
+Contrast the various functions of metals in bioinorganic chemistry through a study of selected elements
+Analyse the impact of stereochemistry of the varied roles of metals in inorganic compounds
+Describe the structure and bonding of organo-transition metal complexes and apply this to their role in homogeneous catalytic cycles
+Apply the fundamental principles of inorganic chemistry to advanced areas through the Advanced Modules
+Research the literature of inorganic chemistry, including chemical databases such as SciFinder
+Demonstrate laboratory techniques and conduct advanced experiments, integrating theory with practice, in the inorganic chemistry laboratory
+Identify, critique and apply safety requirements in relation to the use of chemical reagents and laboratory equipment Subject Content 1. Structure and Bonding in Inorganic Chemistry
+- The nature of structure and bonding in Coordination and organometallic complexes.
+2. Stereochemistry
+- The range of stereochemistries adopted by Coordination and organometallic complexes.
+3. Kinetics, Mechanism and Redox
+- The use of kinetic measurements and other methods in deducing inorganic reaction mechanisms; the mechanism of substitution reactions in complex molecules; the way in which redox reactions may occur.
+4. Bioinorganic Chemistry
+- The role of transition metals and other main group elements in Biological systems.
+5. Characterisation of Inorganic Compounds
+- The use of spectroscopic, Magnetic and X-ray methods in characterising inorganic compounds.
+6. Organotransition Metal Chemistry
+- introduction to organotransition metal Chemistry, homogeneous organotransition metal catalysis, introduction to heterogeneous organotransition metal catalysis
+7. Students also select one of Advanced Module A or Advanced Module B.
+A) Advanced Module A
+i) Aqueous Chemistry of Cations and Metallic Oxyanions
+- Lewis acid behaviour of metal ions and the structures of hydrolysed species in solution; speciation
+ii) Inorganic Materials Chemistry
+- The Synthesis, structure and properties of A range of advanced inorganic materials
+B) Advanced Module B
+i) Molecular Orbital Theory in Coordination Complexes
+- Introduction to Group Theory; the application of MO Theory to coordination complexes
+ii) Lanthanides and Actinides
+- Structures with high coordination numbers; chemistry of the lanthanides and actinides; applications of lanthanides and actinides Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Practical Report is approximately six pages long including calculations and diagrams 30 N Individual N  Short Answer 10 x questions 10 N Individual N  Final Exam 2 hours 60 N Individual N Prescribed Texts Teaching Periods Autumn (2024) Parramatta - Victoria Rd On-site Subject Contact Feng Li Opens in new window View timetable Opens in new window Structures that include subject Chemical Sciences (CHEM) Chemistry, Testamur Major (T026) Diploma in General Science (exit only) (7185) Secondary Chemistry Education, Major (0349)

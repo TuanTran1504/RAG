@@ -1,0 +1,33 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Design Management and Entrepreneurship, Major (0081)
+- Western Sydney University Major Code:
+- Previous Code: M3124.1
+- Location
+- Major Structure
+- The Bachelor of Design and Technology is offered on Parramatta (Victoria Road) Campus only. Students may be required to travel between campuses in order to complete some subjects within specific majors and minors.
+- Students must complete 80 credit points as follows.
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- 
+- Dr Sasha Alexander
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Core Subjects
+ENGR 1042Sustainable Materials and Smart Manufacturing10
+ENGR 3025Designing for Circular Economy (Advanced)10
+ENGR 4017Design Thinking for Competitive Advantage10
+ENGR 3026Design Thinking for Successful Brands and Products10
+Major Alternate Subjects
+ENGR 2028New Product Innovation with IoT Data10
+ENGR 4019Start-Up Product Launch10
+BUSM 3036Leadership and Entrepreneurship10
+BUSM 3005Creating Change and Innovation10
+Total Credit Points80

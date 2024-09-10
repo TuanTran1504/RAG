@@ -1,0 +1,27 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Sustainability Engineering, Concentration (0281)
+- Western Sydney University Concentration Code:
+- Previous Code: SM3118.1
+- Location
+- Concentration Structure
+- From 2024, please refer to Sustainability Engineering, Minor (0281). This minor is available to all students in Bachelor of Engineering (Honours) (3740) and Bachelor of Engineering Advanced (Honours) (3771).
+- Students must successfully complete 40 credit points from the subjects below.
+- Related Programs
+
+Location Table:
+- Parramatta City Campus-Macquarie Street
+- Internal
+- Program Advice
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+ENGR 4035Smart and Liveable Cities10
+ENGR 4034Climate Smart Engineering10
+ELEC 3010Renewable Energy Systems Design10
+CIVL 2018Water Supply Systems Design10
+Total Credit Points40

@@ -1,0 +1,20 @@
+Academic Handbook Current Edition MECH 3009 Thermodynamics and Heat Transfer (WSTC AssocD) Credit Points 10 Legacy Code 700312 Coordinator Abbas Ranjbar Opens in new window Description This subject introduces students to the fundamentals of thermodynamics which involves energy in the form of heat and heat transfer. Students explore the basic laws and properties of thermodynamics to discover how energy is converted and transferred. Students will apply their knowledge to evaluate power and refrigeration cycles, industrial devices, as well as to design a simple industrial device.Offerings of alternate subjects are dependent on there being sufficient student enrolment numbers. If enrolments are low, the College may cancel delivery of the alternate subject. School Eng, Design & Built Env Discipline Mechanical Engineering Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Pre-requisite(s) ENGR 1012 AND
+MATH 1017 AND
+LGYB 0486 Equivalent Subjects MECH 3008 - Thermodynamics and Heat Transfer Restrictions Students must be enrolled at Western Sydney, The College in 7022 Associate Degree in Engineering. Learning Outcomes On successful completion of this subject, students should be able to: Describe thermodynamic systems and the associated heat transfer processes.
+Illustrate the concepts of thermodynamic parameters and processes.
+Explain thermodynamic relations.
+Apply thermodynamic principles to evaluating power and refrigeration cycles.
+Explain the nature of heat transfer processes.
+Apply heat transfer principles to design and evaluation of simple industrial device. Subject Content 1. Properties of thermodynamic systems
+2. Laws of thermodynamics
+3. Concepts of energy, work, heat and entropy
+4. Thermodynamic relations
+5. Reversible and irreversible processes
+6. Power and refrigeration cycles
+7. Heat conduction
+8. Natural and forced convection
+9. Radiation heat transfer
+10. Heat exchangers Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Quiz 15 minutes 
+(per Quiz)
+ 15 N Individual N  Intra-session Exam 1 hour 15 N Individual N  Practical 1000 words (each) 
+ 20 N Individual N  Final Exam 2 hours 50 N Individual N Teaching Periods Quarter 3 (2024) Nirimba Education Precinct Hybrid Subject Contact Abbas Ranjbar Opens in new window View timetable Opens in new window Structures that include subject Mechanical and Industrial Eng. (MECH) Mechanical, Testamur Major (T036)

@@ -1,0 +1,142 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Secondary Biology Education, Major (0348)
+- Effective from:
+- Western Sydney University Major Code:
+- The Secondary Biology Education Major will provide students with 60 credit points of Biology discipline knowledge and 20 credit points of Biology pedagogy and curriculum knowledge. Together with completion of subjects in the Bachelor of Education (Secondary), this Major will enable students to meet requirements to graduate from the Bachelor of Education (Secondary) with the Biology teaching area. The Secondary Biology Education Major will span the Foundation and Development phases of the Bachelor of Education (Secondary), enabling students to develop strong pedagogical content knowledge, an understanding of evidence-based pedagogies, and skills in using assessment and feedback to guide and enhance student learning.
+- Location
+- Major Structure
+- Students must successfully complete 80 credit points as follows.
+- Start-year intake
+- Mid-year intake
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- SecondaryEnquiries@westernsydney.edu.au
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+BIOS 1001
+Biodiversity
+10
+
+Credit Points
+10
+Spring session
+BIOS 1012
+Cell Biology
+10
+
+Credit Points
+10
+Year 2
+Autumn session
+BIOS 2042
+Biochemistry
+10
+
+Credit Points
+10
+Spring session
+BIOS 2006
+Comparative Physiology
+10
+BIOS 3034
+Molecular Biotechnology
+10
+
+Credit Points
+20
+Year 3
+Autumn session
+BIOS 3014
+Genes, Genomics and Human Health
+10
+
+Credit Points
+10
+Spring session
+TEAC 3058
+Science Curriculum 7-10
+10
+
+Credit Points
+10
+Year 4
+Autumn session
+TEAC 4024
+Biology Curriculum 11-12
+10
+
+Credit Points
+10
+
+Total Credit Points
+80
+Year 1
+Spring session
+Credit Points
+BIOS 1012
+Cell Biology
+10
+
+Credit Points
+10
+Autumn session
+BIOS 1001
+Biodiversity
+10
+
+Credit Points
+10
+Year 2
+Spring session
+BIOS 2006
+Comparative Physiology
+10
+BIOS 3034
+Molecular Biotechnology
+10
+
+Credit Points
+20
+Autumn session
+BIOS 2042
+Biochemistry
+10
+
+Credit Points
+10
+Year 3
+Spring session
+TEAC 3058
+Science Curriculum 7-10
+10
+
+Credit Points
+10
+Autumn session
+BIOS 3014
+Genes, Genomics and Human Health
+10
+
+Credit Points
+10
+Year 4
+Autumn session
+TEAC 4024
+Biology Curriculum 11-12
+10
+
+Credit Points
+10
+
+Total Credit Points
+80
+
+Courselist Tables:

@@ -1,0 +1,12 @@
+Academic Handbook Current Edition MATH 7009 Mathematical Proof and Reasoning Credit Points 10 Legacy Code 301177 Coordinator Stephen Weissenhofer Opens in new window Description Proving and getting a new proposition by careful reasoning from given propositions, is the essence of mathematics. Proof is what makes mathematics special and eternal. This subject looks at the different methods of proof and reasoning that can be employed to verify that statements are true or not. Students will consider propositions and theorems from various areas of mathematics and look at classic, interesting and sometimes novel ways these can be proved. Successful students taking this subject will not only be able to follow and determine if a proof is correct, but become proficient at mathematical reasoning. School Computer, Data & Math Sciences Discipline Mathematical Sciences, Not Elsewhere Classified. Student Contribution Band HECS Band 1 10cp Check your fees via the Fees page. Level Postgraduate Coursework Level 7 subject Assumed Knowledge Undergraduate level of knowledge in mathematics or statistics. Learning Outcomes On successful completion of this subject, students should be able to: Analyse mathematical arguments and determine whether or not they are sound.
+Make concise rational arguments to prove true statements.
+Be able to construct counter examples to disprove false statements.
+Recognise standard types of statements and know the type of argument that is required to prove them.
+Correctly utilise different types of proof; for example, direct, contradiction and induction.
+Apply proof techniques to different areas of mathematics; for example, geometry, number theory and other relevant areas. Subject Content Logic, valid arguments and common invalid arguments.
+The structure of mathematical proofs.
+Direct proof and counter-example.
+Proof by cases.
+Indirect proof, contradiction and contrapositive.
+Existence and Uniqueness proofs.
+Mathematical Induction proofs. Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Assignments 3-4 hours each 30 N Individual   Class Tests 50 minutes each 30 N Individual   Final Exam 2 hours 40 N Individual Structures that include subject Bachelor of Research Studies (8083) Mathematics (MATH)

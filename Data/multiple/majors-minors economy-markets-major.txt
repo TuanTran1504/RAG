@@ -1,0 +1,35 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Economy and Markets, Major (0008)
+- Western Sydney University Major Code:
+- Previous Code: M2510.1
+- The Economy and Markets major provides a broad pluralist perspective on fundamental aspects of relationships between individuals, firms, institutions and countries. Students will learn how economies function and how public policy and the way organisations behave affect diverse social, economic and environmental problems. Students are introduced to a wide array of competing economic theories, so that they are critically informed about the ways in which they can transform the world. A major in this area prepares students to be active participants in addressing the wide range of problems faced by governments, social organisations and the business community in the domestic and international economies. Students who study economics can expect to develop their analytical and problem solving skills and to be intellectually challenged, whether they view the discipline as providing specific vocational skills or as an area of academic and intellectual interest to them. A major in this area is very highly regarded in the business world and opens up a very large range of career prospects in general business, finance and the public sector.
+- Location
+- Major Structure
+- Students must complete 80 credit points including all of the core subjects as follows.
+- The subjects in this major are offered at the Parramatta City campus and the core subjects in the Bachelor of Arts are offered at the Parramatta South, Bankstown and Penrith campuses. Students will be required to travel between campuses in order to complete this major.
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MKTG 1005 Consumers, Firms and Markets, replaced by ECON 1014 Consumers, Firms and Markets
+- ECON 1014 Consumers, Firms and Markets
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- Program Advice
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+ECON 1014Consumers, Firms and Markets10
+ECON 3002Corporations, Economic Power and Policy10
+BUSM 2005Cost Benefit Analysis10
+ECON 1003Financial Institutions and Markets10
+HUMN 3043Globalisation and Sustainability10
+ECON 3012Growth, Cycles and Crises10
+ECON 3017Macroeconomic Measures and Models10
+ECON 1013The Australian Macroeconomy10
+Total Credit Points80

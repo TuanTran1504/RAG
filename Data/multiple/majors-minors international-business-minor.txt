@@ -1,0 +1,25 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- International Business, Minor (0290)
+- Western Sydney University Minor Code:
+- Previous Code: SM2059
+- This minor is about managing international business operations and the role of a range of factors including internationalisation, globalisation, and the power of institutions that can influence these operations. Students learn about the wider and changing context of business operations involving political, legal, economics that influence management practice on a global scale.
+- Location
+- Students must complete 40 credit points as follows.
+
+Location Table:
+- Parramatta City-Macquarie St
+- 
+- Internal
+- Program Advice
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+BUSM 1015Introduction to International Business10
+BUSM 2031Managing in the Global Environment10
+HUMN 3043Globalisation and Sustainability10
+BUSM 3031International Business Strategy10

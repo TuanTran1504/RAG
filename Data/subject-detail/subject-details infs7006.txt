@@ -1,0 +1,25 @@
+Academic Handbook Current Edition INFS 7006 Software Testing and Automation Credit Points 10 Legacy Code 300770 Coordinator Wasim Syed Opens in new window Description Software Testing and Automation will cover topics in two sections - Fundamentals of Software Testing and Test Automation.  Section 1 will enable students to get a good understanding of different types of testing, the entire life cycle of Testing; how to design and prepare Test Cases, Test Data, execute these Test Cases and manage the defects. Students will also learn the importance of exclusive Test Environment for Testing and how to create a Traceability Matrix relating Requirements to Test Cases. Since approaches to testing software have also evolved with rigorous systematic approaches and advanced tools to automate some of the testing tasks.  Section 2 will expose students to Test Automation using an automation tool, Object mapping and repository creation, Exception handling, logging and reporting, and Creation and Execution of Automation scripts. School Computer, Data & Math Sciences Discipline Information Systems, Not Elsewhere Classified. Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Postgraduate Coursework Level 7 subject Restrictions Students must be enrolled in a postgraduate program. Assumed Knowledge Knowledge about:  Software Development Life Cycle; Programming knowledge in one of the Object Oriented programming language  for e.g. Java, C++; Scripting Language such as Java Script. Learning Outcomes On successful completion of this subject, students should be able to: Design and prepare Test Cases as part of the test preparation phase of testing life cycle
+Prepare Test Data for the Test Cases
+Execute Test Cases and Capture Test Evidences as part of test execution phase of testing life cycle
+Create defect reports, assign severity levels, manage defects and track defects to closure as part of the defect life cycle
+Create Traceability Matrix (relating Requirements to Test Cases)
+Demonstrate an understanding of the syntax of automation tool scripting
+Create Test automation scripts using an automation tool
+Conduct regression testing using the test automation scripts
+Demonstrate a broader understanding of importance and state-or-the art of software testing as practiced in the industry Subject Content Section I - Fundamentals of Software Testing:
+1. Basics of software testing
+2. Types of testing
+3. Testing life cycle
+4. Test Design
+5. Defect management life cycle
+6. Test Execution
+7. Traceability Matrix
+Section II - Automation Testing:
+1. Overview of test automation tool, Record and Playback
+2. Object map and Object repository creation, Verification Points
+3. Global & Environment Variables
+4. Data Pool Creation & Using External Data Sources
+5. Exception Handling
+6. Logging & reporting
+7. Creation of Test Automation Scripts
+8. Execution of Test Automation Scripts Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Quiz 3 (90 Minutes) quizzes 35 N Individual N  Applied Project 15 hours 25 N Group N  Applied Project 20 hours 25 N Individual N  Report 2000 words 15 N Individual N Teaching Periods Sydney City Campus - Term 1 (2024) Sydney City On-site Subject Contact Mahsa Razavi Opens in new window View timetable Opens in new window Spring (2024) Parramatta - Victoria Rd On-site Subject Contact Wasim Syed Opens in new window View timetable Opens in new window Structures that include subject Graduate Certificate in Artificial Intelligence (exit only) (3767) Graduate Diploma in Artificial Intelligence (exit only) (3766) Graduate Diploma in Information Governance (3775) Graduate Diploma in Information and Communications Technology (3700) Information Systems (INFS) Information Technology, Testamur Major (T011) Master of Artificial Intelligence (3765) Master of Information Governance (3779) Master of Information and Communications Technology (3699) Master of Information and Communications Technology (Advanced) (3698) Master of Information and Communications Technology (Research) (8112) Master of Information and Communications Technology/Master of Data Science (3780) Web and Mobile Computing, Testamur Major (T010)

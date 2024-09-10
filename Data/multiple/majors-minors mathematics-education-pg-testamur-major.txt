@@ -1,0 +1,28 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Mathematics Education, Testamur Major (T138)
+- Effective from:
+- Western Sydney University Major Code:
+- The Master of Education, Mathematics Education testamur major equips primary and secondary school teachers of mathematics with specialist skills, knowledge, and dispositions to assist them in strengthening their role as mathematics specialist teachers within primary or secondary school settings. Through a combination of course content and independent research, graduates will develop deep mathematical pedagogical content knowledge, a strong understanding of the importance of research-based enquiry to inform teaching and leading in mathematics, and skills in mentoring and coaching colleagues.
+- Location
+- Major Structure
+- Students will select from the major subjects that are on offer in any given semester. Major subjects can be studied in any order.
+- Students must successfully complete 40 credit points as listed below.
+
+Location Table:
+- Online
+- 
+- Online
+- Course Advice
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+TEAC 7065Leading Mathematics in the Primary School10
+TEAC 7011Assessment and Intervention for Mathematics and Numeracy Learning10
+TEAC 7074Mathematics for Contemporary Learners10
+TEAC 7002Addressing Diversity in Mathematics Teaching and Learning10
+Total Credit Points40

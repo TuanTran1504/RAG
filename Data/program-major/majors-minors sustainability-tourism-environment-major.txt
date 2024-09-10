@@ -1,0 +1,60 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Sustainability, Tourism and Environment, Major (0305)
+- Western Sydney University Major Code:
+- This major combines subjects from the social and environmental sciences to prepare students for careers that ensure tourism, leisure and recreation activities take place in a sustainable way. The natural environment is a key component of leisure, recreation, and tourism experiences, especially in Australia. However, these activities can have significant ecological impacts. In this major, students will learn how to identify, assess, and manage these environmental impacts. The major will also look at how the visitor economy can contribute toward ecological conservation, and addressing major global issues such as climate change, deforestation, poverty, inequality and pollution.
+- Location
+- Major Structure
+- Students must complete 80 credit points.
+- Complete the following compulsory subjects
+- Students must also complete one subject from the following pool.
+- The subject listed below counts towards completion of this program for students who passed this subject in 2022 or earlier.
+- SPRT 2011 - Sustainability, Tourism and Place, replaced by TOUR 2003 Managing Sustainable Places
+- TOUR 2003 Managing Sustainable Places
+- BUSM 3007 Destination Management, replaced by TOUR 3004 Destination Management
+- TOUR 3004 Destination Management
+- BUSM 3073 Tourism Policy and Planning, replaced by TOUR 3005 Tourism Policy and Planning
+- TOUR 3005 Tourism Policy and Planning
+- TOUR 2001 Issues in Contemporary Heritage, replaced by HUMN 2073 Issues in Contemporary Heritage
+- HUMN 2073 Issues in Contemporary Heritage
+- TOUR 1002 - Tourism and Global Trends, replaced by TOUR 1003 Global Trends in Tourism and Events
+- TOUR 1003 Global Trends in Tourism and Events
+- Related Programs
+
+Location Table:
+- Parramatta City
+- Full-time
+- Dr Garth Lean
+- Parramatta City
+- Part-time
+- Dr Garth Lean
+- Parramatta - Victoria Road
+- Full-time
+- Dr Garth Lean
+- Parramatta - Victoria
+- Part-time
+- Dr Garth Lean
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+TOUR 3004Destination Management10
+ENVL 2009Ecosystem Restoration10
+TOUR 1003Global Trends in Tourism and Events10
+ENVL 1004Introduction to Environmental Science10
+BIOS 1027Management of Aquatic Environments10
+TOUR 2003Managing Sustainable Places10
+EART 3006Science of the Anthropocene10
+Total Credit Points70
+
+courselist table2:
+Select one of the following:10
+ENVL 2008Australian Ecosystems: Threats and Solutions
+ENVL 2010Conservation Priorities and Process
+ENVL 2007Environmental Monitoring and Assessment
+HUMN 2073Issues in Contemporary Heritage
+TOUR 3005Tourism Policy and Planning
+Total Credit Points10

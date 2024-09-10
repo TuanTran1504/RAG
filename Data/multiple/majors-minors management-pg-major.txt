@@ -1,0 +1,33 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Management, Major (0136)
+- Western Sydney University Major Code:
+- Previous Code: SP2006.1
+- This major critically examines strategic management processes in various business, industry and economic contexts. It also explores the processes and challenges encountered by leaders in contemporary organisations, taking into account rapidly changing environments with a focus on quality management, risk management, and performance measurement and benchmarking. Students actively participate in experiential learning focussing on strategic leadership, visioning, situation analysis, objective setting and evaluation. Students apply current models and theories to solving industry-specific problems and scenarios.
+- Location
+- Curriculum delivered through an agreement with another party
+- Major Structure
+- Students must successfully complete 60 credit points which includes all subjects listed below.
+- Related Programs
+
+Location Table:
+- Parramatta City Campus-Macquarie Street
+- Internal
+- Dr Laurel Jackson
+- Sydney City Campus*
+- Internal
+- Daniel Townsend
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+BUSM 7014Compliance Management10
+BUSM 7040Governance, Ethics and Social Entrepreneurship10
+BUSM 7048Innovation, Creativity and Foresight10
+BUSM 7058Leading Contemporary Organisations10
+BUSM 7065Managing in the Global Context10
+BUSM 7086Strategic Business Management10
+Total Credit Points60

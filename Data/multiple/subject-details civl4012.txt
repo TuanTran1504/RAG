@@ -1,0 +1,10 @@
+Academic Handbook Current Edition CIVL 4012 Water Resource Engineering Credit Points 10 Legacy Code 300993 Coordinator Surendra Shrestha Opens in new window Description This subject introduces optimisation theories applicable to water resources projects.  The subject applies different optimisation models to select the best option available.  Engineering economic theories specifically applicable to water resources projects are also discussed. School Eng, Design & Built Env Discipline Water and Sanitary Engineering Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 4 subject Pre-requisite(s) CIVL 3011 Learning Outcomes On successful completion of this subject, students should be able to: differentiate between linear and non-linear programming principles
+formulate water resources problems using linear, non-linear and dynamic programming techniques
+employ appropriate optimisation techniques to water resource development projects
+propose the best water resources project alternative among the available options
+apply engineering economic principles to water resources projects
+develop a decision support system as a team Subject Content 1. Linear Programming
+2. Non-linear Programming
+3. Dynamic Programming
+4. Water Resources Economics
+5. Water Allocation Models Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Mid-Term Exam 1 hr 20 N Individual   Project Report Each group submits one report of 2500 words (plus appendices) (est.) 30 Y Group   Final Examination 2 hrs 50 Y Individual Structures that include subject Civil Engineering (CIVL) Civil Engineering, Testamur Major (T131) Civil, Testamur Major (T033) Water and Environment, Concentration (0118) ​Water and Environment, Minor (0118)

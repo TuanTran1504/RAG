@@ -1,0 +1,163 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Bachelor of Science (Pathway to Teaching Primary/Secondary) (3756)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 094198C
+- This program applies to students who commenced in 2022 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- For Commencement Year 2017 to 2019 - Please refer to 3736.1 Bachelor of Science - Pathway to Teaching (Primary/Secondary)
+- For Commencement Year 2020 to 2021 - Please refer to 3756.1 Bachelor of Science (Pathway to Teaching Primary/Secondary)
+- This degree combines Science with learning about Education. Science asks questions about how the natural world works and the impact of humans at its interface. It does so in a systematic, yet rigorously creative way based on inquiry and evidence for ideas. A Bachelor of Science will prepare you to take part in this process of inquiry, by both contributing to it and by using scientific knowledge to solve current problems in broad settings including in society.  Students will learn core concepts and skills investigating the natural world, proposing and testing ideas by experimentation and observation; quantifying and modelling processes; communicating findings, thinking independently and critically. Students can enrol in this degree and select from a range of scientific disciplines with the option of expanding learning into other areas outside of science. Students will also take 4 subjects in Education choosing to specialise in either secondary or primary school teaching Students will be offered a place into a Master of Teaching program on successful completion of the degree.
+- All students must complete 60 credit points of study at Level 3 to meet course requirements. Depending on the major selected, students may need to select at least 10 credit points of elective study at Level 3 to meet this requirement.
+- Students need to note that different majors are offered on different campuses, and not all majors will be offered at every campus.
+- Study Mode
+- Three years full-time or six years part-time.
+- Program Advice
+- science@westernsydney.edu.au
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Work Integrated Learning
+- Please contact the Course Advisor listed above for information.
+- Work integrated learning is a component of many subjects in the core of the course and testamur majors. Additionally, students will be allocated to or, depending on the testamur major selected, may choose one of three specific work integrated learning subjects.
+- The first of these, Complex Case Studies in Science, is designed to provide students with opportunities for personal development, industry and civic engagement and to develop career readiness. The subject assures that students can critically analyse and logically argue complex scientific issues whilst taking into account multiple competing perspectives and builds on employability and communication skills developed in earlier subjects.
+- Complex Forensic Studies is the second specific work integrated learning subject. Students in MT 3022 Forensic Science will undertake Complex Forensic Studies which assures similar skills to those in Complex Case Studies but in a specific forensic science context.
+- Placement Policy
+- Advanced Standing Policy
+- International students should also refer to the 'Work Integrated Learning (WIL) for international students' website for more information and a link to the Commonwealth Register of Institutions and Courses for Overseas Students (CRICOS).
+- Work Integrated Learning (WIL) for international students
+- Admission
+- Assumed Knowledge: Students should have at least two unit English, and two unit science (any science) and two unit mathematics at year 12 equivalent.
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local and International applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- http://www.uac.edu.au/
+- https://westernsydney.uac.edu.au/ws/
+- International applicants must apply directly to the University via the International Office. International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Program Structure Current
+- Qualification for this award requires the completion of 240 credit points which includes: 80 credit points of core subjects, 80 credit points taken as a Science major, 40 credit points taken as either the minor 0267 Secondary Teaching or the minor 0296 Primary Teaching and 40 credit points of elective subjects
+- Subjects are 10 credit points each unless otherwise indicated.
+- Early Exit
+- Students may exit this program on completion of 80 cps with a Diploma in General Science (exit only)
+- Diploma in General Science (exit only)
+- Core Subjects
+- All students are required to complete the following two subjects:
+- Students are allocated core subjects from the following areas depending on the major chosen.
+- Students should consult the sequence of subjects identified for each major.
+- Minor Education Studies
+- Students must complete either the minor 0267 Secondary Teaching or the minor 0296 Primary Teaching.
+- Students are required to complete eight major subjects  from one of the following majors.
+- Suggested minors
+- Students taking a pathway to the teaching minor must first seek academic advice before selecting electives or sub-majors.
+- Students can apply for an elective minor via MySR.
+- Enrolment in elective subjects is dependent on meeting any required criteria for individual subjects, such as co-requisites and pre-requisites.
+- Program Structure 2023
+- Qualification for this award requires the completion of 240 credit points which includes: 80 credit points of core subjects, 80 credit points taken as a Science major, 40 credit points taken as either the minor 0267 Secondary Teaching or the minor 0296 Primary Teaching and 40 credit points of elective subjects
+- Subjects are 10 credit points each unless otherwise indicated.
+- Early Exit
+- Students may exit this program on completion of 80 cps with a Diploma in General Science (exit only)
+- Diploma in General Science (exit only)
+- Core Subjects
+- All students are required to complete the following two subjects:
+- Students are allocated core subjects from the following areas depending on the major chosen.
+- Students should consult the sequence of subjects identified for each major.
+- Minor Education Studies
+- Students must complete either the minor 0267 Secondary Teaching or the minor 0296 Primary Teaching.
+- Majors
+- Students are required to complete eight major subjects  from one of the following majors.
+- Elective subjects
+- Suggested minors
+- Students taking a pathway to the teaching minor must first seek academic advice before selecting electives or sub-majors.
+- Students can apply for an elective minor via MySR.
+- Enrolment in elective subjects is dependent on meeting any required criteria for individual subjects, such as co-requisites and pre-requisites.
+
+Location Table:
+- Campbelltown Campus
+- Full Time
+- Internal
+- See above
+- Campbelltown Campus
+- Part Time
+- Internal
+- See above
+- Hawkesbury Campus
+- Full Time
+- Internal
+- See above
+- Hawkesbury Campus
+- Part Time
+- Internal
+- See above
+- Parramatta Campus - Victoria Road
+- Full Time
+- Internal
+- See above
+- Parramatta Campus - Victoria Road
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+NATS 1019Scientific Literacy10
+CHEM 1008Introductory Chemistry10
+Total Credit Points20
+
+courselist table2:
+Select two of the following:20
+BIOS 1001Biodiversity
+BIOS 1012Cell Biology
+CHEM 1012Essential Chemistry
+Select one of the following:10
+MATH 1026Quantitative Thinking
+MATH 1014Mathematics 1A
+MATH 1003Biometry
+Select one of the following:10
+MATH 2001Advanced Calculus
+BIOS 2042Biochemistry
+NATS 2019Forensic and Environmental Analysis
+NATS 2042Science Research Methods
+CHEM 2001Analytical Chemistry
+PUBH 2010Epidemiology
+Select one of the following:10
+NATS 3044Complex Case Studies in Science
+NATS 3045Work Internship for Science Professionals
+NATS 3008Complex Forensic Studies
+And10
+NATS 3055Practicum 110
+
+courselist table3:
+NATS 1019Scientific Literacy10
+CHEM 1008Introductory Chemistry10
+Total Credit Points20
+
+courselist table4:
+Select two of the following:20
+BIOS 1001Biodiversity
+BIOS 1012Cell Biology
+CHEM 1012Essential Chemistry
+Select one of the following:10
+MATH 1026Quantitative Thinking
+MATH 1014Mathematics 1A
+MATH 1003Biometry
+Select one of the following:10
+MATH 2001Advanced Calculus
+BIOS 2042Biochemistry
+NATS 2019Forensic and Environmental Analysis
+NATS 2042Science Research Methods
+CHEM 2001Analytical Chemistry
+PUBH 2010Epidemiology
+Select one of the following:10
+NATS 3044Complex Case Studies in Science
+NATS 3045Work Internship for Science Professionals
+NATS 3008Complex Forensic Studies
+Select one of the following:10
+NATS 3027Laboratory Quality Management
+NATS 3015Field Project 1
+BIOS 3012Conservation Biology
+NATS 3040Topics in Medical Science

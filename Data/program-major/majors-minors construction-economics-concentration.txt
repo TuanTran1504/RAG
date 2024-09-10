@@ -1,0 +1,37 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Construction Economics, Minor (0119)
+- Western Sydney University Concentration Code:
+- Previous Code: SM3094.1
+- This minor is a requirement for membership of the Australian Institute of Quantity Surveyors and is a useful program of study for those interested in the area of cost control and project planning.
+- Location
+- Concentration Structure
+- Students must successfully complete four of the following six specialist subjects
+- Replaced Subjects
+- The subjects listed below count towards completion of this concentration for students who passed these subjects in 2021 or earlier.
+- BLDG 4004 - Estimating 2, replaced by BLDG 3010 Building Cost Studies
+- GEOM 2002 - Quantity Surveying 2, replaced by GEOM 3001 Advanced Building Measurement
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- Mary Hardie
+- Penrith Campus
+- Internal
+- Mary Hardie
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Select four of the following:40
+GEOM 3001Advanced Building Measurement
+BLDG 3010Building Cost Studies
+BLDG 3004Construction Information Systems
+BLDG 4006Modern Construction Enterprises
+BLDG 4007Modern Construction Projects
+BLDG 3009Quality and Value Management
+Total Credit Points40

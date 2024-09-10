@@ -1,0 +1,40 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Sustainable Development, Major (0163)
+- Western Sydney University Major Code:
+- Previous Code: M1107.1
+- This major is available to students enrolled in the program Bachelor of Business from 2016. Sustainable development balances the need for development with the need to respect cultures, society, community and the environment. This major is an external major for Bachelor of Business students. Students will examine processes of development and the mechanisms to ensure that development is socially and environmentally sustainable.
+- Location
+- Major Structure
+- Students must complete 80 credit points as follows
+- Level 1
+- Level 2
+- Level 3
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- Prof Andre Renzaho
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+HUMN 1041People, Place and Social Difference10
+HUMN 1015Development and Sustainability10
+HUMN 1028Human Rights, Peace and Development10
+Total Credit Points30
+
+courselist table2:
+HUMN 2032Issues in World Development: Rich World, Poor World10
+Total Credit Points10
+
+courselist table3:
+HUMN 3077Sustainable Futures10
+HUMN 3043Globalisation and Sustainability10
+CULT 3016Indigenous Cultures: A Global Perspective10
+HUMN 3041Geographies of Migration10
+Total Credit Points40

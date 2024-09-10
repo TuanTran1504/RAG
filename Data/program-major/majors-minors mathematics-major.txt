@@ -1,0 +1,44 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Mathematics, Major (0059)
+- Western Sydney University Major Code:
+- Previous Code: M3054.1
+- Mathematics is essential for modelling phenomena in various fields, so many employers these days set a lot of store by mathematical skills.  This major covers some basics, but it also allows you to choose topics on which you want to focus.  No matter what your area of study is, if you have an interest in mathematics, this major gives you the opportunity to use the elective space in your program to pick up additional skills that will be useful throughout your career.  Prospective teachers can tailor this major to meet the NESA requirements for “Mathematics” as first teaching area.
+- Location
+- Major Structure
+- Students must complete a total of eight subjects at Levels 1, 2, and 3, including no more than three subjects at Level 1 and at least three subjects at Level 3, taking into account any prerequisite requirements of individual subjects.
+- Related Programs
+
+Location Table:
+- Campbelltown Campus
+- Internal
+- CDMS@westernsydney.edu.au
+- Parramatta Campus - Victoria Road
+- Internal
+- CDMS@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Level 1
+No more than three subjects at Level 1 may be included.
+MATH 1006Discrete Mathematics
+MATH 1014Mathematics 1A10
+MATH 1015Mathematics 1B10
+MATH 1028Statistical Decision Making10
+Level 2
+MATH 2001Advanced Calculus
+MATH 2003Differential Equations
+MATH 2010Linear Algebra10
+COMP 2023Mathematical Programming10
+Level 3
+At least three subjects at Level 3 must be included.
+MATH 3003Analysis
+MATH 3006Mathematical Modelling
+MATH 3015Groups and Symmetry10
+MATH 3013Fields and Equations10
+MATH 3012Combinatorics10
+Total Credit Points80

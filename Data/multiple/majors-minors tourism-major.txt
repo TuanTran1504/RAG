@@ -1,0 +1,83 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Tourism, Major (0161)
+- Western Sydney University Major Code:
+- Previous Code: M1105.1
+- The Tourism major introduces contemporary tourism issues and provides an in-depth understanding of tourism as a social phenomenon in a highly mobile world. Successful tourism planning and management relies on a full appreciation of the context in which it is operating. This suite of subjects enables a critical examination of the relationship between tourism and the assets which underpin it - the heritage of places - natural, social and cultural. It is these attributes which provide much of the incentive and attractions for travel, and which provide the business of tourism. Graduates with a tourism major can contemplate careers within a diverse range of government, non-government organization and businesses that require understanding, insight and skills related to tourism policy, planning and management.
+- Location
+- Major Structure
+- Students must complete 80 credit points as follows
+- The subject listed below counts towards completion of this Major for students who passed this subject in 2022 or earlier.
+- HUMN 2057 - Tourism in Society, replaced by TOUR 2004 Tourism and Festivals in Society
+- TOUR 2004 Tourism and Festivals in Society
+- CULT 3015 - Heritage and Tourism, replaced by TOUR 3002 Cultural Tourism and Events
+- TOUR 3002 Cultural Tourism and Events
+- SPRT 2011 - Sustainability, Tourism and Place, replaced by TOUR 2003 Managing Sustainable Places
+- TOUR 2003 Managing Sustainable Places
+- TOUR 2001 - Issues in Contemporary Heritage, replaced by HUMN 2073 Issues in Contemporary Heritage
+- HUMN 2073 Issues in Contemporary Heritage
+- The subject listed below counts towards completion of this Major for students who passed this subject in 2017 or earlier.
+- BUSM 3067 - Sport and Hospitality Event Management, replaced by BUSM 3065 Special Event Management
+- BUSM 3065 Special Event Management
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- Assoc Prof Awais Piracha
+
+Sequence Tables:
+Year 1
+Spring session
+Credit Points
+TOUR 2004
+Tourism and Festivals in Society
+10
+
+Credit Points
+10
+Year 2
+Autumn session
+TOUR 1002
+Tourism and Global Trends
+10
+TOUR 2003
+Managing Sustainable Places
+10
+
+Credit Points
+20
+Spring session
+HUMN 2073
+Issues in Contemporary Heritage
+10
+CULT 3016
+Indigenous Cultures: A Global Perspective
+10
+
+Credit Points
+20
+Year 3
+Autumn session
+BUSM 3073
+Tourism Policy and Planning
+10
+CULT 3015
+Heritage and Tourism
+10
+
+Credit Points
+20
+Spring session
+BUSM 3065
+Special Event Management
+10
+
+Credit Points
+10
+
+Total Credit Points
+80
+
+Courselist Tables:

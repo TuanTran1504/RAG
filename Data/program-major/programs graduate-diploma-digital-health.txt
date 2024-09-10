@@ -1,0 +1,67 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Graduate Diploma in Digital Health (4778)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 0101797
+- This program applies to students who commenced in 2020 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- The Graduate Diploma in Digital Health provides students with an opportunity to develop advanced skills in healthcare data environments, healthcare software and systems and explore how to integrate ICT innovations to deliver effective, sustainable, safe and efficient multidisciplinary patient-centred healthcare. It provides an entry point to the Master of Health Science (Digital Health) for those who wish to continue on their professional development journey with further studies.
+- Study Mode
+- One year full-time or two years part-time.
+- Program Advice
+- apa_pghealthsci@westernsydney.edu.au
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- Location
+- Admission
+- An undergraduate or higher degree in a relevant health-related discipline
+- Or
+- A graduate diploma or graduate certificate in any discipline and two years full-time equivalent work experience in a relevant health-related discipline.
+- Applicants seeking admission on the basis of work experience must support their application with a Statement of Service for all work experience listed on the application.
+- Statement of Service form
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Program Structure
+- Qualification for this award requires the successful completion of 80 credit points which include the subjects listed in the recommended sequence below.
+- Students must complete the following subjects
+
+Location Table:
+- Online
+- Full Time
+- Online
+- Dr Sadia Hossain
+- Online
+- Part Time
+- Online
+- Dr Sadia Hossain
+- Parramatta Campus - Victoria Road
+- Full Time
+- Internal
+- Dr Sadia Hossain
+- Parramatta Campus - Victoria Road
+- Part Time
+- Internal
+- Dr Sadia Hossain
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Required Programs
+PUBH 7016Introduction to Epidemiology10
+PUBH 7033The Social Determinants of Health10
+PUBH 7031Health Systems and Policy10
+HLTH 7025Healthcare Data for Decision-Making10
+Focus Subjects:
+PUBH 7032Patient-centred digital healthcare10
+INFS 7001Advanced Healthcare Data Environments10
+INFS 7002Advanced Healthcare Software and Systems10
+PUBH 7029Digital Health Management10
+Total Credit Points80

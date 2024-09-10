@@ -1,0 +1,40 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Graduate Certificate in Child Health (exit only) (4794)
+- Western Sydney University Program Code:
+- AQF Level:
+- Study Mode
+- Six months full-time or one year part-time.
+- Program Advice
+- Program Advice
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission|
+- Location
+- Inherent requirements
+- The inherent requirements for this Graduate Diploma program will be the same as those for medicine course
+- https://www.westernsydney.edu.au/ir/inherent_requirements/inherent_requirements_for_medicine_courses
+- Program Structure
+- Qualification for this award requires the successful completion of 40 credit points which include the subjects listed below.
+
+Location Table:
+- Online
+- Full Time
+- Online
+- See above
+- Online
+- Part Time
+- Online
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Core subjects
+MEDI 5001Newborn and Infant Development10
+MEDI 5002Behaviour, development and disability10
+MEDI 5003Adolescent, mental health and health inequity10
+MEDI 5004Emergency and acute care10
+Total Credit Points40

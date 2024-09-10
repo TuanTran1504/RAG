@@ -1,0 +1,142 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Secondary Business Studies Education, Major (0353)
+- Effective from:
+- Western Sydney University Major Code:
+- The Secondary Business Studies Education Major will provide students with 60 credit points of Business Studies discipline knowledge and 20 credit points of Business Studies pedagogy and curriculum knowledge. Together with completion of subjects in the Bachelor of Education (Secondary), this Major will enable students to meet requirements to graduate from the Bachelor of Education (Secondary) with the Business Studies teaching area. The Secondary Business Studies Education Major will span the Foundation and Development phases of the Bachelor of Education (Secondary), enabling students to develop strong pedagogical content knowledge, an understanding of evidence-based pedagogies, and skills in using assessment and feedback to guide and enhance student learning.
+- Location
+- Major Structure
+- Students must successfully complete 80 credit points as follows.
+- Start-year intake
+- Mid-year intake
+- Related Programs
+
+Location Table:
+- Parramatta City Campus - Macquarie Street
+- Internal
+- SecondaryEnquiries@westernsydney.edu.au
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+ACCT 1005
+Accounting in Context
+10
+
+Credit Points
+10
+Spring session
+MKTG 1006
+Marketing Principles
+10
+
+Credit Points
+10
+Year 2
+Autumn session
+BUSM 2004
+Business, Society and Policy
+10
+
+Credit Points
+10
+Spring session
+BUSM 2031
+Managing in the Global Environment
+10
+
+Credit Points
+10
+Year 3
+Autumn session
+BUSM 3036
+Leadership and Entrepreneurship
+10
+HUMN 3043
+Globalisation and Sustainability
+10
+
+Credit Points
+20
+Spring session
+TEAC 3059
+Commerce & Work Education Curriculum 7-10
+10
+
+Credit Points
+10
+Year 4
+Autumn session
+TEAC 4025
+Business Studies Curriculum 11-12
+10
+
+Credit Points
+10
+
+Total Credit Points
+80
+Year 1
+Spring session
+Credit Points
+MKTG 1006
+Marketing Principles
+10
+
+Credit Points
+10
+Autumn session
+BUSM 2004
+Business, Society and Policy
+10
+
+Credit Points
+10
+Year 2
+Spring session
+ACCT 1005
+Accounting in Context
+10
+BUSM 2031
+Managing in the Global Environment
+10
+
+Credit Points
+20
+Autumn session
+HUMN 3043
+Globalisation and Sustainability
+10
+
+Credit Points
+10
+Year 3
+Spring session
+TEAC 3059
+Commerce & Work Education Curriculum 7-10
+10
+
+Credit Points
+10
+Autumn session
+BUSM 3036
+Leadership and Entrepreneurship
+10
+
+Credit Points
+10
+Year 4
+Autumn session
+TEAC 4025
+Business Studies Curriculum 11-12
+10
+
+Credit Points
+10
+
+Total Credit Points
+80
+
+Courselist Tables:

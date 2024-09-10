@@ -1,0 +1,161 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Associate Degree in Engineering (7022)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- This program applies to students who commenced in 2021 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- For commencement year Q3, 2015 please refer to: 7022.3 Associate Degree in Engineering
+- For commencement year 2014 please refer to: 7022.2 Associate Degree in Engineering
+- The Associate Degree in Engineering is designed for people who wish to pursue a career in Engineering at entry level or who are in traineeship positions.  The qualification can lead to employment or pathway to a Bachelor Degree program.
+- The Associate Degree in Engineering has a common first year program for all engineering disciplines, exposing students to a wide range of experiences in the first year.  In the second year students may choose from Civil, Electrical, Mechanical or Robotic & Mechatronic majors. If students choose to apply to study in the Bachelor of Engineering (Honours) after graduating from the Associate Degree in Engineering they may be given advanced standing in up to 12 subjects.
+- Study Mode
+- Four years part-time
+- Program Advice
+- College Program Enquiries
+- Location
+- Accreditation
+- Full accreditation has been accorded for the Civil Major by Engineers Australia in 2021. Provisional accreditation has been accorded for the Electrical, Mechanical and Robotic and Mechatronic Majors in 2021.
+- Work Integrated Learning
+- There is a mandatory work component required for completion of this program.  Please contact the Program Advisor listed above for information.
+- Admission
+- Admissions 2023
+- Applicants may be regarded as eligible for admission if they have completed the NSW HSC and attained the required ATAR (Australian Tertiary Admission Rank), or have completed other equivalent qualifications such as a recognised Certificate III or Certificate IV and vocational experience and attained the required entrance standard set for entry to the program. This may include bridging/preparatory courses, para-professional and other post-secondary qualifications.
+- Admission to the Associate Degree in Engineering also requires an applicant to have a minimum of three (3) years industry experience or be a member in a suitable traineeship program.
+- Admissions 2024
+- Applicants may be regarded as eligible for admission if they have completed the NSW HSC and attained the required ATAR (Australian Tertiary Admission Rank), or have completed other equivalent qualifications such as a recognised Certificate IV related to engineering.  This may include bridging/preparatory courses, para-professional and other post-secondary qualifications.
+- Applicants who have not achieved the required ATAR but have obtained at least Band 4 in HSC Mathematics, Mathematics Advanced, Physics or Chemistry (or equivalent) may be regarded as eligible for admission.
+- Program Structure
+- Qualification for this award requires the successful completion of 160 credit points as per the recommended sequence below.
+- Recommended Sequence
+- Students must also select one of the following majors and successfully complete three alternate subjects from the one major.
+- Please note: Offerings of alternate units are dependent on there being sufficient student enrolment numbers. If enrolments are low, the College may cancel delivery of the alternate unit.
+
+Location Table:
+- Online
+- Part Time
+- Online
+- See above
+
+Sequence Tables:
+Year 1
+Quarter 1 session
+Credit Points
+MATH 1010
+Fundamentals for Engineering Studies (WSTC AssocD)
+10
+
+Credit Points
+10
+Quarter 2 session
+ELEC 1007
+Engineering Computing (WSTC AssocD)
+10
+
+Credit Points
+10
+Quarter 3 session
+MATH 1022
+Mathematics for Engineers Preliminary (WSTC AssocD)
+10
+
+Credit Points
+10
+Quarter 4 session
+ENGR 1009
+Engineering Materials (WSTC AssocD)
+10
+
+Credit Points
+10
+Year 2
+Quarter 1 session
+MATH 1017
+Mathematics for Engineers 1 (WSTC AssocD)
+10
+
+Credit Points
+10
+Quarter 2 session
+ENGR 1012
+Engineering Physics (WSTC AssocD)
+10
+
+Credit Points
+10
+Quarter 3 session
+ELEC 1004
+Electrical Fundamentals (WSTC AssocD)
+10
+
+Credit Points
+10
+Quarter 4 session
+ENGR 1019
+Fundamentals of Mechanics (WSTC AssocD)
+10
+
+Credit Points
+10
+Year 3
+Quarter 1 session
+ENGR 1025
+Introduction to Engineering Practice (WSTC AssocD)
+10
+
+Credit Points
+10
+Quarter 2 session
+ENGR 1023
+Introduction to Engineering Business Management (WSTC AssocD)
+10
+
+Credit Points
+10
+Quarter 3 session
+ENGR 2031
+Management Practices for Engineer Associates (WSTC AssocD)
+10
+
+Credit Points
+10
+Quarter 4 session
+Alternate subject
+10
+
+Credit Points
+10
+Year 4
+Quarter 1 session
+ENGR 2030
+Industrial Experience (Associate Engineer) (WSTC AssocD)
+10
+
+Credit Points
+10
+Quarter 2 session
+Alternate subject
+10
+
+Credit Points
+10
+Quarter 3 session
+ENGR 2010
+Engineering Project (WSTC AssocD)
+10
+
+Credit Points
+10
+Quarter 4 session
+Alternate subject
+10
+
+Credit Points
+10
+
+Total Credit Points
+160
+
+Courselist Tables:

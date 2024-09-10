@@ -1,0 +1,38 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Telecommunication and Biomedical, Testamur Major (T115)
+- Western Sydney University Major Code:
+- Previous Code:  ST3088.1
+- Location
+- Major Structure
+- Students must complete 100 credit points as follows.
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- pg-enq@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Complete the following core double major subjects:
+ELEC 7008Instrumentation and Measurement (PG)10
+ELEC 7009Personal Communication Systems10
+ELEC 7005Advanced Signal Processing10
+ELEC 7002Advanced Data Networks10
+Complete the following Telecommunication major subjects:
+COMP 7017Wireless Networking10
+ENGR 7023Advanced Biomedical Data and Images10
+COMP 7011Multimedia Communication Systems10
+Select three of the following Biomedical alternate major subjects:30
+ENGR 7024Advanced Biomedical Electronics
+ENGR 7025Human Physiology and Biomedical Technologies
+ENGR 7023Advanced Biomedical Data and Images
+HLTH 7008Introduction to Biostatistics
+MECH 7005Advanced Robotics
+MECH 7004Advanced Mobile Robotics
+Total Credit Points100

@@ -1,0 +1,23 @@
+Academic Handbook Current Edition COMP 2023 Mathematical Programming Credit Points 10 Legacy Code 301375 Coordinator Roozbeh Hazrat Opens in new window Description This subject will introduce the programming language Python, through which students will explore and investigate practical mathematical problems.  Python is one of the most powerful versatile programming languages, and it is increasingly used by engineers and scientists as well as banks and financial institutions to tackle their computational problems.  The subject promotes an experimental side of mathematics and will employ Python-based computational tools to gain insight and intuition into problems, to discover mathematical patterns and relationships, and to use visualisation techniques to expose mathematical structures. School Computer, Data & Math Sciences Discipline Programming Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 2 subject Equivalent Subjects COMP 2003 Computer Algebra Learning Outcomes On successful completion of this subject, students should be able to: Compute complex numerical expressions by utilising the computational features of Python.
+Combine different styles of programming (functional, procedural, and list-based) to write powerful code in Python.
+Analyse, investigate, gain insight and intuition into, and thus solve, practical mathematical problems by using Python.
+Create complex graphics and solve equations by combining Python graphics capabilities.
+Communicate computational approaches to mathematical problems effectively in both spoken and written form. Subject Content - introduction to Python and Jupyter Notebook
+- finding, installing, and loading Python libraries
+- working with variables and lists in Python
+- writing expressions in Python
+- debugging Python code
+- handling user input in Python
+- control structures (conditionals and loops) in Python
+- creating functions in Python
+- understanding, creating, and using NumPy/Pandas and data frames
+- reading and writing files in Python
+- producing basic graphs using Python
+- data cleaning, indexing, querying, sorting, aggregating, and merging in Python
+- object-oriented programming in Python
+- using sets in Python
+- list comprehension in Python
+- database access in Python
+- predictive analysis using Python
+- data visualisation using Python
+- (mini-projects) investigating practical problems using Python Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Practical Exam 15 minutes per Task 10 N Individual Y  Presentation 15 minutes 10 N Individual Y  Applied Project 3-6 pages (code + results) 30 N Individual Y  Final Exam 2 hours 50 N Individual Y Prescribed Texts Teaching Periods Spring (2024) Campbelltown On-site Subject Contact Roozbeh Hazrat Opens in new window View timetable Opens in new window Penrith (Kingswood) On-site Subject Contact Roozbeh Hazrat Opens in new window View timetable Opens in new window Parramatta - Victoria Rd On-site Subject Contact Roozbeh Hazrat Opens in new window View timetable Opens in new window Structures that include subject Bachelor of Data Science (3769) Bachelor of Information and Communications Technology (3639) Bachelor of Mathematics (3778) Computer Science (COMP) Mathematics (MATH) Mathematics, Major (0059) Mathematics, Minor (0059) Robotics and Mechatronics Engineering, Testamur Major (T104) Software Development, Testamur Major (T148)

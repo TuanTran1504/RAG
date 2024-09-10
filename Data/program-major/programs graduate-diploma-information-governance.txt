@@ -1,0 +1,278 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Graduate Diploma in Information Governance (3775)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 103727D
+- This program applies to students who commenced in 2021 or later.
+- The Graduate Diploma in Information Governance (Grad Dip in IG) provides essential knowledge and skills in information technology as well as the business and legal aspects of information governance. The structure of the degree reflects the understanding that the technical, business and legal aspects of information governance, and the related knowledge and skills from these areas are interconnected and applied in confluence in practice. Students will graduate with the systematic knowledge and skills, to operate with best practice as professionals managing information assets and ensuring regulatory compliance creating a pathway to higher studies and/or commencing a career in information governance.
+- Early Exit
+- Students may exit this program on completion of 40 credit points with a 3774 Graduate Certificate in Information Governance
+- Study Mode
+- One year full-time or two years part-time.
+- Program Advice
+- Dr Quang Vinh Nguyen
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Admission
+- Applicants must have successfully completed an undergraduate degree in any discipline.
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Program Structure
+- Qualification for this award requires the successful completion of 80 credit points consisting of the following subjects.
+- Recommended Sequence
+- Full-time start-year intake
+- Full-time mid-year intake
+- Part-time start-year intake
+- Part-time mid-year intake
+- Alternate Subjects
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 7011 Predictive Analytics, replaced by  COMP 7023 Predictive Analytics
+MATH 7012 Programming for Data Science, replaced by  COMP 7024 Programming for Data Science
+MATH 7014 Social Media Intelligence, replaced by  COMP 7025 Social Media Intelligence
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Full Time
+- Internal
+- See above
+- Parramatta Campus - Victoria Road
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+Year 1
+Credit Points
+QUARTER 1 SESSION
+
+LAWS 7009
+Commercial Law
+10
+AUTUMN SESSION
+
+MATH 7016
+The Nature of Data
+10
+COMP 7007
+Information Security Management
+10
+LAWS 7015
+Information and Data Governance Law and Policy
+10
+QUARTER 3 SESSION
+
+BUSM 7014
+Compliance Management
+10
+SPRING SESSION
+
+ENGR 7017
+Professional Practice and Communication
+10
+Select one alternate subject from the list below
+10
+QUARTER 4 SESSION
+
+BUSM 7086
+Strategic Business Management
+10
+
+Credit Points
+80
+
+Total Credit Points
+80
+Year 1
+Credit Points
+QUARTER 3 SESSION
+
+LAWS 7009
+Commercial Law
+10
+BUSM 7014
+Compliance Management
+10
+SPRING SESSION
+
+ENGR 7017
+Professional Practice and Communication
+10
+Select one alternate subject from the list below
+10
+QUARTER 4 SESSION
+
+BUSM 7086
+Strategic Business Management
+10
+AUTUMN SESSION
+
+MATH 7016
+The Nature of Data
+10
+COMP 7007
+Information Security Management
+10
+LAWS 7015
+Information and Data Governance Law and Policy
+10
+
+Credit Points
+80
+
+Total Credit Points
+80
+Year 1
+Credit Points
+QUARTER 1 SESSION
+
+LAWS 7009
+Commercial Law
+10
+AUTUMN SESSION
+
+MATH 7016
+The Nature of Data
+10
+QUARTER 3 SESSION
+
+BUSM 7014
+Compliance Management
+10
+SPRING SESSION
+
+ENGR 7017
+Professional Practice and Communication
+10
+
+Credit Points
+40
+Year 2
+AUTUMN SESSION
+
+COMP 7007
+Information Security Management
+10
+LAWS 7015
+Information and Data Governance Law and Policy
+10
+SPRING SESSION
+
+Select one alternate subject from the list below
+10
+QUARTER 4 SESSION
+
+BUSM 7086
+Strategic Business Management
+10
+
+Credit Points
+40
+
+Total Credit Points
+80
+Year 1
+Credit Points
+QUARTER 3 SESSION
+
+LAWS 7009
+Commercial Law
+10
+SPRING SESSION
+
+ENGR 7017
+Professional Practice and Communication
+10
+AUTUMN SESSION
+
+MATH 7016
+The Nature of Data
+10
+Select one alternate subject from the list below
+10
+
+Credit Points
+40
+Year 2
+QUARTER 3 SESSION
+
+BUSM 7014
+Compliance Management
+10
+QUARTER 4 SESSION
+
+BUSM 7086
+Strategic Business Management
+10
+AUTUMN SESSION
+
+LAWS 7015
+Information and Data Governance Law and Policy
+10
+COMP 7007
+Information Security Management
+10
+
+Credit Points
+40
+
+Total Credit Points
+80
+
+Courselist Tables:
+
+courselist table1:
+LAWS 7009Commercial Law10
+LAWS 7015Information and Data Governance Law and Policy10
+BUSM 7014Compliance Management10
+BUSM 7086Strategic Business Management10
+ENGR 7017Professional Practice and Communication10
+COMP 7007Information Security Management10
+MATH 7016The Nature of Data10
+One alternate subject10
+Total Credit Points80
+
+courselist table2:
+COMP 7018Advanced Cloud Computing10
+PUBH 7001Advanced Health Classifications and Coding10
+INFS 7001Advanced Healthcare Data Environments10
+INFS 7002Advanced Healthcare Software and Systems10
+INFO 7001Advanced Machine Learning10
+INFO 7002Advanced Topics in Artificial Intelligence10
+INFO 7014Advanced Topics in Cybersecurity10
+INFS 7003Advanced Topics in ICT10
+COMP 7002Advanced Topics in Networking10
+COMP 7019Applied Machine Learning10
+COMP 7020Artificial Intelligence Ethics and Organisations10
+COMP 7003Big Data10
+COMP 7004Cloud Computing10
+INFO 7018Cloud Systems Development10
+LAWS 7010Company Law10
+INFS 7004Content Management Systems and Web Analytics10
+COMP 7006Data Science10
+COMP 7028Hands-on Quantum Computing10
+COMP 7008Internet of Things10
+COMP 7021Knowledge Representation and Reasoning10
+BUSM 7065Managing in the Global Context10
+COMP 7009Mobile Computing10
+COMP 7011Multimedia Communication Systems10
+COMP 7022Natural Language Processing10
+COMP 7012Network Management10
+COMP 7023Predictive Analytics10
+MATH 7017Probabilistic Graphical Models10
+COMP 7024Programming for Data Science10
+INFS 7008Systems and Network Security10
+COMP 7025Social Media Intelligence10
+INFS 7006Software Testing and Automation10
+BUSM 7099Understanding Contemporary Organisations10
+COMP 7016Visualisation10
+INFO 7013Web Engineering10
+INFS 7009Web Technologies10
+COMP 7017Wireless Networking10

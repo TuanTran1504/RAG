@@ -1,0 +1,27 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Geotechnical, Minor (0117)
+- Western Sydney University Minor Code:
+- Location
+- Minor Structure
+- This minor is only available to students enrolled in Bachelor of Engineering (Honours) (3740) and Bachelor of Engineering Advanced (Honours) (3771).
+- Students must complete 4 subjects as follows.
+- Related Programs
+
+Location Table:
+- Penrith Campus
+- Internal
+- beng@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Students must complete 40 credit points from the following
+CIVL 3022Bridge Embankment Design10
+CIVL 3018Hydrogeology10
+CIVL 4008Pile Foundations10
+CIVL 4011Waste Management10
+Total Credit Points40

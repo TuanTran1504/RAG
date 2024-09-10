@@ -1,0 +1,48 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Graduate Certificate in Nursing (Professional Studies) (exit only) (4737)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 086215G
+- This is an exit program only. Applicants apply to Master of Nursing (Professional Studies) and exit with the Graduate Certificate in Nursing (Professional Studies) award.
+- Study Mode
+- Six months full time or one year part-time.
+- Program Advice
+- Dr Diana Jefferies
+- Location
+- This is an exit only program.
+- Program Structure
+- Qualification for this award requires the successful completion of 40 credit points including the subjects listed below.
+- Elective subjects
+- Students may select their electives from any program offered by the university, provided any requisite requirements are met.
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Full Time
+- External
+- See above
+- Parramatta Campus - Victoria Road
+- Part Time
+- External
+- See above
+- Parramatta Campus - Victoria Road
+- Full Time
+- Internal
+- See above
+- Parramatta Campus - Victoria Road
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+NURS 7019Cultural and Social Diversity in Health Care10
+PUBH 7021Primary Health Care and its Applications10
+PUBH 7026Supporting Aged Communities10
+Select one elective10
+Total Credit Points40

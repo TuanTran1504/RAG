@@ -1,0 +1,13 @@
+Academic Handbook Current Edition ENGR 2032 Sustainability Analysis and Design Credit Points 10 Legacy Code 301419 Coordinator Sathaa Arumugam Sathasivan Opens in new window Description In this unit, students will learn and appropriately apply technical and socio-economic approaches of achieving sustainability, such as life cycle assessment, environmental impact assessment, environmental auditing, circular economy, design for the environment and cleaner production to real world problems. The students will be taught about policy, financial and social approaches to achieving sustainability through real life problems/cases. School Eng, Design & Built Env Discipline Environmental Engineering Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 2 subject Learning Outcomes On successful completion of this subject, students should be able to: Perform Systems Analysis including Environmental Auditing for simple systems or products.
+Explain the implication of Circular Economy to Sustainable Development.
+Perform Life Cycle Assessment for a given case.
+Perform Environmental Impact Assessment for a given project.
+Explain the term Cleaner Production or Industrial Ecology with examples of applications.
+Modify a system or product design and perform option analysis considering multiple aspects such as environmental, social, cultural, political, economic, and regulatory factors.
+Communicate solutions to specialist and non-specialist audiences. Subject Content 1.Systems analysis and auditing
+2.Circular economy
+3.Environmental auditing
+4.Technical approaches to sustainability such as life cycle assessment; environmental impact assessment
+5.Non-technical approaches to sustainability such as tax, policy, marketing. Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Report 3000 words 35 N Individual N  Intra-session Exam 1 hour 30 N Individual N  Report 2000-3000 words and 
+15 minutes
+ 35 N Both (Individual & Group) N Structures that include subject Materials Engineering, Testamur Major (T128) Other Engr. and Related Tech (ENGR) Sustainability Engineering, Testamur Major (T129)

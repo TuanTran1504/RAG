@@ -1,0 +1,30 @@
+Academic Handbook Current Edition INFO 0007 Computer Literacy (WSTC) Credit Points 5 Legacy Code 900051 Coordinator Frank Gutierrez Opens in new window Description This subject is intended to familiarise the University Foundation Studies students with the basic functions of computers and the skills necessary to use the common applications such as Microsoft Word, Microsoft PowerPoint and the Internet. These skills are introduced to students through structured activities that will assist students to complete the research and document preparation requirements of their other subjects. School Western Sydney The College Discipline Information Technology, Not Elsewhere Classified. Student Contribution Band HECS Band 2 5cp Check your fees via the Fees page. Level Undergraduate Level 0 Preparatory subject Restrictions Must be enrolled at The College in Foundation program. Learning Outcomes On successful completion of this subject, students should be able to: Start up, logon and shut down a computer successfully;
+Save and store documents in appropriate formats;
+Find relevant and useful information online;
+Use Microsoft Word to create simple documents and reports;
+Use Microsoft PowerPoint to create effective slide shows;
+Print documents. Subject Content 1. Introduction to Computers
+o How computers work;
+o Introduction to the operating system
+2. Files and Folders
+o Managing files and folders;
+o Storing and retrieving files.
+3. Introduction to the Internet
+o Accessing the internet;
+o Saving files from the internet;
+o Search engines and guides/categories;
+o Developing a search strategy, copyright and plagiarism;
+o Following a WebQuest;
+o Designing a WebQuest.
+4. Introduction to Microsoft Word
+o Features of a word processor;
+o Microsoft Word window and menus;
+o Writing and editing simple documents;
+o Spell and grammar checkers;
+o Inserting graphics from clip art, photos and the internet;
+o Improving the appearance of documents.
+5. Introduction to Presentation Software:
+o Creating a simple slide presentation;
+o Using PowerPoint templates;
+o Simple animation effects Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Practical/Short Answer 4 x 20 minutes 20 N Individual   Applied Project - PowerPoint 4 - 5 pages (A4) 10 N Individual   Applied Project – Searching the Internet
+(Webquest) 4 - 5 pages (A4) 20 N Individual   Applied Project - Word 4 - 5 pages (A4) 10 N Individual   Intra-session exam 60 minutes 40 N Individual Prescribed Texts Structures that include subject Other information Technology (INFO)

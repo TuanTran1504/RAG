@@ -1,0 +1,21 @@
+Academic Handbook Current Edition COMP 2008 Computer Organisation Credit Points 10 Legacy Code 300096 Coordinator Jianhua Yang Opens in new window Description This subject is designed for computer science students, particularly those interested in systems programming and hardware development. The students will learn about the interface between the hardware and software of a computer system. This will involve study of some aspects of computer architecture and low level interfacing to gain an insight into central processing unit (CPU) organisation at the assembly language level. After completing this subject students will be able to write procedures in an assembly language, use their understanding of the relationship between the instruction set architecture and the implementation of high level languages to write efficient programs. School Computer, Data & Math Sciences Discipline Programming Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 2 subject Pre-requisite(s) The following pre-requisite unit applies to course 3771 only
+ENGR 1045 Engineering Programming Fundamentals
+
+The following pre-requisites apply to all courses except 3771
+COMP 1005 Programming Fundamentals OR
+ELEC 1006 Engineering Computing AND
+MATH 1006 Discrete Mathematics OR
+MATH 1016 Mathematics for Engineers 1 Learning Outcomes On successful completion of this subject, students should be able to: Consider the Instruction Set Architecture (ISA) in order to carry out assembly programming tasks.
+Examine the stored program concept and internal representation of different types of data.
+Examine the memory hierarchy and how this relates to computer system performance.
+Identify the hardware mechanisms that support interrupt handling and how the latter is used to implement I/O control.
+Explain the structure of datapath and control as well as the basic instruction level parallelism using pipelining.
+Critique fundamental issues in evaluating computer system performance. Subject Content 1. Machine level representation of data including integer and floating point arithmetic, characters, and arrays; arithmetic and logical operations.
+2. Assembly level machine organisation and assembly language programming including instruction set architecture, instruction formats, instruction execution cycle, addressing modes, subroutine call and return mechanisms.
+3. Memory organisation and architecture including memory hierarchy, main memory, cache memories, virtual memory.
+4. Types and characteristics of I/O devices, interfacing and communication within a computer system, physical organisation and performance of magnetic disks.
+5. Hardware support for interrupts, programmed and interrupt-driven I/O, interrupt priority levels.
+6. Pipelining and instruction level parallelism (ILP), pipeline hazards.
+7. The basics of logic circuit design including fundamental building blocks and minimisation of logic expressions.
+8. Functional level machine organisation, implementation of datapath and control unit.
+9. Computer system performance measurements and benchmarking, Amdahl's law. Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Practical 11 x 2 hours 40 N Individual Y  Quiz 2 x 20 minutes (per Quiz) 10 N Individual Y  Final Exam 2 hours 50 N Individual Y Prescribed Texts Teaching Periods Spring (2024) Penrith (Kingswood) On-site Subject Contact Jianhua Yang Opens in new window View timetable Opens in new window Parramatta - Victoria Rd On-site Subject Contact Jianhua Yang Opens in new window View timetable Opens in new window Structures that include subject Advanced Game Programming, Minor (0091) Artificial Intelligence, Minor (0031) Bachelor of Computer Science (3506) Bachelor of Computer Science (Advanced) (3634) Bachelor of Information and Communications Technology (3639) Computational Mathematics, Testamur Major (T118) Computer Science (COMP) Cyber Security, Major (0066) Electrical Engineering, Testamur Major (T102) Secondary Teaching, Testamur Major (T119) Software Engineering, Testamur Major (T105)

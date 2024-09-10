@@ -1,0 +1,33 @@
+Academic Handbook Current Edition MATH 0027 Scientific Methods for Construction Management (WSTC Prep) Credit Points 10 Legacy Code 700264 Coordinator Robert Paluzzano Opens in new window Description This subject is designed to assist students to become competent in the fields of mathematics and basic physical science. It reinforces the mathematical skills in the areas of basic arithmetic, algebra, geometry and trigonometry. The subject introduces the study of forces, work and energy and selected applications of these concepts. Emphasis is placed on developing the key competencies of scientific methods to provide the necessary introduction for Building Design and Construction Technology. School Western Sydney The College Discipline Mathematics Student Contribution Band HECS Band 1 10cp Check your fees via the Fees page. Level Undergraduate Level 0 Preparatory subject Restrictions Learning Outcomes On successful completion of this subject, students should be able to: Apply appropriate arithmetic and algebraic techniques to solve problems.
+Solve problems involving simple linear equations, and quadratic equations using the formula and where relevant, apply the SI units appropriately.
+Solve geometric and trigonometric problems that involve two and three dimensional objects.
+Demonstrate a basic knowledge and understanding of the relationship between force, work, and energy and power.
+Solve problems involving these as they relate to such quantities as distance, mass and velocity.
+Identify and discuss the key issues related to the relationship between building design and acoustics.
+Explain the thermal properties of selected materials used in construction.
+Interpret and communicate ideas in a clear and effective manner, using logical arguments, appropriate notation and correct units of measurement. Subject Content 1. Arithmetic processes
+a) Working with whole numbers
+b) Working with fractions, decimals and percentages
+c) Working with index numbers
+2. Algebra
+a) Terminology
+b) Working with algebraic expressions
+3. Solving equations
+a) SI units and measurement
+b) Linear equations
+c) Quadratic equations using the quadratic formula
+4. Geometry
+a) Angles
+b) Area, volume and surface area of common objects
+5. Trigonometry
+a) Right angled triangle
+b) Sine and Cosine rules
+6. Forces, Work and Energy
+a) Force = Mass x Acceleration
+b) Forces in equilibrium
+c) Work = Force x distance
+d) Work = Change in(?E) Energy
+e) Kinetic Energy
+f) Gravitational Potential Energy
+7. Sound waves and acoustics
+8. The Thermal properties of materials Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Numerical Problem Solving and Reflection Tutorial activities completed during class time and submitted and assessed twice during the term. (10% each) 20 N Individual   Short answer 1 hour 20 N Individual   Presentation  3 minutes 10 N Individual   Short answer 1 hour 20 N Individual   End-of-session Exam 2 hrs and 20 mins  30 N Individual Structures that include subject Building (BLDG) Mathematics (MATH)

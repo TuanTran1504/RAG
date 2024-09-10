@@ -1,0 +1,37 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Electrical and Telecommunication, Testamur Major (T113)
+- Western Sydney University Major Code:
+- Previous Code:  ST3086.1
+- Location
+- Major Structure
+- Students must complete 100 credit points as follows.
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- pg-enq@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Complete the following core double major subjects:
+ELEC 7008Instrumentation and Measurement (PG)10
+ELEC 7009Personal Communication Systems10
+ELEC 7005Advanced Signal Processing10
+ELEC 7002Advanced Data Networks10
+Select three of the following Electrical alternate major subjects:30
+ELEC 7001Advanced Control Systems
+ELEC 7003Advanced Electrical Machines and Drives
+ELEC 7004Advanced Power Quality
+ELEC 7006Advanced Smart Grids and Distributed Generation
+ELEC 7010Power System Planning and Economics
+Select three Telecommunication major subjects:30
+COMP 7017Wireless Networking
+ENGR 7023Advanced Biomedical Data and Images
+COMP 7011Multimedia Communication Systems
+Total Credit Points100

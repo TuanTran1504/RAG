@@ -1,0 +1,56 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Advertising Studies, Minor (0043)
+- Western Sydney University Minor Code:
+- Previous Code: SM1125.1
+- From 2024, students should take 0159 Advertising, minor instead.
+- The Advertising Studies minor equips students with skills, knowledge and hands-on experience in preparation for a career in an Advertising Creative or Media Agency. The minor provides the necessary foundation in the general principles and practices of the Advertising industry through project-based learning. Areas of study include advertising research, strategy, creative, media planning and buying, campaigns and client management.
+- Location
+- Minor Structure
+- Bachelor of Design (Visual Communication) Students
+- Bachelor of Design (Visual Communication) students must complete 40 credit points as follows.
+- Select three of the following Level 2 and 3 subjects
+- Level 2
+- Level 3
+- Students must complete 40 credit points as follows.
+- NOTE: Some of the pool subjects have pre-requisite requirements. Students should check the details of each subject prior to making their selection, and seek Program Advice if they are unsure which subjects to choose.
+- The subject listed below counts towards completion of this minor for students who passed this subject in 2019 or earlier.
+- COMM 3007 Communication Campaigns, replaced by COMM 3045 Advertising: Campaigns
+- COMM 3045 Advertising: Campaigns
+- Related Programs
+
+Location Table:
+- Online
+- enquiriesHCA@uws.edu.au
+- Parramatta Campus - Victoria Road
+- Internal
+- enquiriesHCA@uws.edu.au
+- Penrith Campus
+- Internal
+- enquiriesHCA@uws.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Compulsory Subject
+MKTG 1001Advertising: An Introduction10
+
+courselist table2:
+COMM 2001Account and Client Management10
+COMM 2006Advertising: Media10
+MKTG 2001Advertising: Creative10
+COMM 2011Communication Strategies10
+
+courselist table3:
+COMM 3045Advertising: Campaigns10
+COMM 3014Digital Communication20
+
+courselist table4:
+COMM 2001Account and Client Management10
+MKTG 1001Advertising: An Introduction10
+MKTG 2001Advertising: Creative10
+COMM 2006Advertising: Media10
+Total Credit Points40

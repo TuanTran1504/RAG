@@ -1,0 +1,35 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Telecommunication, Testamur Major (T075)
+- Western Sydney University Major Code:
+- Previous Code: ST3097.1
+- Location
+- Major Structure
+- Telecommunication Specialised Alternate Subjects
+- Specialist alternate subject offerings are subject to sufficient student demand and may not be offered annually.
+- Students enrolled in 3693 Master of Engineering choose seven specialist subjects from the list below
+- Students exiting with 3694 Graduate Diploma in Engineering (Exit only) choose six specialised alternate subjects
+- Students enrolled in 3695 Graduate Certificate in Engineering choose four specialised alternate subjects
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- Engineering@westernsydney.edu.au
+- Parramatta City Campus-George Street
+- Internal
+- Engineering@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+ELEC 7009Personal Communication Systems10
+COMP 7011Multimedia Communication Systems10
+COMP 7017Wireless Networking10
+ELEC 7008Instrumentation and Measurement (PG)10
+ELEC 7005Advanced Signal Processing10
+ELEC 7002Advanced Data Networks10
+ENGR 7023Advanced Biomedical Data and Images10

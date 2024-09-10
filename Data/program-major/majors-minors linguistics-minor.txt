@@ -1,0 +1,55 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Linguistics, Minor (0022)
+- Western Sydney University Minor Code:
+- Previous Code: SM1119.1
+- Language is fundamental to the human experience. Through study of how language works, students make contact with fundamental philosophical, socio-cultural, and psychological questions about what it means to be human. Linguistics prepares students with a foundation for many careers including primary and secondary teaching, policy analysis, communication, and social services in culturally diverse communities. Linguistics students also gain the analytical tools of empirical science including the ability to break complex problems into components with tractable solutions and to evaluate theories on the basis of empirical facts. These skills prepare students for success in post-graduate studies and careers in research, analytics, business and law.
+- Location
+- Minor Structure
+- To complete a minor in Linguistics, students must complete 40 credit points from the subjects listed below.
+- The subjects listed below count towards completion of this minor for students who passed subjects in the list below in 2018 or earlier.
+- LANG 3008 - Applied Critical Methods, no longer offered
+LANG 3046 - Intercultural Pragmatics, replaced by LANG 3045 Intercultural Communication
+LANG 1013 Introduction to Interpreting 
+LANG 1017 Introduction to Translation
+LANG 3057 Languages and Grammatical Concepts 3A: Arabic 
+LANG 3058 Languages and Grammatical Concepts 3A: Chinese 
+LANG 3070 - Research Methods in Linguistics, replaced by LANG 3031 Discovering language: Everything you've ever wanted to know but never asked
+- LANG 3045 Intercultural Communication
+- LANG 1013 Introduction to Interpreting
+- LANG 1017 Introduction to Translation
+- LANG 3057 Languages and Grammatical Concepts 3A: Arabic
+- LANG 3058 Languages and Grammatical Concepts 3A: Chinese
+- LANG 3031 Discovering language: Everything you've ever wanted to know but never asked
+- Related Programs
+
+Location Table:
+- Bankstown City Campus
+- Internal
+- enquiriesHCA@uws.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Core Subjects
+Select at least two of the following:20
+LANG 3016Bilingualism and Biculturalism
+LANG 1014Introduction to Linguistics
+LANG 2034Meaning in Language
+LANG 3071Second Language Acquisition
+LANG 2041Structure of Language
+LANG 1028The Sound of Language
+Select two subjects from the above list or from the pool subjects below:20
+Level 2 Subject Pool
+LANG 2037Pragmatics
+Level 3 Subject Pool
+LANG 3030Discourse Analysis
+LANG 3034Historical Linguistics
+LANG 3045Intercultural Communication
+BEHV 3019Psychology of Language
+LANG 3031Discovering language: Everything you've ever wanted to know but never asked
+LANG 3073Sociolinguistics
+Total Credit Points40

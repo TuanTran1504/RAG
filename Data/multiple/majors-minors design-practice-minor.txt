@@ -1,0 +1,25 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Design Practice, Minor (0225)
+- Western Sydney University Minor Code:
+- Location
+- Minor Structure
+- Students must complete 40 credit points as follows.
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- Specialisation advice
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+ENGR 4017Design Thinking for Competitive Advantage10
+ENGR 4019Start-Up Product Launch10
+BUSM 3005Creating Change and Innovation10
+ENGR 2029Simulation in Virtual and Augmented Realities10
+Total Credit Points40

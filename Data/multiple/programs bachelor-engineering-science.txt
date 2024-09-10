@@ -1,0 +1,115 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Bachelor of Engineering Science (3691)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 074195E
+- This program applies to students who commenced in 2022 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- For Commencement Year Spring 2018, please refer to: 3691.5 Bachelor of Engineering Science
+- For Commencement Year 2017 to Autumn 2018, please refer to: 3691.4 Bachelor of Engineering Science
+- For Commencement Year 2015, please refer to: 3691.2 Bachelor of Engineering Science
+- For Commencement Year 2014, please refer to: 3691.1 Bachelor of Engineering Science
+- The Bachelor of Engineering Science (BEngSc) is a three-year degree program with common first year structure. Students have the opportunity to focus on a discipline area by selecting a Major in Advanced Manufacturing, Civil, Construction, Electrical, Materials, Mechanical, Robotics & Mechatronics, and Sustainability engineering. The program has been developed with the view of enabling graduates to practice as an engineering technologist in their chosen field. The three-year BEngSc program may be used as a pathway to the four-year Bachelor of Engineering program that meets Engineers Australia professional accreditation requirements; an academic performance criteria will be the eligibility criteria for such a transfer.
+- This program is taught at the Parramatta City - Hassall Street campus.
+- Study Mode
+- Three years full-time or six years part-time.
+- Program Advice
+- Program advice
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Programs delivered through an agreement with another party
+- Accreditation
+- The program has been designed to meet Engineers Australia professional accreditation requirements – Competency Stage 1 Engineering Technologist and Australian Quality Frameworks (AQF) Level 7.
+- Engineers Australia accreditation is pending approval for the Advanced Manufacturing, Materials, and Sustainability disciplines. Engineers Australia accreditation for the Surabaya Campus offering will be sought.
+- Graduates of this program are eligible to apply for full membership of Engineers Australia. They are eligible to apply for Certified Engineering Technologist registration upon successful completion of required engineering practice period specified by Engineers Australia.
+- Inherent Requirements
+- There are inherent requirements for this program that you must meet in order to complete your program and graduate. Make sure you read and understand the requirements for this program online.
+- Inherent Requirements
+- Work Integrated Learning
+- There is a mandatory work component required for completion of this program.  Please contact the Program Advisor listed above for information.
+- International students should also refer to the link below for more information and a link to the Commonwealth Register of Institutions and Courses for Overseas Students (CRICOS).
+- Work Integrated Learning (WIL) for international students
+- Admission
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- International students currently completing an Australian Year 12 in or outside Australia, an International Baccalaureate in Australia or a New Zealand National Certificate of Educational Achievement (NCEA) level 3 must apply via UAC International.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Program Structure Current
+- This structure applies to students who commenced in 2024 or later. If you commenced prior to 2024 please refer to the relevant Structure tab for details.
+- Qualification for this award requires the successful completion of 240 credit points, which include the subjects listed in the recommended sequences below.
+- Penrith, Parramatta and Sydney City Campuses
+- All students undertaking the Bachelor of Engineering Science are required to enrol in MATH 1021 Mathematics for Engineers Preliminary.  Students with advanced mathematical skills (band 6 in Advanced Maths or a good grade in Extension Maths or equivalent) may take a readiness test at the start of semester to determine if they are ready for direct entry to MATH 1016 Mathematics for Engineers 1. This test is a mathematics aptitude test, students with the requisite skills should not need to study for it.
+- MATH 1021 Mathematics for Engineers Preliminary
+- MATH 1016 Mathematics for Engineers 1
+- Students who pass the readiness test will have their enrolment transferred to MATH 1016 Mathematics for Engineers 1 by the School.
+- MATH 1016 Mathematics for Engineers 1
+- Students remaining in MATH 1021 Mathematics for Engineers Preliminary will be required to complete MATH 1016 Mathematics for Engineers 1 during second semester and will be encouraged to complete MATH 1019 Mathematics for Engineers 2 during the Summer session.
+- MATH 1021 Mathematics for Engineers Preliminary
+- MATH 1016 Mathematics for Engineers 1
+- MATH 1019 Mathematics for Engineers 2
+- Penrith and Parramatta Campuses
+- Sydney City Campus
+- Click here for the recommended sequence at Sydney City Campus
+- Surabaya Campus Indonesia
+- Academic Program Advisors
+- Program Structure 2022-2023
+- Academic Program Advisors
+- Recommended Sequence
+- Qualification for this award requires the successful completion of 240 credit points which include the subjects listed in the recommended sequences below.
+- Students must select one of the following Majors
+- Penrith and Parramatta Campuses
+- Sydney City Campus
+- Click here for the recommended sequence at Sydney City Campus.
+
+Location Table:
+- Parramatta City Campus
+- Full Time
+- Internal
+- See above
+- Parramatta City Campus
+- Part Time
+- Internal
+- See above
+- Penrith Campus
+- Full Time
+- Internal
+- See above
+- Penrith Campus
+- Part Time
+- Internal
+- See above
+- Sydney City Campus*
+- Full Time
+- Internal
+- Peter Lendrum
+- Surabaya Campus Indonesia
+- Full Time
+- Internal
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+ELEC 1006Engineering Computing10
+ENGR 1011Engineering Physics10
+ENGR 1024Introduction to Engineering Practice10
+ENGR 1018Fundamentals of Mechanics10
+PROC 1008Introduction to Materials Engineering10
+ELEC 1003Electrical Fundamentals10
+Select two of the following20
+MATH 1021Mathematics for Engineers Preliminary
+MATH 1016Mathematics for Engineers 1
+MATH 1019Mathematics for Engineers 2
+Students at Surabaya Campus Indonesia will select
+MATH 1016Mathematics for Engineers 1
+MATH 1019Mathematics for Engineers 2
+Total Credit Points80

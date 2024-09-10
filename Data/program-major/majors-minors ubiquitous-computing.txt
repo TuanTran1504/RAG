@@ -1,0 +1,46 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Ubiquitous Computing, Minor (0325)
+- Western Sydney University Minor Code:
+- Ubiquitous Computing is the concept of using small internet connections and inexpensive computers to help with everyday functions in an automated fashion. This minor introduces and explores the challenges Ubiquitous Computing presents in systems design and engineering, systems modelling, and user interface design.
+- Location
+- Minor Structure 2023
+- Students must complete 40 credit points as follows.
+
+Location Table:
+- Campbelltown Campus
+- Full-time
+- Internal
+- cdms@westernsydney.edu.au
+- Campbelltown Campus
+- Part-time
+- Internal
+- cdms@westernsydney.edu.au
+- Parramatta Victoria Road Campus
+- Full-time
+- Internal
+- cdms@westernsydney.edu.au
+- Parramatta Victoria Road Campus
+- Part-time
+- Internal
+- cdms@westernsydney.edu.au
+- Penrith Campus
+- Full-time
+- Internal
+- cdms@westernsydney.edu.au
+- Penrith Campus
+- Part-time
+- Internal
+- cdms@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+INFO 3015Internet of Things and Smart Environments10
+COMP 3012Introduction to Cloud Computing10
+COMP 3009Distributed Systems and Programming10
+COMP 2028Cryptography, Cryptocurrencies and Blockchain10
+Total Credit Points40

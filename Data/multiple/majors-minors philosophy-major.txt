@@ -1,0 +1,67 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Philosophy, Major (0028)
+- Western Sydney University Major Code:
+- Previous Code: M1058.1
+- Philosophy has always asked the “big questions” about our lives. These are questions, for example, about the limits of our knowledge, the best way that humans can live together, how we understand the world around us, and what is the good life. A philosophy major will enable students to develop particular skills and attributes - such as clear thinking, capacities to assess arguments and values, sound understanding of important philosophical views that have always been essential to university scholarship, and which continue to be valuable for graduates in both public and private life.
+- Location
+- Major Structure
+- Students must complete 80 credit points as follows.
+- Complete the following four compulsory units.
+- Select four subjects from the following pools, with no fewer than two Level 3 subjects.
+- Note: not all subjects will be offered each year. Subjects will be offered on a rotational basis.
+- The subjects listed below count towards completion of the major for students who passed these subjects in 2021 or earlier.
+- PHIL 2005 - Case Studies in Philosophy: Thinker, replaced by  PHIL 2014 Thinkers That Changed the World
+PHIL 3007 - Case Studies in Philosophy: Text, replaced by PHIL 3006 Books that Changed how we Think
+PHIL 2006 - Key Philosophers, replaced by PHIL 2014 Thinkers That Changed the World
+PHIL 3014 - Philosophy in Focus, replaced by PHIL 3006 Books that Changed how we Think
+BEHV 3013 - Humanities Internship, no longer offered as part of this major.
+PHIL 2008 - Philosophy and the Good Life, no longer offered as part of this major.
+- PHIL 2014 Thinkers That Changed the World
+- PHIL 3006 Books that Changed how we Think
+- PHIL 2014 Thinkers That Changed the World
+- PHIL 3006 Books that Changed how we Think
+- Related Programs
+
+Location Table:
+- Bankstown City Campus
+- Internal
+- enquiriesHCA@uws.edu.au
+- Parramatta Campus - Victoria Road
+- Internal
+- enquiriesHCA@uws.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+PHIL 3006Books that Changed how we Think10
+PHIL 1001Ethics and Philosophy10
+PHIL 1006Introduction to Philosophy10
+PHIL 2014Thinkers That Changed the World10
+
+courselist table2:
+Level 2 Pool Subjects
+HUMN 2011Ancient Western Culture: Periclean Athens
+PHIL 2010The Ethical Life
+PHIL 2015Thinking Cinema
+PHIL 2016Truth and Knowledge
+PHIL 2017Western Political Philosophy
+Level 3 Pool Subjects
+PHIL 3005Aesthetics
+PHIL 3008Classics of Modern Philosophy
+HUMN 3036Ethics in Historical Perspective
+LANG 3062Literature and Philosophy
+PHIL 3010Philosophies of Love and Death
+PHIL 3012Philosophy and Environment
+PHIL 3015Philosophy of History
+PHIL 3018Philosophy of Race and Racism
+PHIL 3016Philosophy of Religion
+HUMN 3084Theories of Conflict and Violence
+CULT 3021Theories of Authority
+PHIL 3019Thought and Action in Greece and Rome
+HUMN 3088Understanding Freedom
+HUMN 3090Understanding Power
+HUMN 3096What is the Human?

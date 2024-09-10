@@ -1,0 +1,369 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Master of Fire Safety Engineering (3705)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- This program applies to students who commenced in 2022 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- For Commencement Year Summer A 2017/2018, please refer to: 3705.3 Master of Fire Safety Engineering
+- For Commencement Year 2016 - please refer to 3705.2 Master of Fire Safety Engineering
+- For Commencement Year 2015 - please refer to 3705.1 Master of Fire Safety Engineering
+- The Master of Fire Safety Engineering aims to provide professionals with the special skills and knowledge to develop, assess and evaluate fire safety engineering solutions for buildings. It is relevant to professionals developing performance solutions using the fire engineering guidelines to meet the objectives and performance requirements of building regulations. Graduates will also acquire the skill to independently appraise the literature and address fire safety engineering issues faced by the building industry. This program can be completed in two years of full-time study, but the recommended study load is completion in three years in part-time mode.
+- The program has been designed primarily for External delivery. Many of the units have non-compulsory workshops that can be either attended online or on campus. Students are encouraged to attend these workshops to gain the benefit of interaction with their peers. Students will need to undertake a year’s relevant work experience if not already working within the fire engineering industry.
+- Early Exits
+- Students may exit this program on completion of 40 credit points with a 3792 Graduate Certificate in Fire Safety Engineering or on completion of 80 credit points with a 3791 Graduate Diploma in Fire Safety Engineering
+- Study Mode
+- Three years part-time. Students can fast-track by completing additional subjects per semester to complete the program earlier.
+- Program Advice
+- Program Advice
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Accreditation
+- This program is recognised under the NSW Building and Design Certifiers Act 2018 as meeting the requirements for Certifiers - Fire safety.
+- Work Integrated Learning
+- Students will need to undertake a year’s relevant work experience if not already working within the fire engineering industry. Please contact the Program Advisor listed above for information.
+- Admission
+- There are two pathways into the Master of Fire Safety Engineering
+- Entry Pathway A (120cps)
+- Applicants must have successfully completed an undergraduate degree or higher in any field of engineering accepted under the Washington Accord, and
+at least 2 years related professional work experience in fire engineering or fire systems design (fire protection)
+- Entry Pathway B (160cps)
+- Applicants must have successfully completed an undergraduate degree or higher, in engineering, engineering science, construction management, building surveying, physical sciences or architecture, and
+at least 5 years related professional work experience in engineering, construction management, building surveying or fire systems design (fire protection).
+- Applicants seeking admission on the basis of work experience must support their application with a Statement of Service for all work experience listed on the application.
+- Statement of Service form
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local and International applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Recommended Sequence
+- The program length and structure varies based on the student’s previous study background and level, and work experience.
+- Students are categorised into two Pathways based on their previous study background and work experience as indicated below, and program structure and length is set accordingly.
+- Pathway A (120 credit points)
+- Applicants must have successfully completed an undergraduate degree or higher in any field of engineering accepted under the Washington Accord and at least 2 years related professional work experience in fire engineering or fire systems design (fire protection).
+- Qualification for this award requires the successful completion of 120 credit points as per the recommended sequence below.
+- Start-year Intake
+- Graduate Certificate in Fire Safety Engineering
+- Graduate Diploma in Fire Safety Engineering
+- Mid-year Intake
+- Graduate Certificate in Fire Safety Engineering
+- Graduate Diploma in Fire Safety Engineering
+- Replaced Subjects
+- ENGR 7006 Fire Engineering 1 (Fire Dynamics) replaced by ENGR 5001 Fire Engineering 1 (Fire Dynamics)
+- Pathway B (160 credit points)
+- Applicants must have successfully completed an undergraduate degree or higher, in engineering, engineering science, construction management, building surveying, physical sciences or architecture and at least 5 years related professional work experience in engineering, construction management, building surveying or fire systems design (fire protection).
+- Start-year Intake
+- Graduate Certificate in Fire Safety Engineering
+- Graduate Diploma in Fire Safety Engineering
+- Mid-year Intake
+- Graduate Certificate in Fire Safety Engineering
+- Graduate Diploma in Fire Safety Engineering
+- Replaced Subjects
+- ENGR 7006 Fire Engineering 1 (Fire Dynamics) replaced by ENGR 5001 Fire Engineering 1 (Fire Dynamics)
+
+Location Table:
+- Parramatta City Campus - Macquarie Street
+- Part Time
+- External
+- Grahame Douglas
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+BLDG 7002
+Building Regulations
+10
+ENGR 5001
+Fire Engineering 1 (Fire Dynamics)
+10
+
+Credit Points
+20
+Spring session
+BLDG 7005
+Egress and Risk Assessment
+10
+CIVL 7012
+Building Fire Services
+10
+Students may exit at this point with a Graduate Certificate in Fire Safety Engineering (40 credit points). 1
+
+
+Credit Points
+20
+Year 2
+Autumn session
+ENGR 7007
+Fire Engineering 2 (Fire Models)
+10
+ENGR 7019
+Specialised Software Applications
+10
+
+Credit Points
+20
+Spring session
+ENGR 7008
+Fire Engineering Design and Assessment
+10
+BLDG 7008
+Professional Practice and Building Law
+10
+Students may exit at this point with a Graduate Diploma in Fire Safety Engineering (80 credit points). 2
+
+
+Credit Points
+20
+Year 3
+Autumn session
+INFO 7010
+Research Project A
+20
+
+Credit Points
+20
+Spring session
+INFO 7011
+Research Project B
+20
+
+Credit Points
+20
+
+Total Credit Points
+120
+Year 1
+Spring session
+Credit Points
+BLDG 7005
+Egress and Risk Assessment
+10
+CIVL 7012
+Building Fire Services
+10
+
+Credit Points
+20
+Autumn session
+BLDG 7002
+Building Regulations
+10
+ENGR 5001
+Fire Engineering 1 (Fire Dynamics)
+10
+Students may exit at this point with a Graduate Certificate in Fire Safety Engineering (40 credit points)
+
+
+Credit Points
+20
+Year 2
+Spring session
+ENGR 7008
+Fire Engineering Design and Assessment
+10
+BLDG 7008
+Professional Practice and Building Law
+10
+
+Credit Points
+20
+Autumn session
+ENGR 7007
+Fire Engineering 2 (Fire Models)
+10
+ENGR 7019
+Specialised Software Applications
+10
+Students may exit at this point with a Graduate Diploma in Fire Safety Engineering (80 credit points)
+
+
+Credit Points
+20
+Year 3
+Spring session
+INFO 7010
+Research Project A
+20
+
+Credit Points
+20
+Autumn session
+INFO 7011
+Research Project B
+20
+
+Credit Points
+20
+
+Total Credit Points
+120
+Year 1
+Autumn session
+Credit Points
+BLDG 7002
+Building Regulations
+10
+ENGR 5001
+Fire Engineering 1 (Fire Dynamics)
+10
+
+Credit Points
+20
+Spring session
+BLDG 7005
+Egress and Risk Assessment
+10
+CIVL 7012
+Building Fire Services
+10
+Students may exit at this point with a Graduate Certificate in Fire Safety Engineering (40 credit points) 1
+
+
+Credit Points
+20
+Year 2
+1H session
+The following subject is not required for students intending to exit with the Graduate Diploma
+
+BLDG 7014
+Construction Industry Practice A
+20
+
+Credit Points
+20
+Autumn session
+ENGR 7007
+Fire Engineering 2 (Fire Models)
+10
+ENGR 7019
+Specialised Software Applications
+10
+
+Credit Points
+20
+2H session
+The following subject is not required for students intending to exit with the Graduate Diploma
+
+BLDG 7015
+Construction Industry Practice B
+20
+
+Credit Points
+20
+Spring session
+ENGR 7008
+Fire Engineering Design and Assessment
+10
+BLDG 7008
+Professional Practice and Building Law
+10
+Students may exit at this point with a Graduate Diploma in Fire Safety Engineering (80 credit points) 2
+
+
+Credit Points
+20
+Year 3
+Autumn session
+INFO 7010
+Research Project A
+20
+
+Credit Points
+20
+Spring session
+INFO 7011
+Research Project B
+20
+
+Credit Points
+20
+
+Total Credit Points
+160
+Year 1
+Spring session
+Credit Points
+BLDG 7005
+Egress and Risk Assessment
+10
+CIVL 7012
+Building Fire Services
+10
+
+Credit Points
+20
+Autumn session
+BLDG 7002
+Building Regulations
+10
+ENGR 5001
+Fire Engineering 1 (Fire Dynamics)
+10
+Students may exit at this point with a Graduate Certificate in Fire Safety Engineering (40 credit points)
+
+
+Credit Points
+20
+Year 2
+2H session
+The following subject is not required for students intending to exit with the Graduate Diploma
+
+BLDG 7014
+Construction Industry Practice A
+20
+
+Credit Points
+20
+Spring session
+ENGR 7008
+Fire Engineering Design and Assessment
+10
+BLDG 7005
+Egress and Risk Assessment
+10
+
+Credit Points
+20
+1H session
+The following subject is not required for students intending to exit with the Graduate Diploma
+
+BLDG 7015
+Construction Industry Practice B
+20
+
+Credit Points
+20
+Autumn session
+ENGR 7007
+Fire Engineering 2 (Fire Models)
+10
+ENGR 7019
+Specialised Software Applications
+10
+Students may exit at this point with a Graduate Diploma in Fire Safety Engineering (80 credit points)
+
+
+Credit Points
+20
+Year 3
+Spring session
+INFO 7010
+Research Project A
+20
+
+Credit Points
+20
+Autumn session
+INFO 7011
+Research Project B
+20
+
+Credit Points
+20
+
+Total Credit Points
+160
+
+Courselist Tables:

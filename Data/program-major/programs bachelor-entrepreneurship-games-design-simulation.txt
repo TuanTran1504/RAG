@@ -1,0 +1,268 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Bachelor of Entrepreneurship (Games Design and Simulation) (3746)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 096607G
+- This program applies to students who commenced in Spring 2018 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- For Commencement Year 2017 to Autumn 2018, please refer to: 3746.1 Bachelor of Entrepreneurship (Games Design and Simulation)
+- The Bachelor of Entrepreneurship (Games Design and Simulation) is an innovative approach to training the next generation of high impact entrepreneurs by providing the knowledge and developing the practical skills that make them successful. Whilst the specialist focus of the degree is game and simulation development, the program connects it with the art of entrepreneurship and guides students through all phases of their entrepreneurship journey: from forming a team to obtaining funding. Students will gain game development skills while also learning how to start a gaming company. The key emphasis of this program is on developing the mindset, risk tolerance, creativity, team formation and leadership capabilities – key characteristics of high impact entrepreneurs. Practical experience is incorporated into every semester of study, enabling students to continue working on their start-ups throughout the degree.
+- Study Mode
+- Three years full-time or six years part-time.
+- Program Advice
+- Dr Nicholas Sheppard
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Admission
+- Selection is on the basis of Academic merit (ATAR or its equivalent).
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- International students currently completing an Australian Year 12 in or outside Australia, an International Baccalaureate in Australia or a New Zealand National Certificate of Educational Achievement (NCEA) level 3 must apply via UAC International.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Program Structure
+- The Advanced Game Programming minor in this degree is intended to be combined with the Game Programming major.
+- The Advanced Game Design minor is intended to be combined with the Game Design major.
+- The minor listed below counts towards completion of this Program for students who began studying this minor in 2019 or earlier.
+- SM3097 Advanced Game Design, Minor, replaced by Advanced Game Design, Minor in 2020 (listed above).
+- Recommended Sequence
+- Qualification for this award requires the successful completion of 240 credit points as per the recommended sequence below.
+- Full-time start-year intake
+- Full-time mid-year intake
+- Minor elective spaces
+- Global Sustainability Minor  Indigenous Australian Studies Minor
+- Equitable Technologies Urban Evolution Migration and Global Change   Personal Innovation     Innovating, Creating and Problem Solving  Eco-Socially Conscious Design and Manufacturing Water for Life  Climate Justice Creative and Visual Communication Global Workplaces Innovating For Humans  Creative Living for Cultural Wellbeing   Ideate.Strategise.Innovate. Humanising Data
+- For more information, visit the Challenge Minor website.
+- Search for majors and minors
+- Students can apply for an elective minor via Western Now.
+- WesternNow
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Full Time
+- Internal
+- See above
+- Parramatta Campus - Victoria Road
+- Part Time
+- Internal
+- See above
+- Penrith Campus
+- Full Time
+- Internal
+- See above
+- Penrith Campus
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+BUSM 1012
+Foundations of Entrepreneurship
+10
+COMP 2011
+Games Technology
+10
+COMP 1001
+3D Modelling Fundamentals
+10
+Select Major subject 1
+10
+
+Credit Points
+40
+Spring session
+MKTG 2002
+Incubator 1: Innovation and Creativity for Entrepreneurship
+10
+BUSM 2024
+Incubator 2: Start-up Essentials
+10
+COMP 1005
+Programming Fundamentals
+10
+COMP 2018
+Simulation Fundamentals
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+MKTG 2003
+Incubator 3: Product Development
+10
+ACCT 3009
+Incubator 4: Commercial and Financial Setting of Entrepreneurship
+
+Note: from Autumn 2024 ACCT 3009 is replaced by ACCT 3012
+10
+ACCT 3012
+Incubator 4: Commercial and Financial Strategy for Entrepreneurs
+
+Select Major subject 2
+10
+Select Minor subject 1 or elective 1
+10
+
+Credit Points
+40
+Spring session
+BUSM 3025
+Incubator 5: Operational Aspects of Entrepreneurship
+10
+Select Major subject 3
+10
+Select Major subject 4
+10
+Select Minor subject 2 or elective 2
+10
+
+Credit Points
+40
+Year 3
+Autumn session
+MKTG 3005
+Incubator 6: Funding and Start-up
+
+Note: from Autumn 2024 MKTG 3005 is replaced by MKTG 3023
+10
+MKTG 3023
+Incubator 6: Funding a Start-up
+
+Select Major subject 5
+10
+Select Major subject 6
+10
+Select Minor subject 3 or elective 3
+10
+
+Credit Points
+40
+Spring session
+MKTG 3006
+Incubator 7: Growth and Exit Strategies
+10
+Select Major subject 7
+10
+Select Major subject 8
+10
+Select Minor subject 4 or elective 4
+10
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Spring session
+Credit Points
+BUSM 1012
+Foundations of Entrepreneurship
+10
+MKTG 2002
+Incubator 1: Innovation and Creativity for Entrepreneurship
+10
+COMP 1005
+Programming Fundamentals
+10
+COMP 2018
+Simulation Fundamentals
+10
+
+Credit Points
+40
+Autumn session
+BUSM 2024
+Incubator 2: Start-up Essentials
+10
+COMP 2011
+Games Technology
+10
+COMP 1001
+3D Modelling Fundamentals
+10
+Select Major subject 1
+10
+
+Credit Points
+40
+Year 2
+Spring session
+MKTG 2003
+Incubator 3: Product Development
+10
+Select Major subject 2
+10
+Select Major subject 3
+10
+Select Minor subject 1 or elective 1
+10
+
+Credit Points
+40
+Autumn session
+ACCT 3009
+Incubator 4: Commercial and Financial Setting of Entrepreneurship
+
+Note: from Autumn 2024 ACCT 3009 is replaced by ACCT 3012
+10
+ACCT 3012
+Incubator 4: Commercial and Financial Strategy for Entrepreneurs
+
+BUSM 3025
+Incubator 5: Operational Aspects of Entrepreneurship
+10
+Select Major subject 4
+10
+Select Minor subject 2 or elective 2
+10
+
+Credit Points
+40
+Year 3
+Spring session
+MKTG 3005
+Incubator 6: Funding and Start-up
+
+Note: from Autumn 2024 MKTG 3005 is replaced by MKTG 3023
+10
+MKTG 3023
+Incubator 6: Funding a Start-up
+
+Select Major subject 5
+10
+Select Major subject 6
+10
+Select Minor subject 4 or elective 4
+10
+
+Credit Points
+40
+Autumn session
+MKTG 3006
+Incubator 7: Growth and Exit Strategies
+10
+Select Major subject 7
+10
+Select Major subject 8
+10
+Select Minor subject 4 or elective 4
+10
+
+Credit Points
+40
+
+Total Credit Points
+240
+
+Courselist Tables:

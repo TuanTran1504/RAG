@@ -1,0 +1,54 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Cyber Security and Ethical Hacking, Minor (0326)
+- Western Sydney University Minor Code:
+- Cyber Security is an essential aspect of today’s information systems. The Cyber Security and Ethical Hacking  minor aims to introduce graduates to applications of system security in the disciplines of cloud security, network security and ethical and legal aspects of activities in cyber space. Today, the widespread use of networked systems means protecting these systems from various attacks is more important than ever. This minor covers introductory system security knowledge and applications of security protocols in networked systems, blockchain technologies and crypto currencies. Students will learn fundamental security concepts, practical implementation of the security application programs as well as ethical hacking techniques to protect cyber security.
+- Location
+- Minor Structure Current
+- Students must complete 40 credit points as follows
+- Minor Structure to 2023 - Autumn 2024
+- Students must complete 40 credit points as follows
+- Related Programs
+
+Location Table:
+- Parramatta Victoria Road Campus
+- Full-time
+- Internal
+- cdms@westernsydney.edu.au
+- Parramatta Victoria Road Campus
+- Part-time
+- Internal
+- cdms@westernsydney.edu.au
+- Penrith Campus
+- Full-time
+- Internal
+- cdms@westernsydney.edu.au
+- Penrith Campus
+- Part-time
+- Internal
+- cdms@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+COMP 3007Computer Networks and Internets10
+COMP 3037Cloud Security10
+COMP 3012Introduction to Cloud Computing10
+Select one of the following:10
+INFO 3002Ethical Hacking Principles and Practice
+COMP 2028Cryptography, Cryptocurrencies and Blockchain
+INFO 2004Cyber Crime and Social Engineering
+INFO 3014Digital Investigations and Forensics
+Total Credit Points40
+
+courselist table2:
+COMP 3007Computer Networks and Internets10
+COMP 3037Cloud Security10
+INFO 3002Ethical Hacking Principles and Practice10
+Select one of the following:10
+COMP 2028Cryptography, Cryptocurrencies and Blockchain
+INFO 2004Cyber Crime and Social Engineering
+INFO 3014Digital Investigations and Forensics

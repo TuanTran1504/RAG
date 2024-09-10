@@ -1,0 +1,412 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Electrical, Testamur Major (T035)
+- Western Sydney University Major Code:
+- Previous Codes: KT3125.1, KT3156.1, KT3161.1, KT7001.1, ST3093.1
+- This major includes core subjects from all branches of electrical engineering. Graduates will work in the fields of electronic components, computers, electro-magnetics, power generation and distribution systems, power and control in public utilities, telecommunications, manufacturing, and electrical systems.
+- Select the link for your program below for the locations of your major
+- Associate Degree in Engineering
+- Location
+- - Bachelor of Engineering (Honours)
+- Bachelor of Engineering Science
+- Location
+- Curriculum delivered through an agreement with another party
+- - Diploma in Aerotropolis Industry 4.0 (Mechatronics Skills)/Bachelor of Engineering Science
+- Location
+- - Diploma in Engineering/Bachelor of Engineering Studies
+- Location
+- - Graduate Certificate in Engineering
+- Graduate Diploma in Engineering (exit only)
+- Master of Engineering
+- Location
+- Recommended Sequence
+- Select the link for your program below to see details of the major
+- Associate Degree in Engineering
+- Bachelor of Engineering (Honours)
+- Qualification for this award requires the successful completion of 320 credit points, which include the subjects listed in the recommended sequence below.
+- * All students undertaking the Bachelor of Engineering (Honours) are required to enrol in MATH 1021 Mathematics for Engineers Preliminary and undertake a readiness test at the beginning of their study.
+- MATH 1021 Mathematics for Engineers Preliminary
+- Students remaining in MATH 1021 Mathematics for Engineers Preliminary will be required to complete MATH 1016 Mathematics for Engineers 1 during second semester and will be encouraged to complete MATH 1019 Mathematics for Engineers 2 during the Summer session.
+- MATH 1021 Mathematics for Engineers Preliminary
+- MATH 1016 Mathematics for Engineers 1
+- MATH 1019 Mathematics for Engineers 2
+- Alternate subjects may be used to complete one of the minors listed below.
+- Telecommunications, Minor
+- Power Engineering, Minor
+- Biomedical Engineering, Minor
+- The subjects listed below count towards completion of this program for students who passed these subjects in Autumn 2022 or earlier.
+- ENGR 1008 - Engineering Materials, replaced by PROC 1008 - Introduction to Materials Engineering
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2022 or earlier.
+- ELEC 3008 Instrumentation and Measurement, replaced by ELEC 4009 Instrumentation and Measurement
+- ELEC 2010 Power and Machines, replaced by ELEC 3011 Power and Machines
+- Bachelor of Engineering Science
+- The following subject is an optional elective subject offered to students who are engaged in a School approved project. This subject can be taken during the third year of this major, however, permission is required to enrol in the subject.
+- ENGR 3022 Special Technical Project
+- ENGR 3022 Special Technical Project
+- - Diploma in Aerotropolis Industry 4.0 (Mechatronics Skills)/Bachelor of Engineering Science
+- Diploma in Engineering/Bachelor of Engineering Studies
+- The following subject is an optional elective subject offered to students who are engaged in a School approved project. This subject can be taken during the third year of this major, however, permission is required to enrol in the subject.
+- ENGR 3022 Special Technical Project
+- ENGR 3022 Special Technical Project
+- - Graduate Certificate in Engineering
+- Graduate Diploma in Engineering (exit only)
+- Master of Engineering
+- Specialist alternate subject offerings are subject to sufficient student demand and may not be offered annually.
+- Students enrolled in 3693 Master of Engineering choose seven major subjects from the list below
+- Students exiting with 3694 Graduate Diploma in Engineering (exit only) choose six major alternate subjects
+- Students enrolled in 3695 Graduate Certificate in Engineering choose four major alternate subjects
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria
+- 
+- Internal
+- beng@westernsydney.edu.au
+- Penrith Campus
+- 
+- Internal
+- beng@westernsydney.edu.au
+- Online
+- Miriam Krakovska
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+ELEC 1006
+Engineering Computing
+10
+ENGR 1011
+Engineering Physics
+10
+ENGR 1024
+Introduction to Engineering Practice
+10
+Select one of the following:
+10
+MATH 1021
+Mathematics for Engineers Preliminary
+
+MATH 1016
+Mathematics for Engineers 1
+
+
+Credit Points
+40
+Spring session
+MATH 1019
+Mathematics for Engineers 2
+10
+ENGR 1018
+Fundamentals of Mechanics
+10
+PROC 1008
+Introduction to Materials Engineering
+10
+Select one elective
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+ELEC 2001
+Circuit Theory
+10
+ELEC 2004
+Electronics
+10
+ELEC 2011
+Signals and Systems
+10
+ELEC 1001
+Digital Systems 1
+10
+
+Credit Points
+40
+Spring session
+ELEC 2009
+Microprocessor Systems
+10
+ELEC 2006
+Engineering Electromagnetics
+10
+ELEC 3011
+Power and Machines
+10
+ENGR 3006
+Control Systems
+10
+Students may transfer to 3691 Bachelor of Engineering Science at the end of Year 2 of study.
+
+
+Credit Points
+40
+Year 3
+Autumn session
+ELEC 3001
+Communication Systems
+10
+ELEC 3006
+Electrical Machines 1
+10
+Major Alternate subject
+10
+Select one elective
+10
+*Elective subjects must be level 2 or higher (an exception applies for students completing Mathematics for Engineers Preliminary subject)
+
+
+Credit Points
+40
+Spring session
+ELEC 3009
+Power Systems
+10
+ELEC 3003
+Digital Signal Processing
+10
+ELEC 3005
+Electrical Drives
+10
+Major Alternate Subject
+10
+Industrial Experience
+
+ENGR 3017
+Industrial Experience (Engineering)
+0
+
+Credit Points
+40
+Year 4
+Autumn session
+ELEC 4002
+Power Electronics
+10
+ENGR 4025
+Final Year Project 1 (UG Engineering)
+10
+Major Alternate Subject
+10
+Select one elective
+10
+*Elective subjects must be level 2 or higher (an exception applies for students completing Mathematics for Engineers Preliminary subject)
+
+
+Credit Points
+40
+Spring session
+ELEC 3008
+Instrumentation and Measurement
+10
+From Spring 2022 ELEC 3008 is replaced with ELEC 4009 Instrumentation and Measurement
+
+ENGR 4026
+Final Year Project 2 (UG Engineering)
+10
+Major Alternate Subject
+10
+Select one elective
+10
+*Elective subjects must be level 2 or higher (an exception applies for students completing Mathematics for Engineers Preliminary subject)
+
+
+Credit Points
+40
+
+Total Credit Points
+320
+Year 2
+Autumn session
+Credit Points
+ELEC 2001
+Circuit Theory
+10
+ELEC 2004
+Electronics
+10
+ELEC 2011
+Signals and Systems
+10
+ELEC 1001
+Digital Systems 1
+10
+
+Credit Points
+40
+Spring session
+ELEC 2009
+Microprocessor Systems
+10
+ELEC 2006
+Engineering Electromagnetics
+10
+ELEC 3011
+Power and Machines
+10
+ENGR 3006
+Control Systems
+10
+Industrial Experience
+
+ENGR 3017
+Industrial Experience (Engineering)
+0
+
+Credit Points
+40
+Year 3
+Autumn session
+ELEC 3001
+Communication Systems
+10
+ELEC 3006
+Electrical Machines 1
+10
+ENGR 3013
+Engineering Science Project 1
+10
+Select one elective
+
+*Elective subjects must be level 2 or higher
+
+
+Credit Points
+30
+Spring session
+ELEC 3009
+Power Systems
+10
+ELEC 3003
+Digital Signal Processing
+10
+ENGR 3014
+Engineering Science Project 2
+10
+Select one elective
+10
+*Elective subjects must be level 2 or higher
+
+
+Credit Points
+40
+
+Total Credit Points
+150
+Year 2
+Autumn session
+Credit Points
+ELEC 2001
+Circuit Theory
+10
+ELEC 2004
+Electronics
+10
+ELEC 2011
+Signals and Systems
+10
+ELEC 1001
+Digital Systems 1
+10
+
+Credit Points
+40
+Spring session
+ELEC 2009
+Microprocessor Systems
+10
+ELEC 2006
+Engineering Electromagnetics
+10
+ELEC 3011
+Power and Machines
+10
+ELEC 2010 replaced by ELEC 3011 , Spring 2022
+
+ENGR 3006
+Control Systems
+10
+Industrial Experience
+
+ENGR 3017
+Industrial Experience (Engineering)
+0
+
+Credit Points
+40
+Year 3
+Autumn session
+ELEC 3001
+Communication Systems
+10
+ELEC 3006
+Electrical Machines 1
+10
+ENGR 3013
+Engineering Science Project 1
+10
+MATH 1019
+Mathematics for Engineers 2
+10
+
+Credit Points
+40
+Spring session
+ELEC 3009
+Power Systems
+10
+ELEC 3003
+Digital Signal Processing
+10
+ENGR 3014
+Engineering Science Project 2
+10
+Select one elective
+10
+*Elective subjects must be level 2 or higher
+
+
+Credit Points
+40
+
+Total Credit Points
+160
+
+Courselist Tables:
+
+courselist table1:
+Select three of the following:30
+ELEC 2002Circuit Theory (WSTC AssocD)
+ELEC 1002Digital Systems 1 (WSTC AssocD)
+ELEC 2005Electronics (WSTC AssocD)
+MATH 1020Mathematics for Engineers 2 (WSTC AssocD)
+ELEC 2012Signals and Systems (WSTC AssocD)
+Please note: Offerings of alternate units are dependent on there being sufficient student enrolment numbers. If enrolments are low, the College may cancel delivery of the alternate unit.
+Total Credit Points30
+
+courselist table2:
+HLTH 2003Biomechanics10
+ENGR 4038Biomedical Electronics10
+ENGR 3004Biomedical Signals and Data Analysis10
+ELEC 3002Data Communications10
+ELEC 3004Digital Systems 210
+ELEC 2007Engineering Visualization10
+BIOS 1022Introduction to Human Biology10
+ELEC 4003Power Quality10
+ELEC 4004Radio and Satellite Communication10
+ELEC 4005Smart Grids and Distributed Generation10
+ELEC 4006Sustainable Energy Systems10
+ELEC 4007Wireless Communications10
+
+courselist table3:
+ELEC 7001Advanced Control Systems10
+ELEC 7003Advanced Electrical Machines and Drives10
+ELEC 7004Advanced Power Quality10
+ELEC 7005Advanced Signal Processing10
+ELEC 7006Advanced Smart Grids and Distributed Generation10
+ELEC 7008Instrumentation and Measurement (PG)10
+ELEC 7009Personal Communication Systems10
+ELEC 7010Power System Planning and Economics10

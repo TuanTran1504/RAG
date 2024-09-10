@@ -1,0 +1,31 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Biomedical Engineering, Concentration (0122)
+- Western Sydney University Concentration Code:
+- Previous Code: SM3091.1
+- The Biomedical Engineering concentration includes elements from the bioelectronics, biomechanical and biomechatronic specialisations. This allows students to undertake multidisciplinary study within engineering, which combines knowledge from electronics, chemical, materials, mechanical and mechatronic engineering with the life sciences of medicine, biology and molecular biology. Graduates will be equipped with professional skills to work in biomedical industry as engineers, with a good understanding of multidisciplinary principles and practices.
+- Location
+- Concentration Structure
+- This concentration is only available to students enrolled in Bachelor of Engineering (Honours) or Bachelor of Engineering - Electrical, Mechanical and Robotics & Mechatronics majors only.
+- From 2024, please refer to Biomedical Engineering, Minor (0122) . This minor is available to all students in Bachelor of Engineering (Honours) (3740) and Bachelor of Engineering Advanced (Honours) (3771).
+- Student must complete the following four subjects
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2020 or earlier.
+- BIOS 1022 Introduction to Human Biology, replaced by BIOS 1035 Anatomy and Physiology in Health
+- Related Programs
+
+Location Table:
+- Penrith Campus
+- Internal
+- beng@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+HLTH 2003Biomechanics10
+ENGR 3004Biomedical Signals and Data Analysis10
+ENGR 4038Biomedical Electronics10
+BIOS 1035Anatomy and Physiology in Health10
+Total Credit Points40

@@ -1,0 +1,26 @@
+Academic Handbook Current Edition ENGR 7006 Fire Engineering 1 (Fire Dynamics) Credit Points 10 Legacy Code 300709 Coordinator Sameera Wijesiri Pathirana Opens in new window Description This subject aims to develop a detailed knowledge of fire behaviour and dynamics in the built environment. Students will be able to understand fuels and combustion processes; the chemistry of combustion; flammability limits; ignition characteristics; and different types of flames and fire plumes. The content also covers the burning of liquids and solids; flammable vapour/air mixtures; extinction and extinguishment; flame spread mechanisms and modeling; flashover; fire resistance and fire severity; projection of flames from burning compartment openings; spread of fire from a compartment; production and measurement of smoke; and smoke movement. School Eng, Design & Built Env Discipline Fire Technology Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Postgraduate Coursework Level 7 subject Equivalent Subjects LGYB 8308 - Fire Engineering 1 (Fire Dynamics) Restrictions Students must be enrolled in a postgraduate program. Learning Outcomes On successful completion of this subject, students should be able to: Explain the basic principles of the fire phenomenon including the nature of fire, heat transfer, burning of gases, liquids and solids, initiation and propagation and products of combustion
+Identify fire hazards & causes of fires and health effects of toxic smoke
+Determine fire loads, fire growth, ventilation factor
+Explain flashover, fire severity and fire resistance of structural materials, suppression systems, smoke and heat control, detection, warning and how these parameters are used in the development of a fire safety engineering solution
+Analyse a range of fire scenarios and apply fire science to interpret and develop fire safety engineering solutions Subject Content Fuels and the combustion process
+Chemistry of combustion in fire
+Flammability limits
+Premixed flames
+Diffusion flames
+Flames from natural fires
+Fire plumes
+Burning of gases and vapours
+Burning of liquids
+Burning of solids
+Smouldering combustion
+Flaming combustion
+Self-induced ignition
+Piloted and non-piloted ignition
+Propagation of smouldering and flaming combustion
+Growth to flashover
+Flashover
+Post-flashover fires
+Fire resistance
+Spread of fire from a compartment
+Production and measurement of heat, smoke and toxic gases
+Methods for assessment of fire behaviour Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Numerical Problem Solving Analytical,  2,000 word equivalent, individual 25 N Individual N  Numerical Problem Solving Analytical,  2,000 word equivalent, individual 25 N Individual N  Numerical Problem Solving Analytical,  2,000 word equivalent, individual 25 N Individual N  Numerical Problem Solving Analytical,  2,000 word equivalent 25 N Individual N Structures that include subject Other Engr. and Related Tech (ENGR)

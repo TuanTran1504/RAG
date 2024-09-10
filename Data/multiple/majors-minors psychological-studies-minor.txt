@@ -1,0 +1,52 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Psychological Studies, Minor (0029)
+- Western Sydney University Minor Code:
+- Previous Code: SM1115.1
+- The Psychological Studies minor comprises subjects in the discipline of psychology that focus on the field of inquiry that uses scientific techniques and methods to understand and explain behaviour and experience. Areas of study include: the brain and behaviour, learning, motivation and emotion, social psychology, lifespan development, perception and cognitive processes. A Psychological Studies minor does not meet APAC requirements for an accredited sequence in Psychology.
+- Location
+- Minor Structure
+- Students must successfully complete 40 credit points from the subjects below.
+- The subject listed below counts towards completion of the major for students who passed this subject in 2021 or earlier.
+- BEHV 3017 - Personality, replaced by  BEHV 2018 - Personality
+- Related Programs
+
+Location Table:
+- Bankstown City Campus
+- Internal
+- enquiriesHCA@uws.edu.au
+- Parramatta Campus - Victoria Road
+- Internal
+- enquiriesHCA@uws.edu.au
+- Penrith Campus
+- Internal
+- enquiriesHCA@uws.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Compulsory Subjects
+BEHV 1016Psychology: Behavioural Science10
+BEHV 1018Psychology: Human Behaviour10
+Select two of the following:20
+Level 2 Subject Pool
+BEHV 2002Brain and Behaviour
+MATH 2006Experimental Design and Analysis
+BEHV 2005Human Learning
+BEHV 2010Perception
+BEHV 2018Personality
+Level 3 Subject Pool
+BEHV 3002Abnormal Psychology
+BEHV 3004Advanced Research Methods
+BEHV 3007Cognitive Processes
+BEHV 3009Developmental Psychology
+BEHV 3010Health Psychology
+BEHV 3011History and Philosophy of Psychology
+BEHV 3014Motivation and Emotion
+BEHV 3018Psychology and the Online World
+BEHV 3019Psychology of Language
+BEHV 3023Social Psychology
+Total Credit Points40

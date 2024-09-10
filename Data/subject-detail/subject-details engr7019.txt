@@ -1,0 +1,15 @@
+Academic Handbook Current Edition ENGR 7019 Specialised Software Applications Credit Points 10 Legacy Code 301002 Coordinator Baolin Wang Opens in new window Description This subject offers several streams of practical applications in engineering and industrial design software. Students get to choose a software application stream depending on their key program. Lectures and assignments are delivered online and are enhanced by face to face contact with stream coordinators.  Emphasis is placed on teaching students practical software applications skills relevant to industry needs. School Eng, Design & Built Env Discipline Other Engineering And Related Technologies Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Postgraduate Coursework Level 7 subject Equivalent Subjects ELEC 7007 - Engineering Software Applications Restrictions Students must be enrolled in a postgraduate program. Please note: Students enrolled in 3693 Master of Engineering must select the campus offering, not the online mode. Learning Outcomes On successful completion of this subject, students should be able to: Recognise and apply the capabilities of software tools in a professional engineering context.
+Input, model and analyse data and systems using industry standard engineering software.
+Apply computer based modelling and analysis tools to investigate and professionally report on a specific, in-depth engineering problem.
+Apply software-generated imagery to support reported analysis, findings or recommendations. Subject Content 1. MATLAB Applications – Telecommunications
+2. MATLAB Applications – Civil Engineering
+3. Finite Element Analysis in Electromagnetism
+4. Abaqus for Civil Engineering
+5. Surface Hydrology Modelling
+6. CFAST/FDS – Fire Safety Engineering
+7. GIS – Bushfire Protection
+8. Specialised Software for Vertical Transportation
+9. Ansys Mechanical APDL for Mechanical and Mechatronic
+10. MATLAB Applications – Mechanical and Mechatronic
+11. Workbench for Mechanical and Mechatronics Engineering
+12. MATLAB Applications – Environmental Engineering Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Numerical Problem Solving 2000 words 25 N Individual N  Quiz 1 hour 25 N Individual N  Numerical Problem Solving 4000 words 50 N Individual Y Teaching Periods Autumn (2024) Parramatta City - Macquarie St On-site Subject Contact Olivia Mirza Opens in new window View timetable Opens in new window Structures that include subject Bachelor of Research Studies (8083) Graduate Certificate in Engineering (3695) Graduate Certificate in Vertical Transportation (3798) Graduate Diploma in Engineering (exit only) (3694) Graduate Diploma in Fire Safety Engineering (3791) Master of Engineering (3693) Master of Fire Safety Engineering (3705) Other Engr. and Related Tech (ENGR)

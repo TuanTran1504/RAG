@@ -1,0 +1,163 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Master of Business Administration/Master of Applied Finance (2782)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 084780E
+- This program applies to students who commenced in 2017 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- Commencement Year 2015 and 2016 - 2782.1 - Master of Business Administration/Master of Applied Finance
+- This double degree is unique in that it equips graduates with the skills and knowledge to engage with contemporary business environments, and in particular executive careers in finance, banking and investment sectors. It provides students with the opportunity to acquire technical knowledge necessary to function in an evolving and increasingly sophisticated financial environment with an emphasis on the practical application of these techniques. The design of the degree reflects consultation with a range of stakeholders including industry and professional associations; the applied finance components have been developed by individuals who are actively involved in the financial sector. The design comprises business foundation and core subjects which provide students with key skills such as business communication and analysis, as well as a general knowledge of the basics of business e.g., Accounting, Economics, and Statistics. Students complete: four foundation subjects, twelve core subjects, 20 credit points from an alternate pool of subjects and a 20 credit point capstone subject, for a total of 200 credit points. This program has multiple intakes each year and is suitable for graduates holding a bachelor degree in any discipline from a recognised university. Applicants will find having a background in Business or Commerce advantageous.
+- Early Exits
+- Students may exit this program on completion of 40 credit points with a 2765 Graduate Certificate in Business or on completion of 160 credit points with a 2761 Master of Business Administration or a 2759 Master of Applied Finance
+- Study Mode
+- Two and a half years full-time or five years part time.
+- Program Advice
+- Dr Girijasankar Mallik
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Accreditation
+- The Master of Business Administration / Master of Applied Finance fulfils the educational requirements for admission as a Senior Associate (SA Fin) of the Financial Services Institute of Australasia (Finsia). Senior Associate membership with Finsia also requires at least five years career experience in the financial services industry. The Master of Business Administration / Master of Applied Finance also satisfies the education requirements for professional membership of the Finance and Treasury Association (FTA).
+- Association to Advance Collegiate Schools of Business (AACSB)
+- This program is accredited by the Association to Advance Collegiate Schools of Business (AACSB).
+- Admission
+- Applicants must have successfully completed an undergraduate degree, or higher, in any discipline.
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Program Structure
+- Qualification for this award requires the successful completion of 200 credit points. This includes four foundation subjects, twelve core subjects, 20 credit points of alternate subjects and a 20 credit point capstone subject, as per the structure below:
+- Early Exit – Graduate Certificate in Business
+- Students who have completed 40 credit points of subjects as specified below may exit with 2765 Graduate Certificate in Business. Students are expected to complete 20 credit points of study before undertaking the BUSM 7050 Integrated Business Experience 1 subject.
+- BUSM 7050 Integrated Business Experience 1
+- Alternatively, students may complete 40 credit points of subjects (excluding capstone subjects) from any postgraduate business subjects. This requires approval from the Director of Academic Program.
+- Early Exit – Master of Business Administration
+- Students in the Master of Business Administration/Master of Applied Finance who have completed 160 credit points of Postgraduate subjects as specified below may exit with 2761 Master of Business Administration.
+- Finance and Investment, Major
+- Early Exit – Master of Applied Finance
+- Students in the Master of Business Administration/Master of Applied Finance who have completed 160 credit points of subjects as specified below may exit with 2759 Master of Applied Finance.
+- Replaced Subject
+- The subject listed below counts towards completion of this program for students who passed this subject in 2021 or earlier.
+- MKTG 7003 - Applied Project (Finance and Property), replaced by FINC 7022 Applied Project (Finance and Property)
+- FINC 7022 Applied Project (Finance and Property)
+
+Location Table:
+- Parramatta City Campus-Macquarie Street
+- Full Time
+- Internal
+- See above
+- Parramatta City Campus-Macquarie Street
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Foundation Subjects
+BUSM 7007Business Communication Skills10
+BUSM 7050Integrated Business Experience 110
+BUSM 7099Understanding Contemporary Organisations10
+Select one of the following:10
+MKTG 7019Marketing Systems
+BUSM 7094The Contemporary Business Environment
+Core Subjects
+MATH 7003Applied Business Statistics10
+BUSM 7018Contemporary People Management10
+ACCT 7012Corporate Finance10
+ECON 7001Economics10
+BUSM 7031Financial Institution Management10
+BUSM 7032Financial Institutions and Markets (MAF)10
+FINC 7006Financial Modelling10
+ACCT 7015Financial Reports for Decision Making10
+BUSM 7035Funds Management and Portfolio Selection10
+BUSM 7051Integrated Business Experience 210
+BUSM 7053International Finance10
+BUSM 7083Security Analysis and Portfolio Theory10
+Alternate Subjects
+Select one of the following groups:20
+Alternate Group 1:
+FINC 7022Applied Project (Finance and Property)10
+Select one of the following:
+BUSM 7021Credit and Lending Decisions
+BUSM 7022Derivatives
+Alternate Group 2:
+FINC 7017Property Investment Analysis
+MKTG 7024Property Portfolio Analysis
+Capstone Subject
+Select one of the following:20
+BUSM 7012Business Project
+BUSM 7055Internship
+Total Credit Points210
+
+courselist table2:
+BUSM 7007Business Communication Skills10
+BUSM 7050Integrated Business Experience 110
+BUSM 7099Understanding Contemporary Organisations10
+Select one of the following:10
+MKTG 7019Marketing Systems
+BUSM 7094The Contemporary Business Environment
+Total Credit Points40
+
+courselist table3:
+Foundation Subjects
+BUSM 7007Business Communication Skills10
+BUSM 7050Integrated Business Experience 110
+BUSM 7099Understanding Contemporary Organisations10
+Select one of the following:10
+MKTG 7019Marketing Systems
+BUSM 7094The Contemporary Business Environment
+Core Subjects
+BUSM 7018Contemporary People Management10
+ECON 7001Economics10
+ACCT 7015Financial Reports for Decision Making10
+BUSM 7051Integrated Business Experience 210
+Major/Non-major
+Select one of the following:60
+Finance and Investment, Major (link below)
+Non-major: A total of 60cp from any postgraduate business subjects.
+Capstone Subjects
+Select one of the following:20
+BUSM 7012Business Project
+BUSM 7055Internship
+Total Credit Points160
+
+courselist table4:
+Foundation Subjects
+BUSM 7007Business Communication Skills10
+BUSM 7050Integrated Business Experience 110
+BUSM 7099Understanding Contemporary Organisations10
+Select one of the following:10
+MKTG 7019Marketing Systems
+BUSM 7094The Contemporary Business Environment
+Core Subjects
+MATH 7003Applied Business Statistics10
+ACCT 7012Corporate Finance10
+ECON 7001Economics10
+BUSM 7031Financial Institution Management10
+BUSM 7032Financial Institutions and Markets (MAF)10
+FINC 7006Financial Modelling10
+ACCT 7015Financial Reports for Decision Making10
+BUSM 7035Funds Management and Portfolio Selection10
+BUSM 7053International Finance10
+BUSM 7083Security Analysis and Portfolio Theory10
+Capstone Subject
+Select Capstone 1 or Capstone 2:20
+Capstone 1:
+Select one of the following:
+BUSM 7012Business Project
+BUSM 7055Internship
+Capstone 2:
+FINC 7022Applied Project (Finance and Property)10
+Select one of the following:
+BUSM 7021Credit and Lending Decisions
+BUSM 7022Derivatives
+Total Credit Points170

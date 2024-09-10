@@ -1,0 +1,46 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- International English, Major (0018)
+- Western Sydney University Major Code:
+- Previous Code: M1132.1
+- International English engages students in a systematic and structured study of the English language and its variations across time and contexts. Students learn to recognise and work with the uses and features of the language that are essential to a wide range of social, academic and professional contexts. The major provides a solid and comprehensive foundation for students who aim to work professionally with English in different contexts and countries, especially those intending to pursue post-graduate qualifications in education. The major focuses on varieties and structures of English, informed by studies of English in specific discourse settings, and specifically aims to ensure that students understand the language and its use very well and that they possess a highly developed capacity to use English well across a range of contexts.
+- Location
+- Major Structure
+- Students must complete the following four compulsory subjects:
+- Students must also complete four subjects from the following subjects, with at least 2 at level 3.
+- Related Programs
+
+Location Table:
+- Bankstown City Campus
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+- Parramatta Campus - Victoria Road
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+TEAC 1012English as an International Language10
+TEAC 2025English Language Analysis10
+LANG 2055English Text10
+LANG 3099English Talk10
+Total Credit Points40
+
+courselist table2:
+Level 1 Pool
+LANG 1014Introduction to Linguistics10
+Level 2 Pool
+LANG 2034Meaning in Language10
+LANG 2037Pragmatics10
+LANG 2041Structure of Language10
+LANG 2048Working Grammar10
+TEAC 2055TESOL Teaching Methodology10
+Level 3 Pool
+LANG 3071Second Language Acquisition10
+LANG 3073Sociolinguistics10
+TEAC 3029TESOL Curriculum Design10
+LANG 3045Intercultural Communication10

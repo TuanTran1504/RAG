@@ -1,0 +1,260 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- International Business, Testamur Major (T042)
+- Western Sydney University Major Code:
+- Previous Code: MT2025.1
+- The global economy is becoming increasingly important for organisations seeking out new opportunities to expand their customer base and develop partnerships. Managers who are well versed in the needs of doing business internationally and who can exploit these opportunities will therefore play an integral role in any such corporation. Building on a solid foundation in domestic business education, including global sustainability, international business strategy, managing in a global environment, and international marketing, this major equips graduates with the detailed knowledge of the international dimension of business and the necessary understanding of the workings of that market system.
+- Location
+- Curriculum delivered through an agreement with another party
+- Major Structure
+- Qualification for this major requires the successful completion of 80 credit points including all of the core subjects listed below.
+- Core Subjects for this Major
+- Professional Subjects for Careers in Markets
+- Students undertaking the International Business major are advised to take the following four subjects to satisfy the requirements for their professional core:
+- Recommended Sequence
+- Qualification for the award of Bachelor of Business with a major in International Business requires the successful completion of 240 credit points as per the recommended sequence below.
+- Full-time
+- Part-time
+- Related Programs
+
+Location Table:
+- Parramatta City Campus-Macquarie Street
+- Internal
+- Program Advice
+- Sydney City Campus*
+- Internal
+- Daniel Townsend
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+BUSM 1006
+Enterprise Innovation and Markets
+10
+BUSM 1008
+Enterprise Leadership
+10
+BUSM 1015
+Introduction to International Business
+10
+MATH 1030
+Statistics for Business
+10
+
+Credit Points
+40
+Spring session
+LAWS 1001
+Enterprise Law
+10
+BUSM 1010
+Financing Enterprises
+10
+BUSM 2031
+Managing in the Global Environment
+10
+Select one elective
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+BUSM 2040
+The Service Enterprise
+10
+HUMN 3043
+Globalisation and Sustainability
+10
+Select two electives
+20
+
+Credit Points
+40
+Spring session
+MKTG 3004
+Export Strategy and Applications
+10
+MKTG 3017
+The Markets of Asia
+10
+Select two electives
+20
+
+Credit Points
+40
+Year 3
+Autumn session
+MKTG 3007
+International Marketing
+10
+BUSM 3006
+Design Thinking for Creativity
+10
+BUSM 3036
+Leadership and Entrepreneurship
+10
+Select one elective
+10
+
+Credit Points
+40
+Spring session
+BUSM 3031
+International Business Strategy
+10
+BUSM 3030
+International Business Project ( Enterprise Engaged Subject )
+10
+Select two electives
+20
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Autumn session
+Credit Points
+BUSM 1006
+Enterprise Innovation and Markets
+10
+LAWS 1001
+Enterprise Law
+10
+
+Credit Points
+20
+Spring session
+BUSM 1010
+Financing Enterprises
+10
+BUSM 1008
+Enterprise Leadership
+10
+
+Credit Points
+20
+Year 2
+Autumn session
+BUSM 1015
+Introduction to International Business
+10
+MATH 1030
+Statistics for Business
+10
+
+Credit Points
+20
+Spring session
+BUSM 2031
+Managing in the Global Environment
+10
+Select one elective
+10
+
+Credit Points
+20
+Year 3
+Autumn session
+HUMN 3043
+Globalisation and Sustainability
+10
+Select one elective
+10
+
+Credit Points
+20
+Spring session
+BUSM 2040
+The Service Enterprise
+10
+Select one elective
+10
+
+Credit Points
+20
+Year 4
+Autumn session
+MKTG 3004
+Export Strategy and Applications
+10
+Select one elective
+10
+
+Credit Points
+20
+Spring session
+MKTG 3017
+The Markets of Asia
+10
+Select one elective
+10
+
+Credit Points
+20
+Year 5
+Autumn session
+MKTG 3007
+International Marketing
+10
+BUSM 3036
+Leadership and Entrepreneurship
+10
+
+Credit Points
+20
+Spring session
+BUSM 3006
+Design Thinking for Creativity
+10
+Select one elective
+10
+
+Credit Points
+20
+Year 6
+Autumn session
+BUSM 3031
+International Business Strategy
+10
+Select one elective
+10
+
+Credit Points
+20
+Spring session
+BUSM 3030
+International Business Project ( Enterprise Engaged Subject )
+10
+Select one elective
+10
+
+Credit Points
+20
+
+Total Credit Points
+240
+
+Courselist Tables:
+
+courselist table1:
+MKTG 3004Export Strategy and Applications10
+HUMN 3043Globalisation and Sustainability10
+BUSM 3031International Business Strategy10
+MKTG 3007International Marketing10
+BUSM 1015Introduction to International Business10
+BUSM 3036Leadership and Entrepreneurship10
+BUSM 2031Managing in the Global Environment10
+MKTG 3017The Markets of Asia10
+Total Credit Points80
+
+courselist table2:
+BUSM 3006Design Thinking for Creativity10
+BUSM 3030International Business Project10
+MATH 1030Statistics for Business10
+BUSM 2040The Service Enterprise10
+Total Credit Points40

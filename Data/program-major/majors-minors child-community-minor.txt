@@ -1,0 +1,58 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Child and Community, Minor (0045)
+- Western Sydney University Minor Code:
+- Previous Code: SM1099.1
+- The Child and Community minor provides a comprehensive introduction to a range of social sciences related areas and a strong grounding in contemporary issues facing children and their families from a critical perspective. This minor provides a good foundation for people interested in a career in the human services with a particular interest in children.
+- Location
+- Curriculum delivered through an agreement with another party
+- Recommended Sequence
+- Qualification for this minor requires the successful completion of 40 credit points as per the below.
+- Liverpool and Parramatta Campuses
+- WSU Online
+- Related Programs
+
+Location Table:
+- Liverpool Campus
+- Internal
+- Dr Neil Hall
+- Parramatta Campus - Victoria Road
+- Internal
+- Dr Neil Hall
+- WSU Online*
+- Online
+- Dr Neil Hall
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Autumn session
+WELF 2002Community Work & Development
+WELF 3006Family Violence: Policy and Practice
+WELF 3021Disability Rights, Policy and Governance
+Spring session
+WELF 1002Context of Human Services
+CULT 1022Working with Cultural Differences
+HUMN 2015Community and Social Action
+HUMN 2025Families and Intimate Life
+WELF 3001Child Abuse as a Social Issue
+WELF 2001Community Management and Organisations
+
+courselist table2:
+Trimester 2
+WELF 1002Context of Human Services
+CULT 1022Working with Cultural Differences
+Trimester 3
+WELF 2002Community Work & Development
+HUMN 2015Community and Social Action
+Trimester 4
+HUMN 2025Families and Intimate Life
+Trimester 5
+WELF 3006Family Violence: Policy and Practice
+WELF 3021Disability Rights, Policy and Governance
+WELF 2001Community Management and Organisations
+Trimester 6
+WELF 3001Child Abuse as a Social Issue

@@ -1,0 +1,142 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Secondary PDHPE Education (Further Studies), Major (0357)
+- Effective from:
+- Western Sydney University Major Code:
+- The Secondary PDHPE Education (Further Studies) Major (0357) is designed to enhance the discipline knowledge of 1939 BEd (Secondary) students intending to graduate with PDHPE as a single teaching area. Only students concurrently registered in the Secondary PDHPE Education Major (0356) may take this further studies major as it does not meet NESA requirements for PDHPE teaching when taken separately. Students will have opportunities to expand their PDHPE knowledge and skills through further studies in the areas of community, family, and early childhood, as well as physical activity, sports, lifestyle, and recreation.
+- Location
+- Major Structure
+- Students must be concurrently registered in the Secondary PDHPE Education Major (0356).
+- Students must successfully complete 80 credit points as follows.
+- Start-year intake
+- Mid-year intake
+- Alternate Subjects
+- Choose two of the following alternate subjects:
+- Related Programs
+
+Location Table:
+- Penrith Campus
+- Internal
+- SecondaryEnquiries@westernsydney.edu.au
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+SPRT 1008
+Sport for Social Development
+10
+
+Credit Points
+10
+Year 2
+Autumn session
+HLTH 2031
+Motor Behaviour
+10
+
+Credit Points
+10
+Spring session
+HLTH 3026
+Movement and Skill Analysis
+10
+SPRT 3022
+Outdoor Education, Sustainability and Health
+10
+
+Credit Points
+20
+Year 3
+Autumn session
+Select two Alternate subject (from the alternate subjects listed below)
+20
+
+Credit Points
+20
+Spring session
+BEHV 3025
+Sport and Exercise Psychology
+10
+
+Credit Points
+10
+Year 4
+Spring session
+SPRT 3020
+Applied Research Project
+10
+
+Credit Points
+10
+
+Total Credit Points
+80
+Year 1
+Spring session
+Credit Points
+SPRT 3022
+Outdoor Education, Sustainability and Health
+10
+
+Credit Points
+10
+Autumn session
+SPRT 1008
+Sport for Social Development
+10
+
+Credit Points
+10
+Year 2
+Spring session
+HLTH 3026
+Movement and Skill Analysis
+10
+
+Credit Points
+10
+Autumn session
+HLTH 2031
+Motor Behaviour
+10
+
+Credit Points
+10
+Year 3
+Spring session
+BEHV 3025
+Sport and Exercise Psychology
+10
+
+Credit Points
+10
+Autumn session
+Select two Alternate subject (from the alternate subjects listed below)
+20
+
+Credit Points
+20
+Year 4
+Spring session
+SPRT 3020
+Applied Research Project
+10
+
+Credit Points
+10
+
+Total Credit Points
+80
+
+Courselist Tables:
+
+courselist table1:
+Level 1
+SPRT 1001Fundamentals of Exercise Science10
+PUBH 1006Population Health and Society10
+BEHV 1014Psychology and Health10
+Level 2
+PUBH 2005Culture, Diversity and Health10
+SPRT 2012Community Sport Development10

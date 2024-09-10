@@ -1,0 +1,60 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Linguistics, Major (0022)
+- Western Sydney University Major Code:
+- Previous Code: M1119.1
+- Language is fundamental to the human experience. Through study of how language works, students make contact with fundamental philosophical, socio-cultural, and psychological questions about what it means to be human. Linguistics prepares students with a foundation for many careers including primary and secondary teaching, policy analysis, communication, and social services in culturally diverse communities. Linguistics students also gain the analytical tools of empirical science including the ability to break complex problems into components with tractable solutions and to evaluate theories on the basis of empirical facts. These skills prepare students for success in post-graduate studies and careers in research, analytics, business and law.
+- Location
+- Major Structure
+- Students must complete 80 credit points as follows.
+- Complete the following compulsory subjects.
+- Students must also complete two subjects from the following pools.
+- The subjects listed below count towards completion of this major for students who passed any of these subjects in 2018 or earlier.
+- LANG 3008 - Applied Critical Methods, no longer offered
+LANG 3046 - Intercultural Pragmatics, replaced by LANG 3045 Intercultural Communication
+LANG 1013 Introduction to Interpreting 
+LANG 1017 Introduction to Translation
+LANG 3057 Languages and Grammatical Concepts 3A: Arabic 
+LANG 3058 Languages and Grammatical Concepts 3A: Chinese 
+LANG 3070 - Research Methods in Linguistics, replaced by LANG 3031 Discovering language: Everything you've ever wanted to know but never asked
+LANG 3085 - Text and Discourse in English, replaced by LANG 3030 Discourse Analysis
+- LANG 3045 Intercultural Communication
+- LANG 1013 Introduction to Interpreting
+- LANG 1017 Introduction to Translation
+- LANG 3057 Languages and Grammatical Concepts 3A: Arabic
+- LANG 3058 Languages and Grammatical Concepts 3A: Chinese
+- LANG 3031 Discovering language: Everything you've ever wanted to know but never asked
+- LANG 3030 Discourse Analysis
+- Related Programs
+
+Location Table:
+- Bankstown City Campus
+- Internal
+- enquiriesHCA@uws.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+LANG 3016Bilingualism and Biculturalism10
+LANG 1014Introduction to Linguistics10
+LANG 3071Second Language Acquisition10
+LANG 2041Structure of Language10
+LANG 1028The Sound of Language10
+LANG 2034Meaning in Language10
+Total Credit Points60
+
+courselist table2:
+Select two of the following:20
+Level 2 Subject Pool
+LANG 2037Pragmatics
+Level 3 Subject Pool
+LANG 3030Discourse Analysis
+LANG 3034Historical Linguistics
+LANG 3045Intercultural Communication
+BEHV 3019Psychology of Language
+LANG 3031Discovering language: Everything you've ever wanted to know but never asked
+LANG 3073Sociolinguistics
+Total Credit Points20

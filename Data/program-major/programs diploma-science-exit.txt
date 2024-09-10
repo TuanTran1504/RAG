@@ -1,0 +1,72 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Diploma in Science (exit only) (7084)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 063567F
+- This program applies to students who commenced in Term 1, 2020 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- For Commencement Year 2017 (Term 3), please refer to: 7084.3 Diploma in Science
+- For Commencement Year 2017 (Term 1 and Term 2), please refer to: 7084.2 Diploma in Science
+- For Commencement Year 2015, please refer to: 7084.1 Diploma in Science
+- The Diploma in Science is available as an exit point only from 6004/6043 -Diploma in Science/Bachelor of Science or 6002/6042 - Diploma in Science/Bachelor of Medical Science
+- This course is designed to engage students in, and further prepare students for, tertiary study in science.  It presents students with first year level Bachelor of Science and Bachelor of Medical Science units and aims to produce students who are fully prepared for study beyond the first year of the Bachelor of Science or Medical Science degrees.  The Diploma is delivered via extended face to face hours in smaller learning environments.
+- Students who successfully complete the Diploma in Science will articulate into:
+- Bachelor of Science - Majors: AgriFood, Animal Science, Applied Physics, Biology, Chemistry, Environmental Health, Forensic Science, Innovative Foods, Sustainable Environmental Futures, Zoology.
+- Bachelor of Medical Science - Majors: Anatomy and Physiology, Biomedical Science, Human Nutrition.
+- Study Mode
+- One year full-time (three terms)
+- Program Advice
+- College Program Enquiries
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Admission
+- This program is an exit award only
+- Local students are required to have:
+- Students are also assumed to have completed some study in Mathematics and Science at senior high school level or its equivalent.
+- Met other entry requirements such as:
+- International Students
+- International students must satisfy one of the following language requirements:
+- Students are also assumed to have completed some study in Mathematics and Science at senior high school level or its equivalent.
+- Academic Entry Requirements vary according to country of origin. However, in general:
+- Program Structure
+- This program is an exit award only
+- Students must pass the following preparatory level subject for which no advanced standing will be granted in the University degree program:
+
+Location Table:
+- The College - Nirimba Education Precinct
+- Full Time
+- Internal
+- See above
+- The College - Nirimba Education Precinct
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+CHEM 0001Chemistry (WSTC Prep)10
+Students must pass the following four University level subjects:
+BIOS 1014Cell Biology (WSTC)10
+CHEM 1013Essential Chemistry (WSTC)10
+CHEM 1009Introductory Chemistry (WSTC)10
+NATS 1020Scientific Literacy (WSTC)10
+Students must pass Four of the following ten subjects:40
+NATS 1029Human Anatomy and Physiology 1 (WSTC)
+PROC 1007Introduction to Food Science (WSTC)
+NATS 1030Human Anatomy and Physiology 2  (WSTC)
+BIOS 1034Management of Aquatic Environments (WSTC)
+ENVL 1007Environmental Health Issues and Solutions (WSTC)
+BIOS 1003Biodiversity (WSTC)
+NATS 1026Digital Forensic Photography (WSTC)
+NATS 1027Forensic Science (WSTC)
+MATH 1027Quantitative Thinking (WSTC)
+OR
+MATH 1004Biometry (WSTC)
+Total Credit Points90

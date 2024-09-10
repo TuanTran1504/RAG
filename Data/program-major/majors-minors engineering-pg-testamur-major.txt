@@ -1,0 +1,106 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Engineering, Testamur Major (T012)
+- Western Sydney University Major Code:
+- Previous Code:  ST3060.1
+- Location
+- Major Structure 2025
+- Alternate subjects
+- Students in the Master of Project Management should complete the required number of credit points from the following subject list, as noted in their Pathway structure.
+- Students in the Graduate Diploma in Project Management should complete 50 credit points from the following list (40cps to complete the major plus an extra 10cps selected from the pool to complete the program).
+- Major Structure 2021-2024
+- Students must complete three 10 credit point Management alternate subjects and three 10 credit point Engineering alternate subjects.
+- The subject listed below counts towards completion of this major for students who passed this subject in 2019 or earlier.
+- CIVL 7010 - Advanced Water and Wastewater Treatment
+- Related Programs
+
+Location Table:
+- Parramatta City Campus - Macquarie Street
+- Internal
+- Xiaohua (Sean) Jin
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+CIVL 7001Advanced Applied Mechanics10
+CIVL 7002Advanced Composite Structures10
+MECH 7001Advanced Computational Fluid Dynamics10
+MECH 7002Advanced Computer Aided Engineering10
+ELEC 7001Advanced Control Systems10
+ELEC 7002Advanced Data Networks10
+MECH 7003Advanced Dynamic Systems10
+ELEC 7003Advanced Electrical Machines and Drives10
+CIVL 7003Advanced Geotechnical Engineering10
+CIVL 7004Advanced Highway Infrastructure10
+EART 7001Advanced Hydrogeology10
+MECH 7004Advanced Mobile Robotics10
+CIVL 7005Advanced Numerical Methods in Engineering10
+ELEC 7004Advanced Power Quality10
+MECH 7005Advanced Robotics10
+ELEC 7005Advanced Signal Processing10
+ELEC 7006Advanced Smart Grids and Distributed Generation10
+EART 7002Advanced Statistical Hydrology10
+CIVL 7006Advanced Structural Analysis10
+MECH 7006Advanced Thermal and Fluid Engineering10
+CIVL 7007Advanced Timber Structures10
+CIVL 7008Advanced Waste Management10
+CIVL 7009Advanced Water Engineering10
+CIVL 7013Deep Foundations10
+ELEC 7008Instrumentation and Measurement (PG)10
+MECH 7007Mechanical System Design10
+MECH 7008Mechatronic System Design10
+ELEC 7009Personal Communication Systems10
+ELEC 7010Power System Planning and Economics10
+ENGR 7020Sustainability and Risk Engineering (PG)10
+CIVL 7017Wastewater Treatment and Recycling10
+CIVL 7015Water Resources Systems Analysis10
+CIVL 7018Water Treatment and Distribution10
+
+courselist table2:
+Management subjects - offered in Quarter 2 and Quarter 4 sessons
+Select three of the following:30
+BUSM 7018Contemporary People Management
+ACCT 7015Financial Reports for Decision Making
+BUSM 7040Governance, Ethics and Social Entrepreneurship
+BUSM 7065Managing in the Global Context
+BUSM 7086Strategic Business Management
+BUSM 7092Supply Chain Management
+Engineering subjects - offered in Autumn and Spring sessions
+Select three of the following:30
+CIVL 7001Advanced Applied Mechanics
+CIVL 7002Advanced Composite Structures
+MECH 7001Advanced Computational Fluid Dynamics
+MECH 7002Advanced Computer Aided Engineering
+ELEC 7001Advanced Control Systems
+ELEC 7002Advanced Data Networks
+MECH 7003Advanced Dynamic Systems
+ELEC 7003Advanced Electrical Machines and Drives
+CIVL 7003Advanced Geotechnical Engineering
+CIVL 7004Advanced Highway Infrastructure
+EART 7001Advanced Hydrogeology
+MECH 7004Advanced Mobile Robotics
+CIVL 7005Advanced Numerical Methods in Engineering
+ELEC 7004Advanced Power Quality
+MECH 7005Advanced Robotics
+ELEC 7005Advanced Signal Processing
+ELEC 7006Advanced Smart Grids and Distributed Generation
+EART 7002Advanced Statistical Hydrology
+CIVL 7006Advanced Structural Analysis
+MECH 7006Advanced Thermal and Fluid Engineering
+CIVL 7007Advanced Timber Structures
+CIVL 7008Advanced Waste Management
+CIVL 7009Advanced Water Engineering
+CIVL 7013Deep Foundations
+ELEC 7008Instrumentation and Measurement (PG)
+MECH 7007Mechanical System Design
+MECH 7008Mechatronic System Design
+ELEC 7009Personal Communication Systems
+ELEC 7010Power System Planning and Economics
+ENGR 7020Sustainability and Risk Engineering (PG)
+CIVL 7017Wastewater Treatment and Recycling
+CIVL 7015Water Resources Systems Analysis
+CIVL 7018Water Treatment and Distribution
+Total Credit Points60

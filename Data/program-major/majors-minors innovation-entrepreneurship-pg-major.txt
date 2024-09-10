@@ -1,0 +1,29 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Innovation and Entrepreneurship, Major (0038)
+- Western Sydney University Major Code:
+- Previous Code:  SP2011.1
+- Developing innovation and entrepreneurial capability is essential for small, medium and large businesses. This specialisation introduces students to practical and applied knowledge supported by theory, concepts, frameworks for understanding and developing innovation and entrepreneurial thought, capability, infrastructure and platforms. Students will be exposed to leadership and approaches to the development of new products, services, processes and business models and introduced to ideation as an approach for developing ideas into possible innovative products, services, applications and processes. Students will be exposed to a variety of brainstorming, creativity and foresight methods and tools, with emphasis on scenario planning methods.
+- Location
+- Major Structure
+- Students must successfully complete 60 credit points as listed below.
+- Related Programs
+
+Location Table:
+- Parramatta City Campus - Macquarie Street
+- Internal
+- Dr Laurel Jackson
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+BUSM 7028Entrepreneurial Management Capabilities10
+BUSM 7040Governance, Ethics and Social Entrepreneurship10
+BUSM 7048Innovation, Creativity and Foresight10
+BUSM 7046Innovation for New Markets10
+BUSM 7045Innovation Through Digital Technology10
+BUSM 7072New Venture Finance10
+Total Credit Points60

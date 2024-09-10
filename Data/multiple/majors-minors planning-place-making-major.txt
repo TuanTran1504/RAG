@@ -1,0 +1,40 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Planning and Place Making, Major (0321)
+- Western Sydney University Major Code:
+- This major combines subjects from urban management and planning to prepare students for careers in planning, place making and place management. Students can develop expertise in a range of areas related to planning and place, including: environmental regulation, finance, governance, health and wellbeing, heritage, planning philosophy, sustainability and urban design. Students who complete this major will be well positioned to contribute to development and management of sustainable places.
+- Inherent Requirements
+- There are inherent requirements for this major that you must meet in order to complete the major and graduate. Make sure you read and understand the requirements for this major online.
+- https://www.westernsydney.edu.au/ir/inherent_requirements
+- Students must complete 40 credit points as follows.
+- Complete the following compulsory subjects.
+- Select two subjects from the following pool subjects.
+
+Location Table:
+- Parramatta City
+- Internal
+- Dr Alanna Kamp
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Autumn Session
+ARCH 7003Managing Cities: History and Theory10
+Spring Session
+ARCH 7001Developing Sustainable Places10
+Total Credit Points20
+
+courselist table2:
+Select two of the following:20
+Autumn Session
+ARCH 7002Heritage and Planning
+ARCH 7014Health, Wellbeing and Place
+ENVL 7002Planning and Environmental Regulation
+Spring Session
+ARCH 7005Urban Management Practice: Governance and Power in the City
+ARCH 7020Cool Green Cities
+BLDG 7006Financing Cities in the Global Economy
+Total Credit Points20

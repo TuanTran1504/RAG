@@ -1,0 +1,512 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Bachelor of Design and Technology (3729)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 041034F
+- This program applies to students who commenced in 2021 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- For commencement year 2020, please refer to: 3729.3 Bachelor of Design and Technology
+- For commencement year 2018-2019, please refer to: 3729.2 Bachelor of Design and Technology
+- Handbook Summary 2021 - 2022
+- The Design and Technology program provides a sound knowledge in a broad range of work-ready design skills, including thinking methods, drawing skills for creativity, design innovation, product design, human factors, design management, and 2D and 3D CAD. This program can lead to multiple career outcomes, including product design, packaging, 3D modelling, rapid prototyping with 3D printing, design for sustainability, new product-oriented Start-Up, or secondary school teaching (with additional qualifications). Fields of Study include Design Practice, Graphic Design, Cultural Studies, UX, Manufacturing, and Sustainable Futures. Students wishing to become industrial designers can articulate in the fourth year of the Bachelor of Industrial Design.
+- Parts of this course may be taught at the Parramatta City - Hassall St campus or at the Parramatta South campus.
+- Handbook Summary 2023
+- The Design and Technology Program is a catalyst for innovation in product design, service design and design for sustainability, drawing together an all-disciplines approach mindset highly valued by employers. It responds flexibly to the varying needs and the power of integrated design for communities, industry, entrepreneurial pursuits and design education.
+ 
+The Design and Technology degree provides skills development in a broad range of work-ready design skills, including design thinking methods, drawing skills for creativity, design innovation, product design, human factors design, design management, and 2D and 3D CAD with the latest internationally recognised software. Students also work collaboratively in teams and with clients on industry projects whilst utilising the extensive Design Studio and Advanced Prototyping Workshop facilities available to them.
+ 
+This program prepares students for multiple career outcomes, including product design, packaging, 3D modelling, rapid prototyping with 3D printing, design for sustainability, new product-oriented venture Start-Ups, high-level verbal and visual presentation and if preferred, secondary school teaching with additional WSU qualifications in Master of Teaching (Secondary). Studies are held at the Parramatta Engineering Innovation Hub.
+- Effective Design career professionals require a broad range of knowledge to allow them to connect and work with colleagues across many disciplines. To assist students to flexibly build their career pathways, the Bachelor of Design and Technology provides elective options in order to complete a major; or one or two minors; or explore a range of free electives in areas of interest across the university.
+- Study Mode
+- Three years full-time or six years part-time.
+- Program Advice
+- edbe@westernsydney.edu.au
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Parts of this course may be taught at the Parramatta City - Hassall St campus or at the Parramatta South campus.
+- Accreditation
+- Graduates are eligible for membership of the Design Institute of Australia (DIA).
+- Admission
+- Assumed knowledge: any two units of English plus at least two units of Design, Design and Technology, Visual Arts, Digital Multimedia, Engineering, or Business Studies
+- Alternate Entry
+- Entry by interview in which personal aptitude, experience, and educational qualifications are taken into consideration supported by a portfolio of works. After applicants have applied, they are required to book an interview and download a questionnaire at the University's online booking system. The questionnaire provides applicants further information on how to prepare their portfolio and for the interview.
+- https://admissions.westernsydney.edu.au
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- International students currently completing an Australian Year 12 in or outside Australia, an International Baccalaureate in Australia or a New Zealand National Certificate of Educational Achievement (NCEA) level 3 must apply via UAC International.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Sequence Current
+- Qualification for this award requires the successful completion of 240 credit points which include the subjects listed in the recommended sequence below.
+- The core subjects are taught at the Parramatta City (Hassall St) campus.
+- Full-time start-year intake
+- Full-time mid-year intake
+- Elective subjects
+- Students may select their electives from any program offered by the university, provided any requisite requirements are met.
+- Students may use their 80 credit points of elective subjects to complete a major, or two minors, or suggested Design and Technology electives or university wide electives or a combination of the above.
+- Suggested Design and Technology Electives
+- Majors
+- Minors
+- Recommended Sequence 2021 - 2022
+- Qualification for this award requires the successful completion of 240 credit points which include the subjects listed in the recommended sequence below.
+- To be eligible to graduate from this program, students are required to complete a minor from the list below.
+- Parts of these units may be taught at the Parramatta City - Hassall St campus or at the Parramatta South campus.
+- Start Year Intake
+- Mid-year Intake
+- Autumn Alternate Subject Pool
+- Spring Alternate Subject Pool
+- Majors and Minors
+- The Bachelor of Industrial Design is offered at Parramatta City campus only. Students may be required to travel between campuses in order to complete some subjects within specific Majors and Minors.
+- Majors
+- Minors
+- The minor listed below counts towards completion of this Program for students who began studying this minor prior to the years indicated below.
+- SM1070 Cultural and Social Analysis, Minor, replaced by Culture and Society, Minor in 2021 (listed above)
+
+Location Table:
+- Parramatta City Campus
+- Full Time
+- Internal
+- See above
+- Parramatta City Campus
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+ENGR 1046
+Human Centred Design Research Methods
+10
+ENGR 1039
+Designing for Circular Economy
+10
+ENGR 1043
+Co-Designing Change with Local Communities
+10
+ENGR 1038
+Design Graphics: Presenting Innovation
+10
+
+Credit Points
+40
+Spring session
+ENGR 1041
+Designing for User Experience (UX)
+10
+ENGR 1044
+Drawing Skills for Design Thinking
+10
+ENGR 1040
+Designing for People: Applied Ergonomics
+10
+ENGR 2025
+Design Graphics: Engineering Documentation
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+ENGR 1042
+Sustainable Materials and Smart Manufacturing
+10
+ENGR 2026
+Design Semantics: Exploring Product Form
+10
+ENGR 2024
+Design Graphics: Communication for Manufacture
+10
+Select one elective subject
+10
+
+Credit Points
+40
+Spring session
+ENGR 3023
+Biomechanics in Product Innovation
+10
+ENGR 3026
+Design Thinking for Successful Brands and Products
+10
+Select two elective subjects
+20
+
+Credit Points
+40
+Year 3
+Autumn session
+ENGR 4021
+Studio: Interdisciplinary Global
+10
+Select three elective subjects
+30
+
+Credit Points
+40
+Spring session
+ENGR 4022
+Studio: Design Synthesis Capstone
+10
+Select one capstone subject from the following:
+10
+ENGR 2029
+Simulation in Virtual and Augmented Realities
+
+ENGR 4019
+Start-Up Product Launch
+
+ENGR 3024
+Design Research Methods (Advanced)
+
+ENGR 4017
+Design Thinking for Competitive Advantage
+
+ENGR 3025
+Designing for Circular Economy (Advanced)
+
+ENGR 3028
+Mentored Practice in Design Innovation
+
+ENGR 3031
+Mentored Practice in Design (Industry)
+
+ENGR 2022
+Design Practice: Sustainable Manufacturing
+
+ENGR 4016
+Design Practice: Sustainable Components
+
+Select two elective subjects
+20
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Spring session
+Credit Points
+ENGR 1041
+Designing for User Experience (UX)
+10
+ENGR 1044
+Drawing Skills for Design Thinking
+10
+ENGR 1040
+Designing for People: Applied Ergonomics
+10
+ENGR 2025
+Design Graphics: Engineering Documentation
+10
+
+Credit Points
+40
+Autumn session
+ENGR 1046
+Human Centred Design Research Methods
+10
+ENGR 1039
+Designing for Circular Economy
+10
+ENGR 1038
+Design Graphics: Presenting Innovation
+10
+ENGR 2024
+Design Graphics: Communication for Manufacture
+10
+
+Credit Points
+40
+Year 2
+Spring session
+ENGR 3023
+Biomechanics in Product Innovation
+10
+ENGR 3026
+Design Thinking for Successful Brands and Products
+10
+Select two elective subjects
+20
+
+Credit Points
+40
+Autumn session
+ENGR 1043
+Co-Designing Change with Local Communities
+10
+ENGR 1042
+Sustainable Materials and Smart Manufacturing
+10
+ENGR 2026
+Design Semantics: Exploring Product Form
+10
+Select one elective subject
+10
+
+Credit Points
+40
+Year 3
+Spring session
+ENGR 4022
+Studio: Design Synthesis Capstone
+10
+Select one capstone subject from the following:
+10
+ENGR 2029
+Simulation in Virtual and Augmented Realities
+
+ENGR 4019
+Start-Up Product Launch
+
+ENGR 3024
+Design Research Methods (Advanced)
+
+ENGR 4017
+Design Thinking for Competitive Advantage
+
+ENGR 3025
+Designing for Circular Economy (Advanced)
+
+ENGR 3028
+Mentored Practice in Design Innovation
+
+ENGR 3031
+Mentored Practice in Design (Industry)
+
+ENGR 2022
+Design Practice: Sustainable Manufacturing
+
+ENGR 4016
+Design Practice: Sustainable Components
+
+Select two elective subjects
+20
+
+Credit Points
+40
+Autumn session
+ENGR 4021
+Studio: Interdisciplinary Global
+10
+Select three elective subjects
+30
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Autumn session
+Credit Points
+ENGR 1046
+Human Centred Design Research Methods
+10
+ENGR 1039
+Designing for Circular Economy
+10
+ENGR 1043
+Co-Designing Change with Local Communities
+10
+ENGR 1038
+Design Graphics: Presenting Innovation
+10
+
+Credit Points
+40
+Spring session
+ENGR 1041
+Designing for User Experience (UX)
+10
+ENGR 1044
+Drawing Skills for Design Thinking
+10
+ENGR 1040
+Designing for People: Applied Ergonomics
+10
+ENGR 2025
+Design Graphics: Engineering Documentation
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+ENGR 1042
+Sustainable Materials and Smart Manufacturing
+10
+ENGR 2026
+Design Semantics: Exploring Product Form
+10
+ENGR 2024
+Design Graphics: Communication for Manufacture
+10
+Select one Major, Minor or Alternate subject
+10
+
+Credit Points
+40
+Spring session
+ENGR 3023
+Biomechanics in Product Innovation
+10
+ENGR 3026
+Design Thinking for Successful Brands and Products
+10
+Select two Major, Minor or Alternate subjects
+20
+
+Credit Points
+40
+Year 3
+Autumn session
+ENGR 4021
+Studio: Interdisciplinary Global
+10
+Select three Major, Minor or Alternate subjects
+30
+
+Credit Points
+40
+Spring session
+ENGR 4022
+Studio: Design Synthesis Capstone
+10
+ENGR 2029
+Simulation in Virtual and Augmented Realities
+10
+Select two Major, Minor or Alternate subject
+20
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Spring session
+Credit Points
+ENGR 1041
+Designing for User Experience (UX)
+10
+ENGR 1044
+Drawing Skills for Design Thinking
+10
+ENGR 1040
+Designing for People: Applied Ergonomics
+10
+ENGR 2025
+Design Graphics: Engineering Documentation
+10
+
+Credit Points
+40
+Autumn session
+ENGR 1046
+Human Centred Design Research Methods
+10
+ENGR 1039
+Designing for Circular Economy
+10
+ENGR 1038
+Design Graphics: Presenting Innovation
+10
+ENGR 2024
+Design Graphics: Communication for Manufacture
+10
+
+Credit Points
+40
+Year 2
+Spring session
+ENGR 3023
+Biomechanics in Product Innovation
+10
+ENGR 3026
+Design Thinking for Successful Brands and Products
+10
+Select two Major, Minor or Alternate subjects
+20
+
+Credit Points
+40
+Autumn session
+ENGR 1043
+Co-Designing Change with Local Communities
+10
+ENGR 1042
+Sustainable Materials and Smart Manufacturing
+10
+ENGR 2026
+Design Semantics: Exploring Product Form
+10
+Select one Major, Minor or Alternate subject
+10
+
+Credit Points
+40
+Year 3
+Spring session
+ENGR 4022
+Studio: Design Synthesis Capstone
+10
+ENGR 2029
+Simulation in Virtual and Augmented Realities
+10
+Select two Major, Minor or Alternate subject
+20
+
+Credit Points
+40
+Autumn session
+ENGR 4021
+Studio: Interdisciplinary Global
+10
+Select three Major, Minor or Alternate subjects
+30
+
+Credit Points
+40
+
+Total Credit Points
+240
+
+Courselist Tables:
+
+courselist table1:
+ENGR 3024Design Research Methods (Advanced)10
+ENGR 4019Start-Up Product Launch10
+ENGR 4017Design Thinking for Competitive Advantage10
+ENGR 3025Designing for Circular Economy (Advanced)10
+ENGR 3028Mentored Practice in Design Innovation10
+ENGR 3031Mentored Practice in Design (Industry)10
+ENGR 2022Design Practice: Sustainable Manufacturing10
+ENGR 4016Design Practice: Sustainable Components10
+Total Credit Points80
+
+courselist table2:
+ENGR 2022Design Practice: Sustainable Manufacturing10
+VISU 2003From Ochre to Acrylics to New Technologies10
+HUMN 1013Contextualising Indigenous Australia (Day Mode)10
+BUSM 3005Creating Change and Innovation10
+BUSM 3036Leadership and Entrepreneurship10
+BEHV 1018Psychology: Human Behaviour10
+HUMN 3077Sustainable Futures10
+ENGR 3024Design Research Methods (Advanced)10
+
+courselist table3:
+ENGR 3025Designing for Circular Economy (Advanced)10
+MKTG 2002Incubator 1: Innovation and Creativity for Entrepreneurship10
+ENGR 3028Mentored Practice in Design Innovation10
+ENGR 4016Design Practice: Sustainable Components10
+ENGR 4019Start-Up Product Launch10
+BLDG 1009Environmental Building Design10

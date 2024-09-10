@@ -1,0 +1,62 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Diploma in Building Design Management (7108)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 094500B
+- Program Status: CURRENT
+This program applies to students who commenced in Term 1 2022 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- For commencement year 2021, please refer to - 7108.2 - Diploma in Building Design Management (exit only)
+- For commencement year Term 3 2016 - 2020, please refer to - 7108.1 - Diploma in Building Design Management (exit only)
+- The Diploma in Building Design Management is available as an exit point only from Diploma in Building Design Management/Bachelor of Building Design Management.
+- Study Mode
+- One year (three terms) full-time
+- Program Advice
+- College Admin
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Admission
+- This program is an exit award only
+- The aim of this program is to prepare students for tertiary study in Building Design Management and is accredited by the University, as principal, to enable its agent, Western Sydney Univeristy, The College, to produce students who are fully prepared for study beyond the first year of a tertiary award.
+- Local students are required to have
+- Met other entry requirements such as
+- Assumed knowledge: HSC English and Mathematics/Science.
+- International students must satisfy one of the following language requirements
+- Academic Entry Requirements vary according to country of origin. However, in general
+- For further information regarding English Language Entry Requirements, please see
+- https://www.westernsydney.edu.au/__data/assets/pdf_file/0003/274170/INTL0910_English_Language_Entry_Table_2019_v03_Add_Nigeria_Zimbabwe_latest.pdf
+- Program Structure
+- This program is an exit award only.
+- The early exit College Diploma consists of 100 credit points which includes two College Preparatory units.
+- Students must pass the following preparatory level subjects for which no advanced standing will be granted in the University degree program.
+- Students must pass the following core University level subjects
+
+Location Table:
+- Penrith Campus
+- Full time
+- Internal
+- see above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+BLDG 0002Building Calculations (WSTC Prep)10
+LANG 0050Essential Literacy for Construction Professionals II (WSTC Prep)10
+Total Credit Points20
+
+courselist table2:
+BLDG 1008Construction Work Safety (WSTC)10
+ENGR 1037Construction Communication (WSTC)10
+BLDG 2012Contract Administration (WSTC)10
+BLDG 1018Residential Building (WSTC)10
+BLDG 1016Building Science (WSTC)10
+ARCH 1005Drawing and CAD (WSTC)10
+BLDG 1017Non-Residential Building (WSTC)10
+BLDG 1010Environmental Building Design (WSTC)10
+Total Credit Points80

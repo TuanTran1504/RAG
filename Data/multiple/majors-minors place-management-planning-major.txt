@@ -1,0 +1,59 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Place Management and Planning, Major (0304)
+- Western Sydney University Major Code:
+- This unique major combines subjects from tourism, heritage and planning to prepare students for careers in place management. Place managers use collaborative approaches to design and develop a wide diversity of spaces and places, including precincts, destinations, towns, cities, parks, and many more. In this major, students will develop the skills and knowledge to manage places sustainably in a variety of contexts. This includes the ability to balance competing community, cultural, ecological and economic interests. Students who complete the major will be well positioned to apply for a growing number of place management positions with government and consultancies.
+- Location
+- Major Structure
+- Students must complete 80 credit points as follows.
+- Complete the following compulsory subjects.
+- Students must also complete one subject from the following pool.
+- The subject listed below counts towards completion of this program for students who passed this subject in 2022 or earlier.
+- SPRT 2011 - Sustainability, Tourism and Place, replaced by TOUR 2003 Managing Sustainable Places
+- TOUR 2003 Managing Sustainable Places
+- BUSM 3007 - Destination Management, replaced by TOUR 3004 Destination Management
+- TOUR 3004 Destination Management
+- BUSM 3073 - Tourism Policy and Planning, replaced by TOUR 3005 Tourism Policy and Planning
+- TOUR 3005 Tourism Policy and Planning
+- TOUR 2001 - Issues in Contemporary Heritage, replaced by HUMN 2073 Issues in Contemporary Heritage
+- HUMN 2073 Issues in Contemporary Heritage
+- CULT 3014 - Heritage Interpretation, replaced by HUMN 3117 Place-Making for Tourism and the Cultural Economies
+- CULT 3014 -
+- HUMN 3117 Place-Making for Tourism and the Cultural Economies
+
+Location Table:
+- Parramatta City
+- Full-time
+- Dr Garth Lean
+- Parramatta City
+- Part-time
+- Dr Garth Lean
+- Parramatta - Victoria Road
+- Full-time
+- Dr Garth Lean
+- Parramatta - Victoria Road
+- Part-time
+- Dr Garth Lean
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+HUMN 1008Cities: Introduction to Urban Studies10
+HUMN 2018Cultural and Social Geographies10
+TOUR 3004Destination Management10
+HUMN 2073Issues in Contemporary Heritage10
+TOUR 2003Managing Sustainable Places10
+HUMN 3117Place-Making for Tourism and the Cultural Economies10
+ENVL 3005Planning the City: Development, Community and Systems10
+Total Credit Points70
+
+courselist table2:
+Select one of the following:10
+ENVL 2001Analysis of Spatial Data
+HUMN 2053The Economics of Cities and Regions
+TOUR 3005Tourism Policy and Planning
+ENVL 3006Transport, Access and Equity
+Total Credit Points10

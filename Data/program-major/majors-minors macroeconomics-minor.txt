@@ -1,0 +1,25 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Macroeconomics, Minor (0293)
+- Western Sydney University Minor Code:
+- Previous Code: SM2062
+- Macroeconomics looks at the economy as a whole and the relations between different factors in the economy such as economic growth, inflation, and trade. Students learn about these economic factors or variables, the accounting framework, and about the value of macroeconomic models in managing economic change. Student have practice at interpreting and manipulating data, constructing macroeconomic models and transforming statistical data in a range of activities.
+- Location
+- Students must complete 40 credit points as follows.
+
+Location Table:
+- Parramatta City-Macquarie St
+- 
+- Internal
+- Program Advice
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+ECON 1013The Australian Macroeconomy10
+ECON 3012Growth, Cycles and Crises10
+ECON 3006Economic and Financial Modelling10
+ECON 3017Macroeconomic Measures and Models10

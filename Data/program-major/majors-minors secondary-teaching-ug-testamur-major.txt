@@ -1,0 +1,158 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Secondary Teaching, Testamur Major (T119)
+- Western Sydney University Major Code:
+- Previous Code: MT3041.1
+- There is a high demand for mathematics teachers throughout Australia, with Western Sydney identified as a particular high-demand location by the NSW Department of Education. Building on the Bachelor of Mathematics, this major equips graduates with additional knowledge and skills in contemporary educational concepts. After completing the Bachelor of Mathematics (Secondary Education), graduates can enrol in a postgraduate course to become accredited teachers. The core subjects of the Bachelor of Mathematics meet the NESA requirements for Mathematics as a first teaching area, and students can choose elective subjects to qualify for another teaching area to gain additional options for employment.
+- Location
+- Major Structure
+- All students must complete Education Studies, Minor plus four subjects from one of the alternate pools.
+- A minimum of 30 credit points at Level 3 is required across all Secondary Teaching major subjects.
+- Note: The core subjects of 3778 Bachelor of Mathematics meet the NESA requirements for Mathematics as a first teaching area.
+- Recommended Sequence
+- Full-time
+- Part-time
+- Related Programs
+
+Location Table:
+- Campbelltown Campus
+- Internal
+- A/Professor Volker Gebhardt
+- Parramatta Campus - Victoria Road
+- Internal
+- A/Professor Volker Gebhardt
+- Penrith Campus
+- Internal
+- A/Professor Volker Gebhardt
+
+Sequence Tables:
+Year 1
+Spring session
+Credit Points
+Two subjects from Secondary Teaching major
+20
+
+Credit Points
+20
+Year 2
+Autumn session
+One subject from Secondary Teaching major
+10
+
+Credit Points
+10
+Spring session
+One subject from Secondary Teaching major
+10
+
+Credit Points
+10
+Year 3
+Autumn session
+Two subjects from Secondary Teaching major
+20
+
+Credit Points
+20
+Spring session
+Two subjects from Secondary Teaching major
+20
+
+Credit Points
+20
+
+Total Credit Points
+80
+Year 1
+Spring session
+Credit Points
+One subject from Secondary Teaching major
+10
+
+Credit Points
+10
+Year 2
+Spring session
+One subject from Secondary Teaching major
+10
+
+Credit Points
+10
+Year 4
+Autumn session
+One subject from Secondary Teaching major
+10
+
+Credit Points
+10
+Spring session
+One subject from Secondary Teaching major
+10
+
+Credit Points
+10
+Year 5
+Autumn session
+One subject from Secondary Teaching major
+10
+
+Credit Points
+10
+Spring session
+One subject from Secondary Teaching major
+10
+
+Credit Points
+10
+Year 6
+Autumn session
+One subject from Secondary Teaching major
+10
+
+Credit Points
+10
+Spring session
+One subject from Secondary Teaching major
+10
+
+Credit Points
+10
+
+Total Credit Points
+80
+
+Courselist Tables:
+
+courselist table1:
+Students may choose four subjects from the following alternate pools40
+Mathematics/Physics
+PHYS 1002Physics 1
+PHYS 1006Physics 2
+PHYS 2005Classical Physics and Advanced Technologies
+PHYS 3007Quantum Physics
+PHYS 3006Classical Physics
+Note: In combination with the core subjects of 3778 Bachelor of Mathematics, completing four units from this pool meets the NESA requirements for Mathematics/Physics as a first teaching area.
+Equivalent Subjects:
+The subjects listed below count towards completion of this major for students who passed these subjects in 2020 or earlier.
+CHEM 2003 Classical Physics and Advanced Technologies replaced by PHYS 2005 Classical Physics and Advanced Technologies
+CHEM 3016 Quantum Physics replaced by PHYS 3007 Quantum Physics
+Information Processes and Technology
+INFS 2001Database Design and Development
+COMP 2004Computer Networking
+COMP 3007Computer Networks and Internets
+COMP 3023Systems and Network Management
+COMP 2014Object Oriented Programming
+COMP 2008Computer Organisation
+COMP 3011Internet Programming
+Note: Completing four subjects from this pool meets the NESA requirements for Information Processes and Technologies as an additional teaching area.
+Software Design and Development
+INFS 1006Systems Analysis and Design
+INFS 2006Object Oriented Analysis
+COMP 2014Object Oriented Programming
+COMP 2008Computer Organisation
+COMP 3011Internet Programming
+COMP 3015Operating Systems Programming
+COMP 3013Mobile Applications Development
+Note: Completing four subjects from this pool meets the NESA requirements for Software Design and Development as an additional teaching area.
+Total Credit Points40

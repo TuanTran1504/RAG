@@ -1,0 +1,54 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Social Research, Minor (0259)
+- Western Sydney University Minor Code:
+- Previous Code: SM1147.1
+- A minor in Social Research provides students with training in the methods and theories of social research for their application to social issues and social policy. In addition to interviewing and observation skills, quantitative analysis, spatial analysis, and Indigenous methodologies, the minor offers students the opportunity to apply these skills across a range of themes including ethnography, ethnicity and migration, urban planning and criminology. A Bachelor of Social Science with a minor in Social Research will prepare students for both employment and/or a research higher degree.
+- Location
+- Minor Structure
+- Students must complete as follows.
+- The subject listed below counts toward completion of this minor for students who passed this subject in 2021 or earlier.
+- BEHV 1009 Living, Learning and Working on the Web, replaced by HUMN 1064 Digital Identities
+- BEHV 1009 Living, Learning and Working on the Web
+- HUMN 1064 Digital Identities
+- Students must complete 40 credit points from the subjects listed below.
+- Related Programs
+
+Location Table:
+- Liverpool Campus
+- Internal
+- Professor Mary Hawkins
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Students must complete the following core subject
+MATH 3017Data Analysis and Visualisation for Social Policy10
+Students must also complete 30 credit points from the subjects listed below30
+Autumn session
+HUMN 2068Cultures of Southeast Asia and Oceania
+HUMN 3049Home and Away: Ethnicity and Migration in Australia
+CULT 1024Introduction to Criminal Justice
+HUMN 1064Digital Identities
+Spring session
+ENVL 2001Analysis of Spatial Data
+HUMN 3112Indigenous Methodologies
+HUMN 3070Rethinking Research with Indigenous Australians: Independent Study Project (Day Mode)
+HUMN 2053The Economics of Cities and Regions
+Total Credit Points40
+
+courselist table2:
+Autumn session
+HUMN 2068Cultures of Southeast Asia and Oceania
+HUMN 3049Home and Away: Ethnicity and Migration in Australia
+CULT 1024Introduction to Criminal Justice
+HUMN 1064Digital Identities
+Spring session
+ENVL 2001Analysis of Spatial Data
+HUMN 3112Indigenous Methodologies
+HUMN 3070Rethinking Research with Indigenous Australians: Independent Study Project (Day Mode)
+HUMN 2053The Economics of Cities and Regions
+Total Credit Points40

@@ -1,0 +1,47 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Graduate Diploma in Chinese Medicine (exit only) (4717)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 0101770
+- Program Status:
+- This program applies to students who commenced in 2015 or later.
+- This is an exit program only. Applicants apply to 4716 - Master of Chinese Medicine and exit with the Graduate Diploma in Chinese Medicine.
+- 4716 - Master of Chinese Medicine
+- Study Mode
+- One year full-time
+- Program Advice
+- HealthSciences@westernsydney.edu.au
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Program Structure
+
+Location Table:
+- Campbelltown Campus
+- Full Time
+- Internal
+- See above
+- Campbelltown Campus
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Core Units
+CMPL 7007Clinical Application of Classical Chinese Herbal Medicine10
+CMPL 7008Clinical Applications of Classical Acupuncture10
+CMPL 7012Evidence Based Practice in Chinese Medicine10
+AGEN 7005Research Protocol Design and Practice10
+CMPL 7025Women's Health in Chinese Medicine10
+Select one of the following10
+HLTH 7008Introduction to Biostatistics
+PUBH 7016Introduction to Epidemiology
+Plus select two electives at postgraduate level20
+Total Credit Points80

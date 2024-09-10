@@ -1,0 +1,27 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Health Informatics, Minor (0037)
+- Western Sydney University Minor Code:
+- Previous Code: SM3090.1
+- This minor will deal with the application of approaches, tools and techniques and the development of programs appropriate for Health Information systems. This minor is available to all students except those enrolled in the 3711 Bachelor of Information and Communications Technology (Health Information Management) program.
+- Location
+- Minor Structure
+- Students must complete the following four subjects
+- Related Programs
+
+Location Table:
+- Penrith Campus
+- Internal
+- CDMS@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+HLTH 2007Fundamentals of Medical Concepts and Terminology10
+INFS 3010Healthcare Data Environments10
+INFS 3011Healthcare Software and Systems10
+INFS 2004Introduction to Health Informatics10
+Total Credit Points40

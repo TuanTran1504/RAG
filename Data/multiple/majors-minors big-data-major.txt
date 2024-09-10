@@ -1,0 +1,38 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Big Data, Major (0144)
+- Western Sydney University Major Code:
+- Previous Code: M3098.1
+- This major covers theories and technologies of big data with applications to information systems. Students completing this major will possess and apply the technical skills for managing large volumes and varieties of data in the information systems context.
+- Location
+- Curriculum delivered through an agreement with another party
+- Major Structure
+- Students must complete eight subjects as follows:
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 2009 Introduction to Data Science, replaced by COMP 2025 Introduction to Data Science
+- MATH 2014 Visual Analytics, replaced by  COMP 2026 Visual Analytics
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- Dr Ana Hol
+- Sydney City Campus*
+- Internal
+- Antoinette Cevenini
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+COMP 3002Applications of Big Data10
+INFS 3006Emerging Trends in Information Systems10
+INFS 1002Information Systems in Context10
+COMP 2025Introduction to Data Science10
+COMP 1005Programming Fundamentals10
+MATH 1030Statistics for Business10
+COMP 3020Social Web Analytics10
+COMP 2026Visual Analytics10
+Total Credit Points80

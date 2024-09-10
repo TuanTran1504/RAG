@@ -1,0 +1,48 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Graduate Diploma in Advanced Gynaecological Surgery (4766)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- This program is available to RANZCOG specialist trainees in Obstetrics & Gynaecology pursuing their interests in surgical gynaecology. The Graduate Diploma in Advanced Gynaecological Surgery aims to develop a theoretical framework which can be applied in a clinical setting to help assess, plan and perform gynaecological surgery. There is an emphasis on the principles of surgical techniques with respect to gynaecological anatomy, physiology and pathology. Students will analyse biostatistics relating to gynaecological surgery to assist in reviewing the clinical literature, cases and outcomes. This program is expected to take 1-year full time to complete. On completion of the Graduate Diploma in Advanced Gynaecological Surgery, students who meet the admission requirements for the Master of Surgery (Advanced Gynaecological Surgery) may apply for entry.
+- ◾ Director of Academic Program - Dr Paul Stoodley
+- 4770 - Master of Surgery (Advanced Gynaecological Surgery)
+- Study Mode
+- One year full-time
+- Program Advice
+- Associate Professor Harry Merkur
+- Location
+- Accreditation Note
+- While this program does not require accreditation, the clinical component is recognised for advanced trainees in Obstetrics and Gynaecology by RANZCOG (The Royal Australian and New Zealand College of Obstetricians and Gynaecologists).
+- Inherent Requirements
+- There are inherent requirements for this program that you must meet in order to complete your program and graduate. Make sure you read and understand the requirements for this program online.
+- https://www.westernsydney.edu.au/ir/inherent_requirements/inherent_requirements_for_medicine_courses
+- Admission
+- All students must be:
+- Special Requirements
+- Students undertaking the Graduate Diploma in Advanced Gynaecological Surgery must be registered medical practitioners undertaking or completed specialist Obstetrics & Gynaecology training through RANZCOG (or other accredited college).
+- Program Structure
+- Year 1
+
+Location Table:
+- Online
+- Full Time
+- Online
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+MEDI 7046Advanced Gynaecological Surgery 120
+HLTH 7008Introduction to Biostatistics10
+Select three subjects from Year 1 alternate pool30
+Year 1 Alternate Pool
+MEDI 7026Power Modalities
+MEDI 7017Gynaecological Surgery Ergonomics
+MEDI 7023Pelvic Anatomy
+MEDI 7025Port Entry
+Total Credit Points60

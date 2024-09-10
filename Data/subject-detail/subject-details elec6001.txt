@@ -1,0 +1,14 @@
+Academic Handbook Current Edition ELEC 6001 Applied Project in Neuromorphic Engineering Credit Points 40 Legacy Code 800235 Coordinator Saeed Afshar Opens in new window Description This 40 credit point semester-long subject provides a capstone experience to students enrolled in the Master of Applied Neuromorphic Engineering. Students work on an industry-oriented project with practical application and outcome. Having the intention to go into industry, this subject provides opportunities for students to explore a relevant problem that can be completed in one semester. Students will gain valuable experience and industry insights. School Graduate Research School Discipline Electrical And Electronic Engineering And Technology Student Contribution Band HECS Band 2 40cp Check your fees via the Fees page. Level Postgraduate Coursework Level 6 subject Pre-requisite(s) INFO 7001 AND
+ELEC 6003 AND
+COMP 6001 AND
+COMP 6002 Restrictions Students must be enrolled in 8124 Master of Applied Neuromorphic Engineering Learning Outcomes On successful completion of this subject, students should be able to: Propose a feasible project plan in Neuromorphic Engineering
+Appraise new opportunities in Neuromorphic Engineering with creativity and initiative
+Systemically and critically analyse data and information sources that are related to the identified industry-oriented problem aiming to enhance the capabilities of the neuromorphic system
+Effectively communicate a novel solution and its potentials to both specialist and non-specialist audiences by utilising a variety of multimedia formats that fit for purpose
+Execute an industry-oriented project with practical application and outcomes in the area of Neuromorphic Engineering Subject Content - Project scoping
+- Project proposal and plan
+- Project execution and evaluation
+- Stakeholder engagement
+- Effective communication and negotiation
+- Industry standards
+- Processes and considerations for commercialisation Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Report  1000 words  5 N Individual   Portfolio 2000 words or equivalent 20 N Individual   Presentation*  15 mins 10 N Individual   Applied project 4000 words or equivalent  50 Y Individual   Proposal   5 mins or 1200 words(or equivalent) 15 N Individual Structures that include subject Electrical and Electronic Eng. (ELEC) Master of Applied Neuromorphic Engineering (8124)

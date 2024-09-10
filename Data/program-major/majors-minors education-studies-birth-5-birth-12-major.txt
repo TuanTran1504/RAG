@@ -1,0 +1,37 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Education Studies (Birth - 5/Birth - 12), Major (0156)
+- Western Sydney University Major Code:
+- Previous Code: M1125.1
+- Students enrolled in the 1708 Bachelor of Arts (Pathway to Teaching Birth-5/Birth-12) must complete an Education Studies Major to provide students with 80 credit points of expert content knowledge. Together with completion of subjects in the Master of Teaching (Birth-5 Years/Birth-12 Years) students are enabled to graduate from the Master of Teaching (Birth-5 Years/Birth-12 Years) with a qualification to teach in Early Childhood settings and Primary schools.
+- Location
+- Major Structure
+- Students must complete 80 credit points with at least thirty credit points at Level 3 or higher, as follows
+- Related Programs
+
+Location Table:
+- Bankstown City Campus
+- Internal
+- Denise Fraser
+- Parramatta Campus - Victoria Road
+- Internal
+- Denise Fraser
+- Penrith Campus
+- Internal
+- Denise Fraser
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+TEAC 1032The Developing Child10
+TEAC 7037Early Learning Environments10
+TEAC 2015Diversity and Difference10
+TEAC 7147Play, Health and Wellbeing10
+TEAC 7057Becoming an Exemplary Teacher10
+TEAC 7015Children, Families, Communities10
+TEAC 2009Contemporary Childhoods10
+TEAC 3009Ethical Futures10
+Total Credit Points80

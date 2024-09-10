@@ -1,0 +1,535 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Business Analytics, Testamur Major (T130)
+- Effective from:
+- Western Sydney University Major Code:
+- Previous Code: MT2041.1
+- Generating and communicating information and insight from increasingly diverse and growing sources of big data for business decision-making is a crucial asset for any organisation. Starting with a framework for applying data analysis tools for business analytics, this major develops a blend of skills from mathematics, statistics, data science and computing. Students will acquire knowledge and understanding in the continually developing areas of artificial intelligence, and applications of big data.
+- Location
+- Major Structure 2025
+- This structure applies to students who commenced in 2025 or later. If you commenced 2024 or earlier, please refer to the relevant Structure tab for details.
+- Qualification for this major requires the successful completion of 80 credit points including all of the core subjects listed below.
+- Core Subjects for this Major
+- 2786 Bachelor of Business (Business Analytics) Testamur major students must complete the following subjects. Please refer to the recommended sequence in the Sequence tab.
+- Please note: Excludes students enrolled in 3687 Bachelor of Information Systems OR 3688 Bachelor of Information Systems Advanced  OR  3744 Bachelor of Information Systems/Bachelor of Business  OR  3745 Bachelor of Information Systems Advanced/Bachelor of Business):
+- Professional Subjects
+- Bachelor of Business students undertaking the Business Analytics major are advised to take the following four subjects to satisfy the requirements for their professional core:
+- Core Subjects for 3744/3745:
+- Students enrolled in 3744 Bachelor of Information Systems/Bachelor of Business or 3745 Bachelor of Information Systems Advanced/Bachelor of Business  must complete the following subjects in the Business Analytics Testamur major:
+- Core Subjects for 3687/3688:
+- Students enrolled in 3687 Bachelor of Information Systems or 3688 Bachelor of Information Systems Advanced must complete the following subjects in the Business Analytics Testamur major:
+- Recommended Sequence 2025
+- This sequence applies to students who commenced in 2025 or later. If you commenced in 2024 or earlier, please refer to the relevant Sequence tab for details.
+- (Note: Students in 3687/3688/3744/3745 will complete the specified core subjects for this major listed in the Structure tab)
+- Full-time (2786 Bachelor of Business (Business Analytics) Testamur Major students only)
+- Part-time (2786 Bachelor of Business (Business Analytics) Testamur Major students only)
+- Major Structure 2024
+- This structure applies to students who commenced in 2024 or earlier. If you commenced 2025 or later, please refer to the relevant Structure tab for details.
+- Qualification for this major requires the successful completion of 80 credit points including all of the core  subjects listed below.
+- Core Subjects for this Major
+- (Note: Students enrolled in 3687/3688 will complete the core subjects for this major in their elective spaces)
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 1002 Analytics Programming, replaced by COMP 1013 Analytics Programming
+- MATH 2009 Introduction to Data Science, replaced by COMP 2025 Introduction to Data Science
+- MATH 2014 Visual Analytics, replaced by  COMP 2026 Visual Analytics
+- Professional Subjects
+- Students undertaking the Business Analytics major are advised to take the following four subjects to satisfy the requirements for their professional core:
+- Recommended Sequence 2024
+- This sequence applies to students who commenced in 2024 or earlier. If you commenced 2025 or later, please refer to the relevant Sequence tab for details.
+- (Note: Students in 3687/3688 will only complete the core subjects for this major listed in the Structure tab)
+- Full-time (2786 Bachelor of Business (Business Analytics) Testamur Major students only)
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 1002 Analytics Programming, replaced by COMP 1013 Analytics Programming
+- MATH 2009 Introduction to Data Science, replaced by COMP 2025 Introduction to Data Science
+- MATH 2014 Visual Analytics, replaced by  COMP 2026 Visual Analytics
+- Part-time (2786 Bachelor of Business (Business Analytics) Testamur Major students only)
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 1002 Analytics Programming, replaced by COMP 1013 Analytics Programming
+- MATH 2009 Introduction to Data Science, replaced by COMP 2025 Introduction to Data Science
+- MATH 2014 Visual Analytics, replaced by  COMP 2026 Visual Analytics
+- Related Programs
+
+Location Table:
+- Parramatta City Campus-Macquarie Street
+- Internal
+- Program Advice
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+BUSM 1010
+Financing Enterprises
+10
+LAWS 1001
+Enterprise Law
+10
+BUSM 1042
+Introduction to Business Analytics
+10
+MATH 1030
+Statistics for Business
+10
+
+Credit Points
+40
+Spring session
+BUSM 1008
+Enterprise Leadership
+10
+BUSM 1006
+Enterprise Innovation and Markets
+10
+COMP 2025
+Introduction to Data Science
+10
+Select one elective
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+COMP 1013
+Analytics Programming
+10
+INFO 3003
+Human-Computer Interaction
+10
+COMP 2026
+Visual Analytics
+10
+Select one elective
+10
+
+Credit Points
+40
+Spring session
+ECON 3006
+Economic and Financial Modelling
+10
+BUSM 2041
+Working in Professions
+10
+Select two electives
+20
+
+Credit Points
+40
+Year 3
+Autumn session
+COMP 3002
+Applications of Big Data
+10
+BUSM 3006
+Design Thinking for Creativity
+10
+Select two electives
+20
+
+Credit Points
+40
+Spring session
+COMP 3020
+Social Web Analytics
+10
+BUSM 3081
+Business Analytics Project ( Enterprise Engaged Subject )
+10
+Select two electives
+20
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Autumn session
+Credit Points
+BUSM 1010
+Financing Enterprises
+10
+LAWS 1001
+Enterprise Law
+10
+
+Credit Points
+20
+Spring session
+BUSM 1042
+Introduction to Business Analytics
+10
+MATH 1030
+Statistics for Business
+10
+
+Credit Points
+20
+Year 2
+Autumn session
+BUSM 1008
+Enterprise Leadership
+10
+COMP 2026
+Visual Analytics
+10
+
+Credit Points
+20
+Spring session
+BUSM 1006
+Enterprise Innovation and Markets
+10
+COMP 2025
+Introduction to Data Science
+10
+
+Credit Points
+20
+Year 3
+Autumn session
+COMP 1013
+Analytics Programming
+10
+Select one elective
+10
+
+Credit Points
+20
+Spring session
+BUSM 2041
+Working in Professions
+10
+Select one elective
+10
+
+Credit Points
+20
+Year 4
+Autumn session
+Select two electives
+20
+
+Credit Points
+20
+Spring session
+ECON 3006
+Economic and Financial Modelling
+10
+Select one elective
+10
+
+Credit Points
+20
+Year 5
+Autumn session
+INFO 3003
+Human-Computer Interaction
+10
+COMP 3002
+Applications of Big Data
+10
+
+Credit Points
+20
+Spring session
+BUSM 3006
+Design Thinking for Creativity
+10
+Select one elective
+10
+
+Credit Points
+20
+Year 6
+Autumn session
+COMP 3020
+Social Web Analytics
+10
+Select one elective
+10
+
+Credit Points
+20
+Spring session
+BUSM 3081
+Business Analytics Project ( Enterprise Engaged Subject )
+10
+Select one elective
+10
+
+Credit Points
+20
+
+Total Credit Points
+240
+Year 1
+Autumn session
+Credit Points
+BUSM 1010
+Financing Enterprises
+10
+LAWS 1001
+Enterprise Law
+10
+BUSM 1042
+Introduction to Business Analytics
+10
+MATH 1030
+Statistics for Business
+10
+
+Credit Points
+40
+Spring session
+BUSM 1008
+Enterprise Leadership
+10
+COMP 1005
+Programming Fundamentals
+10
+BUSM 1006
+Enterprise Innovation and Markets
+10
+Select one elective
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+COMP 1013
+Analytics Programming
+10
+COMP 3032
+Machine Learning
+10
+Select two electives
+20
+
+Credit Points
+40
+Spring session
+COMP 2025
+Introduction to Data Science
+10
+BUSM 2041
+Working in Professions
+10
+Select two electives
+20
+
+Credit Points
+40
+Year 3
+Autumn session
+COMP 2026
+Visual Analytics
+10
+COMP 3002
+Applications of Big Data
+10
+BUSM 3006
+Design Thinking for Creativity
+10
+Select one elective
+10
+
+Credit Points
+40
+Spring session
+COMP 3020
+Social Web Analytics
+10
+BUSM 3081
+Business Analytics Project ( Enterprise Engaged Subject )
+10
+Select two electives
+20
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Autumn session
+Credit Points
+BUSM 1010
+Financing Enterprises
+10
+LAWS 1001
+Enterprise Law
+10
+
+Credit Points
+20
+Spring session
+BUSM 1042
+Introduction to Business Analytics
+10
+MATH 1030
+Statistics for Business
+10
+
+Credit Points
+20
+Year 2
+Autumn session
+BUSM 1008
+Enterprise Leadership
+10
+COMP 1005
+Programming Fundamentals
+10
+
+Credit Points
+20
+Spring session
+BUSM 1006
+Enterprise Innovation and Markets
+10
+Select one elective
+10
+
+Credit Points
+20
+Year 3
+Autumn session
+COMP 1013
+Analytics Programming
+10
+Select one elective
+10
+
+Credit Points
+20
+Spring session
+BUSM 2041
+Working in Professions
+10
+Select one elective
+10
+
+Credit Points
+20
+Year 4
+Autumn session
+COMP 2025
+Introduction to Data Science
+10
+COMP 3032
+Machine Learning
+10
+
+Credit Points
+20
+Spring session
+Select two electives
+20
+
+Credit Points
+20
+Year 5
+Autumn session
+COMP 2026
+Visual Analytics
+10
+COMP 3002
+Applications of Big Data
+10
+
+Credit Points
+20
+Spring session
+BUSM 3006
+Design Thinking for Creativity
+10
+Select one elective
+10
+
+Credit Points
+20
+Year 6
+Autumn session
+COMP 3020
+Social Web Analytics
+10
+Select one elective
+10
+
+Credit Points
+20
+Spring session
+BUSM 3081
+Business Analytics Project ( Enterprise Engaged Subject )
+10
+Select one elective
+10
+
+Credit Points
+20
+
+Total Credit Points
+240
+
+Courselist Tables:
+
+courselist table1:
+BUSM 1042Introduction to Business Analytics10
+COMP 1013Analytics Programming10
+COMP 2026Visual Analytics10
+COMP 2025Introduction to Data Science10
+ECON 3006Economic and Financial Modelling10
+INFO 3003Human-Computer Interaction10
+COMP 3002Applications of Big Data10
+COMP 3020Social Web Analytics10
+Total Credit Points80
+
+courselist table2:
+BUSM 3006Design Thinking for Creativity10
+BUSM 3081Business Analytics Project10
+MATH 1030Statistics for Business10
+BUSM 2041Working in Professions10
+
+courselist table3:
+COMP 1014Thinking About Data10
+COMP 1013Analytics Programming10
+COMP 2025Introduction to Data Science10
+COMP 2026Visual Analytics10
+COMP 3002Applications of Big Data10
+COMP 3020Social Web Analytics10
+COMP 3032Machine Learning10
+BUSM 3004Contemporary Management Issues10
+Total Credit Points80
+
+courselist table4:
+COMP 1014Thinking About Data10
+COMP 1013Analytics Programming10
+COMP 2025Introduction to Data Science10
+COMP 2026Visual Analytics10
+COMP 3002Applications of Big Data10
+COMP 3020Social Web Analytics10
+COMP 3032Machine Learning10
+BUSM 3081Business Analytics Project10
+Total Credit Points80
+
+courselist table5:
+BUSM 1042Introduction to Business Analytics10
+COMP 1005Programming Fundamentals10
+Note: Students enrolled in 3687/3688 must complete BUSM 1008 Enterprise Leadership instead of COMP 1005 Programming Fundamentals in this major
+COMP 1013Analytics Programming10
+COMP 2025Introduction to Data Science10
+COMP 3032Machine Learning10
+COMP 2026Visual Analytics10
+COMP 3002Applications of Big Data10
+COMP 3020Social Web Analytics10
+Total Credit Points80
+
+courselist table6:
+BUSM 3006Design Thinking for Creativity10
+BUSM 3081Business Analytics Project10
+MATH 1030Statistics for Business10
+BUSM 2041Working in Professions10

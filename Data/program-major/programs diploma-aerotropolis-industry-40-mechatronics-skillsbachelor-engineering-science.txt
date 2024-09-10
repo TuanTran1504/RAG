@@ -1,0 +1,87 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Diploma in Aerotropolis Industry 4.0 (Mechatronics Skills)/Bachelor of Engineering Science (6046)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- NOTE: This program is currently not taking any new enrolments.
+- This program has been suspended from 2023.
+- The fourth industrial revolution, also known as Industry 4.0, is affecting almost every industry worldwide and rapidly transforming how businesses operate. The Diploma in Aerotropolis Industry 4.0 (Mechatronics Skills) is designed to equip students with the relevant employability skills required to successfully navigate Aerotropolis Industry 4.0, in addition to equipping students with the skills, knowledge, and attributes required for further studies in Engineering. The Diploma presents students with subjects from the first year of the Bachelor of Engineering Science degree and the Bachelor of Engineering (Honours). The Diploma is designed to develop student’s ability to work autonomously, work within teams, problem solve real-world issues within their field, as well as offering a cultural induction in to the Aerotropolis Industry.
+- A Diploma in Aerotropolis Industry 4.0 (Mechatronics Skills) exit point is available at the end of the first year of the program.
+- For program advice during your first year of study, please use the contact below under ‘Program Advice’. For program advice during your second and subsequent years of study, please use the contact listed for the Bachelor of Bachelor of Engineering Science.
+- Bachelor of Engineering Science
+- Early Exit
+- Students may exit this program on completion of 80 credit points with a 7178 Diploma in Aerotropolis Industry 4.0 (Mechatronics Skills)
+- Study Mode
+- Three years full-time
+- Program Advice
+- College Program Enquiries
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Inherent Requirements
+- There are inherent requirements for this program that you must meet in order to complete your program and graduate. Make sure you read and understand the requirements for this program online.
+- Inherent Requirements
+- Work Integrated Learning
+- There is a mandatory work component required for completion of this program.  Please contact the Program Advisor listed above for information.
+- Completion of Year 12 with specified ATAR to be determined year by year, or completed Certificate III or higher, or equivalent work experience.
+- Equivalent experience includes
+- Applicants seeking admission on the basis of work experience must support their application with a Statement of Service for all work experience listed on the application.
+- Statement of Service form
+- Assumed Knowledge: Two subjects of Science and two subjects Mathematics (not General Mathematics).
+- Qualification for this award requires the successful completion of 240 credit points which include the subjects listed in the recommended sequence below.
+- Recommended Sequence
+- Western Sydney University The College Subjects
+- Students may exit at this point and graduate with the Diploma in Aerotropolis Industry 4.0 (Mechatronics Skills) following a passing grade in all of the above subjects. Students who progress onto Year Two may also be awarded the Diploma if they gain a passing grade in all of the above subjects.
+- Students must pass at least 70 credit points of University level subjects in Year One before progressing to the Year Two subjects.
+- Western Sydney University Subjects
+- For program advice during your second and subsequent years of study, please use the contact listed for the Bachelor of Engineering Science
+- Bachelor of Engineering Science
+- Year 2 - Year 3
+- Students must then select one of the following majors
+- Penrith and Parramatta Campuses
+
+Location Table:
+- Online
+- Full Time
+- Online
+- See above
+- Parramatta Campus - Victoria Road
+- Full Time
+- Internal
+- See above
+- Parramatta Campus - Victoria Road
+- Part Time
+- Internal
+- See above
+- Penrith Campus
+- Full Time
+- Internal
+- See above
+- Penrith Campus
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+1st Block
+ENGR 1049Introduction to Engineering Practice (Block)10
+2nd Block
+ELEC 1011Engineering Computing (Block)10
+3rd Block
+MATH 1036Mathematics for Engineers Preliminary (UG Cert)10
+4th Block
+ENGR 1051Engineering Physics (Block)10
+5th Block
+ENGR 1048Engineering Materials (UG Cert)10
+6th Block
+ELEC 1012Electrical Fundamentals (Block)10
+7th Block
+ENGR 1052Fundamentals of Mechanics (Block)10
+Total Credit Points70

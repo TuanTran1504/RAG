@@ -1,0 +1,39 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Ancient History, Minor (0262)
+- Western Sydney University Minor Code:
+- Previous Code: SM1141.1
+- The Ancient History minor addresses the NESA requirements to prepare students who wish to teach Ancient History in secondary schools. Students are required to take one subject of Modern History in their first year and then complete three subjects in Ancient History. Study of the ancient world introduces students to historical continuity through the experiences of people in different places and time periods. Historical analysis and interpretation draw on physical evidence as well as written materials to investigate the social, political, economic and cultural life in the ancient past.
+- Minor Structure
+- Students must complete 40 credit points
+- Related Programs
+
+Location Table:
+- Bankstown City Campus
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+- Parramatta Campus - Victoria Road
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+- Penrith Campus
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Students must complete 40 credit points
+Select one of the following:10
+HUMN 1039Modern European History and Politics
+HUMN 1054When Worlds Collide: European Empires and the World, c.1600-1950
+And three of the following subjects30
+HUMN 2011Ancient Western Culture: Periclean Athens
+HUMN 3109Catastrophe: The Environmental History of the Ancient World
+HUMN 2067History of the Ancient World
+HUMN 3115Medieval Europe from the Fall of the Roman Empire to the Reformation
+PHIL 3019Thought and Action in Greece and Rome
+HUMN 2076The Classical Tradition
+Total Credit Points40

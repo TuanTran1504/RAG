@@ -1,0 +1,25 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Management, Minor (0292)
+- Western Sydney University Minor Code:
+- Previous Code: SM2061
+- The focus in this minor is on the role of management supporting the effectiveness of organisations. Students learn about people, management and organisational processes that are important for enterprise leadership; and about the role of innovation in adapting to change in organisations and changing work roles. Students participate in scenarios and industry related activities in developing skills and content for a business portfolio.
+- Location
+- Students must complete 40 credit points as follows.
+
+Location Table:
+- Parramatta City-Macquarie St
+- 
+- Internal
+- Program Advice
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+BUSM 1008Enterprise Leadership10
+BUSM 3027Innovation and Professional Practice10
+BUSM 3036Leadership and Entrepreneurship10
+BUSM 2031Managing in the Global Environment10

@@ -1,0 +1,61 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Graduate Certificate in Public Health (4705)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 0101794
+- This program applies to students who commenced in 2020 or later.
+- The Graduate Certificate in Public Health comprise subjects that provide students with a range of critical, research and practical skills in the areas of public health and policy analysis, epidemiology, and biostatistics. The program will suit students who seek an introduction to public health. It also provides an entry point to the Graduate Diploma in Public Health for those who wish to continue on their professional development journey with further studies.
+- Study Mode
+- Six months full-time or One year part-time.
+- Program Advice
+- apa_pghealthsci@westernsydney.edu.au
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Admission
+- Applicants must have either:
+- An undergraduate or master degree in any discipline
+- Or
+- A Graduate Diploma or Graduate Certificate in any discipline and two years full-time equivalent work experience in a relevant health-related discipline
+- Or
+- Three years full-time equivalent work experience in a relevant health-related discipline.
+- Applicants seeking admission on the basis of work experience must support their application with a Statement of Service for all work experience listed on the application.
+- Statement of Service form
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local and International applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- http://www.uac.edu.au/
+- https://westernsydney.uac.edu.au/ws/
+- Program Structure
+
+Location Table:
+- Online
+- Full Time
+- Online
+- Dr Sadia Hossain
+- Online
+- Part Time
+- Online
+- Dr Sadia Hossain
+- Parramatta Campus - Victoria Road
+- Full Time
+- Internal
+- Dr Sadia Hossain
+- Parramatta Campus - Victoria Road
+- Part Time
+- Internal
+- Dr Sadia Hossain
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Domain Subjects
+PUBH 7016Introduction to Epidemiology10
+PUBH 7033The Social Determinants of Health10
+PUBH 7031Health Systems and Policy10
+Focus Subject
+HLTH 7008Introduction to Biostatistics10
+Total Credit Points40

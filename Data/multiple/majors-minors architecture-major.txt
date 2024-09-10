@@ -1,0 +1,53 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Architecture, Major (0227)
+- Western Sydney University Major Code:
+- Previous Code:  M3127.1
+- Location
+- Major Structure
+- Students must complete 80 credit points as follows
+- Elective recommendations are available in the program vUWS page which students will have access to after enrolling. Other electives considered in consultation with an Academic Program Advisor
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- A/Professor Mary Hardie
+
+Sequence Tables:
+Year 2
+Autumn session
+Credit Points
+HUMN 1008
+Cities: Introduction to Urban Studies
+10
+ENGR 1038
+Design Graphics: Presenting Innovation
+10
+
+Credit Points
+20
+Spring session
+ARCH 2002
+Architecture Studio - Fundamentals of Digital Design
+20
+
+Credit Points
+20
+Year 3
+Spring session
+ARCH 2001
+Architecture Studio -  Fundamentals of Analogue Design
+20
+ARCH 4001
+Architecture Studio: Urban Architecture
+20
+
+Credit Points
+40
+
+Total Credit Points
+80
+
+Courselist Tables:

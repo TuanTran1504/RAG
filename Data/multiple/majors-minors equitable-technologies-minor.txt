@@ -1,0 +1,31 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Equitable Technologies, Minor (0312)
+- Western Sydney University Minor Code:
+- Previous code: SM1152.1
+- What would happen if technologies, digital systems and devices served the interests of those who need them most? The Equitable Technologies Minor invites students to critically evaluate the impacts of technologies, reorientating them towards social and digital equity through social action. Through transdisciplinary learning experiences, students investigate how equitable technologies might transform the lives of specific communities, clients, and citizens for a more just society. This Minor contributes to industry and government requirements for an ethical technology workforce, comprised of people who will demand a socio-technically just future.
+- This minor is a Challenge Minor, which is an innovative transdisciplinary minor co-created with students as partners. With a Challenge Minor, your learning reaches beyond your discipline, giving you the chance to amplify your learning in new directions. For more information, visit the Challenge Minor website.
+- Location
+- Minor Structure
+- Students must complete 40 credit points as follows.
+
+Location Table:
+- Parramatta Campus -  Victoria Road
+- Internal
+- J.Condie@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Select three of the following:30
+COMM 1012Data, Mediation, Power
+HUMN 1064Digital Identities
+BUSM 3028Innovation, Enterprise and Society
+INFO 3011Social Computing
+HUMN 3030Cyber Justice (UG)
+Complete the following core capstone subject:
+HUMN 2015Community and Social Action10
+Total Credit Points40

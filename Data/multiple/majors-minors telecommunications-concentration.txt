@@ -1,0 +1,29 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Telecommunications, Concentration (0120)
+- Western Sydney University Concentration Code:
+- Previous Code: SM3069.1
+- Location
+- Concentration Structure
+- This concentration is only available to students enrolled in Bachelor of Engineering (Honours) or 3689 Bachelor of Engineering - Electrical major only.
+- Related Programs
+- No results found.
+
+Location Table:
+- Penrith Campus
+- Internal
+- beng@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Students must complete 40 credit points as follows:40
+ELEC 3002Data Communications
+ELEC 3004Digital Systems 2
+ELEC 2007Engineering Visualization
+ELEC 4004Radio and Satellite Communication
+ELEC 4007Wireless Communications
+Total Credit Points40

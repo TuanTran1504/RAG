@@ -1,0 +1,37 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Global Climate Change, Major (0168)
+- Western Sydney University Major Code:
+- Previous Code: M4008.1
+- Climate change impacts across all sections of our society, from scientists who study the mechanisms underlying it, to businesses and policy makers who must deal with its effects and take remedial action. A factual understanding of climate, the components that go to make it up, and how climate has varied in the past, is essential for any person working in the climate change area. This specialisation will introduce students to the concept of climate, our understanding of how it works, and how it has changed through time. It will give students a critical understanding of current environmental concerns and debates about the greenhouse effect and climate change, and the science behind greenhouse gas accounting and potential effects on biota. Students completing the specialisation will be well positioned to make informed business decisions about greenhouse gas emissions and abatement.
+- Location
+- Major Structure
+- Students must complete 8 subjects as follows.
+- The subjects listed below count towards completion of this major for students who passed these subjects in 2020 or earlier.
+- PUBH 2007 Environmental Planning and Climate Change, replaced by ENVL 2006 Environmental Planning and Climate Change
+- ENVL 2006 Environmental Planning and Climate Change
+- Related Programs
+
+Location Table:
+- Hawkesbury Campus
+- Internal
+- Dr Sebastian Holmes
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Level 1
+CHEM 1008Introductory Chemistry10
+BIOS 1001Biodiversity10
+Level 2
+EART 2001Climate Change Science10
+ENVL 2006Environmental Planning and Climate Change10
+BIOS 2008Ecology10
+Level 3
+EART 3001Biological Adaptation to Climate Change10
+BIOS 3013Ecosystem Carbon Accounting10
+ENVL 3003Environmental Risk Management10
+Total Credit Points80

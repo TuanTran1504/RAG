@@ -1,0 +1,15 @@
+Academic Handbook Current Edition ELEC 3003 Digital Signal Processing Credit Points 10 Legacy Code 300069 Coordinator Jeffrey Zou Opens in new window Description Students will develop an understanding of the fundamental concepts and principles in digital signal processing by applying the theory learned in their classes to practical exercises. The subject matter includes discrete-time signals and systems, the z-transform, sampling of continuous-time signals, transform analysis of linear time-invariant systems, filter design techniques, structures for discrete-time systems, the discrete Fourier transform and computation of the discrete Fourier transform. School Eng, Design & Built Env Discipline Communications Technologies Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Pre-requisite(s) ELEC 2011 OR
+ELEC 2013 Learning Outcomes On successful completion of this subject, students should be able to: Analyse discrete-time signals and systems;
+Apply the z-transform to signal processing;
+Explain the sampling of continuous-time signals;
+Apply filter design techniques to the design of discrete-time filters;
+Analyse structures for discrete-time systems;
+Apply the discrete Fourier transform to signal processing. Subject Content Discrete-time signals and systems
+The z-transform
+Sampling of continuous-time signals
+Transform analysis of linear time-invariant systems
+Filter design techniques
+Structures for discrete-time systems
+The discrete Fourier transform
+Computation of the discrete Fourier transform Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Practical 1600 words 
+(per report) 20 N Individual N  Intra-session Exam 1.5 hours 30 N Individual N  Final Exam 2 hours 50 N Individual N Prescribed Texts Teaching Periods Sydney City Campus - Term 1 (2024) Sydney City On-site Subject Contact Jeffrey Zou Opens in new window View timetable Opens in new window Spring (2024) Penrith (Kingswood) On-site Subject Contact Jeffrey Zou Opens in new window View timetable Opens in new window Parramatta City - Macquarie St On-site Subject Contact Jeffrey Zou Opens in new window View timetable Opens in new window Sydney City Campus - Term 3 (2024) Sydney City On-site Subject Contact Jeffrey Zou Opens in new window View timetable Opens in new window Structures that include subject Electrical Engineering, Testamur Major (T102) Electrical and Electronic Eng. (ELEC) Electrical, Testamur Major (T035)

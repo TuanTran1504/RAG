@@ -1,0 +1,14 @@
+Academic Handbook Current Edition ELEC 2012 Signals and Systems (WSTC AssocD) Credit Points 10 Legacy Code 700241 Coordinator Abbas Ranjbar Opens in new window Description This subject aims to develop students understanding of continuous-time and discrete-time concepts and methods.  It covers various signals and their analysis, as encountered in the fields of electrical, computer and telecommunication engineering.Offerings of alternate subjects are dependent on there being sufficient student enrolment numbers. If enrolments are low, the College may cancel delivery of the alternate subject. School Eng, Design & Built Env Discipline Communications Technologies Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 2 subject Pre-requisite(s) MATH 1020 AND
+ELEC 1004 Equivalent Subjects ELEC 2011 - Signals and Systems Restrictions Learning Outcomes On successful completion of this subject, students should be able to: Explain common signal types and properties in electrical engineering
+Explain continuous-time, discrete-time, linear and non-linear systems
+Describe concepts of power, energy, power spectral density, energy spectral density of signals
+Determine impulse response, frequency response and stability of a system
+Apply the principle of convolution to solve problems in linear systems
+Perform Fourier analysis and Laplace analysis
+Apply Z-transforms to discrete-time systems
+Utilise MATLAB for solving signals and systems related problems Subject Content 1. Classification of signals.
+2. Time domain representations of linear-time invariant systems.
+3. The Fourier series.
+4. The Fourier transform and its applications.
+5. The Laplace transform.
+6. Discrete-time signals and systems and z-transforms. Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Online Quizzes x 5 30 minutes x 5 15 N Individual N  Lab reports x 5 2 hours each 20 N Group/Individual N  Intra-session Exam 1 hour 15 N Individual N  Final Exam 2 hours 50 N Individual N Teaching Periods Quarter 2 (2024) Nirimba Education Precinct Hybrid Subject Contact Abbas Ranjbar Opens in new window View timetable Opens in new window Structures that include subject Electrical and Electronic Eng. (ELEC) Electrical, Testamur Major (T035)

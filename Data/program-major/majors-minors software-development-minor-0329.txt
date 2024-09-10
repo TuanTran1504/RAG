@@ -1,0 +1,59 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Software Development, Minor (0329)
+- Western Sydney University Minor Code:
+- This minor covers theories and technologies used for the development of software. Students will better understand the development processes related to each phase of the software development life-cycle. In addition, they will identify, analyse, and formulate solutions to real-world problems in the software development domain.
+- Location
+- Curriculum delivered through an agreement with another party
+- Minor Structure Current
+- Students must complete 40 credit points as follows
+- Related Programs
+
+Location Table:
+- Campbelltown Campus
+- Full-time
+- Internal
+- cdms@westernsydney.edu.au
+- Campbelltown Campus
+- Part-time
+- Internal
+- cdms@westernsydney.edu.au
+- Parramatta Victoria Road Campus
+- Full-time
+- Internal
+- cdms@westernsydney.edu.au
+- Parramatta Victoria Road Campus
+- Part-time
+- Internal
+- cdms@westernsydney.edu.au
+- Penrith Campus
+- Full-time
+- Internal
+- cdms@westernsydney.edu.au
+- Penrith Campus
+- Part-time
+- Internal
+- cdms@westernsydney.edu.au
+- Sydney City Campus*
+- Full-time
+- Internal
+- a.cevenini@city.westernsydney.edu.au
+- Sydney City Campus*
+- Part-time
+- Internal
+- a.cevenini@city.westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+COMP 2009Data Structures and Algorithms10
+INFO 3003Human-Computer Interaction10
+MATH 1006Discrete Mathematics10
+Select one of the following10
+COMP 3013Mobile Applications Development
+COMP 3036Full Stack Development
+COMP 2029DevOps
+Total Credit Points40

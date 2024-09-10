@@ -1,0 +1,51 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Global Politics and International Relations, Major (0340)
+- Western Sydney University Major Code:
+- Global Politics and International Relations is concerned with relations among states, the role of international organisations and, foreign policies and power relations between countries. The major will examine the interaction of society, economy and politics across national boundaries.  Students will develop knowledge of global politics and analyse the theory and practice of international relations by examining how communities respond to globalisation, migration, poverty and climate change. Students will also examine the influence of global movements and issues, such as environmentalism and religion and how contemporary global challenges are understood and addressed by political actors, from nation states to global social movements.
+- Location
+- Major Structure
+- Students must complete 80 credit points as follows.
+- Complete the following compulsory subjects.
+- Students must also complete six subjects from the following pools.
+- Related Programs
+
+Location Table:
+- Bankstown City Campus
+- Internal
+- enquiriesHCA@westernsydney.edu.au
+- Parramatta Campus - Victoria Road
+- Internal
+- enquiriesHCA@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+POLI 1007World Politics and International Relations10
+HUMN 3079The Asian Century10
+Total Credit Points20
+
+courselist table2:
+Select two of the following:20
+HUMN 1026Global Structures, Local Cultures
+HUMN 1028Human Rights, Peace and Development
+BUSM 1015Introduction to International Business
+HUMN 2001A History of Modern Global Buddhism
+HUMN 2031Islam in the Modern World
+HUMN 2032Issues in World Development: Rich World, Poor World
+BUSM 2031Managing in the Global Environment
+HUMN 2056The Racial State
+Select four of the following:40
+HUMN 3030Cyber Justice (UG)
+HUMN 3032Dictators, Democrats and Dreamers: Indonesia 1942 to now
+POLI 3006International Organisations and Global Governance
+POLI 3007International Relations of Southeast Asia
+POLI 3008International Special Study
+POLI 3009Looking at Global Politics Through Film
+HUMN 3060Modern Japanese History
+HUMN 3064Politics, Power and Resistance
+HUMN 3093War
+Total Credit Points60

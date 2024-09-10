@@ -1,0 +1,1154 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Master of Information and Communications Technology/Master of Data Science (3780)
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 110877J
+- This program applies to students who commenced in 2021 or later.
+- The Master of Information and Communications Technology/Master of Data Science is an attractive double degree that provides students with a significant advantage in a growing information technology and data driven world. Combining Information and Communications Technology (ICT) with Data Science will ensure students have an innovative skillset to apply to issues at the intersection of traditional and emerging disciplines in both fields. Students will be engaged in practical, work integrated learning activities and will be required to complete a work experience component. Employment opportunities include working in data analytics and ICT areas, as a data scientist, data analyst, business analyst, ICT consultant, software engineer, project manager, system administrator, and system developer.
+- Early Exit
+- Students may exit this program on completion of 40 credit points with a 3751 Graduate Certificate in Data Science or on completion of 80 credit points with a 3701 Graduate Certificate in Information and Communications Technology or a 3750 Graduate Diploma in Data Science or on completion of 120 credit points with a 3700 Graduate Diploma in Information and Communications Technology
+- Study Mode
+- Three years full-time or six years part-time.
+- Program Advice
+- Program Advice
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Accreditation
+- Master of Information and Communications Technology / Master of Data Science is accredited at Professional Level by the Australian Computer Society.
+- Work Integrated Learning
+- There is a mandatory work component required for completion of this program.  Please contact the Program Advisor listed above for information.
+- International students should also refer to the link below for more information and a link to the Commonwealth Register of Institutions and Courses for Overseas Students (CRICOS).
+- Work Integrated Learning (WIL) for international students
+- Admission
+- Admission 2021 - 2022
+- This course has three Pathways (A, B and C) that vary in length and structure based on previous study.
+- Pathway A
+- Applicants must have successfully completed an undergraduate degree in a discipline other than computing, ICT or information systems.
+- Pathway B
+- Applicants must have successfully completed a Bachelors Honours or a Master qualification in a discipline other than computing, ICT or information systems.
+- Pathway C
+- Applicants must have successfully completed an undergraduate degree or higher in computing, ICT or information systems.
+- Additional information
+- Applicants seeking admission on the basis of work experience must support their application with a Statement of Service for all work experience listed on the application.
+- Statement of Service form
+- Admission 2023
+- Applicants must have successfully completed:
+- An undergraduate degree or higher in any discipline
+- OR
+- An undergraduate degree in any discipline AND a Graduate Certificate or Graduate Diploma in any discipline.
+- Additional Information
+- Additional Information
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local and International applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Sequence Current
+- This sequence applies to students who commenced in 2024. If you commenced prior to 2024 please refer to the relevant Sequence tab for details.
+- Qualification for this award requires the successful completion of 240 credit points as per the recommended sequence below.
+- Full-time start-year intake
+- Full-time mid-year intake
+- Alternate Subjects
+- Multi-disciplinary Subjects
+- A maximum of four subjects are allowed from this list
+- Majors
+- Students may also complete one of the listed majors below.
+- Additional Completion Requirements
+- Students must complete at least 120 hours full-time or part-time equivalent industry placement as a Work Integrated Learning (WIL) component and must enrol in the ICT Practicum subject to receive recognition for WIL
+- Recommended Sequence 2023
+- This sequence applies to students who commenced in 2023. If you commenced prior to 2023 please refer to the Sequence 2021 - 2022 tab for details.
+- Qualification for this award requires the successful completion of 240 credit points as per the recommended sequence below.
+- Full-time start-year intake
+- Full-time mid-year intake
+- Alternate Subjects
+- Multi-disciplinary Subjects
+- A maximum of four subjects are allowed from this list
+- Majors
+- Students may also complete one of the listed majors below.
+- Artificial Intelligence, Testamur Major
+- Cloud and Distributed Computing, Testamur Major
+- Cybersecurity, Testamur Major
+- Digital Futures, Testamur Major
+- Health Informatics, Testamur Major
+- Information Governance, Testamur Major
+- Innovation and Entrepreneurship, Testamur Major
+- Management, Testamur Major
+- Networking, Testamur Major
+- Space Science, Testamur Major
+- Web and Mobile Computing, Testamur Major
+- Additional Completion Requirements
+- Students must complete at least 120 hours full-time or part-time equivalent industry placement as a Work Integrated Learning (WIL) component and must enrol in the ICT Practicum unit to receive recognition for WIL
+- Sequence 2021 - 2022
+- If you commenced in 2023 or later please refer to the relevant Sequence tab for details.
+- The program length and structure varies based on the student’s previous study background and level, and work experience.
+- Students are categorised into three Pathways based on their previous study background and work experience as indicated below and course structure and length is set accordingly. See individual sections for detailed program structure.
+- Pathway A - Three years
+- Students who have been admitted with an undergraduate degree in a discipline other than computing, ICT or information systems are eligible to complete the three year Pathway below.
+- Master of Communications Technology/Master of Data Science - Pathway A - 3 year program
+- Qualification for this award requires the successful completion of 240 credit points which include twenty core subjects and five alternate subjects
+- Students may also complete one of the listed majors below.
+- Artificial Intelligence, Testamur Major
+- Cloud and Distributed Computing, Testamur Major
+- Cybersecurity, Testamur Major
+- Digital Futures, Testamur Major
+- Health Informatics, Testamur Major
+- Information Governance, Testamur Major
+- Innovation and Entrepreneurship, Testamur Major
+- Management, Testamur Major
+- Networking, Testamur Major
+- Space Science, Testamur Major
+- Web and Mobile Computing, Testamur Major
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 7011 Predictive Analytics, replaced by  COMP 7023 Predictive Analytics
+MATH 7012 Programming for Data Science, replaced by  COMP 7024 Programming for Data Science
+MATH 7014 Social Media Intelligence, replaced by  COMP 7025 Social Media Intelligence
+- Pathway B - Two and a half years
+- Students who have been admitted with an Bachelors Honours or a Master qualification in a discipline other than computing, ICT or information systems are eligible to complete the two and a half year Pathway below.
+- Master of Information and Communication Technology/Master of Data Science - Pathway B - 2.5 Year program
+- Qualification for this award requires the successful completion of 200 credit points which include twenty core subjects and one alternate subject
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 7011 Predictive Analytics, replaced by  COMP 7023 Predictive Analytics
+- Pathway C - Two and a half years
+- Students who have been admitted with an undergraduate degree or higher in computing, ICT or information systems are eligible to complete the two and a half year Pathway below.
+- Master of Communications Technology/Master of Data Science - Pathway C -2.5 yr program
+- Qualification for this award requires the successful completion of 200 credit points which include seventeen core subjects and four alternate subjects
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 7011 Predictive Analytics, replaced by  COMP 7023 Predictive Analytics
+- Additional Completion Requirements
+- Students must complete a four week full-time or part-time equivalent industry placement as a Work Integrated Learning (WIL) component and must enrol in the ICT Practicum unit to receive recognition for WIL.
+- INFO 7004 ICT Practicum
+- INFO 7004 ICT Practicum
+- Foundation Subjects
+- Note: Subjects in this list may be included in the program structure as Core Subjects and cannot be selected as one of the list subjects
+- Specialised Subjects
+- Note: Subjects in this list may be included in the course structure as Core Subjects and cannot be selected as one of the list subjects.
+- Multi-disciplinary Subjects
+- A maximum of four subjects are allowed from this list.
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- ENRG 7018 - Research Preparation in Post Graduate Studies, replaced by NATS 7057 Research Preparation in Post Graduate Studies
+- NATS 7057 Research Preparation in Post Graduate Studies
+- COMM 7007 - Media Project Proposal, replaced by COMM 7013 Ideate, Develop: Makerspace 1
+- COMM 7013 Ideate, Develop: Makerspace 1
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Full Time
+- Internal
+- See above
+- Parramatta Campus - Victoria Road
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+COMP 7024
+Programming for Data Science
+10
+MATH 7016
+The Nature of Data
+10
+ENGR 7017
+Professional Practice and Communication
+10
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+
+Credit Points
+40
+Spring session
+COMP 7006
+Data Science
+10
+COMP 7023
+Predictive Analytics
+10
+COMP 7015
+Programming Proficiency
+10
+COMP 7013
+Network Technologies
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+COMP 7003
+Big Data
+10
+COMP 7016
+Visualisation
+10
+INFO 7003
+Advanced Topics in User System Interaction
+10
+NATS 7057
+Research Preparation in Post Graduate Studies
+10
+
+Credit Points
+40
+Spring session
+INFO 7001
+Advanced Machine Learning
+10
+MATH 7002
+Advanced Statistical Methods
+10
+INFO 6001
+IT Project Management
+10
+Select one subject from your Major, Alternate or Multi-disciplinary subject pools
+10
+
+Credit Points
+40
+Year 3
+Autumn session
+INFO 6002
+Postgraduate Capstone Project
+10
+COMP 7025
+Social Media Intelligence
+10
+MATH 7017
+Probabilistic Graphical Models
+10
+Select one subject from your Major, Alternate or Multi-disciplinary subject pools
+10
+
+Credit Points
+40
+Spring session
+INFO 7015
+Applied Cybersecurity
+10
+INFO 6003
+Postgraduate Research Project
+10
+Select two subjects from your Major, Alternate or Multi-disciplinary subject pools
+20
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Spring session
+Credit Points
+MATH 7016
+The Nature of Data
+10
+COMP 7024
+Programming for Data Science
+10
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+ENGR 7017
+Professional Practice and Communication
+10
+
+Credit Points
+40
+Autumn session
+COMP 7016
+Visualisation
+10
+COMP 7015
+Programming Proficiency
+10
+INFO 7003
+Advanced Topics in User System Interaction
+10
+Select one subject from your Major, Alternate or Multi-disciplinary subject pools
+10
+
+Credit Points
+40
+Year 2
+Spring session
+COMP 7006
+Data Science
+10
+INFO 6001
+IT Project Management
+10
+COMP 7023
+Predictive Analytics
+10
+COMP 7013
+Network Technologies
+10
+
+Credit Points
+40
+Autumn session
+COMP 7003
+Big Data
+10
+COMP 7025
+Social Media Intelligence
+10
+NATS 7057
+Research Preparation in Post Graduate Studies
+10
+Select one subject from your Major, Alternate or Multi-disciplinary subject pools.
+10
+
+Credit Points
+40
+Year 3
+Spring session
+MATH 7002
+Advanced Statistical Methods
+10
+INFO 7001
+Advanced Machine Learning
+10
+INFO 6002
+Postgraduate Capstone Project
+10
+INFO 7015
+Applied Cybersecurity
+10
+
+Credit Points
+40
+Autumn session
+MATH 7017
+Probabilistic Graphical Models
+10
+INFO 6003
+Postgraduate Research Project
+10
+Select two subjects from your Major, Alternate or Multi-disciplinary subject pools
+20
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Autumn session
+Credit Points
+COMP 7024
+Programming for Data Science
+10
+MATH 7016
+The Nature of Data
+10
+ENGR 7017
+Professional Practice and Communication
+10
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+
+Credit Points
+40
+Spring session
+COMP 7006
+Data Science
+10
+COMP 7023
+Predictive Analytics
+10
+COMP 7015
+Programming Proficiency
+10
+COMP 7013
+Network Technologies
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+COMP 7003
+Big Data
+10
+COMP 7016
+Visualisation
+10
+INFO 7003
+Advanced Topics in User System Interaction
+10
+NATS 7057
+Research Preparation in Post Graduate Studies
+10
+
+Credit Points
+40
+Spring session
+INFO 7001
+Advanced Machine Learning
+10
+MATH 7002
+Advanced Statistical Methods
+10
+INFO 6001
+IT Project Management
+10
+Select one subject from your Major, Alternate or Multi-disciplinary subject pools
+10
+
+Credit Points
+40
+Year 3
+Autumn session
+INFO 7016
+Postgraduate Project A
+10
+COMP 7025
+Social Media Intelligence
+10
+MATH 7017
+Probabilistic Graphical Models
+10
+Select one subject from your Major, Alternate or Multi-disciplinary subject pools
+10
+
+Credit Points
+40
+Spring session
+INFO 7015
+Applied Cybersecurity
+10
+INFO 7017
+Postgraduate Project B
+10
+Select two subjects from your Major, Alternate or Multi-disciplinary subject pools
+20
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Spring session
+Credit Points
+MATH 7016
+The Nature of Data
+10
+COMP 7024
+Programming for Data Science
+10
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+ENGR 7017
+Professional Practice and Communication
+10
+
+Credit Points
+40
+Autumn session
+COMP 7016
+Visualisation
+10
+COMP 7015
+Programming Proficiency
+10
+INFO 7003
+Advanced Topics in User System Interaction
+10
+Select one subject from your Major, Alternate or Multi-disciplinary subject pools
+10
+
+Credit Points
+40
+Year 2
+Spring session
+COMP 7006
+Data Science
+10
+INFO 6001
+IT Project Management
+10
+COMP 7023
+Predictive Analytics
+10
+COMP 7013
+Network Technologies
+10
+
+Credit Points
+40
+Autumn session
+COMP 7003
+Big Data
+10
+COMP 7025
+Social Media Intelligence
+10
+NATS 7057
+Research Preparation in Post Graduate Studies
+10
+Select one subject from your Major, Alternate or Multi-disciplinary subject pools.
+10
+
+Credit Points
+40
+Year 3
+Spring session
+MATH 7002
+Advanced Statistical Methods
+10
+INFO 7001
+Advanced Machine Learning
+10
+INFO 7016
+Postgraduate Project A
+10
+INFO 7015
+Applied Cybersecurity
+10
+
+Credit Points
+40
+Autumn session
+MATH 7017
+Probabilistic Graphical Models
+10
+INFO 7017
+Postgraduate Project B
+10
+Select two subjects from your Major, Alternate or Multi-disciplinary subject pools
+20
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Autumn session
+Credit Points
+COMP 7024
+Programming for Data Science
+10
+MATH 7016
+The Nature of Data
+10
+ENGR 7017
+Professional Practice and Communication
+10
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+
+Credit Points
+40
+Spring session
+COMP 7006
+Data Science
+10
+COMP 7023
+Predictive Analytics
+10
+COMP 7015
+Programming Proficiency
+10
+COMP 7013
+Network Technologies
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+COMP 7003
+Big Data
+10
+COMP 7016
+Visualisation
+10
+INFO 7003
+Advanced Topics in User System Interaction
+10
+NATS 7057
+Research Preparation in Post Graduate Studies
+10
+
+Credit Points
+40
+Spring session
+INFO 7001
+Advanced Machine Learning
+10
+MATH 7002
+Advanced Statistical Methods
+10
+INFO 7005
+IT Project Management
+10
+Select one subject from Foundation, Specialised or Multi-disciplinary subject lists
+10
+
+Credit Points
+40
+Year 3
+Autumn session
+INFO 7016
+Postgraduate Project A
+10
+COMP 7025
+Social Media Intelligence
+10
+MATH 7017
+Probabilistic Graphical Models
+10
+Select one subject from Foundation, Specialised or Multi-disciplinary subject lists
+10
+
+Credit Points
+40
+Spring session
+INFO 7017
+Postgraduate Project B
+10
+Select three subjects from Foundation, Specialised or Multi-disciplinary subject lists
+30
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Spring session
+Credit Points
+MATH 7016
+The Nature of Data
+10
+COMP 7024
+Programming for Data Science
+10
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+ENGR 7017
+Professional Practice and Communication
+10
+
+Credit Points
+40
+Autumn session
+COMP 7016
+Visualisation
+10
+COMP 7015
+Programming Proficiency
+10
+INFO 7003
+Advanced Topics in User System Interaction
+10
+Select one subject from Foundation, Specialised or Multi-disciplinary subject lists
+10
+
+Credit Points
+40
+Year 2
+Spring session
+COMP 7006
+Data Science
+10
+INFO 7005
+IT Project Management
+10
+COMP 7023
+Predictive Analytics
+10
+COMP 7013
+Network Technologies
+10
+
+Credit Points
+40
+Autumn session
+COMP 7003
+Big Data
+10
+COMP 7025
+Social Media Intelligence
+10
+NATS 7057
+Research Preparation in Post Graduate Studies
+10
+Select one subject from Foundation, Specialised or Multi-disciplinary subject lists
+10
+
+Credit Points
+40
+Year 3
+Spring session
+MATH 7002
+Advanced Statistical Methods
+10
+INFO 7001
+Advanced Machine Learning
+10
+INFO 7016
+Postgraduate Project A
+10
+Select one subject from Foundation, Specialised or Multi-disciplinary subject lists
+10
+
+Credit Points
+40
+Autumn session
+MATH 7017
+Probabilistic Graphical Models
+10
+INFO 7017
+Postgraduate Project B
+10
+Select two subjects from Foundation, Specialised or Multi-disciplinary subject lists
+20
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Autumn session
+Credit Points
+COMP 7024
+Programming for Data Science
+10
+MATH 7016
+The Nature of Data
+10
+ENGR 7017
+Professional Practice and Communication
+10
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+
+Credit Points
+40
+Spring session
+COMP 7006
+Data Science
+10
+COMP 7023
+Predictive Analytics
+10
+COMP 7015
+Programming Proficiency
+10
+COMP 7013
+Network Technologies
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+COMP 7003
+Big Data
+10
+COMP 7016
+Visualisation
+10
+INFO 7003
+Advanced Topics in User System Interaction
+10
+NATS 7057
+Research Preparation in Post Graduate Studies
+10
+
+Credit Points
+40
+Spring session
+INFO 7001
+Advanced Machine Learning
+10
+MATH 7002
+Advanced Statistical Methods
+10
+INFO 7005
+IT Project Management
+10
+INFO 7016
+Postgraduate Project A
+10
+
+Credit Points
+40
+Year 3
+Autumn session
+COMP 7025
+Social Media Intelligence
+10
+MATH 7017
+Probabilistic Graphical Models
+10
+INFO 7017
+Postgraduate Project B
+10
+Select one subject from Foundation, Specialised or Multi-disciplinary subject lists
+10
+
+Credit Points
+40
+
+Total Credit Points
+200
+Year 1
+Spring session
+Credit Points
+MATH 7016
+The Nature of Data
+10
+COMP 7024
+Programming for Data Science
+10
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+ENGR 7017
+Professional Practice and Communication
+10
+
+Credit Points
+40
+Autumn session
+COMP 7016
+Visualisation
+10
+COMP 7015
+Programming Proficiency
+10
+INFO 7003
+Advanced Topics in User System Interaction
+10
+NATS 7057
+Research Preparation in Post Graduate Studies
+10
+
+Credit Points
+40
+Year 2
+Spring session
+COMP 7006
+Data Science
+10
+INFO 7005
+IT Project Management
+10
+COMP 7023
+Predictive Analytics
+10
+COMP 7013
+Network Technologies
+10
+
+Credit Points
+40
+Autumn session
+COMP 7003
+Big Data
+10
+MATH 7017
+Probabilistic Graphical Models
+10
+COMP 7025
+Social Media Intelligence
+10
+INFO 7016
+Postgraduate Project A
+10
+
+Credit Points
+40
+Year 3
+Spring session
+MATH 7002
+Advanced Statistical Methods
+10
+INFO 7001
+Advanced Machine Learning
+10
+INFO 7017
+Postgraduate Project B
+10
+Select one subject from Foundation, Specialised or Multi-disciplinary subject lists
+10
+
+Credit Points
+40
+
+Total Credit Points
+200
+Year 1
+Autumn session
+Credit Points
+COMP 7024
+Programming for Data Science
+10
+MATH 7016
+The Nature of Data
+10
+COMP 7013
+Network Technologies
+10
+ENGR 7017
+Professional Practice and Communication
+10
+
+Credit Points
+40
+Spring session
+COMP 7006
+Data Science
+10
+COMP 7023
+Predictive Analytics
+10
+INFO 7005
+IT Project Management
+10
+NATS 7057
+Research Preparation in Post Graduate Studies
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+COMP 7003
+Big Data
+10
+COMP 7016
+Visualisation
+10
+COMP 7025
+Social Media Intelligence
+10
+Select one subject from Foundation, Specialised or Multi-disciplinary subject lists
+10
+
+Credit Points
+40
+Spring session
+INFO 7001
+Advanced Machine Learning
+10
+MATH 7002
+Advanced Statistical Methods
+10
+INFO 7016
+Postgraduate Project A
+10
+Select one subject from Foundation, Specialised or Multi-disciplinary subject lists
+10
+
+Credit Points
+40
+Year 3
+Autumn session
+MATH 7017
+Probabilistic Graphical Models
+10
+INFO 7017
+Postgraduate Project B
+10
+Select two subjects from Foundation, Specialised or Multi-disciplinary subject lists
+20
+
+Credit Points
+40
+
+Total Credit Points
+200
+
+Courselist Tables:
+
+courselist table1:
+COMP 7018Advanced Cloud Computing10
+PUBH 7001Advanced Health Classifications and Coding10
+INFS 7001Advanced Healthcare Data Environments10
+INFS 7002Advanced Healthcare Software and Systems10
+INFO 7001Advanced Machine Learning10
+INFO 7002Advanced Topics in Artificial Intelligence10
+INFO 7014Advanced Topics in Cybersecurity10
+INFS 7003Advanced Topics in ICT10
+COMP 7002Advanced Topics in Networking10
+COMP 7019Applied Machine Learning10
+COMP 7020Artificial Intelligence Ethics and Organisations10
+COMP 7003Big Data10
+COMP 7004Cloud Computing10
+INFO 7018Cloud Systems Development10
+INFS 7004Content Management Systems and Web Analytics10
+COMP 7006Data Science10
+COMP 7028Hands-on Quantum Computing10
+COMP 7007Information Security Management10
+COMP 7008Internet of Things10
+COMP 7021Knowledge Representation and Reasoning10
+COMP 7009Mobile Computing10
+COMP 7011Multimedia Communication Systems10
+COMP 7022Natural Language Processing10
+COMP 7012Network Management10
+COMP 7023Predictive Analytics10
+COMP 7024Programming for Data Science10
+MATH 7017Probabilistic Graphical Models10
+COMP 7025Social Media Intelligence10
+INFS 7006Software Testing and Automation10
+INFS 7008Systems and Network Security10
+MATH 7016The Nature of Data10
+COMP 7016Visualisation10
+INFO 7013Web Engineering10
+INFS 7009Web Technologies10
+INFO 5001Workflow Management for Business Solutions10
+
+courselist table2:
+BUSM 7018Contemporary People Management10
+HUMN 7012Cyber Justice (PG)10
+ECON 7001Economics10
+BUSM 7028Entrepreneurial Management Capabilities10
+ACCT 7015Financial Reports for Decision Making10
+COMM 7003Foundations of Media Arts Production (PG)10
+CULT 7004Global Digital Futures10
+BUSM 7040Governance, Ethics and Social Entrepreneurship10
+LAWS 7015Information and Data Governance Law and Policy10
+BUSM 7048Innovation, Creativity and Foresight10
+BUSM 7046Innovation for New Markets10
+BUSM 7045Innovation Through Digital Technology10
+MKTG 7019Marketing Systems10
+COMM 7009Mobile Media10
+COMM 7013Ideate, Develop: Makerspace 110
+BUSM 7072New Venture Finance10
+COMM 7011Researching Convergent Media10
+BUSM 7084Start-up20
+BUSM 7086Strategic Business Management10
+BUSM 7099Understanding Contemporary Organisations10
+HUMN 4001Researcher Development 1: Reading ,Writing, and the Business of Research10
+HUMN 4002Researcher Development 2: Proposing and Justifying Research10
+
+courselist table3:
+INFO 7004ICT Practicum0
+
+courselist table4:
+COMP 7018Advanced Cloud Computing10
+PUBH 7001Advanced Health Classifications and Coding10
+INFS 7001Advanced Healthcare Data Environments10
+INFS 7002Advanced Healthcare Software and Systems10
+INFO 7001Advanced Machine Learning10
+INFO 7002Advanced Topics in Artificial Intelligence10
+INFO 7014Advanced Topics in Cybersecurity10
+INFS 7003Advanced Topics in ICT10
+COMP 7002Advanced Topics in Networking10
+COMP 7020Artificial Intelligence Ethics and Organisations10
+COMP 7004Cloud Computing10
+INFO 7018Cloud Systems Development10
+INFS 7004Content Management Systems and Web Analytics10
+COMP 7028Hands-on Quantum Computing10
+COMP 7007Information Security Management10
+COMP 7008Internet of Things10
+COMP 7021Knowledge Representation and Reasoning10
+COMP 7009Mobile Computing10
+COMP 7011Multimedia Communication Systems10
+COMP 7022Natural Language Processing10
+COMP 7012Network Management10
+INFS 7006Software Testing and Automation10
+INFS 7008Systems and Network Security10
+INFO 7013Web Engineering10
+INFS 7009Web Technologies10
+
+courselist table5:
+BUSM 7018Contemporary People Management10
+HUMN 7012Cyber Justice (PG)10
+ECON 7001Economics10
+BUSM 7028Entrepreneurial Management Capabilities10
+ACCT 7015Financial Reports for Decision Making10
+COMM 7003Foundations of Media Arts Production (PG)10
+CULT 7004Global Digital Futures10
+BUSM 7040Governance, Ethics and Social Entrepreneurship10
+LAWS 7015Information and Data Governance Law and Policy10
+BUSM 7048Innovation, Creativity and Foresight10
+BUSM 7046Innovation for New Markets10
+BUSM 7045Innovation Through Digital Technology10
+MKTG 7019Marketing Systems10
+COMM 7009Mobile Media10
+COMM 7013Ideate, Develop: Makerspace 110
+BUSM 7072New Venture Finance10
+COMM 7011Researching Convergent Media10
+BUSM 7084Start-up20
+BUSM 7086Strategic Business Management10
+BUSM 7099Understanding Contemporary Organisations10
+
+courselist table6:
+INFO 7004ICT Practicum0
+
+courselist table7:
+INFO 7003Advanced Topics in User System Interaction10
+INFS 7004Content Management Systems and Web Analytics10
+INFO 7005IT Project Management10
+COMP 7013Network Technologies10
+ENGR 7017Professional Practice and Communication10
+COMP 7015Programming Proficiency10
+NATS 7057Research Preparation in Post Graduate Studies10
+INFS 7008Systems and Network Security10
+INFS 7007Systems Analysis and Database Management Systems10
+INFS 7009Web Technologies10
+
+courselist table8:
+COMP 7018Advanced Cloud Computing10
+PUBH 7001Advanced Health Classifications and Coding10
+INFS 7001Advanced Healthcare Data Environments10
+INFS 7002Advanced Healthcare Software and Systems10
+INFO 7001Advanced Machine Learning10
+INFO 7002Advanced Topics in Artificial Intelligence10
+INFO 7014Advanced Topics in Cybersecurity10
+INFS 7003Advanced Topics in ICT10
+COMP 7002Advanced Topics in Networking10
+INFO 7015Applied Cybersecurity10
+COMP 7019Applied Machine Learning10
+COMP 7020Artificial Intelligence Ethics and Organisations10
+COMP 7004Cloud Computing10
+INFO 7018Cloud Systems Development10
+COMP 7028Hands-on Quantum Computing10
+COMP 7007Information Security Management10
+COMP 7008Internet of Things10
+COMP 7021Knowledge Representation and Reasoning10
+COMP 7009Mobile Computing10
+COMP 7011Multimedia Communication Systems10
+COMP 7022Natural Language Processing10
+COMP 7012Network Management10
+INFO 7017Postgraduate Project B10
+INFS 7006Software Testing and Automation10
+INFO 7013Web Engineering10
+COMP 7017Wireless Networking10
+
+courselist table9:
+BUSM 7018Contemporary People Management10
+HUMN 7012Cyber Justice (PG)10
+ECON 7001Economics10
+BUSM 7028Entrepreneurial Management Capabilities10
+ACCT 7015Financial Reports for Decision Making10
+COMM 7003Foundations of Media Arts Production (PG)10
+CULT 7004Global Digital Futures10
+BUSM 7040Governance, Ethics and Social Entrepreneurship10
+LAWS 7015Information and Data Governance Law and Policy10
+BUSM 7048Innovation, Creativity and Foresight10
+BUSM 7046Innovation for New Markets10
+BUSM 7045Innovation Through Digital Technology10
+MKTG 7019Marketing Systems10
+COMM 7009Mobile Media10
+COMM 7013Ideate, Develop: Makerspace 110
+BUSM 7072New Venture Finance10
+COMM 7011Researching Convergent Media10
+BUSM 7084Start-up20
+BUSM 7086Strategic Business Management10
+BUSM 7099Understanding Contemporary Organisations10

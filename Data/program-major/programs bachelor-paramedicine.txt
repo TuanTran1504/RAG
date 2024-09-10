@@ -1,0 +1,183 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Bachelor of Paramedicine (4790)
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 107742F
+- This program applies to students who commenced in 2023 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- Commencement Year 2022 - 4669 Bachelor of Health Science (Paramedicine)
+- Commencement Year 2014 to 2021 - 4669.1 Bachelor of Health Science (Paramedicine)
+- Paramedics play an integral role in the health system, providing care to patients with acute, sub-acute and chronic health problems in diverse settings. Paramedics deliver unscheduled, out-of-hospital care to patients across the lifespan and spectrum of illness and injury. This contemporary course is anchored by a strong evidence-based foundation and considers clinical, research and leadership aspects of the profession utilising innovative learning, teaching and assessment strategies. Exposure to diverse clinical placements aids in development of high-level decision-making skills and critical self-care practice. Completion of the course will enable you to work effectively as a registered paramedic in traditional and emerging roles that may be associated with jurisdictional or private ambulance services, the defence forces, or other community-based primary health settings.
+ 
+Note: This course involves a mandatory health and medical assessment that must be completed prior to enrolling in 401067 Paramedic Practice 1 offered in Spring Year 1 and undertaking the associated ambulance service clinical placement. Students who are unable to pass the assessment by the end of Autumn session in the first year of the course will be required to take a leave of absence pending re-assessment in the following year, or transfer to an alternative health science degree such as 4656 Bachelor of Health Science. Placements will be undertaken throughout NSW and ACT according to availability, with all related expenses covered by the student.
+- Study Mode
+- Three years full-time
+- Program Advice
+- HealthSciences@westernsydney.edu.au
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Accreditation
+- The Bachelor of Paramedicine has been granted the status of an ‘approved course’ by the Paramedicine Board of Australia.
+- Inherent Requirements
+- There are inherent requirements for this program that you must meet in order to complete your program and graduate. Make sure you read and understand the requirements for this program online.
+- Inherent Requirements
+- Work Integrated Learning
+- There is a mandatory work component required for completion of this program.  Please contact the Program Advisor listed above for information.
+- International students should also refer to the link below for more information and a link to the Commonwealth Register of Institutions and Courses for Overseas Students (CRICOS).
+- Work Integrated Learning (WIL) for international students
+- Applications from Australian and New Zealand citizens and holders of permanent resident visas may be made via the Universities Admissions Centre (UAC). Use the link below to apply via UAC..
+- http://www.uac.edu.au/
+- International students applying to The University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- For courses that will lead to AHPRA registered careers, such as Paramedicine, in The International English Language Testing System (IELTS), students are required to have a minimum score of 7.0 overall with a minimum score of 7.0 in Speaking and Listening, and 6.5 in Writing and Reading (or equivalents, in an acceptable English language test).
+- International Office
+- Special Requirements - NSW Health Legislative Pre-requisites
+- Student Compliance Information for all Health-Related Placements
+- Western Program Requirements
+- Visit the Special Requirements webpage for details about your program.
+- Special Requirements
+- Mandatory NSW Health student placement policy requirements
+- To be able to undertake placement in any NSW Health facility you must be assessed as compliant with NSW Health student placement policy in the first year of your program, regardless of when you expect to go on your first placement. Access and read the NSW Student Compliance Information Booklet
+- NSW Student Compliance Information Booklet
+- Please ensure that you
+- International students have additional requirements: the link to the booklet will inform you of these requirements.
+- School Requirements
+- Contact your School for further details regarding your School’s requirements, if any, such as
+- Student Compliance Resources are also available on the Placements Hub web page (NSW students only)
+- https://www.westernsydney.edu.au/learning_futures/home/placements_hub/placements_hub/student_compliance
+- Recommended Sequence
+- Qualification for this award requires the successful completion of 240 credit points as per the recommended sequence below.
+- HLTH 1013 Professional Competencies in Health replaced HLTH 1010 Professional Health Competencies
+- HLTH 1012 Evidence in Health replaced HLTH 1001 Foundations of Evidence-Based Practice
+
+Location Table:
+- Campbelltown
+- Full Time
+- Internal
+- 
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+NATS 1009
+Human Anatomy and Physiology 1
+10
+PUBH 1006
+Population Health and Society
+10
+HLTH 1013
+Professional Competencies in Health
+10
+HLTH 1018
+Paramedicine Foundations 1
+10
+
+Credit Points
+40
+2H session
+HLTH 1019
+Paramedicine Foundations 2
+10
+
+Credit Points
+10
+Spring session
+NATS 1010
+Human Anatomy and Physiology 2
+10
+COMM 1007
+Communication in Health
+10
+HLTH 1012
+Evidence in Health
+10
+
+Credit Points
+30
+Year 2
+1H session
+HLTH 2026
+Paramedicine Care 1
+10
+HLTH 2027
+Paramedicine Care of Diverse Patients 1
+10
+
+Credit Points
+20
+Autumn session
+NATS 2038
+Pathophysiology 1
+10
+PUBH 2005
+Culture, Diversity and Health
+10
+
+Credit Points
+20
+2H session
+HLTH 2028
+Paramedicine Care 2
+10
+HLTH 2029
+Paramedicine Care 3
+10
+HLTH 2030
+Paramedicine Care of Diverse Patients 2
+10
+
+Credit Points
+30
+Spring session
+NATS 2008
+Clinical Pharmacology
+10
+
+Credit Points
+10
+Year 3
+1H session
+HLTH 3024
+Safety and Quality in Paramedicine
+10
+HLTH 3025
+Paramedicine Trauma Care
+10
+HLTH 3021
+Obstetrics and Gynaecology
+10
+
+Credit Points
+30
+Autumn session
+HLTH 2024
+Research Methods in Health
+10
+
+Credit Points
+10
+2H session
+HLTH 3022
+Paramedicine Leadership
+10
+HLTH 3023
+Integrated Paramedicine
+20
+
+Credit Points
+30
+Spring session
+HLTH 3018
+Ethical and Legal Issues in Health Care
+10
+
+Credit Points
+10
+
+Total Credit Points
+240
+
+Courselist Tables:

@@ -1,0 +1,265 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Graduate Diploma in Building Surveying (3789)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- This program applies to students who commenced in 2022 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- For Commencement Year 2016, please refer to: 3704.2 Graduate Diploma in Building Surveying
+- For Commencement Year 2015, please refer to: 3704.1 Graduate Diploma in Building Surveying
+- The Graduate Diploma in Building Surveying is a two-year part-time program which aims to provide students with specialist knowledge and skills to assess, evaluate and recommend building solutions. It is relevant to professionals certifying Performance solutions under the relevant scheme of the National Construction Code and other applicable Standards. The program enables students to understand performance requirements, basic fire technology and engineering principles, building access and sustainability and other issues related to building surveying practice.
+- The program has been designed primarily for External delivery and sets a pathway for further learning at a Master’s level. Subjects have non-compulsory workshops and students are encouraged to attend these workshops to gain the benefit of interaction with their peers
+- Early Exit
+- Students may exit this program on completion of 40 credit points with a 3790 Graduate Certificate in Building Surveying
+- Study Mode
+- Two years part-time.
+- Program Advice
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Accreditation
+- The program has full accreditation with the Australian Institute of Building Surveyors (AIBS). The program is recognised by NSW Fair Trading to meet the qualifications requirement to be accredited as Building surveyor-unrestricted.
+- Admission
+- Admission 2022
+- Applicants must have successfully completed an Advanced Diploma in building surveying or undergraduate degree or higher in building surveying, architecture, engineering, or construction management (honours) AND a minimum of 2 years full-time equivalent professional work experience as an accredited building surveyor.
+- Admission 2023
+- Applicants must have successfully completed an Advanced Diploma or Associate Degree in Building Surveying or an undergraduate degree, or higher in building surveying, architecture, engineering, or construction management (honours)
+- AND
+- a minimum of 2 years full-time equivalent professional work experience in the building certification industry.
+- Applicants seeking admission on the basis of completing a Graduate Certificate in building surveying may be eligible for up to 40 credit points of Credit for Prior Learning subject to approval by the relevant Directors of Academic Programs (DAP).
+- Additional Information
+- Applicants seeking admission on the basis of work experience must support their application with a Statement of Service for all work experience listed on the application.
+- Statement of Service form
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local and International applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Recommended Sequence Current
+- Qualification for this award requires the successful completion of 80 credit points as per the recommended sequence below.
+- Start-year intake
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2022 or earlier.
+- CIVL 7011  Building Engineering
+- ENGR 7012 Fire Technology and Engineering Principles
+- Mid-year intake
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2022 or earlier.
+- CIVL 7011  Building Engineering
+- ENGR 7012 Fire Technology and Engineering Principles
+- Qualification for this award requires the successful completion of 80 credit points as per the recommended sequence below.
+- Recommended Sequence 2022
+- Start-year intake
+- Mid-year intake
+- Replaced Subjects
+- CIVL 7011 Building Engineering replaced by CIVL 5001 Building Engineering
+- ENGR 7006 Fire Engineering 1 (Fire Dynamics) replaced by ENGR 5001 Fire Engineering 1 (Fire Dynamics)
+
+Location Table:
+- Parramatta City Campus-Macquarie Street
+- Part Time
+- External
+- See above
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+ARCH 7004
+Planning and Development Control
+10
+BLDG 7003
+Building Studies
+10
+
+Credit Points
+20
+Spring session
+BLDG 7004
+Building in Bushfire Prone Areas
+10
+CIVL 5001
+Building Engineering
+10
+Students may exit at this point with a Graduate Certificate in Building Surveying (40 credit points)
+
+
+Credit Points
+20
+Year 2
+Autumn session
+ENGR 6003
+Fire Technology and Engineering Principles
+10
+BLDG 7002
+Building Regulations
+10
+
+Credit Points
+20
+Spring session
+BLDG 7008
+Professional Practice and Building Law
+10
+CIVL 7012
+Building Fire Services
+10
+
+Credit Points
+20
+
+Total Credit Points
+80
+Year 1
+Spring session
+Credit Points
+BLDG 7004
+Building in Bushfire Prone Areas
+10
+CIVL 5001
+Building Engineering
+10
+
+Credit Points
+20
+Autumn session
+ARCH 7004
+Planning and Development Control
+10
+BLDG 7003
+Building Studies
+10
+Students may exit at this point with a Graduate Certificate in Building Surveying (40 credit points)
+
+
+Credit Points
+20
+Year 2
+Spring session
+BLDG 7008
+Professional Practice and Building Law
+10
+CIVL 7012
+Building Fire Services
+10
+
+Credit Points
+20
+Autumn session
+BLDG 7002
+Building Regulations
+10
+ENGR 6003
+Fire Technology and Engineering Principles
+10
+
+Credit Points
+20
+
+Total Credit Points
+80
+Year 1
+Autumn session
+Credit Points
+ARCH 7004
+Planning and Development Control
+10
+BLDG 7003
+Building Studies
+10
+
+Credit Points
+20
+Spring session
+BLDG 7004
+Building in Bushfire Prone Areas
+10
+CIVL 7011
+Building Engineering
+
+Note: From Spring 2022 CIVL 7011 is replaced by CIVL 5001
+10
+CIVL 5001
+Building Engineering
+
+Students may exit at this point with a Graduate Certificate in Building Surveying (40 credit points)
+
+
+Credit Points
+20
+Year 2
+Autumn session
+BLDG 7002
+Building Regulations
+10
+ENGR 5001
+Fire Engineering 1 (Fire Dynamics)
+10
+
+Credit Points
+20
+Spring session
+BLDG 7008
+Professional Practice and Building Law
+10
+CIVL 7012
+Building Fire Services
+10
+
+Credit Points
+20
+
+Total Credit Points
+80
+Year 1
+Spring session
+Credit Points
+BLDG 7004
+Building in Bushfire Prone Areas
+10
+CIVL 7011
+Building Engineering
+
+Note: From Spring 2022 CIVL 7011 is replaced by CIVL 5001
+10
+CIVL 5001
+Building Engineering
+
+
+Credit Points
+20
+Autumn session
+ARCH 7004
+Planning and Development Control
+10
+BLDG 7003
+Building Studies
+10
+Students may exit at this point with a Graduate Certificate in Building Surveying (40 credit points)
+
+
+Credit Points
+20
+Year 2
+Spring session
+BLDG 7008
+Professional Practice and Building Law
+10
+CIVL 7012
+Building Fire Services
+10
+
+Credit Points
+20
+Autumn session
+BLDG 7002
+Building Regulations
+10
+ENGR 5001
+Fire Engineering 1 (Fire Dynamics)
+10
+
+Credit Points
+20
+
+Total Credit Points
+80
+
+Courselist Tables:

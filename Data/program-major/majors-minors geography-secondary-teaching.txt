@@ -1,0 +1,32 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Geography for Secondary Teaching (0265)
+- Western Sydney University Minor Code:
+- Previous Code:  SM1137.1
+- Geography is the integrated study of people, places and environments. Students in this minor examine the geography of contemporary Australian cities and regions. The cutting edge interests of today’s Geographers include post-colonialism, the emergence of global information economies, indigenous issues, class and cultural disparities, population movement, sexuality and space, and the global diffusion of popular culture. This minor meets NSW Education Standards (NESA) content requirements for students who wish to teach Geography in NSW Secondary Schools.
+- Minor Structure
+- Students must complete 40 credit points as follows.
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- Dr Di Dickenson
+- Penrith Campus
+- Internal
+- Dr Di Dickenson
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+ENVL 2001Analysis of Spatial Data10
+ENVL 3006Transport, Access and Equity10
+Select two of the following:20
+HUMN 1008Cities: Introduction to Urban Studies
+HUMN 2018Cultural and Social Geographies
+HUMN 2053The Economics of Cities and Regions
+HUMN 3041Geographies of Migration
+Total Credit Points40

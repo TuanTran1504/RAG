@@ -1,0 +1,148 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Computational Mathematics, Testamur Major (T118)
+- Western Sydney University Major Code:
+- Previous Code:  MT3040.1
+- The power of modern computers adds substantial clout to traditional mathematical and statistical techniques — provided that you know how to make use of the opportunities that computers offer. Building on the Bachelor of Mathematics, this major equips graduates with the skills to make the best use of computational tools. You will learn how to use computers effectively as a mathematician or a statistician, with a focus on efficiency, reliability, and security. These skills are absolutely indispensable if you consider enrolling for an HDR degree, but they will also help you make a case in your next job application.
+- Location
+- Recommended Sequence
+- Students must successfully complete 80 credit points as per the recommended sequence below.
+- Full-time intake
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 2009 Introduction to Data Science, replaced by COMP 2025 Introduction to Data Science
+- Part-time intake
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 2009 Introduction to Data Science, replaced by COMP 2025 Introduction to Data Science
+- Related Programs
+
+Location Table:
+- Campbelltown Campus
+- Internal
+- Associate Professor Volker Gebhardt
+- Parramatta Campus - Victoria Road
+- Internal
+- Associate Professor Volker Gebhardt
+- Penrith Campus
+- Internal
+- Associate Professor Volker Gebhardt
+
+Sequence Tables:
+Year 1
+Spring session
+Credit Points
+COMP 2008
+Computer Organisation
+10
+COMP 2014
+Object Oriented Programming
+10
+
+Credit Points
+20
+Year 2
+Autumn session
+COMP 2009
+Data Structures and Algorithms
+10
+
+Credit Points
+10
+Spring session
+INFO 3006
+Information Security
+10
+
+Credit Points
+10
+Year 3
+Autumn session
+MATH 3011
+Probabilistic Models and Inference
+10
+COMP 3033
+Quantum Computing and Communication
+10
+
+Credit Points
+20
+Spring session
+INFS 3003
+Artificial Intelligence
+10
+COMP 3020
+Social Web Analytics
+10
+
+Credit Points
+20
+
+Total Credit Points
+80
+Year 1
+Spring session
+Credit Points
+COMP 2014
+Object Oriented Programming
+10
+
+Credit Points
+10
+Year 2
+Spring session
+COMP 2008
+Computer Organisation
+10
+
+Credit Points
+10
+Year 4
+Autumn session
+COMP 2009
+Data Structures and Algorithms
+10
+
+Credit Points
+10
+Spring session
+INFO 3006
+Information Security
+10
+
+Credit Points
+10
+Year 5
+Autumn session
+COMP 3033
+Quantum Computing and Communication
+10
+
+Credit Points
+10
+Spring session
+COMP 3020
+Social Web Analytics
+10
+
+Credit Points
+10
+Year 6
+Autumn session
+MATH 3011
+Probabilistic Models and Inference
+10
+
+Credit Points
+10
+Spring session
+INFS 3003
+Artificial Intelligence
+10
+
+Credit Points
+10
+
+Total Credit Points
+80
+
+Courselist Tables:

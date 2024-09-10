@@ -1,0 +1,35 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Enterprise Innovation, Major (0078)
+- Western Sydney University Major Code:
+- Previous Code:M2511.1
+- The Enterprise Innovation major equips you with the expert skills to create a career as a management specialist. You will be prepared to succeed in a range of roles in contemporary private, public, and not-for-profit organisations in Australia and abroad. In this major you will develop strategic management knowledge to enable effective organisational decision making. The subjects in this major focus on organisational learning and development and behaviour, operations management, leadership and entrepreneurship, change and innovation, and policy. You can look forward to a range of careers in the broad and complex field of management.
+- Location
+- Major Structure
+- Students must successfully complete 80 credit points including all of the core subjects listed below.
+- The subjects in this major are offered at the Parramatta City campus and the core subjects in the Bachelor of Creative Industries programs are offered at the Parramatta South, and Penrith campuses. Students will be required to travel between campuses in order to complete this major.
+- Note: Creative Industries students undertaking this major must complete core subject BUSM 1008 Enterprise Leadership, followed by Introductory major pool subject BUSM 1026 Organisational Behaviour, prior to commencing the below subject set.
+- BUSM 1008 Enterprise Leadership
+- BUSM 1026 Organisational Behaviour
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- Program Advice
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+BUSM 2004Business, Society and Policy10
+BUSM 3005Creating Change and Innovation10
+BUSM 3006Design Thinking for Creativity10
+BUSM 3027Innovation and Professional Practice10
+BUSM 3028Innovation, Enterprise and Society10
+BUSM 3036Leadership and Entrepreneurship10
+BUSM 2030Managing and Developing Careers10
+BUSM 2031Managing in the Global Environment10
+Total Credit Points80

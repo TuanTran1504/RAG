@@ -1,0 +1,103 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Project Management (Generic Program), Major (0063)
+- Western Sydney University Major Code:
+- Previous Code:  SP3007.1
+- Location
+- Major Structure Current
+- Alternate Subjects
+- Students in the Master of Project Management should complete the required number of credit points from the following subject list, as noted in their Pathway structure.
+- Students in the Graduate Diploma in Project Management should complete 50 credit points from the following list (40cps to complete the Generic program plus an extra 10cps selected from the pool to complete the program).
+- Major Structure to 2024
+- Students must complete three 10 credit point Management alternate subjects and three 10 credit point generic alternate subjects.
+- The subjects listed below count towards completion of this major for students who passed these subjects in 2020 or earlier.
+- HUMN 7014 - Development for Equality
+HLTH 7012 -  Organisational Governance and Performance Management
+PUBH 7024 - Safety and Risk Management
+- Related Programs
+
+Location Table:
+- Parramatta City Campus - Macquarie Street
+- Internal
+- Xiaohua (Sean) Jin
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+ACCT 7015Financial Reports for Decision Making10
+BUSM 7092Supply Chain Management10
+BUSM 7018Contemporary People Management10
+BUSM 7086Strategic Business Management10
+BUSM 7040Governance, Ethics and Social Entrepreneurship10
+BUSM 7065Managing in the Global Context10
+BUSM 7105Business Analytics in Practice10
+BUSM 7014Compliance Management10
+ARCH 7001Developing Sustainable Places10
+BUSM 7025Diversity, Labour Markets and Workforce Planning10
+HUMN 7019International Disaster Management10
+BUSM 7027Employment Relations Professional Practice10
+BLDG 7006Financing Cities in the Global Economy10
+HLTH 7005Health Financial Management10
+HLTH 7006Health Services and Facilities Planning10
+ARCH 7002Heritage and Planning10
+BUSM 7043Industrial Relations and Workplace Change10
+BUSM 7047Innovation, Creativity and Entrepreneurship10
+NURS 7028Leadership in Clinical Practice10
+TEAC 7063Leadership, Mentoring and Professional Growth10
+ARCH 7003Managing Cities: History and Theory10
+ENVL 7002Planning and Environmental Regulation10
+HUMN 7031Political Economy of Development10
+HUMN 7032Public Health in Complex Emergencies10
+BUSM 7081Reward Management10
+PUBH 7027Supporting Individuals and Communities in Crisis10
+PUBH 7028Surveillance and Disaster Planning10
+ARCH 7005Urban Management Practice: Governance and Power in the City10
+PUBH 7034Workplace Safety and Risk Management10
+
+courselist table2:
+Management subjects - offered in Quarter 2 and Quarter 4 sessons
+Select 30 credit points from the following:30
+BUSM 7018Contemporary People Management
+ACCT 7015Financial Reports for Decision Making
+BUSM 7040Governance, Ethics and Social Entrepreneurship
+BUSM 7065Managing in the Global Context
+BUSM 7086Strategic Business Management
+BUSM 7092Supply Chain Management
+Project Management - Generic Program subjects - offered in Autumn and Spring sessions
+Select 30 credit points from the following:30
+HLTH 7022Advanced Health Service Management
+BUSM 7105Business Analytics in Practice
+BUSM 7014Compliance Management
+ARCH 7001Developing Sustainable Places
+PUBH 7029Digital Health Management
+BUSM 7025Diversity, Labour Markets and Workforce Planning
+HUMN 7019International Disaster Management
+BUSM 7027Employment Relations Professional Practice
+BLDG 7006Financing Cities in the Global Economy
+PUBH 7011Health Advancement and Health Promotion
+HLTH 7005Health Financial Management
+HLTH 7006Health Services and Facilities Planning
+HLTH 7024Health Services Financing
+PUBH 7030Health Systems Planning and Evaluation
+HLTH 7025Healthcare Data for Decision-Making
+ARCH 7002Heritage and Planning
+BUSM 7043Industrial Relations and Workplace Change
+BUSM 7047Innovation, Creativity and Entrepreneurship
+PUBH 7016Introduction to Epidemiology
+NURS 7028Leadership in Clinical Practice
+TEAC 7063Leadership, Mentoring and Professional Growth
+ARCH 7003Managing Cities: History and Theory
+PUBH 7032Patient-centred digital healthcare
+ENVL 7002Planning and Environmental Regulation
+HUMN 7031Political Economy of Development
+HUMN 7032Public Health in Complex Emergencies
+HLTH 7029Quality and Safety
+BUSM 7081Reward Management
+PUBH 7027Supporting Individuals and Communities in Crisis
+PUBH 7028Surveillance and Disaster Planning
+ARCH 7005Urban Management Practice: Governance and Power in the City
+PUBH 7034Workplace Safety and Risk Management
+Total Credit Points60

@@ -1,0 +1,154 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Secondary Ancient History Education, Major (0352)
+- Effective from:
+- Western Sydney University Major Code:
+- The Secondary Ancient History Education Major will provide students with 60 credit points of Ancient History discipline knowledge and 20 credit points of Ancient History pedagogy and curriculum knowledge. Together with completion of subjects in the Bachelor of Education (Secondary), this Major will enable students to meet requirements to graduate from the Bachelor of Education (Secondary) with the Ancient History teaching area. The Secondary Ancient History Education Major will span the Foundation and Development phases of the Bachelor of Education (Secondary), enabling students to develop strong pedagogical content knowledge, an understanding of evidence-based pedagogies, and skills in using assessment and feedback to guide and enhance student learning.
+- Location
+- Major Structure
+- Students must successfully complete 80 credit points as follows.
+- Start-year intake
+- Mid-year intake
+- Alternate Subjects
+- Students complete two of the following subjects, with at least one subject at Level 3:
+- Related Programs
+
+Location Table:
+- Bankstown City Campus
+- 
+- Internal
+- SecondaryEnquiries@westernsydney.edu.au
+- Penrith Campus
+- 
+- Internal
+- SecondaryEnquiries@westernsydney.edu.au
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+HUMN 1054
+When Worlds Collide: European Empires and the World, c.1600-1950
+10
+
+Credit Points
+10
+Spring session
+HUMN 2067
+History of the Ancient World
+10
+
+Credit Points
+10
+Year 2
+Autumn session
+HUMN 2034
+Keeping the Past
+10
+
+Credit Points
+10
+Spring session
+Select one Alternate subject (from the pool of alternate subjects listed below)
+10
+Select one Alternate subject (Level 3) (from the pool of alternate subjects listed below)
+10
+
+Credit Points
+20
+Year 3
+Autumn session
+HUMN 3104
+Historical Methodologies
+10
+
+Credit Points
+10
+Spring session
+TEAC 3055
+History Curriculum 7-10
+10
+
+Credit Points
+10
+Year 4
+Autumn session
+TEAC 4021
+History Curriculum 11-12
+10
+
+Credit Points
+10
+
+Total Credit Points
+80
+Year 1
+Spring session
+Credit Points
+HUMN 1054
+When Worlds Collide: European Empires and the World, c.1600-1950
+10
+
+Credit Points
+10
+Autumn session
+HUMN 2034
+Keeping the Past
+10
+
+Credit Points
+10
+Year 2
+Spring session
+HUMN 2067
+History of the Ancient World
+10
+Select one Alternate subject (from the pool of alternate subjects listed below)
+10
+
+Credit Points
+20
+Autumn session
+Select one Alternate subject (Level 3) (from the pool of alternate subjects listed below)
+10
+
+Credit Points
+10
+Year 3
+Spring session
+TEAC 3055
+History Curriculum 7-10
+10
+
+Credit Points
+10
+Autumn session
+HUMN 3104
+Historical Methodologies
+10
+
+Credit Points
+10
+Year 4
+Autumn session
+TEAC 4021
+History Curriculum 11-12
+10
+
+Credit Points
+10
+
+Total Credit Points
+80
+
+Courselist Tables:
+
+courselist table1:
+Level 2 Subject
+HUMN 2011Ancient Western Culture: Periclean Athens10
+HUMN 2076The Classical Tradition10
+Level 3 Subjects
+HUMN 3109Catastrophe: The Environmental History of the Ancient World10
+HUMN 3115Medieval Europe from the Fall of the Roman Empire to the Reformation10
+PHIL 3019Thought and Action in Greece and Rome10

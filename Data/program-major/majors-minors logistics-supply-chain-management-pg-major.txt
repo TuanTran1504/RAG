@@ -1,0 +1,29 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Logistics and Supply Chain Management, Major (0235)
+- Western Sydney University Major Code:
+- Previous Code:  SP2008.1
+- This major includes operations management, supply chain management, logistics, and project management. The program is intended to assist graduates to develop the perspectives and skills necessary for an integrated approach to planning, implementing, upgrading and managing business operations that enhance customer value and organisational effectiveness.
+- Location
+- Major Structure
+- Students must successfully complete 60 credit points as listed below.
+- Related Programs
+
+Location Table:
+- Parramatta City Campus - Macquarie Street
+- Internal
+- Dr Hilal Hurriyet
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+BUSM 7011Business Operations and Logistics10
+BUSM 7014Compliance Management10
+BUSM 7059Logistics Processes in Enterprise Resource Planning10
+BUSM 7078Project Management10
+BUSM 7079Purchasing and Materials Management10
+BUSM 7092Supply Chain Management10
+Total Credit Points60

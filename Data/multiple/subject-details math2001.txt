@@ -1,0 +1,21 @@
+Academic Handbook Current Edition MATH 2001 Advanced Calculus Credit Points 10 Legacy Code 200028 Coordinator Matthias Fresacher Opens in new window Description This subject is designed for students undertaking studies in mathematics, statistics, operations research and mathematical finance. It provides further mathematical training in the areas of multivariable and vector calculus, which is essential to the understanding of many areas of both pure and applied mathematics. School Computer, Data & Math Sciences Discipline Mathematics Student Contribution Band HECS Band 1 10cp Check your fees via the Fees page. Level Undergraduate Level 2 subject Pre-requisite(s) MATH 1015 Equivalent Subjects LGYA 3785 - Advanced Calculus LGYA 3865 - Mathematics 4 LGYB 9666 - Mathematics 21 Incompatible Subjects MATH 1019 - Mathematics for Engineers 2 Restrictions Students enrolled in Bachelor of Engineering, Bachelor of Engineering (Honours) or Bachelor of Engineering Science may not enrol in this subject. Learning Outcomes On successful completion of this subject, students should be able to: tackle and solve calculus problems in the multi-variable context
+apply multi-variable calculus to practical situations
+perform vector operations and apply to solving geometric problems
+recognise continuous multi-variable functions
+calculate limits of multi-variable functions
+compute directional derivatives, partial derivatives, and gradients
+find and classify critical points of differentiable multi-variable real valued functions
+perform multi-variable integration and apply various techniques such as change of variables
+apply integration to calculating arc lengths, surface areas, and volumes
+recognise vector fields such as conservative vector fields
+apply Fundamental Theorem and Green's Theorem to calculating line integrals and/or double integrals Subject Content multi-variable differential calculus: functions of several variables and their graphs
+continuity, limits, directional derivatives, partial derivatives and vector-valued functions
+chain rule, level sets, gradient, extreme values, Lagrange multiplier methods
+multivariable integral calculus: multiple integration and iterated integrals, change of order
+curvilinear coordinate systems
+properties of vectors and vector fields
+vector differentiation
+gradient, divergence and curl of a vector
+line, surface and volume integrals
+Green's theorem in the plane
+theorems of Gauss and Stokes Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Report 10 hours 30 N Individual Y  Quiz 1 hour 20 N Individual Y  Final Exam 2 hours 50 N Individual Y Prescribed Texts Teaching Periods Autumn (2024) Campbelltown On-site Subject Contact Matthias Fresacher Opens in new window View timetable Opens in new window Penrith (Kingswood) On-site Subject Contact Matthias Fresacher Opens in new window View timetable Opens in new window Parramatta - Victoria Rd On-site Subject Contact Matthias Fresacher Opens in new window View timetable Opens in new window Structures that include subject Applied Physics, Testamur Major (T078) Bachelor of Advanced Medical Science (3758) Bachelor of Advanced Science (3757) Bachelor of Mathematics (3778) Bachelor of Medical Science (3755) Bachelor of Science (3754) Bachelor of Science (Pathway to Teaching Primary/Secondary) (3756) Bachelor of Science/Bachelor of Arts (3763) Bachelor of Science/Bachelor of Business (4748) Bachelor of Science/Bachelor of International Studies (3764) Bachelor of Science/Bachelor of Laws (2743) Bachelor of Science/Bachelor of Laws (Honours) (2832) Diploma in General Science (exit only) (7185) Diploma in Science/Bachelor of Medical Science (6042) Diploma in Science/Bachelor of Science (6043) Mathematics (MATH) Mathematics, Major (0059) Mathematics, Minor (0059) Secondary Mathematics Education, Major (0350) Secondary Teaching, Major (0164)

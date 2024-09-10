@@ -1,0 +1,162 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Bachelor of Graphic Design (Pathway to Teaching Secondary) (1843)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 095721C
+- This program applies to students who commenced in 2021 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- Commencement Year 2017 to 2020 - 1843.1 Bachelor of Graphic Design (Pathway to Teaching Secondary)
+- The Bachelor of Graphic Design (Pathway to Teaching Secondary) is a three-year degree specially designed to lead into the Master of Teaching (Secondary), an accredited postgraduate teaching qualification. Together, the two degrees provide direct access to a teaching career and improved prospects for career advancement.
+- With an emphasis on studio-based practice, you will study areas such as image design, typography, layout design, branding, design history, research methods, and web-based design. From year two, you will develop a focus on digital design, photography, and graphics technology, enabling you to develop two teaching disciplines, Design & Technology and Graphics & Multimedia Technology. In year three you will also study an Education Studies minor, where you will gain an understanding of contemporary education issues, teaching and learning. As well as being equipped with the necessary elements of an initial teacher qualification, you will be prepared for professional graphic design practice and associated alternate employment opportunities in design. Students who complete this degree will gain 40 credit points of advanced standing towards the first semester of theMaster of Teaching (Secondary).
+- For further information concerning the requirements for secondary teaching, students are advised to consult the Subject Content Requirements for Primary and Secondary Teaching NSW (Abridged) from the NSW Educational Standards Authority (NESA) or the School of Education.
+- http://educationstandards.nsw.edu.au/Subject Content Knowledge Requirements
+- Study Mode
+- Three years full-time or six years part-time.
+- Program Advice
+- enquiriesHCA@westernsydney.edu.au
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Admission
+- Assumed knowledge: two units of HSC English.
+- Recommended studies: One or more of Design and Technology, Visual Arts, Information Processes and Technology.
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- International students currently completing an Australian Year 12 in or outside Australia, an International Baccalaureate in Australia or a New Zealand National Certificate of Educational Achievement (NCEA) level 3 must apply via UAC International.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Program Structure
+- Qualification for this award requires the successful completion of 240 credit points.
+- Core Subjects
+- Students must successfully complete 10 core subjects as follows.
+- First Teaching Area - Design and Technology
+- Students must complete the following Design key field of study as their first teaching area.
+- Second Teaching Area - Graphics and Multimedia
+- Students must complete one of the following minors:
+- Education Studies
+- Students must also complete the following Education Studies minor.
+- Recommended Sequence
+- Qualification for this award requires the successful completion of 240 credit points as per the recommended sequence below.
+- Full-time start-year intake
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Full Time
+- Internal
+- See above
+- Parramatta Campus - Victoria Road
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+DESN 1009
+Graphic Design: Understanding the Principles
+20
+DESN 1003
+Design Histories and Futures
+10
+DESN 1011
+Image Design
+10
+
+Credit Points
+40
+Spring session
+DESN 1007
+Graphic Branding and Identity
+20
+DESN 1021
+Web and Time-based Design
+10
+DESN 1018
+Visual Storytelling
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+DESN 2014
+Researching the Visual
+10
+DESN 2013
+Photomedia: Photographic Practice
+10
+Select two Graphics and Multimedia minor subjects
+20
+
+Credit Points
+40
+Spring session
+DESN 2001
+Australian Design
+10
+VISU 3002
+Photomedia: Fashion and Identity
+10
+Select two Graphics and Multimedia minor subjects
+20
+
+Credit Points
+40
+Year 3
+Autumn session
+DESN 3001
+Contextual Design Studies
+10
+DESN 2011
+Motion Design
+10
+Select two Education Studies - Secondary Teaching Minor subjects
+20
+
+Credit Points
+40
+Spring session
+DESN 3006
+Graphic Design: Developing a Personal Portfolio
+10
+DESN 3002
+Data Visualisation
+10
+Select two Education Studies - Secondary Teaching Minor subjects
+20
+
+Credit Points
+40
+
+Total Credit Points
+240
+
+Courselist Tables:
+
+courselist table1:
+DESN 2001Australian Design10
+DESN 3001Contextual Design Studies10
+DESN 3006Graphic Design: Developing a Personal Portfolio10
+DESN 1009Graphic Design: Understanding the Principles20
+DESN 1003Design Histories and Futures10
+DESN 1007Graphic Branding and Identity20
+DESN 1011Image Design10
+DESN 2014Researching the Visual10
+DESN 1018Visual Storytelling10
+DESN 1021Web and Time-based Design10
+Total Credit Points120
+
+courselist table2:
+Design Specialisation 1: Photomedia
+VISU 3002Photomedia: Fashion and Identity10
+DESN 2013Photomedia: Photographic Practice10
+Design Specialisation 2: Digital Design
+DESN 3002Data Visualisation10
+DESN 2011Motion Design10
+Total Credit Points40

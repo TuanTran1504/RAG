@@ -1,0 +1,676 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Master of Artificial Intelligence (3765)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 0101783
+- This program applies to students who commenced in 2022 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- Commencement 2020 - 3765.1 Master of Artificial Intelligence
+- The Master of Artificial Intelligence provides students with a broad range of Artificial Intelligence (AI) topics ranging from foundations to state-of-the-art technologies and applications. Students will learn how AI is driving digital disruption, how to work in this dynamic and fast evolving field, and how it is changing every facet of life and society. This course focuses on the most important and up to date AI topics and trends including but not limited to: intelligent agents, machine learning, knowledge representation and reasoning, natural language understanding and processing, AI ethics and governance as well as relevant specialisation areas in computing and data sciences.
+- Early Exits
+- Students may exit this program on completion of 40 credit points with a 3767 Graduate Certificate in Artificial Intelligence (exit only) or on completion of 80 credit points with a 3766 Graduate Diploma in Artificial Intelligence (exit only)
+- Study Mode
+- Two years full-time or four years part-time.
+- Program Advice
+- Associate Professor Dongmo Zhang
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Accreditation
+- Master of Artificial Intelligence is provisionally accredited at Professional Level by the Australian Computer Society.
+- Work Integrated Learning
+- There is a mandatory work component required for completion of this program.  Please contact the Program Advisor listed above for information.
+- International students should also refer to the link below for more information and a link to the Commonwealth Register of Institutions and Courses for Overseas Students (CRICOS).
+- Work Integrated Learning (WIL) for international students
+- Admission
+- Minimum admission requirements to this course are:
+- Additional Information
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Program Structure Current
+- This structure applies to students who commenced in 2024 or later. If you commenced prior to 2024 please refer to the relevant Structure tab for details.
+- Core Subjects
+- Students must complete twelve (10 credit points) core subjects (total of 120 cps).
+- Additional Requirement
+- Postgraduate Specialisations
+- Students must also choose between a program-specific testamur major or complete 40 credit points of subjects selected from any major for a generic award (total 40cps).
+- Sequence Current
+- This sequence applies to students who commenced in 2024 or later. If you commenced prior to 2024 please refer to the relevant Sequence tab for details.
+- Qualification for this award requires the successful completion of 160 credit points as per the recommended sequence below.
+- Autumn Intake
+- Additional Requirement
+- Spring Intake
+- Additional Requirement
+- Alternate Subjects for Generic Award
+- Specialisations
+- Exit Awards
+- Students may exit with the 3766 - Graduate Diploma in Artificial Intelligence (80 credit points) or 3767 - Graduate Certificate in Artificial Intelligence (40 credit points) on completion of the relevant subjects as specified in the program structure. Please refer to the links below for details.
+- Graduate Diploma in Artificial Intelligence
+- Graduate Certificate in Artificial Intelligence
+- Program Structure Spring 2023
+- This structure applies to students who commenced in Spring 2023 or later. If you commenced prior to Spring 2023 please refer to the Structure 2022 - Autumn 2023 tab for details.
+- Students must complete twelve (10 credit points) core units (total of 120 cps).
+- Additional Requirements
+- Students must also choose between a specialisation-specific award or complete 40 credit points of units selected from any specialisation for a generic award (total 40cps).
+- Recommended Sequence Spring 2023
+- This sequence applies to students who commenced in Spring 2023 or later. If you commenced prior to Spring 2023 please refer to the Sequence 2022 - Autumn 2023 tab for details.
+- Qualification for this award requires the successful completion of 160 credit points as per the recommended sequence below.
+- Autumn Intake
+- Additional Requirement
+- Spring Intake
+- Additional Requirement
+- Alternate Subjects for Generic Award
+- Specialisations
+- Exit Awards
+- Students may exit with the 3766 - Graduate Diploma in Artificial Intelligence (80 credit points) or 3767 - Graduate Certificate in Artificial Intelligence (40 credit points) on completion of the relevant subjects as specified in the program structure. Please refer to the links below for details.
+- Graduate Diploma in Artificial Intelligence
+- Graduate Certificate in Artificial Intelligence
+- Program Structure 2022 - Autumn 2023
+- If you commenced in Spring 2023 or later please refer to the Spring 2023 tabs for details.
+- Students must complete twelve 10 credit point core subjects (total of 120 credit points).
+- Additional Requirement
+- Students must also choose between a program-specific testamur major, or complete 40 credit points of subjects selected from any major for a generic award (total 40 credit points).
+- Recommended Sequence 2022 - Autumn 2023
+- If you commenced in Spring 2023 or later please refer to the Spring 2023 tabs for details.
+- Qualification for this award requires the successful completion of 160 credit points which include the subjects listed in the recommended sequence below.
+- Autumn Intake
+- Additional Requirement
+- Spring Intake
+- Additional Requirement
+- Alternate Subjects for Generic Award
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 7011 Predictive Analytics, replaced by  COMP 7023 Predictive Analytics
+- Specialisations
+- Exit Awards
+- Students may exit with the 3766 - Graduate Diploma in Artificial Intelligence (80 credit points) or 3767 - Graduate Certificate in Artificial Intelligence (40 credit points) on completion of the relevant subjects as specified in the program structure. Please refer to the links below for details.
+- Graduate Diploma in Artificial Intelligence
+- Graduate Certificate in Artificial Intelligence
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2020 or earlier.
+- Core subjects
+- ENGR 7014 Master Project 1, no longer offered as part of this program
+ENGR 7015 Master Project 2,
+ no longer offered as part of this program
+- ENGR 7014 Master Project 1
+- ENGR 7015 Master Project 2
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Full Time
+- Internal
+- See above
+- Parramatta Campus - Victoria Road
+- Part Time
+- Internal
+- See above
+- ATMC-Melbourne
+- Full Time
+- Internal
+- wsum@atmc.edu.au
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+COMP 7016
+Visualisation
+10
+COMP 7022
+Natural Language Processing
+10
+COMP 7019
+Applied Machine Learning
+10
+COMP 7013
+Network Technologies
+10
+At this point, students can exit with a Graduate Certificate in Artificial Intelligence
+
+
+Credit Points
+40
+Spring session
+COMP 6003
+Computer Vision
+10
+INFO 7002
+Advanced Topics in Artificial Intelligence
+10
+COMP 7020
+Artificial Intelligence Ethics and Organisations
+10
+Select one subject from your Major or one Alternate subject from any specialisation for a generic award.
+10
+At this point, students can exit with a Graduate Diploma in Artificial Intelligence
+
+
+Credit Points
+40
+Year 2
+Autumn session
+COMP 7007
+Information Security Management
+10
+INFO 6002
+Postgraduate Capstone Project
+10
+Select two subjects from your Major or two Alternate subjects from any specialisation for a generic award.
+20
+
+Credit Points
+40
+Spring session
+COMP 7021
+Knowledge Representation and Reasoning
+10
+INFO 7015
+Applied Cybersecurity
+10
+INFO 6003
+Postgraduate Research Project
+10
+Select one subject from your Major or one Alternate subject from any specialisation for a generic award.
+10
+
+Credit Points
+40
+
+Total Credit Points
+160
+Year 1
+Spring session
+Credit Points
+COMP 6003
+Computer Vision
+10
+INFO 7002
+Advanced Topics in Artificial Intelligence
+10
+COMP 7020
+Artificial Intelligence Ethics and Organisations
+10
+Select one subject from your Major or one Alternate subject from any specialisation for a generic award.
+10
+At this point, students can exit with a Graduate Diploma in Artificial Intelligence
+
+
+Credit Points
+40
+Autumn session
+COMP 7016
+Visualisation
+10
+COMP 7022
+Natural Language Processing
+10
+COMP 7019
+Applied Machine Learning
+10
+COMP 7013
+Network Technologies
+10
+At this point, students can exit with a Graduate Certificate in Artificial Intelligence
+
+
+Credit Points
+40
+Year 2
+Spring session
+COMP 7021
+Knowledge Representation and Reasoning
+10
+INFO 7015
+Applied Cybersecurity
+10
+INFO 6002
+Postgraduate Capstone Project
+10
+Select one subject from your Major or one Alternate subject from any specialisation for a generic award.
+10
+
+Credit Points
+40
+Autumn session
+COMP 7007
+Information Security Management
+10
+INFO 6003
+Postgraduate Research Project
+10
+Select two subjects from your Major or two Alternate subjects from any specialisation for a generic award.
+20
+
+Credit Points
+40
+
+Total Credit Points
+160
+Year 1
+Autumn session
+Credit Points
+COMP 7016
+Visualisation
+10
+COMP 7022
+Natural Language Processing
+10
+COMP 7019
+Applied Machine Learning
+10
+COMP 7013
+Network Technologies
+10
+At this point, students can exit with a Graduate Certificate in Artificial Intelligence
+
+
+Credit Points
+40
+Spring session
+COMP 6003
+Computer Vision
+10
+INFO 7002
+Advanced Topics in Artificial Intelligence
+10
+COMP 7020
+Artificial Intelligence Ethics and Organisations
+10
+Select one subject from your Major or one Alternate subject from any specialisation for a generic award.
+10
+At this point, students can exit with a Graduate Diploma in Artificial Intelligence
+
+
+Credit Points
+40
+Year 2
+Autumn session
+COMP 7007
+Information Security Management
+10
+INFO 7016
+Postgraduate Project A
+10
+Select two subjects from your Major or two Alternate subjects from any specialisation for a generic award.
+20
+
+Credit Points
+40
+Spring session
+COMP 7021
+Knowledge Representation and Reasoning
+10
+INFO 7015
+Applied Cybersecurity
+10
+INFO 7017
+Postgraduate Project B
+10
+Select one subject from your Major or one Alternate subject from any specialisation for a generic award.
+10
+
+Credit Points
+40
+
+Total Credit Points
+160
+Year 1
+Spring session
+Credit Points
+COMP 6003
+Computer Vision
+10
+INFO 7002
+Advanced Topics in Artificial Intelligence
+10
+COMP 7020
+Artificial Intelligence Ethics and Organisations
+10
+Select one subject from your Major or one Alternate subject from any specialisation for a generic award.
+10
+At this point, students can exit with a Graduate Diploma in Artificial Intelligence
+
+
+Credit Points
+40
+Autumn session
+COMP 7016
+Visualisation
+10
+COMP 7022
+Natural Language Processing
+10
+COMP 7019
+Applied Machine Learning
+10
+COMP 7013
+Network Technologies
+10
+At this point, students can exit with a Graduate Certificate in Artificial Intelligence
+
+
+Credit Points
+40
+Year 2
+Spring session
+COMP 7021
+Knowledge Representation and Reasoning
+10
+INFO 7015
+Applied Cybersecurity
+10
+INFO 7016
+Postgraduate Project A
+10
+Select one subject from your Major or one Alternate subject from any specialisation for a generic award.
+10
+
+Credit Points
+40
+Autumn session
+COMP 7007
+Information Security Management
+10
+INFO 7017
+Postgraduate Project B
+10
+Select two subjects from your Major or two Alternate subjects from any specialisation for a generic award.
+20
+
+Credit Points
+40
+
+Total Credit Points
+160
+Year 1
+Autumn session
+Credit Points
+COMP 7016
+Visualisation
+10
+COMP 7022
+Natural Language Processing
+10
+COMP 7019
+Applied Machine Learning
+10
+COMP 7003
+Big Data
+10
+At this point, students can exit with a Graduate Certificate in Artificial Intelligence
+
+
+Credit Points
+40
+Spring session
+COMP 7013
+Network Technologies
+10
+INFO 7002
+Advanced Topics in Artificial Intelligence
+10
+COMP 7020
+Artificial Intelligence Ethics and Organisations
+10
+Select one subject from your Major or one Alternate subject from any specialisation for a generic award.
+10
+At this point, students can exit with a Graduate Diploma in Artificial Intelligence
+
+
+Credit Points
+40
+Year 2
+Autumn session
+COMP 7007
+Information Security Management
+10
+INFO 7016
+Postgraduate Project A
+10
+Select two subjects from your Major or two Alternate subjects from any specialisation for a generic award.
+20
+
+Credit Points
+40
+Spring session
+COMP 7021
+Knowledge Representation and Reasoning
+10
+INFO 7015
+Applied Cybersecurity
+10
+INFO 7017
+Postgraduate Project B
+10
+Select one subject from your Major or one Alternate subject from any specialisation for a generic award.
+10
+
+Credit Points
+40
+
+Total Credit Points
+160
+Year 1
+Spring session
+Credit Points
+COMP 7013
+Network Technologies
+10
+INFO 7002
+Advanced Topics in Artificial Intelligence
+10
+COMP 7020
+Artificial Intelligence Ethics and Organisations
+10
+Select one subject from your Major or one Alternate subject from any specialisation for a generic award.
+10
+At this point, students can exit with a Graduate Diploma in Artificial Intelligence
+
+
+Credit Points
+40
+Autumn session
+COMP 7016
+Visualisation
+10
+COMP 7022
+Natural Language Processing
+10
+COMP 7019
+Applied Machine Learning
+10
+COMP 7003
+Big Data
+10
+At this point, students can exit with a Graduate Certificate in Artificial Intelligence
+
+
+Credit Points
+40
+Year 2
+Spring session
+COMP 7021
+Knowledge Representation and Reasoning
+10
+INFO 7015
+Applied Cybersecurity
+10
+INFO 7016
+Postgraduate Project A
+10
+Select one subject from your Major or one Alternate subject from any specialisation for a generic award.
+10
+
+Credit Points
+40
+Autumn session
+COMP 7007
+Information Security Management
+10
+INFO 7017
+Postgraduate Project B
+10
+Select two subjects from your Major or two Alternate subjects from any specialisation for a generic award.
+20
+
+Credit Points
+40
+
+Total Credit Points
+160
+
+Courselist Tables:
+
+courselist table1:
+INFO 7002Advanced Topics in Artificial Intelligence10
+INFO 7015Applied Cybersecurity10
+COMP 7019Applied Machine Learning10
+COMP 7020Artificial Intelligence Ethics and Organisations10
+COMP 6003Computer Vision10
+COMP 7007Information Security Management10
+COMP 7021Knowledge Representation and Reasoning10
+COMP 7022Natural Language Processing10
+COMP 7013Network Technologies10
+INFO 6002Postgraduate Capstone Project10
+INFO 6003Postgraduate Research Project10
+COMP 7016Visualisation10
+Total Credit Points120
+
+courselist table2:
+INFO 7004ICT Practicum0
+
+courselist table3:
+INFO 7004ICT Practicum0
+
+courselist table4:
+INFO 7004ICT Practicum0
+
+courselist table5:
+INFO 7014Advanced Topics in Cybersecurity10
+COMP 7002Advanced Topics in Networking10
+INFO 7003Advanced Topics in User System Interaction10
+COMP 7004Cloud Computing10
+INFO 7018Cloud Systems Development10
+HUMN 7012Cyber Justice (PG)10
+COMP 7006Data Science10
+COMM 7003Foundations of Media Arts Production (PG)10
+CULT 7004Global Digital Futures10
+COMP 7028Hands-on Quantum Computing10
+COMM 7013Ideate, Develop: Makerspace 110
+COMP 7008Internet of Things10
+COMP 7009Mobile Computing10
+COMM 7009Mobile Media10
+COMP 7011Multimedia Communication Systems10
+COMP 7024Programming for Data Science10
+COMM 7011Researching Convergent Media10
+COMP 7025Social Media Intelligence10
+INFS 7006Software Testing and Automation10
+INFS 7008Systems and Network Security10
+MATH 7016The Nature of Data10
+INFS 7009Web Technologies10
+INFO 7013Web Engineering10
+COMP 7017Wireless Networking10
+
+courselist table6:
+INFO 7002Advanced Topics in Artificial Intelligence10
+INFO 7015Applied Cybersecurity10
+COMP 7019Applied Machine Learning10
+COMP 7020Artificial Intelligence Ethics and Organisations10
+COMP 6003Computer Vision10
+COMP 7007Information Security Management10
+COMP 7021Knowledge Representation and Reasoning10
+COMP 7022Natural Language Processing10
+COMP 7013Network Technologies10
+INFO 7016Postgraduate Project A10
+INFO 7017Postgraduate Project B10
+COMP 7016Visualisation10
+Total Credit Points120
+
+courselist table7:
+INFO 7004ICT Practicum0
+
+courselist table8:
+INFO 7004ICT Practicum0
+
+courselist table9:
+INFO 7004ICT Practicum0
+
+courselist table10:
+INFO 7014Advanced Topics in Cybersecurity10
+COMP 7002Advanced Topics in Networking10
+INFO 7003Advanced Topics in User System Interaction10
+COMP 7004Cloud Computing10
+INFO 7018Cloud Systems Development10
+HUMN 7012Cyber Justice (PG)10
+COMP 7006Data Science10
+COMM 7003Foundations of Media Arts Production (PG)10
+CULT 7004Global Digital Futures10
+COMP 7028Hands-on Quantum Computing10
+COMM 7013Ideate, Develop: Makerspace 110
+COMP 7008Internet of Things10
+COMP 7009Mobile Computing10
+COMM 7009Mobile Media10
+COMP 7011Multimedia Communication Systems10
+COMP 7024Programming for Data Science10
+COMM 7011Researching Convergent Media10
+COMP 7025Social Media Intelligence10
+INFS 7006Software Testing and Automation10
+INFS 7008Systems and Network Security10
+MATH 7016The Nature of Data10
+INFS 7009Web Technologies10
+INFO 7013Web Engineering10
+COMP 7017Wireless Networking10
+
+courselist table11:
+INFO 7002Advanced Topics in Artificial Intelligence10
+INFO 7015Applied Cybersecurity10
+COMP 7019Applied Machine Learning10
+COMP 7020Artificial Intelligence Ethics and Organisations10
+COMP 7003Big Data10
+COMP 7007Information Security Management10
+COMP 7021Knowledge Representation and Reasoning10
+COMP 7022Natural Language Processing10
+COMP 7013Network Technologies10
+INFO 7016Postgraduate Project A10
+INFO 7017Postgraduate Project B10
+COMP 7016Visualisation10
+
+courselist table12:
+INFO 7004ICT Practicum0
+
+courselist table13:
+INFO 7004ICT Practicum0
+
+courselist table14:
+INFO 7004ICT Practicum0
+
+courselist table15:
+INFO 7014Advanced Topics in Cybersecurity10
+COMP 7002Advanced Topics in Networking10
+INFO 7003Advanced Topics in User System Interaction10
+COMP 7004Cloud Computing10
+INFO 7018Cloud Systems Development10
+HUMN 7012Cyber Justice (PG)10
+COMP 7006Data Science10
+COMM 7003Foundations of Media Arts Production (PG)10
+CULT 7004Global Digital Futures10
+COMP 7028Hands-on Quantum Computing10
+COMM 7013Ideate, Develop: Makerspace 110
+COMP 7008Internet of Things10
+COMP 7009Mobile Computing10
+COMM 7009Mobile Media10
+COMP 7011Multimedia Communication Systems10
+COMP 7024Programming for Data Science10
+COMM 7011Researching Convergent Media10
+COMP 7025Social Media Intelligence10
+INFS 7006Software Testing and Automation10
+INFS 7008Systems and Network Security10
+MATH 7016The Nature of Data10
+INFS 7009Web Technologies10
+INFO 7013Web Engineering10
+COMP 7017Wireless Networking10

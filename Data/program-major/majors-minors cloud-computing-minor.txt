@@ -1,0 +1,58 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Cloud Computing, Minor (0128)
+- Western Sydney University Minor Code:
+- Previous Code: SM3101.1
+- The cloud computing minor provides students with the basic knowledge for analysis, design, and implementation of cloud and networked systems. It offers students the opportunity to develop the technical skills needed for management and secure operation of cloud computing solutions.
+- Location
+- Minor Structure Current
+- Students must complete 40 credit points as follows.
+- Bachelor of Computer Science
+- BICT, BICT (Adv), BIS and BIS (Adv)
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2023 or earlier.
+- INFO 3001 Computer Security
+- Minor Structure 2022
+- Students must complete 40 credit points as follows.
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- CDMS@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+COMP 3003Cloud Computing Architecture10
+COMP 3012Introduction to Cloud Computing10
+Select two of the following20
+INFO 3001Computer Security
+From Autumn 2024 INFO 3001 is replaced by COMP 2027
+COMP 2027Cyber Security10
+COMP 3009Distributed Systems and Programming
+INFO 3002Ethical Hacking Principles and Practice
+INFO 3007Network Security
+Total Credit Points50
+
+courselist table2:
+COMP 3012Introduction to Cloud Computing10
+COMP 3037Cloud Security10
+COMP 3003Cloud Computing Architecture10
+Select one of the following:10
+INFO 3007Network Security
+COMP 3009Distributed Systems and Programming
+Total Credit Points40
+
+courselist table3:
+COMP 3003Cloud Computing Architecture10
+COMP 3012Introduction to Cloud Computing10
+Select two subjects from the following:20
+INFO 3001Computer Security
+From Autumn 2024 INFO 3001 is replaced by COMP 2027
+COMP 3009Distributed Systems and Programming
+INFO 3002Ethical Hacking Principles and Practice
+INFO 3007Network Security
+Total Credit Points40

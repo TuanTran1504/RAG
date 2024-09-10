@@ -1,0 +1,27 @@
+Academic Handbook Current Edition ENGR 5001 Fire Engineering 1 (Fire Dynamics) Credit Points 10 Coordinator Sameera Wijesiri Pathirana Opens in new window Description This subject is essential for anyone considering a career in Fire Safety and aims to develop detailed knowledge of fire behaviour and dynamics in the built environment. Students will better understand fuels and combustion processes, the chemistry of combustion, flammability limits, ignition characteristics and different types of flames and fire plumes. The subject also introduces students to the basic principles of fire safety design so that they can appreciate fire safety and develop appropriate fire safety engineering solutions. School Eng, Design & Built Env Discipline Fire Technology Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Postgraduate Coursework Level 5 subject Equivalent Subjects ENGR7006 Fire Engineering 1 (Fire Dynamics) Restrictions Only students enrolled in a postgraduate program can enrol in this subject. Assumed Knowledge Basic physics, chemistry and mathematics Learning Outcomes After successful completion of this Subject, students will be able to: Apply mathematical calculations to estimate fire dynamics including heat transfer, burning of gases, liquids and solids, initiation and propagation, products of combustion and retardants.
+Describe the principles used in fire engineering design and assessment and the functions of various fire safety subsystems according to the Australian Fire Engineering Guidelines.
+Explain the dynamics and behaviour of fire plumes, suppression systems, smoke and heat control, detection, warning and how these parameters and how these parameters are used in the development of a fire safety engineering solution.
+Apply mathematical principles to calculate fire loads, fire growth, ventilation factor.
+Analyse a range of fire scenarios to develop fire safety engineering solutions. Subject Content - Fuels and the combustion process
+- Chemistry of combustion in fire
+- Flammability limits
+- Premixed flames
+- Diffusion flames
+- Flames from natural fires
+- Fire plumes
+- Burning of gases and vapours
+- Burning of liquids
+- Burning of solids
+- Smouldering combustion
+- Flaming combustion
+- Self-induced ignition
+- Piloted and non-piloted ignition
+- Propagation of smouldering and flaming combustion
+- Growth to flashover
+- Flashover
+- Post-flashover fires
+- Fire resistance
+- Spread of fire from a compartment
+- Production and measurement of heat, smoke and toxic gases
+- Methods for assessment of fire behaviour
+- Australian Fire Engineering Guidelines and fire safety sub-systems Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Quiz 2 hours 30 N Individual N  Numerical Problem Solving 2000 words (equivalent) 30 N Individual N  Numerical Problem Solving 2000 words (equivalent) 40 N Individual N Teaching Periods Autumn (2024) Online Online Subject Contact Sameera Wijesiri Pathirana Opens in new window View timetable Opens in new window Structures that include subject Graduate Certificate in Fire Safety Engineering (3792) Graduate Diploma in Building Surveying (3789) Graduate Diploma in Fire Safety Engineering (3791) Master of Building Surveying (3703) Master of Fire Safety Engineering (3705) Other Engr. and Related Tech (ENGR)

@@ -1,0 +1,65 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Japanese, Major (0021)
+- Western Sydney University Major Code:
+- Previous Code: M1062.1
+Status: CURRENT
+- Language majors aim to enable students to develop an appropriate level of proficiency in a second language which may be used for professional purposes such as teaching, interpreting and translation, business or international relations. Students undertaking a language major will be able to use the language in question according to its grammatical and pragmatic principles, communicate with native speakers appropriately in the spoken as well as the written mode, and demonstrate an understanding of the cultures and societies associated with the language.
+- Location
+- Inherent Requirements
+- There are inherent requirements for this major that you must meet in order to complete the major and graduate. Make sure you read and understand the requirements for this major online.
+- Inherent Requirements
+- Major Structure
+- There are three entry levels into language majors. Beginner’s level is for those with no previous study or minimal study of the language. Intermediate level is typically for students who: are non-native speakers with study of the language to HSC 2 Unit level or have a home background in the language but no comprehensive formal study. Post-Intermediate level is typically for students who are non-native speakers with substantial formal study and near-native competence; or are literate native speakers of the language. Students should consult with the Languages staff regarding the progression sequence that best fits their level of skill. During the first two weeks of class, the lecturer will monitor the performance of students and advise students who need to transfer to a higher or lower class. Students may consult with the Languages Course Advisor, if they are unsure of their entry level. Students should avoid enrolling in subjects at different levels at the one time (e.g. you should not enrol in LANG 2024 Japanese 201  and LANG 3051 Japanese 301  at the same time). Please check the current timetable as some subjects may not be offered every year. Advanced (Level 3) subjects may be offered on a rotational basis.
+- A major in Japanese comprises a sequence of 80 credit points with 60 credit points at Levels 2 and 3 (with no less than 30 credit points of these at Level 3), however students commencing at beginners level, that is subjects LANG 1020 Japanese 101  and LANG 1021 Japanese 102, and who follow the recommended program structure, are only required to complete 20 credit points at Level 3.
+- Students should take subjects that reflect their level of competence in the language and they should not backtrack, i.e. they must not:
+- Level 1 Subjects
+- Level 2 Subjects
+- Level 3 Subjects
+- Advanced entry level Japanese students may complete the following Level 1 pool subjects. The subjects will be recognised as Level 3 pool subjects for the purpose of specialisation completion.
+- The subjects listed below count towards completion of the major for students who passed subjects in the list below in 2020 or earlier.
+- LANG 3008 - Applied Critical Methods, no longer offered
+LANG 3046 - Intercultural Pragmatics, replaced by LANG 3045 Intercultural Communication
+LANG 2027 - Japanese 204, replaced by LANG 2054 Japanese 204: Speaking and Listening
+LANG 3089 World Literature in Translation
+- LANG 3045 Intercultural Communication
+- LANG 2054 Japanese 204: Speaking and Listening
+- LANG 3089 World Literature in Translation
+- Related Programs
+
+Location Table:
+- Bankstown City Campus
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+- Parramatta Campus - Victoria Road
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+LANG 1020Japanese 10110
+LANG 1021Japanese 10210
+
+courselist table2:
+LANG 2024Japanese 20110
+LANG 2025Japanese 202 Speaking and Listening10
+LANG 2026Japanese 20310
+LANG 2054Japanese 204: Speaking and Listening10
+
+courselist table3:
+LANG 3051Japanese 30110
+LANG 3052Japanese 30210
+LANG 3053Japanese 303: Contemporary Culture and Society10
+LANG 3054Japanese 304: Discourse in Japanese10
+LANG 3055Japanese 305: Advanced Reading and Writing10
+LANG 3056Japanese 306: Japanese Popular Culture10
+LANG 3045Intercultural Communication10
+LANG 3082Special Study in Languages and Linguistics10
+
+courselist table4:
+LANG 1013Introduction to Interpreting10
+LANG 1017Introduction to Translation10

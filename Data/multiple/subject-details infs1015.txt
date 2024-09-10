@@ -1,0 +1,21 @@
+Academic Handbook Current Edition INFS 1015 Systems Analysis and Design (Advanced) Credit Points 10 Coordinator Simi Kamini Bajaj Opens in new window Description Computing graduates must be able to analyse business requirements and propose a design solution to those requirements. This subject equips students with these skills by further developing previously acquired concepts on systems analysis and design. Students are introduced to novel approaches in system development including Structured, Object oriented and Agile. The Systems Development Life Cycle model is employed as the prime approach equipping students with the basic skills required for developing models for analysis, design and implementation approaches to solving information systems problems. Students will engage in authentic real-world projects to understand requirements, analyse, design and develop models and artefacts using several systems development methodologies. School Computer, Data & Math Sciences Discipline Systems Analysis and Design Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 1 subject Assumed Knowledge Students should have knowledge of the fundamentals of information systems, computer systems, computer applications and information processing. Learning Outcomes Explain systems analysis, systems design and information systems demonstrating knowledge of governance, ethics, security in regard to their impact on information systems design and operation
+Apply appropriate analysis and system design techniques for information systems development
+Analyse appropriate system development approaches and methodologies
+Communicate system requirements, solutions, and designs, in a variety of formats for diverse stakeholders
+Collaborate in cross cultural teams and projects in an ethical, responsible, and respectful manner to meet business needs
+ Design user interfaces, abstract models, architecture and artefacts for design using suitable tools
+Create system security, evaluation, and implementation plan for an information system project Subject Content - Introduction to systems and information.
+- Concepts of systems analysis and design.
+- The Systems Development Lifecycle (SDLC).
+- System Development methodologies
+- Project management.
+- Documenting Problem definition, statement, and documentation.
+- Introduction to requirements gathering and analysis using several approaches such as structured, object oriented and agile
+- Requirements models
+- System Design solutions
+- Human computer interaction
+- Data Design
+- Software and system architecture
+- Implementation issues.
+- Information systems governance, consumer and information security and professional ethics
+- Systems Development Documentation. Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Portfolio Written submissions & workshop demonstrations delivered progressively through the semester. 30 N Individual Y  Quiz Written submissions & workshop demonstrations delivered progressively through the semester. 10 N Individual Y  Applied Project 1500 words 20 N Individual Y  Final Exam 2 hours 40 N Individual Y Prescribed Texts Tilley, S. R. (2020). Systems analysis and design (12th ed.). Cengage Learning. Teaching Periods Autumn (2024) Campbelltown On-site Subject Contact Simi Kamini Bajaj Opens in new window View timetable Opens in new window Penrith (Kingswood) On-site Subject Contact Simi Kamini Bajaj Opens in new window View timetable Opens in new window Parramatta - Victoria Rd On-site Subject Contact Simi Kamini Bajaj Opens in new window View timetable Opens in new window Structures that include subject Bachelor of Information Systems Advanced (3688) Bachelor of Information Systems Advanced/Bachelor of Business (3745) Bachelor of Information Systems Advanced/Bachelor of Laws (2801) Bachelor of Information Systems Advanced/Bachelor of Laws (Honours) (2842) Bachelor of Information and Communications Technology (Advanced) (3684) Computer Science (COMP) Information Systems (INFS) Other information Technology (INFO)

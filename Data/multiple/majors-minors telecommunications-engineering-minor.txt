@@ -1,0 +1,27 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Telecommunications Engineering, Minor (0338)
+- Western Sydney University Minor Code:
+- Telecommunications Engineering covers a wide range of engineering disciplines such as electrical, electronic, design, wireless communications, optical, power and signal processing. This Minor has been initiated to give graduates extra skill sets to complement fundamental skills that they have acquired through their major studies. Students will be introduced to programming, advanced wireless communications techniques, and communications at an advanced level through mini research projects and practical assignments to familiarise themselves with real life scenarios. The Telecommunications Engineering Minor gives certain skills sets that have been in demand from the industry and thus will strengthen graduate competitiveness in the workforce.
+- Minor Structure
+- Qualification for this minor requires the successful completion of 40 credit points including the subjects listed below.
+- Related Programs
+
+Location Table:
+- Penrith Campus
+- Internal
+- 
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+ELEC 4004Radio and Satellite Communication10
+ELEC 4007Wireless Communications10
+COMP 2004Computer Networking10
+Select one of the following:10
+COMP 3007Computer Networks and Internets
+COMP 3025Wireless and Mobile Networks
+Total Credit Points40

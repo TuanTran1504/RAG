@@ -1,0 +1,27 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Entertainment Computing, Minor (0145)
+- Western Sydney University Minor Code:
+- Previous Code: SM3052.1
+- This minor will deal with a broad focus on the technical and theoretical knowledge of design and development of software applications in the field of Entertainment Computing.
+- Location
+- Minor Structure
+- Students must complete 40 credit points as follows.
+- Related Programs
+
+Location Table:
+- Penrith Campus
+- Internal
+- CDMS@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+COMP 3006Computer Graphics10
+COMP 2011Games Technology10
+COMP 1005Programming Fundamentals10
+COMP 3024Video Games Development10
+Total Credit Points40

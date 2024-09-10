@@ -1,0 +1,35 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Law Enforcement Studies, Minor (0308)
+- Effective from:
+- Western Sydney University Minor Code:
+- The Law Enforcement Studies minor offers students an opportunity to distinguish themselves through a specialisation in Policing. The minor equips students with advanced knowledge of modern policing practice and theory. Graduates will develop analytical and problem-solving skills, as well as client-focused approaches to serving diverse communities. The knowledge and skills offered by the minor enhance employability in the law enforcement sector.
+- Location
+- Work Integrated Learning
+- The minor incorporates Work Integrated learning (WIL) through a number of subjects within its structure.
+- Minor Structure
+- Students must successfully complete 40 credit points as follows.
+- Related Programs
+- No results found.
+
+Location Table:
+- Liverpool
+- Internal
+- Ken Wooden
+- Penrith
+- Internal
+- Ken Wooden
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+JUST 3014Creating Criminal Justice Solutions10
+Select three from the following:30
+JUST 1003Policing  Practices
+CULT 3017Legislation, Courts and Policing
+JUST 2020Criminal Law for Policing
+CULT 2016Evidence and Investigation
+JUST 3006Governance in Policing

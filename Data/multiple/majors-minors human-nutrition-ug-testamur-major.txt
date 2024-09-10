@@ -1,0 +1,687 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Human Nutrition, Testamur Major (T125)
+- Western Sydney University Major Code:
+- Previous code:  MT3044.1
+- This testamur major is available as an elective major for Bachelor of Science students only.
+- A Human Nutrition Major in Medical Science uses biology, chemistry and physiology to develop concepts in food and nutrient form and function in relation to human metabolism and physiology. This major takes students through the ingestion, digestion, absorption, storage and utilisation of proteins, fats, vitamins, minerals and trace elements.  Students learn how these nutrients can be managed with respect to appetite, exercise, health and disease as well as develop a wide range of laboratory and research skills. Students will also develop critical analytical skills to assess and implement recommendations for testing, monitoring and community education.
+- All students must complete 60 credit points of study at Level 3 to meet program requirements.
+- NOTE: Students up to end of 2023 - Students will need to select at least 10 credit points of elective study at Level 3 to meet this requirement.
+- Location
+- Recommended Sequence Current
+- All students must complete 60 credit points of study at Level 3 to meet course requirements. Students will need to select at least 10 credit points of elective study at Level 3 to meet this requirement.
+- Select the link for your program below to see details of the major
+- Bachelor of Medical Science
+- Qualification for the award of Bachelor of Medical Science with a major in Human Nutrition requires the successful completion of 240 credit points as per the recommended sequence below.
+- Bachelor of Advanced Medical Science
+- Qualification for the award of Bachelor of Advanced Medical Science with a major in Human Nutrition requires the successful completion of 240 credit points as per the recommended sequence below.
+- Diploma in Science/Bachelor of Medical Science
+- Qualification for the award of Diploma in Science/Bachelor of Medical Science with a major in Human Nutrition requires the successful completion of 250 credit points as per the recommended sequence below.
+- Recommended Sequence 2023
+- All students must complete 60 credit points of study at Level 3 to meet course requirements. Students will need to select at least 10 credit points of elective study at Level 3 to meet this requirement.
+- Select the link for your program below to see details of the major
+- Bachelor of Medical Science
+- Qualification for the award of Bachelor of Medical Science with a major in Human Nutrition requires the successful completion of 240 credit points as per the recommended sequence below.
+- Bachelor of Advanced Medical Science
+- Qualification for the award of Bachelor of Advanced Medical Science with a major in Human Nutrition requires the successful completion of 240 credit points as per the recommended sequence below.
+- Diploma in Science/Bachelor of Medical Science
+- Qualification for the award of Diploma in Science/Bachelor of Medical Science with a major in Human Nutrition requires the successful completion of 250 credit points as per the recommended sequence below.
+- Related Programs
+
+Location Table:
+- Campbelltown Campus
+- Internal
+- science@westernsydney.edu.au
+- Hawkesbury Campus
+- Internal
+- science@westernsydney.edu.au
+- Parramatta Campus - Victoria Road
+- Internal
+- science@westernsydney.edu.au
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+NATS 1019
+Scientific Literacy
+10
+CHEM 1008
+Introductory Chemistry
+10
+NATS 1009
+Human Anatomy and Physiology 1
+10
+Choose one of
+10
+MATH 1014
+Mathematics 1A
+
+MATH 1026
+Quantitative Thinking
+
+MATH 1003
+Biometry
+
+
+Credit Points
+40
+Spring session
+BIOS 1012
+Cell Biology
+10
+CHEM 1012
+Essential Chemistry
+10
+PROC 1005
+Introduction to Food Science
+10
+NATS 1010
+Human Anatomy and Physiology 2
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+BIOS 2042
+Biochemistry
+10
+PROC 2002
+Innovative Foods
+10
+Choose two electives
+20
+
+Credit Points
+40
+Spring session
+BIOS 3038
+Metabolism
+10
+Choose one of
+10
+NATS 3044
+Complex Case Studies in Science
+
+NATS 3045
+Work Internship for Science Professionals
+
+Choose two electives
+20
+
+Credit Points
+40
+Year 3
+1H session
+NATS 3055
+Practicum 1
+10
+
+Credit Points
+10
+Autumn session
+HLTH 3020
+Global Nutrition and Food
+10
+Choose two electives
+20
+
+Credit Points
+30
+Spring session
+HLTH 3001
+Applied Nutrition
+10
+HLTH 3019
+Nutrition, Health and Disease
+10
+Choose two electives
+20
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Autumn session
+Credit Points
+NATS 1019
+Scientific Literacy
+10
+CHEM 1008
+Introductory Chemistry
+10
+NATS 1009
+Human Anatomy and Physiology 1
+10
+Choose one of
+10
+MATH 1014
+Mathematics 1A
+
+MATH 1026
+Quantitative Thinking
+
+MATH 1003
+Biometry
+
+
+Credit Points
+40
+Spring session
+BIOS 1012
+Cell Biology
+10
+CHEM 1012
+Essential Chemistry
+10
+PROC 1005
+Introduction to Food Science
+10
+NATS 1010
+Human Anatomy and Physiology 2
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+BIOS 2042
+Biochemistry
+10
+PROC 2002
+Innovative Foods
+10
+NATS 2001
+Advanced Science Project A
+10
+Choose one elective
+10
+
+Credit Points
+40
+Spring session
+BIOS 3038
+Metabolism
+10
+NATS 2002
+Advanced Science Project B
+10
+Choose one of
+10
+NATS 3044
+Complex Case Studies in Science
+10
+NATS 3045
+Work Internship for Science Professionals
+10
+Choose one elective
+10
+
+Credit Points
+60
+Year 3
+1H session
+NATS 3055
+Practicum 1
+10
+
+Credit Points
+10
+Autumn session
+HLTH 3020
+Global Nutrition and Food
+10
+NATS 3043
+Advanced Science Research Project C
+10
+Choose one elective
+10
+
+Credit Points
+30
+Spring session
+HLTH 3001
+Applied Nutrition
+10
+HLTH 3019
+Nutrition, Health and Disease
+10
+NATS 3043
+Advanced Science Research Project C
+10
+Choose one elective
+10
+
+Credit Points
+40
+
+Total Credit Points
+260
+Year 1
+Credit Points
+Year 1: College subjects
+
+Standard 3-term year
+
+Preparatory subject
+
+CHEM 0001
+Chemistry (WSTC Prep)
+10
+Eight university-level subjects
+
+BIOS 1014
+Cell Biology (WSTC)
+10
+CHEM 1013
+Essential Chemistry (WSTC)
+10
+NATS 1020
+Scientific Literacy (WSTC)
+10
+CHEM 1009
+Introductory Chemistry (WSTC)
+10
+NATS 1029
+Human Anatomy and Physiology 1 (WSTC)
+10
+NATS 1030
+Human Anatomy and Physiology 2  (WSTC)
+10
+PROC 1007
+Introduction to Food Science (WSTC)
+10
+Choose one of
+10
+MATH 1027
+Quantitative Thinking (WSTC)
+
+MATH 1004
+Biometry (WSTC)
+
+
+Credit Points
+90
+Year 2
+Autumn session
+BIOS 2042
+Biochemistry
+10
+PROC 2002
+Innovative Foods
+10
+Choose two electives
+20
+
+Credit Points
+40
+Spring session
+BIOS 3038
+Metabolism
+10
+Choose one of
+10
+NATS 3044
+Complex Case Studies in Science
+
+NATS 3045
+Work Internship for Science Professionals
+
+Choose two electives
+20
+
+Credit Points
+40
+Year 3
+1H session
+NATS 3055
+Practicum 1
+10
+
+Credit Points
+10
+Autumn session
+HLTH 3020
+Global Nutrition and Food
+10
+Choose two electives
+20
+
+Credit Points
+30
+Spring session
+HLTH 3001
+Applied Nutrition
+10
+HLTH 3019
+Nutrition, Health and Disease
+10
+Choose two electives
+20
+
+Credit Points
+40
+
+Total Credit Points
+250
+Year 1
+Autumn session
+Credit Points
+NATS 1019
+Scientific Literacy
+10
+CHEM 1008
+Introductory Chemistry
+10
+NATS 1009
+Human Anatomy and Physiology 1
+10
+Choose one of
+10
+MATH 1014
+Mathematics 1A
+
+MATH 1026
+Quantitative Thinking
+
+MATH 1003
+Biometry
+
+
+Credit Points
+40
+Spring session
+BIOS 1012
+Cell Biology
+10
+CHEM 1012
+Essential Chemistry
+10
+PROC 1005
+Introduction to Food Science
+10
+NATS 1010
+Human Anatomy and Physiology 2
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+BIOS 2042
+Biochemistry
+10
+PROC 2002
+Innovative Foods
+10
+Choose two electives
+20
+
+Credit Points
+40
+Spring session
+BIOS 2021
+Metabolism
+10
+Choose one of
+10
+NATS 3044
+Complex Case Studies in Science
+
+NATS 3045
+Work Internship for Science Professionals
+
+Choose two electives
+20
+
+Credit Points
+40
+Year 3
+Autumn session
+NATS 3040
+Topics in Medical Science
+10
+HLTH 3020
+Global Nutrition and Food
+10
+Choose two electives
+20
+
+Credit Points
+40
+Spring session
+HLTH 3001
+Applied Nutrition
+10
+HLTH 3019
+Nutrition, Health and Disease
+10
+Choose two electives
+20
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Autumn session
+Credit Points
+NATS 1019
+Scientific Literacy
+10
+CHEM 1008
+Introductory Chemistry
+10
+NATS 1009
+Human Anatomy and Physiology 1
+10
+Choose one of
+10
+MATH 1014
+Mathematics 1A
+
+MATH 1026
+Quantitative Thinking
+
+MATH 1003
+Biometry
+
+
+Credit Points
+40
+Spring session
+BIOS 1012
+Cell Biology
+10
+CHEM 1012
+Essential Chemistry
+10
+PROC 1005
+Introduction to Food Science
+10
+NATS 1010
+Human Anatomy and Physiology 2
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+BIOS 2042
+Biochemistry
+10
+PROC 2002
+Innovative Foods
+10
+NATS 2001
+Advanced Science Project A
+10
+Choose one elective
+10
+
+Credit Points
+40
+Spring session
+BIOS 2021
+Metabolism
+10
+NATS 2002
+Advanced Science Project B
+10
+Choose one of
+10
+NATS 3044
+Complex Case Studies in Science
+10
+NATS 3045
+Work Internship for Science Professionals
+10
+Choose one elective
+10
+
+Credit Points
+60
+Year 3
+Autumn session
+NATS 3040
+Topics in Medical Science
+10
+HLTH 3020
+Global Nutrition and Food
+10
+NATS 3043
+Advanced Science Research Project C
+10
+Choose one elective
+10
+
+Credit Points
+40
+Spring session
+HLTH 3001
+Applied Nutrition
+10
+HLTH 3019
+Nutrition, Health and Disease
+10
+NATS 3043
+Advanced Science Research Project C
+10
+Choose one elective
+10
+
+Credit Points
+40
+
+Total Credit Points
+260
+Year 1
+Credit Points
+Year 1: College subjects
+
+Standard 3-term year
+
+Preparatory subject
+
+CHEM 0001
+Chemistry (WSTC Prep)
+10
+Eight university-level subjects
+
+BIOS 1014
+Cell Biology (WSTC)
+10
+CHEM 1013
+Essential Chemistry (WSTC)
+10
+NATS 1020
+Scientific Literacy (WSTC)
+10
+CHEM 1009
+Introductory Chemistry (WSTC)
+10
+NATS 1029
+Human Anatomy and Physiology 1 (WSTC)
+10
+NATS 1030
+Human Anatomy and Physiology 2  (WSTC)
+10
+PROC 1007
+Introduction to Food Science (WSTC)
+10
+Choose one of
+10
+MATH 1027
+Quantitative Thinking (WSTC)
+
+MATH 1004
+Biometry (WSTC)
+
+
+Credit Points
+90
+Year 2
+Autumn session
+BIOS 2042
+Biochemistry
+10
+PROC 2002
+Innovative Foods
+10
+Choose two electives
+20
+
+Credit Points
+40
+Spring session
+BIOS 2021
+Metabolism
+10
+Choose one of
+10
+NATS 3044
+Complex Case Studies in Science
+10
+NATS 3045
+Work Internship for Science Professionals
+10
+Choose two electives
+20
+
+Credit Points
+60
+Year 3
+Autumn session
+NATS 3040
+Topics in Medical Science
+10
+HLTH 3020
+Global Nutrition and Food
+10
+Choose two electives
+20
+
+Credit Points
+40
+Spring session
+HLTH 3001
+Applied Nutrition
+10
+HLTH 3019
+Nutrition, Health and Disease
+10
+Choose two electives
+20
+
+Credit Points
+40
+
+Total Credit Points
+270
+
+Courselist Tables:

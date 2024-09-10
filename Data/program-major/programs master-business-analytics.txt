@@ -1,0 +1,115 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Master of Business Analytics (2816)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 098262A
+- This program applies to students who commenced in Quarter 4 2018 or later.
+- The ever increasing amount of data in the business world today requires that businesses make sense of the flow of information if they are to hold a competitive edge in the market. The Master of Business Analytics offers a program of study on how to manage effectively in a data driven world.
+- The program focuses on business analytics rather than just data analytics. It has a strong applications focus covering the nature of data including Big and Unstructured Data and how to embark on data driven investigations and visual and computational analytics.
+- Application of the analytic tools and frameworks in order to examine strategic business and market options and to realise their profit potential are explored in general and then specifically where students have the choice to focus their learning by choosing one of three specialisations; Operations Management, Finance and Marketing.
+- Study Mode
+- Program Advice
+- Dr Hilal Hurriyet
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Accreditation
+- This program is accredited by the Association to Advance Collegiate Schools of Business (AACSB).
+- Admission
+- 1. Master of Business Analytics - 2 year Pathway (160 credit points)
+- Applicants must have successfully completed an undergraduate degree, or higher, in any discipline.
+- 2. Master of Business Analytics - 1.5 year Pathway (120 credit points)
+- Applicants must have successfully completed an undergraduate degree, or higher, in a business discipline;
+- Or
+- Successfully completed an undergraduate degree, or higher, in any discipline and a minimum of two years full-time equivalent managerial/professional work experience in roles related to business information management;
+- Or
+- Successfully completed an undergraduate degree, or higher, in any discipline and a minimum of five years full-time equivalent general work experience.
+- Applicants seeking admission on the basis of work experience must support their application with a Statement of Service for all work experience listed on the application.
+- 3. Master of Business Analytics - 1 year Pathway (80 credit points)
+- Applicants must have successfully completed a graduate certificate, graduate diploma or higher, in a business discipline or a discipline with mathematical or numerate focus;
+- Or
+- Successfully completed an undergraduate degree in business analytics, information management/systems or related in a business degree with a GPA of 5.0 or WAM (Weighted Average Mark) of 65+ (if provided on the academic record);
+- Or
+- Successfully completed an undergraduate degree in any business disciplines and a minimum of two years full-time equivalent managerial/professional work experience in roles related to business information management;
+- Applicants seeking admission on the basis of work experience must support their application with a Statement of Service for all work experience listed on the application.
+- Statement of Service form
+- Work experience will require validation by the relevant employer and cannot be used both as a means of admission and as the basis of an application for advanced standing. Work experience will be evaluated to assess whether prospective students have demonstrated a verifiable capability in management such that they are enabled to undertake the discipline-specific learning contained in this Masters-level program. This criterion is impacted directly by the requirements of a curriculum that addresses AQF Level 9 knowledge and skill outcomes including a stipulation that graduates have cognitive skills to demonstrate mastery of theoretical knowledge in business information management and to reflect critically on theory and professional practice or scholarship.
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Program Structure
+- Master of Business Analytics - 1 year pathway
+- Qualification for this award requires the successful completion of 80 credit points which includes the subjects listed below.
+- Master of Business Analytics - 1.5 year pathway
+- Qualification for this award requires the successful completion of 120 credit points which includes the subjects listed below.
+- Master of Business Analytics - 2 year pathway
+- Qualification for this award requires the successful completion of 160 credit points which includes the subjects listed below.
+- Equivalent Subjects
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 7012 Programming for Data Science, replaced by COMP 7024 Programming for Data Science 
+MATH 7014 Social Media Intelligence, replaced by COMP 7025 Social Media Intelligence
+- COMP 7024 Programming for Data Science
+- COMP 7025 Social Media Intelligence
+
+Location Table:
+- Parramatta City Campus-Macquarie Street
+- Full Time
+- Internal
+- See above
+- Parramatta City Campus-Macquarie Street
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+BUSM 7105Business Analytics in Practice10
+COMP 7006Data Science10
+BUSM 7051Integrated Business Experience 210
+COMP 7024Programming for Data Science10
+COMP 7025Social Media Intelligence10
+MATH 7016The Nature of Data10
+COMP 7016Visualisation10
+Select one of the following:10
+BUSM 7008Business Internship
+BUSM 7070Masters Project
+Total Credit Points80
+
+courselist table2:
+BUSM 7105Business Analytics in Practice10
+COMP 7006Data Science10
+BUSM 7051Integrated Business Experience 210
+COMP 7024Programming for Data Science10
+COMP 7025Social Media Intelligence10
+BUSM 7086Strategic Business Management10
+MATH 7016The Nature of Data10
+COMP 7016Visualisation10
+Select one of the following:20
+BUSM 7012Business Project
+BUSM 7055Internship
+Select two electives20
+Total Credit Points120
+
+courselist table3:
+BUSM 7105Business Analytics in Practice10
+COMP 7006Data Science10
+BUSM 7051Integrated Business Experience 210
+COMP 7024Programming for Data Science10
+COMP 7025Social Media Intelligence10
+BUSM 7086Strategic Business Management10
+MATH 7016The Nature of Data10
+COMP 7016Visualisation10
+Select one of the following:20
+BUSM 7012Business Project
+BUSM 7055Internship
+Choose and complete all units from one major listed below60
+Total Credit Points160

@@ -1,0 +1,21 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Industrial Manufacturing, Minor (0085)
+- Western Sydney University Minor Code:
+- Previous Code: SM3108
+- Students must complete 40 credit points as follows
+- Related Programs
+
+Location Table:
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+ENGR 2025Design Graphics: Engineering Documentation10
+ENGR 2024Design Graphics: Communication for Manufacture10
+ENGR 4017Design Thinking for Competitive Advantage10
+ENGR 2028New Product Innovation with IoT Data10
+Total Credit Points40

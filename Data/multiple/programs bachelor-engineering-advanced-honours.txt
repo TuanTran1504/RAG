@@ -1,0 +1,95 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Bachelor of Engineering Advanced (Honours) (3771)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 063560B
+- This program applies to students who commenced in 2022 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- For Commencement Year 2017, please refer to: 3690.4 Bachelor of Engineering Advanced (Honours)
+- Handbook summary 2023 and earlier
+- The Bachelor of Engineering Advanced (Honours) is a four year honours degree program. The program has been designed to meet Engineers Australia professional accreditation requirements. Students have the opportunity to focus on a discipline area by selecting a Major in Advanced Manufacturing, Civil, Construction, Electrical, Materials, Mechanical, Robotic & Mechatronic, and Sustainability engineering. The majors of Electrical, Mechanical, and Robotics & Mechatronics engineering are offered within the WSU-UNSW Collaborative Program (see below). In addition, students can specialise by selecting a Minor from a wide range of recommended subject sets that will complement their chosen discipline. Students in this program will need to maintain a minimum GPA of 5.0 at the end of completion of 160 credit points, and again at the completion of 200 credit points; those not meeting this academic performance requirement will be transferred to Bachelor of Engineering (Honours).
+- WSU-UNSW Collaborative Program
+- The WSU-UNSW Collaborative Program is exclusive to the Bachelor of Engineering Advanced (Honours) degree and offers three majors; Electrical, Mechanical and Robotics & Mechatronics engineering. UNSW academics deliver 5 subjects into this Program, with each major including 3 UNSW delivered subjects. Students who achieve a GPA of 5.7 or above at the completion of 2 years (160 cp) of study will be eligible to transfer to UNSW to complete the remainder of their studies and graduate with a UNSW Bachelor of Engineering (Honours) degree (subject to meeting the threshold requirements for student transfer). Students not transferring to UNSW will continue their studies at WSU in the Bachelor of Engineering Advanced (Honours) degree of their selected major.
+- Handbook summary from 2024
+- The Bachelor of Engineering Advanced (Honours) is a four-year honours degree program. The program has been designed to meet Engineers Australia professional accreditation requirements. Students have the opportunity to focus on a discipline area by selecting a Major in Advanced Manufacturing, Civil, Construction, Electrical, Materials, Mechanical, Robotic & Mechatronic, or Sustainability engineering. In addition, students can specialise by selecting a Minor from a wide range of recommended subject sets that will complement their chosen discipline. Students in this program will need to maintain a minimum GPA of 5.0 at the end of completion of 160 credit points, and again at the completion of 200 credit points; those not meeting this academic performance requirement will be transferred to Bachelor of Engineering (Honours).
+- This program is taught at the Parramatta City - Hassall Street campus.
+- Early Exit
+- Students may exit this program on completion of 240 credit points with a 3691 Bachelor of Engineering Science
+- Study Mode
+- Four years full-time or eight years part-time.
+- Program Advice
+- edbe@westernsydney.edu.au
+- Location
+- Accreditation
+- The Majors of Advanced Manufacturing, Materials and Sustainability are currently under provisional accreditations from Engineers Australia (EA). The Majors of Civil, Construction, Electrical, Mechanical and Robotics and Mechatronics are under full accreditations from Engineers Australia (EA).
+- The Major of Software Engineering will seek provisional accreditation from the Australian Computer Society (ACS) in 2021. Full accreditation will be sought after the first cohort graduates in 2025.
+- Inherent Requirements
+- There are inherent requirements for this program that you must meet in order to complete your program and graduate. Make sure you read and understand the requirements for this program online.
+- Inherent Requirements
+- Work Integrated Learning
+- There is a mandatory work component required for completion of this program.  Please contact the Program Advisor listed above for information.
+- International students should also refer to the link below for more information and a link to the Commonwealth Register of Institutions and Courses for Overseas Students (CRICOS).
+- Work Integrated Learning (WIL) for international students
+- Admission
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- International students currently completing an Australian Year 12 in or outside Australia, an International Baccalaureate in Australia or a New Zealand National Certificate of Educational Achievement (NCEA) level 3 must apply via UAC International.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Program Structure Current
+- This structure applies to students who commenced in 2024 or later. If you commenced prior to 2024 please refer to the relevant Structure tab for details.
+- Qualification for this award requires the successful completion of 320 credit points which include the subjects listed below.
+- Parts of these units may be taught at the Parramatta City - Hassall St campus or at the Parramatta South campus.
+- Year 1 Subject List
+- Year 2 - Year 4
+- Students must then select one of the following majors.
+- All majors will be offered in the Engineering Innovation Hub on Hassall Street.
+- Students may transfer to the Bachelor of Engineering (Honours) at the end of Year 1 or Year 2 of study, or the Bachelor of Engineering Science at the end of Year 1 of study.
+- For the 40 credit points of free electives or Minors, students may choose one of the following Minors
+- Program Structure 2022-2023
+- Qualification for this award requires the successful completion of 320 credit points which include the subjects listed below.
+- Parts of these units may be taught at the Parramatta City - Hassall St campus or at the Parramatta South campus.
+- Students must then select one of the following majors.
+- All majors will be offered in the Engineering Innovation Hub on Hassall Street.
+- Students may transfer to the Bachelor of Engineering (Honours) or the Bachelor of Engineering Science at the end of Year 2 of study.
+- Elective Minors which may be available
+- Humanitarian Action in Practice, Minor (0327)
+
+Location Table:
+- Parramatta City Campus
+- Full Time
+- Internal
+- See above
+- Parramatta City Campus
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+MATH 1034Mathematics for Engineers 1 (Advanced)10
+ENGR 1024Introduction to Engineering Practice10
+ENGR 1047Advanced Engineering Physics 110
+ELEC 1006Engineering Computing10
+MATH 1035Mathematics for Engineers 2 (Advanced)10
+ENGR 1018Fundamentals of Mechanics10
+ELEC 1003Electrical Fundamentals10
+ENGR 2023Advanced Engineering Physics 210
+
+courselist table2:
+ENGR 1045Engineering Programming Fundamentals10
+ELEC 1006Engineering Computing10
+ENGR 4037Advanced Engineering Thesis 1: Preliminary Investigations10
+ENGR 4036Advanced Engineering Thesis 2: Detailed Investigations10
+ENGR 3017Industrial Experience (Engineering)0
+ENGR 1024Introduction to Engineering Practice10
+MATH 1034Mathematics for Engineers 1 (Advanced)10
+MATH 1035Mathematics for Engineers 2 (Advanced)10

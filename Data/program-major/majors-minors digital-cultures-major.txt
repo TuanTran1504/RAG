@@ -1,0 +1,71 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Digital Cultures, Major (0070)
+- Western Sydney University Major Code:
+- Previous Code: M1109.1
+- The Digital Cultures Major offers students the opportunity to learn about how cutting edge technology and digital practices are changing society. By analysing new media, visual arts, and digital design and the effects that the use of these new technologies have on culture and society, students will gain the necessary skills to position themselves for careers in a wide variety of contexts that require understanding of technology or digital media and its impact. Complementing these analytical skills, students will also gain practical skills in the creation of digital media and design.
+- Location
+- Major Structure
+- Students must successfully complete 80 credit point as follows.
+- Note: Students in the Bachelor of Creative Industries complete the structure under the heading Bachelor of Creative Industries below.
+- Students must complete the following compulsory subjects:
+- Students must also complete six subjects from the following pools, with a minimum of two subjects at Level 3 and no more than three subjects at Level 1.
+- Level 1
+- Level 2
+- Level 3
+- Bachelor of Creative Industries Students
+- The subjects listed below count towards completion of the major for students who may have passed subjects in the list in 2023 or earlier.
+- COMM 1032 Writing Ecologies, replaced by COMM 1044 Professional Communication
+- COMM 1044 Professional Communication
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+- Penrith Campus
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+HUMN 3033Digital Cultures10
+HUMN 2020Digital Humanities and Research Methods (UG)10
+
+courselist table2:
+COMM 1012Data, Mediation, Power10
+DESN 1011Image Design10
+COMM 1020Media Cultures and Industries10
+DESN 1018Visual Storytelling10
+DESN 1021Web and Time-based Design10
+COMM 1044Professional Communication10
+
+courselist table3:
+COMM 2024Media Law and Ethics10
+DESN 2014Researching the Visual10
+
+courselist table4:
+DESN 3002Data Visualisation10
+DESN 3008Interactive Design: Apps10
+COMM 3022Media Memory10
+HUMN 3096What is the Human?10
+
+courselist table5:
+Creative Industries students must first complete one of the following two subjects as their Introduction to Major subject prior to enrolling in this major.
+DESN 1011Image Design10
+DESN 1021Web and Time-based Design10
+Students must complete 80 credit points from the following level 2/3 subjects
+DESN 3002Data Visualisation10
+HUMN 3033Digital Cultures10
+HUMN 2020Digital Humanities and Research Methods (UG)10
+DESN 3008Interactive Design: Apps10
+COMM 3022Media Memory10
+DESN 2014Researching the Visual10
+HUMN 3096What is the Human?10
+Select one of the following (whichever was not completed as the Introduction to Major subject):10
+DESN 1011Image Design
+DESN 1021Web and Time-based Design

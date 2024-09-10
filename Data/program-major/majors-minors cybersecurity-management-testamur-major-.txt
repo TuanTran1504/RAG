@@ -1,0 +1,33 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Cybersecurity Management, Testamur Major (T153)
+- Western Sydney University Major Code:
+- The Cybersecurity Management specialisation within the Information Systems degree program equips students with a comprehensive skill set to proactively safeguard digital assets and mitigate cyber risks in today's dynamic technological landscape. Through a blend of technical expertise and managerial acumen, this specialisation aims to bridge the gap between technology and business, cultivating graduates who can strategically design, implement, and oversee robust cybersecurity strategies. Students will develop proficiency in risk assessment, compliance frameworks, and incident response protocols, ensuring they are well-prepared to address multifaceted challenges posed by cyber threats. By fostering an holistic understanding of cybersecurity, ethical considerations, and industry standards, the specialisation aims to produce graduates who are poised to excel as cybersecurity analysts, security managers, and compliance officers, making valuable contributions to organisations' security posture and operational resilience.
+- Location
+- Major Structure Current
+- Students enrolled in the Bachelor of Information Systems OR the Bachelor of Information Systems (Advanced) must complete 80 credit points as follows
+
+Location Table:
+- Parramatta - Victoria Road
+- Full time
+- Internal
+- Dr Simi Kamini Bajaj
+- Parramatta - Victoria Road
+- Part time
+- Internal
+- Dr Simi Kamini Bajaj
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+INFO 2008Cyber Incident Response and Risk Management10
+INFO 2004Cyber Crime and Social Engineering10
+COMP 2027Cyber Security10
+INFO 2006Usable Security10
+INFO 3015Internet of Things and Smart Environments10
+HUMN 3030Cyber Justice (UG)10
+CULT 3024Crime, Media, Culture10
+INFO 3018Computing Practicum10

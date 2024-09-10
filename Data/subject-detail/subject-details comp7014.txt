@@ -1,0 +1,33 @@
+Academic Handbook Current Edition COMP 7014 Optimising Networks Legacy Code 301067 Coordinator Ante Prodan Opens in new window Student Contribution Band Check your fees via the Fees page. Restrictions Learning Outcomes On successful completion of this subject, students should be able to: Knowledge and understanding
+1. Explain troubleshooting and meeting the network requirement in a converged network environment.
+2. Describe how VoIP is implemented.
+3. Assess troubleshooting technologies and queue types used in IP QoS.
+4. Identify different troubleshooting methodologies to support traffic management.
+5. Identify the range of techniques in use to deliver a resilient routed, switched network infrastructure.
+6. Explain support and troubleshoot a wireless infrastructure and its impact on QoS and scalable networks.
+Cognitive skills
+7. Research, investigate and troubleshoot.
+8. Use direct feedback after Cisco, Netlab and Packet Tracer assessments to evaluate your own learning.
+9. Integrate knowledge from other sources to gain a deeper understanding of the subject and provide context to the Cisco view.
+Key skills
+10. Communicate accurately and reliably, in a structured and coherent fashion, recognising purpose and audience.
+11. Work effectively with others in a distance setting where the collaboration is undertaken via computer-mediated communication.
+12. Work effectively with others in a lab setting via moderated ALE on Netlab+.
+13. Use appropriate numerical and mathematical skills to analyse data.
+14. Find and select information for a specific purpose, including via the Web, Cisco SDM or a Router/Switch CLI.
+15. Organise time, study methods and resources to suit the circumstances.
+16. Use independent resources to undertake academic research in Advanced Networking.
+Practical and/or professional skills
+17. Configure routers, implementing complex routed scenarios through online lab sessions.
+18. Use specialist software tools.
+19. Reflect on first-hand experience of configuring and managing network equipment (through attendance at the day school or alternative learning experience).
+20. Plan and organise work appropriately when working in a group (online lab sessions). Subject Content 1. Planning maintenance for complex networks
+2. Troubleshooting processes for complex enterprise networks
+3. Using maintenance and troubleshooting tools and applications
+4. Maintaining and Troubleshooting Campus Switched Solutions
+5. Maintaining and Troubleshooting Routing Solutions
+6. Troubleshooting Addressing Services
+7. Troubleshooting Converged Networks
+8. Troubleshooting Network Performance Issue
+9. Maintaining and Troubleshooting Network Security Implementations
+10. Troubleshooting Complex Enterprise Networks Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    TMA - Cisco activities; Discussion paper;  Problem solving 800 words 16 Y Individual   TMA - Cisco activities; Critical review; Problem solving 1000 words 17 Y Individual   TMA - Cisco activities: Cisco final exam (not for accreditation); Individual Reflection on Group case study Cisco activities: Cisco final exam (not for accreditation) - 1000 words; Individual Reflection on Group case study - 150 words 17 Y Individual   Final examination 3 hours 50 Y Individual

@@ -1,0 +1,150 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Financial Mathematics, Testamur Major (T096)
+- Western Sydney University Major Code:
+- Previous Code:  MT3039
+- Sophisticated mathematical techniques, such as stochastic calculus, are critical tools in modern finance. Building on the content taught in the Bachelor of Mathematics, this major equips graduates with the required knowledge, as well as with the background that is required to apply this knowledge successfully. In this major, you will learn not only the essential mathematical skills, but you will also take subjects from the School of Business as well as data science subjects that put these skills in context. The combination of theoretical skills and practical applications will give you the extra edge over competitors in the job market.
+- Location
+- Recommended Sequence
+- Students must successfully complete 80 credit points as per the recommended sequence below.
+- Full-time start-year intake
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 2009 Introduction to Data Science, replaced by COMP 2025 Introduction to Data Science
+- MATH 1002 Analytics Programming,  replaced by COMP 1013 Analytics Programming
+- Part-time start-year intake
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 2009 Introduction to Data Science, replaced by COMP 2025 Introduction to Data Science
+- MATH 1002 Analytics Programming,  replaced by COMP 1013 Analytics Programming
+- Related Programs
+
+Location Table:
+- Campbelltown Campus
+- Internal
+- Associate Professor Volker Gebhardt
+- Parramatta Campus - Victoria Road
+- Internal
+- Associate Professor Volker Gebhardt
+- Penrith Campus
+- Internal
+- Associate Professor Volker Gebhardt
+
+Sequence Tables:
+Year 1
+Spring session
+Credit Points
+ECON 2002
+Corporate Financial Management
+10
+COMP 2025
+Introduction to Data Science
+10
+
+Credit Points
+20
+Year 2
+Autumn session
+COMP 1013
+Analytics Programming
+10
+
+Credit Points
+10
+Spring session
+ECON 1003
+Financial Institutions and Markets
+10
+
+Credit Points
+10
+Year 3
+Autumn session
+ECON 3003
+Derivatives
+10
+FINC 3008
+Investment Management
+10
+
+Credit Points
+20
+Spring session
+ECON 3014
+International Finance
+10
+MATH 3014
+Financial Mathematics
+10
+
+Credit Points
+20
+
+Total Credit Points
+80
+Year 1
+Spring session
+Credit Points
+ECON 2002
+Corporate Financial Management
+10
+
+Credit Points
+10
+Year 2
+Spring session
+COMP 2025
+Introduction to Data Science
+10
+
+Credit Points
+10
+Year 4
+Autumn session
+COMP 1013
+Analytics Programming
+10
+
+Credit Points
+10
+Spring session
+ECON 1003
+Financial Institutions and Markets
+10
+
+Credit Points
+10
+Year 5
+Autumn session
+FINC 3008
+Investment Management
+10
+
+Credit Points
+10
+Spring session
+MATH 3014
+Financial Mathematics
+10
+
+Credit Points
+10
+Year 6
+Autumn session
+ECON 3003
+Derivatives
+10
+
+Credit Points
+10
+Spring session
+ECON 3014
+International Finance
+10
+
+Credit Points
+10
+
+Total Credit Points
+80
+
+Courselist Tables:

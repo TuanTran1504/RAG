@@ -1,0 +1,15 @@
+Academic Handbook Current Edition BUSM 7022 Derivatives Credit Points 10 Legacy Code 51169 Coordinator Peter Kavalamthara Opens in new window Description This subject provides an introduction to the major classes of derivatives: forwards, futures, swaps and options.  These are studied in detail with the objective of elucidating the ways in which these instruments can be used for the purposes of hedging, speculation and arbitrage. In addition to the analysis of derivative usage and market growth, considerable attention is given to the objective of gaining an understanding of the fundamentals of derivative pricing. School Business Discipline Business And Management Student Contribution Band HECS Band 4 10cp Check your fees via the Fees page. Level Postgraduate Coursework Level 7 subject Restrictions Students must be enrolled in a postgraduate Business program. Learning Outcomes On successful completion of this subject, students should be able to: Evaluate the operational mechanics of derivatives trading;
+Analyse the roles of the key participants in derivatives markets;
+Evaluate the institutional and organisational structure of key derivatives markets;
+Analyse the theoretical background to derivatives pricing such as cash and carry arbitrage and probability-based models;
+Explain the history of derivatives markets and risk management generally. Subject Content The nature of derivatives
+Mechanics of futures markets
+Hedging strategies
+Using derivatives for risk management
+Determination of forward and futures prices
+Interest rate futures
+Swaps
+Mechanics of options markets
+Properties of stock options
+Trading strategies involving options
+Introduction to option pricing models Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Intra-session Exam 1.5 hours 30 N Individual Y  Critical Review 20 minutes 20 N Group Y  Final Exam 2 hours 50 Y Individual Y Prescribed Texts Teaching Periods Quarter 2 (2024) Parramatta City - Macquarie St On-site Subject Contact Peter Kavalamthara Opens in new window View timetable Opens in new window Structures that include subject Business and Management (BUSM) Master of Applied Finance (2759) Master of Business Administration/Master of Applied Finance (2782) Master of Finance (2705)

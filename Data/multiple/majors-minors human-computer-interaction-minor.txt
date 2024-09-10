@@ -1,0 +1,28 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Human-Computer Interaction, Minor (0084)
+- Western Sydney University Minor Code:
+- Previous Code: SM3085.1
+- Location
+- Minor Structure
+- Students must complete 40 credit points as follows.
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- Dr Sasha Alexander
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Core Subject
+INFO 3003Human-Computer Interaction10
+Minor Alternate Subjects
+COMP 1005Programming Fundamentals10
+INFO 2002Tangible Interaction Design10
+INFO 2003Technologies for Mobile Applications10
+Total Credit Points40

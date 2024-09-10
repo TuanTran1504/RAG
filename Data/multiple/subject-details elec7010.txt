@@ -1,0 +1,18 @@
+Academic Handbook Current Edition ELEC 7010 Power System Planning and Economics Credit Points 10 Legacy Code 300197 Coordinator Mahmood Nagrial Opens in new window Description This subject covers planning techniques for energy and electrical power systems. It also covers the economics of various options and reliability of electrical power systems. School Eng, Design & Built Env Discipline Electrical And Electronic Engineering And Technology Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Postgraduate Coursework Level 7 subject Restrictions Students must be enrolled in a postgraduate program Learning Outcomes On successful completion of this subject, students should be able to: Explain and analyse power systems under normal and transient conditions.
+Analyse power systems using various techniques.
+Explain optimal control and economic operation of power systems.
+Identify and utilise the notions and implications of power system fault levels and stability on transmission planning.
+Explain and analyse harmonics, their causes and effects on system operation & control.
+Explain and formulate environmental issues associated with energy conversion systems.
+Identify and critique alternative and renewable energy sources. Subject Content Advanced power system components.
+Advanced power system control and operation.
+Review of econometric generation allocation methods and their limitations.
+Transmission planning and distribution planning.
+The National Electricity Market - structure, network service and retail services providers.
+Alternative energy sources.
+1.The National Electricity Market - structure, network service and retail services providers, energy 'wheeling' and trading, the energy 'pool' and typical price behaviours.
+2.Review of conventional planning techniques and their limitations.
+3.Demand forecasting.
+4.System reliability.
+5.Transmission planning.
+6.Distribution planning and demand management. Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Practical 4 practicals with 2 hours duration for each practical 25 Y Group Y  Intra-session Exam One hour 25 N Individual Y  Final Exam 2 hours 50 N Individual Y Teaching Periods Spring (2024) Parramatta City - Macquarie St On-site Subject Contact Mahmood Nagrial Opens in new window View timetable Opens in new window Structures that include subject Bachelor of Research Studies (8083) Electrical and Biomedical, Testamur Major (T114) Electrical and Electronic Eng. (ELEC) Electrical and Telecommunication, Testamur Major (T113) Electrical, Testamur Major (T035) Engineering, Testamur Major (T012)

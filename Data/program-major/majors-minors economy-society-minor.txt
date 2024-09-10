@@ -1,0 +1,41 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Economy and Society, Minor (0319)
+- Western Sydney University Minor Code:
+- The Economy and Society minor is a multi-disciplinary social science academic program centred on human behaviour in the creation of sustainable economies. The minor will equip students with analytical skills to understand complex economic issues from a broader social science perspective. It will also examine the politics of policy making. This area of academic and intellectual interest complements any major from within the Bachelor of Social Science.
+- Note: Subjects for this minor are offered on different campuses, potential students should ensure that they are able to manage their study and travel before enrolling in this minor.
+- Location
+- Minor Structure
+- Students must complete 40 credit points as follows.
+
+Location Table:
+- Liverpool Campus
+- Full-time
+- Internal
+- Professor Mary Hawkins
+- Liverpool Campus
+- Part-time
+- Internal
+- Professor Mary Hawkins
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Autumn
+Students must complete the following compulsory subject:
+ECON 1011Principles of Economics10
+Choose one of:10
+HUMN 3050Housing Markets and Policy
+HUMN 3043Globalisation and Sustainability
+HUMN 2032Issues in World Development: Rich World, Poor World
+Spring
+Students must complete the following compulsory subject:
+HUMN 1026Global Structures, Local Cultures10
+Choose one of:10
+HUMN 2048Revaluing Indigenous Economics (Day Mode)
+ECON 1013The Australian Macroeconomy
+HUMN 2053The Economics of Cities and Regions
+Total Credit Points40

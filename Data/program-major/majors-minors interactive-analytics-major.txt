@@ -1,0 +1,33 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Interactive Analytics, Major (0203)
+- Western Sydney University Major Code:
+- Previous Code: M3135.1
+- With increase in accessible data, interactive data analysis is a sought after skill. This Major covers concepts, techniques and technologies in data analytics with interactive communication to support extraction and analysis of big data. By completing this Major, students will gain skills in data science for producing visual, graphical and interactive representation of data analysis outcomes to support predictions and business decision making.
+- Location
+- Major Structure
+- Students must complete 80 credit points as follows.
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 2009 Introduction to Data Science, replaced by COMP 2025 Introduction to Data Science
+- MATH 2014 Visual Analytics, replaced by  COMP 2026 Visual Analytics
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- Dr Simi Kamini Bajaj
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+COMP 3006Computer Graphics10
+DESN 2005Graphic Design: Interactive Digital Media20
+COMP 2025Introduction to Data Science10
+MATH 1030Statistics for Business10
+COMP 3020Social Web Analytics10
+COMP 2026Visual Analytics10
+DESN 1021Web and Time-based Design10
+Total Credit Points80

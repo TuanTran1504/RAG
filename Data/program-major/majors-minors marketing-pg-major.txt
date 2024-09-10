@@ -1,0 +1,29 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Marketing, Major (0137)
+- Western Sydney University Major Code:
+- Previous Code:  SP2024.1
+- This major is designed for an age of expanding communication networks, where marketing is increasingly seen as a highly skilled and complex profession. Whether designing or selling a product, communicating a government service, or raising awareness in the non-profit sector, marketing requires a broad understanding of its methodology, its tools, and broad communications and analysis skills.
+- Location
+- Major Structure
+- Students must successfully complete 60 credit points as listed below.
+- Related Programs
+
+Location Table:
+- Parramatta City Campus - Macquarie Street
+- Internal
+- Dr Laurel Jackson
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+BUSM 7105Business Analytics in Practice10
+MKTG 7033Customer Experience10
+MKTG 7034Digital Marketing10
+MKTG 7035Frontiers of Branding10
+BUSM 7048Innovation, Creativity and Foresight10
+MKTG 7037Multichannel Marketing10
+Total Credit Points60

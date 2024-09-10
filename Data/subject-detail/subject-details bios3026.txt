@@ -1,0 +1,21 @@
+Academic Handbook Current Edition BIOS 3026 Evolution and Genetics Credit Points 10 Legacy Code 301253 Coordinator John Hunt Opens in new window Description This subject will ensure students are able to understand the core concepts in modern evolutionary theory and the central position that evolution plays in unifying all sub-disciplines of biology. It will also enable students to distinguish the major genetic mechanisms that underpin these theories and critically assess the general importance of genetics in the evolutionary process. In particular, students will gain an in depth knowledge on speciation and population divergence, origin of genetic variation, genetic drift and founder effects, natural and sexual selection, migration, mutation and coevolution, with a major emphasis on genetic mechanisms and the analytical techniques used to assess them.  Students may be required to travel to a different campus to undertake this subject. School Science Discipline Genetics Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Incompatible Subjects BIOS 2034 Principles of Evolution Restrictions Successful completion of 60 credit points Learning Outcomes On successful completion of this subject, students should be able to: Define evolution and provide supporting evidence for this process;
+Evaluate the concepts of natural and sexual selection and how they contribute to biological adaptation and speciation;
+Assess the relative importance of neutral and selective processes to evolutionary change;
+Critically assess the importance of genes to the evolutionary process and be able to differentiate between the different evolutionary mechanisms;
+Combine information on genes and selection to predict the direction and strength of phenotypic evolution;
+Describe the ways in which gene interactions can alter the evolution and coevolution of phenotypic traits;
+Critically assess and interpret scientific literature, and advances in the field of evolutionary research;
+Design, execute, analyse and interpret scientific experiments on genetics and evolution;
+Communicate the findings of investigations and experiments in oral and written form;
+Analyse the application of evolutionary theory to many modern scientific issues, including (but not limited to) human disease, agricultural breeding, and genetic engineering. Subject Content -An Overview of evolution and The scope of evolutionary biology
+-The role of genes in The evolutionary process
+-Mendelian Genetics and The inheritance of genes of major effect
+-population Genetics and The processes that can alter allele Frequencies in The population
+-Assessing allele Frequencies in natural populations and testing for deviation from Hardy-Weinberg Equilibrium
+-quantitative Genetics and The evolution of phenotypic traits
+-using laboratory breeding designs and molecular techniques in natural populations to estimate key quantitative Genetic parameters, including heritability and Genetic Correlation
+-Quantifying The strength and form of selection in laboratory and natural populations
+-predicting The rate and direction of phenotypic evolution
+-using current molecular approaches (including QTL, hitchhiking Mapping, GWAS, RNAseq) to understand The genomic basis of complex traits
+-understand Core phylogenetic principles and how this informs macroevolution
+-An overview of the key macroevolutionary processes (e.g. speciation, co-evolution, symbiosis and extinction) Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Quiz 1 hour (open book and done in own time, over a 1 week period) 25 N Individual N  Short Answer 1 hour (open book and done in own time 10 N Individual N  Presentation 15 minutes 15 N Group N  Report 2,000 words 20 N Individual N  Final Exam 2 hours 30 N Individual N Prescribed Texts Teaching Periods Autumn (2024) Hawkesbury On-site Subject Contact John Hunt Opens in new window View timetable Opens in new window Structures that include subject Biological Sciences (BIOS) Diploma in General Science (exit only) (7185) Zoology, Testamur Major (T029)

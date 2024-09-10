@@ -1,0 +1,19 @@
+Academic Handbook Current Edition MECH 3006 Mechatronic Design Credit Points 10 Legacy Code 300487 Coordinator Karthick Thiyagarajan Opens in new window Description Through practical lab exercises and a design project, students will integrate basic skills of mechanics, mechanical systems, and automation in the practice of engineering design (Design for X and system engineering) as applied to mechatronic devices and systems. Students will perform detailed design analysis on important machine elements such as bearings, brakes, clutches, shaft, motor and to integrate those elements to form an automatic mechatronic system is the intended outcome of undertaking this unit. The project-based tasks incorporated into this program build team work experience as well as each student's individual capabilities. School Eng, Design & Built Env Discipline Mechanical and Industrial Engineering and Technology, Not Elsewhere Classified. Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Pre-requisite(s) MECH 2003 Equivalent Subjects LGYA 5708 - Mechatronic Design 1 LGYA 5709 - Mechatronic Design 2 Learning Outcomes On successful completion of this subject, students should be able to: Critically discuss how mechanical/mechatronic design concepts are applied in an industrial context
+Design main machine elements, such as bearings, shaft, linear motion element and motion control elements
+Design solutions for automatic mechanical/mechatronic systems
+Undertake a design of typical mechanical/mechatronic systems including the selection of components in senses of system engineering and design for X
+Design an integrated mechanical/mechatronic system in a project-based environment
+Work in a team for a project in designing and building a mechanical/mechatronic device Subject Content System Engineering Approach and Theory for Engineering Design
+Principles and Applications of Design for X (Disassembly, Environment,Recycling, and Fatigue) in Product Design
+Tolerances and Fits
+Shaft Design
+Design of Bearings
+Design of Linear Motion Elements
+Electric Motors and Controls
+Design of Automatic Mechatronic System
+Brakes and Clutches
+Project-based design of integrated mechanical/mechatronic systems including selection of suitable components Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Short Answer 2,000 words 
+(each)
+ 30 N Individual Y  Report 8,000 – 10,000 words 40 Y Group Y  Presentation 3 minutes 10 N Individual Y  Log/Workbook 800 words
+(each)
+ 20 N Individual Y Prescribed Texts Teaching Periods Sydney City Campus - Term 1 (2024) Sydney City On-site Subject Contact Karthick Thiyagarajan Opens in new window View timetable Opens in new window Spring (2024) Penrith (Kingswood) On-site Subject Contact Karthick Thiyagarajan Opens in new window View timetable Opens in new window Parramatta City - Macquarie St On-site Subject Contact Karthick Thiyagarajan Opens in new window View timetable Opens in new window Sydney City Campus - Term 3 (2024) Sydney City On-site Subject Contact Karthick Thiyagarajan Opens in new window View timetable Opens in new window Structures that include subject Advanced Manufacturing, Testamur Major (T126) Mechanical Engineering, Testamur Major (T103) Mechanical and Industrial Eng. (MECH) Mechanical, Testamur Major (T036) Robotics and Mechatronics Engineering, Testamur Major (T104) Robotics and Mechatronics, Testamur Major (T037)

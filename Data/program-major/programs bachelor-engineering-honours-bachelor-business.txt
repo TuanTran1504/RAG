@@ -1,0 +1,117 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Bachelor of Engineering (Honours)/Bachelor of Business (3728)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 089217C
+- This program applies to students who commenced in 2022 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- For commencement Year 2020, please refer to: 3728.3 Bachelor of Engineering (Honours)/Bachelor of Business
+- For commencement Year 2018, please refer to: 3728.2 Bachelor of Engineering (Honours)/Bachelor of Business
+- For commencement Year 2016, please refer to: 3728.1 Bachelor of Engineering (Honours)/Bachelor of Business
+- The Bachelor of Engineering (Honours)/Bachelor of Business double degree permits students to undertake multi-skilling and offers diverse career paths providing high marketability in multiple engineering and business areas. The Engineering degree provides students with professional skills in each of the eight key areas students choose to study. The eight engineering Majors are Advanced Manufacturing, Civil, Construction, Electrical, Materials, Mechanical, Robotics & Mechatronics, and Sustainability Engineering. Depending on the Business Major selected, employment possibilities are available in conventional engineering industries and also in areas including Applied Finance, Economics, Human Resource Management, International Business, Management, Marketing, Sport Management and Business Analytics. Graduates will be equipped to work as engineers, with a good understanding of business principles and practices.
+- Study Mode
+- Five years full-time or ten years part-time. The Bachelor of Engineering (Honours) is offered on Penrith and Parramatta Campuses. The Bachelor of Business offers a number of its majors at Bankstown, Campbelltown and Parramatta campuses. Students may be required to travel between campuses in order to complete these B Business majors.
+- Program Advice
+- Program advice
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Accreditation
+- Professional Engineer for the disciplines, Civil, Construction, Electrical, Mechanical, and Robotics & Mechatronics at Penrith and Parramatta. Provisional accreditation at the level of Professional Engineer at the Penrith and Parramatta campuses for three Majors (Advanced Manufacturing, Materials, and Sustainability). Graduates of this program are eligible to apply for full membership of Engineers Australia. They are eligible to apply for Chartered Professional Engineering registration upon successful completion of required engineering practice period specified by Engineers Australia.
+- Bachelor of Business: Where the full recommended unit sequence of the major is satisfactorily completed: Major T041 Human Resource Management is accredited with the Australian Human Resources Institute (AHRI). Major T038 Applied Finance satisfies the educational requirements for membership of the Financial Services Institute of Australasia (Finsia). T044 - Marketing satisfies the requirements of accreditation of Marketing subjects in accordance with the Australian Marketing Institute’s Accreditation and Endorsement Program. On completion of an AMI Accredited program graduates are eligible for special graduate membership rates and credit towards becoming a Certified Practising Marketer (CPM) in a shorter duration of time. Specifically, graduates are eligible to apply for a reduction off the minimum five (5) years industry experience required before becoming a CPM.
+- Association to Advance Collegiate Schools of Business (AACSB)
+- The business component of this program is accredited by the Association to Advance Collegiate Schools of Business (AACSB).
+- Inherent Requirements
+- There are inherent requirements for this program that you must meet in order to complete your program and graduate. Make sure you read and understand the requirements for this program online.
+- Engineering
+- Inherent requirements for Engineering Programs.
+- Business
+- Inherent requirements for Accounting courses
+- Work Integrated Learning
+- There is a mandatory work component required for completion of this program.  Please contact the Program Advisor listed above for information.
+- International students should also refer to the link below for more information and a link to the Commonwealth Register of Institutions and Courses for Overseas Students (CRICOS).
+- Work Integrated Learning (WIL) for international students
+- Admission
+- Eligibility for admission to the Bachelor of Engineering (Honours)/Bachelor of Business is based on the following requirements:
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- International students currently completing an Australian Year 12 in or outside Australia, an International Baccalaureate in Australia or a New Zealand National Certificate of Educational Achievement (NCEA) level 3 must apply via UAC International.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Program Structure
+- Qualification for this award requires the successful completion of 400 credit points.
+- Students who complete this award will graduate with two testamurs
+- Engineering Component
+- Students must study seven Engineering Foundation subjects followed by 15 Engineering Core subjects and two Engineering Thesis subjects in one of the following Bachelor of Engineering (Honours) programs.
+- Engineering Majors - Autumn 2022
+- Engineering Majors - from Spring 2022
+- Business Component
+- Core Subjects (compulsory 40 credit points)
+- Professional Subjects (choose 40 credit points)
+- The professional subjects provide a focus on careers. Students are required to complete one subject from each of the four key focus areas: numeracy, career planning, innovation, and enterprise engagement, a total of 40 credit points. Students are advised to choose subjects that will support careers in one of three areas:
+- The professional subjects that are recommended for each of the Bachelor of Business testamur majors are specified in the majors.
+- Majors
+- Choose 80 credit points from one primary Business major. These are testamur majors.
+- Use the links below to each Bachelor of Business Major see the list of Core, Professional and Major subjects required. Students should follow the recommended sequence listed under each Bachelor of Engineering (Honours) program via the links above and not the recommended sequence listed under each B Bus Major.
+- Majors for Careers in Money
+- Majors for Careers in Markets
+- Majors for Careers in Management
+- Majors for Careers in Business Analytics
+
+Location Table:
+- Bankstown Campus
+- Full Time
+- Internal
+- See above
+- Bankstown Campus
+- Part Time
+- Internal
+- See above
+- Bankstown City Campus (from 2023)
+- Full Time
+- Internal
+- See above
+- Bankstown City Campus (from 2023)
+- Part Time
+- Internal
+- See above
+- Campbelltown Campus
+- Full Time
+- Internal
+- See above
+- Campbelltown Campus
+- Part Time
+- Internal
+- See above
+- Parramatta City Campus
+- Full Time
+- Internal
+- See above
+- Parramatta City Campus
+- Part Time
+- Internal
+- See above
+- Penrith Campus
+- Full Time
+- Internal
+- See above
+- Penrith Campus
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+LAWS 1001Enterprise Law10
+BUSM 1010Financing Enterprises10
+BUSM 1006Enterprise Innovation and Markets10
+BUSM 1008Enterprise Leadership10
+Total Credit Points40

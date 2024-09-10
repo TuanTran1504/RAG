@@ -1,0 +1,25 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Career Education, Testamur Major (T150)
+- Effective from:
+- Western Sydney University Major Code:
+- The specialisation in Career Education is designed for educators and career advisors in school and postschool contexts to upskill in career advising and counselling. Co-taught by the Schools of Education and Psychology, the Career Education specialisation will enable students to develop knowledge and skills in the areas of supporting career aspirations, counselling and coaching, recognising and implementing evidence-based practice, and adolescent development. Students will develop and evaluate innovative practice to improve career advising within their work context. The specialisation is delivered in a flexible, online mode designed to fit in around work commitments, and an early exit pathway (Graduate Certificate) is available from the Master of Education program.
+- Major Structure
+- Qualification for this major requires the successful completion of 40 credit points as listed below.
+- Students will select from the major subjects that are on offer in any given semester. Major subjects can be studied in any order.
+
+Location Table:
+- Online
+- Course Advice
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+TEAC 5041Career Education Practice10
+TEAC 5042Supporting Career and Education Aspirations10
+BEHV 5002Program Design and Ethical Conduct in Career Education10
+BEHV 5001Career Assessment and Counselling10
+Total Credit Points40

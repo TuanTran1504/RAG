@@ -1,0 +1,23 @@
+Academic Handbook Current Edition ELEC 7006 Advanced Smart Grids and Distributed Generation Credit Points 10 Legacy Code 301026 Coordinator Jamal Rizk Opens in new window Description This subject is designed to model, analyse and control of newly developing areas of distributed generation and smart grids. The subject will cover modelling, control, simulation and protection of such systems. The subject will also cover the impacts of renewable sources and power electronics on the operation of smart grids and micro-grids. The subject will also cover environmental and economic impacts of such systems. School Eng, Design & Built Env Discipline Electrical And Electronic Engineering And Technology Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Postgraduate Coursework Level 7 subject Restrictions Students must be enrolled in a postgraduate program Learning Outcomes On successful completion of this subject, students should be able to: Evaluate the technical aspects of the Smart Grid and Distributed Generation
+Analyse and simulate the effects of renewable sources on operation of smart grids
+Discuss and evaluate the control and protection requirements of smart grids
+Critically examine and assess the environmental issues associated with the Smart Grid and Distributed Generation
+Discuss and evaluate the economic aspects of the Smart Grid and Distributed Generation
+Evaluate and compare various operating requirements with case studies Subject Content 1. Modelling of Smart Grids.
+- Loads Impedance model
+- PV sources (Thermal and PV panels)
+- Wind Turbines and Generators
+- storage systems
+- Rectifiers, Converters and Inverters
+2. Control of Smart Grid Systems.
+- Smart Meters
+- Micro grids
+- control of Converters and Inverters
+- Load, Voltage and power control
+- Synchronized and Islanding Operations of Micro grids
+- design High MW PV systems
+- design of High power Wind farm
+- control of Smart Grid system with High Green energy Penetration
+3. Environmental and pollution issues
+4. Economic analysis of the Smart Grid and Distributed Generation
+5. Case Studies Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Intra-session Exam 1.5 hours 25 N Individual Y  Final Exam 2 hours 50 N Individual Y  Case Study Length of reports between 10-15 pages each 25 N Individual Y Prescribed Texts Teaching Periods Autumn (2024) Parramatta City - Macquarie St On-site Subject Contact Mahmood Nagrial Opens in new window View timetable Opens in new window Structures that include subject Bachelor of Research Studies (8083) Electrical and Biomedical, Testamur Major (T114) Electrical and Electronic Eng. (ELEC) Electrical and Telecommunication, Testamur Major (T113) Electrical, Testamur Major (T035) Engineering, Testamur Major (T012)

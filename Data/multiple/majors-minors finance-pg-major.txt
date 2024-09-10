@@ -1,0 +1,33 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Finance, Major (0226)
+- Western Sydney University Major Code:
+- Previous Code:  SP2023.1
+- Contemporary managers benefit from having a grasp of the fundamental concepts of finance theory. This major introduces students to these concepts, including the time value of money, risk and return, capital budgeting and capital structure – and to the tools of financial decision-making in the context of the Australian institutional environment. Students examine the investment, financing and dividend decisions of corporations and develop an understanding of the basic practices of financial management from the perspective of both large and small firms. Students will develop a strong financial compass and be enabled to make financial decisions with greater confidence.
+- Location
+- Curriculum delivered through an agreement with another party
+- Major Structure
+- Students must successfully complete 60 credit points as listed below.
+- Related Programs
+
+Location Table:
+- Parramatta City Campus - Macquarie Street
+- Internal
+- Dr Laurel Jackson
+- Sydney City Campus*
+- Internal
+- Neelam Goela
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+ACCT 7012Corporate Finance10
+BUSM 7021Credit and Lending Decisions10
+BUSM 7031Financial Institution Management10
+BUSM 7032Financial Institutions and Markets (MAF)10
+BUSM 7053International Finance10
+BUSM 7072New Venture Finance10
+Total Credit Points60

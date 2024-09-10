@@ -1,0 +1,429 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Public Health, Testamur Major (T021)
+- Western Sydney University Major Code:
+- Previous Code:  MT4003.1
+- Bachelor of Health Science
+- Public health is the science of disease prevention, prolonging life and improving health for individuals and their communities. This work is achieved by promoting healthy lifestyles, researching disease prevention, conducting population health assessment and measurement, improving environmental health, engaging the community and detecting, preventing and responding to infectious diseases. Public Health graduates work in a variety of settings, including national and state health departments, community organisations and the global health sector. The Public Health major builds a student’s knowledge of the biological, social, cultural, economic and physical factors that underpin the health of a population and how to promote health for all. Students will also develop and use skills in epidemiology and biostatistics, surveillance and prevention, and public health policy. The major includes 140 hours of professional practice placement. This Testamur Major will be identified on the Student’s Testamur following completion of the course.
+- Location
+- Curriculum delivered through an agreement with another party
+- Master of Data Science
+- Analysis of public health data allows us to track diseases and examine the effect of interventions. This Field of Study teaches students the fundamentals of biostatistics and epidemiology and branches out into aspects of social health, health policy, disaster planning, and communicable diseases.
+- Location
+- Inherent Requirements
+- The Inherent requirement for the Master of Health Sciences will apply to this Field of Study: https://www.westernsydney.edu.au/ir/inherent_requirements/inherent_requirements_for_master_of_public_health_and_master_of_health_science
+- Major Structure
+- Select the link for your program below to see details of the major
+- Bachelor of Health Science
+- Full-time start-year intake
+- Full-time mid-year intake
+- Diploma in Health Science/Bachelor of Health Science
+Full-time start-year intake
+- Diploma in Health Science/Bachelor of Health Science
+Full-time mid-year intake
+- Electives
+- Students must take at least one level 3 subject as an elective
+- Most electives are 10 credit points.
+- Students may wish to consider using elective choices to complete another health sciences field of study, such as Majors: Health Promotion, Health Services Management. Minors: Health Promotion, Public Health and Nutrition, Health Informatics, Global Sustainability
+- Health Promotion, Minor
+Health Practice Management, Minor
+Global Sustainability, Minor
+Health Informatics, Minor
+- Health Services Management, Major
+- Health Promotion, Major
+- Master of Data Science
+- Students must complete 40 credit points as follows
+- Related Programs
+
+Location Table:
+- Campbelltown Campus
+- Internal
+- HealthSciences@westernsydney.edu.au
+- Online
+- HealthSciences@westernsydney.edu.au
+- Sydney City Campus*
+- Internal
+- Dr Andrey Zheluk
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+PUBH 1006
+Population Health and Society
+10
+HLTH 1013
+Professional Competencies in Health
+10
+BIOS 1035
+Anatomy and Physiology in Health
+10
+PUBH 1012
+Public Health
+10
+
+Credit Points
+40
+Spring session
+COMM 1007
+Communication in Health
+10
+HLTH 1012
+Evidence in Health
+10
+BIOS 1036
+Human Development and Disease across the lifespan
+10
+HLTH 2022
+Biostatistics in Health
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+PUBH 2005
+Culture, Diversity and Health
+10
+PUBH 2020
+Epidemiology for Public Health
+10
+Select two electives
+20
+
+Credit Points
+40
+Spring session
+PUBH 3025
+Health Policy and Advocacy
+10
+BEHV 1014
+Psychology and Health
+10
+PUBH 3024
+Harm Minimisation and Prevention
+10
+Select one elective
+10
+
+Credit Points
+40
+Year 3
+Autumn session
+PUBH 3028
+Transforming Health
+10
+PUBH 3027
+Public Health in a Changing World
+10
+Select two electives
+20
+
+Credit Points
+40
+Spring session
+MEDI 3007
+Professional Health Placement
+10
+Select three electives
+30
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Spring session
+Credit Points
+COMM 1007
+Communication in Health
+10
+HLTH 1012
+Evidence in Health
+10
+HLTH 1013
+Professional Competencies in Health
+10
+HLTH 2022
+Biostatistics in Health
+10
+
+Credit Points
+40
+Autumn session
+PUBH 1006
+Population Health and Society
+10
+BIOS 1035
+Anatomy and Physiology in Health
+10
+PUBH 1012
+Public Health
+10
+Select one elective
+10
+
+Credit Points
+40
+Year 2
+Spring session
+PUBH 3025
+Health Policy and Advocacy
+10
+PUBH 3024
+Harm Minimisation and Prevention
+10
+BEHV 1014
+Psychology and Health
+10
+BIOS 1036
+Human Development and Disease across the lifespan
+10
+
+Credit Points
+40
+Autumn session
+PUBH 2005
+Culture, Diversity and Health
+10
+PUBH 2020
+Epidemiology for Public Health
+10
+Select two electives
+20
+
+Credit Points
+40
+Year 3
+Spring session
+MEDI 3007
+Professional Health Placement
+10
+Select three electives
+30
+
+Credit Points
+40
+Autumn session
+PUBH 3028
+Transforming Health
+10
+PUBH 3027
+Public Health in a Changing World
+10
+Select two electives
+20
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Trimester 1
+Credit Points
+PUBH 1007
+Population Health and Society (WSTC)
+10
+HLTH 0005
+The Health Science Professional (WSTC Prep)
+10
+NATS 0006
+Fundamentals of Health Science (WSTC Prep)
+10
+HLTH 1015
+Professional Competencies in Health (WSTC)
+10
+
+Credit Points
+40
+Trimester 2
+BEHV 1015
+Psychology and Health (WSTC)
+10
+HLTH 1014
+Evidence in Health (WSTC)
+10
+BIOS 1038
+Anatomy and Physiology in Health (WSTC)
+10
+
+Credit Points
+30
+Trimester 3
+BIOS 1037
+Human Development and Disease across the Lifespan (WSTC)
+10
+COMM 1008
+Communication in Health (WSTC)
+10
+PUBH 2006
+Culture, Diversity and Health (WSTC)
+10
+
+Credit Points
+30
+Year 2
+Autumn session
+PUBH 1012
+Public Health
+10
+PUBH 2020
+Epidemiology for Public Health
+10
+Select two electives
+20
+
+Credit Points
+40
+Spring session
+PUBH 3025
+Health Policy and Advocacy
+10
+PUBH 3024
+Harm Minimisation and Prevention
+10
+HLTH 2022
+Biostatistics in Health
+10
+Select one elective
+10
+
+Credit Points
+40
+Year 3
+Autumn session
+PUBH 3028
+Transforming Health
+10
+PUBH 3027
+Public Health in a Changing World
+10
+Select two electives
+20
+
+Credit Points
+40
+Spring session
+MEDI 3007
+Professional Health Placement
+10
+Select three electives
+30
+
+Credit Points
+40
+
+Total Credit Points
+260
+Year 1
+Trimester 2
+Credit Points
+HLTH 1015
+Professional Competencies in Health (WSTC)
+10
+HLTH 0005
+The Health Science Professional (WSTC Prep)
+10
+PUBH 1007
+Population Health and Society (WSTC)
+10
+NATS 0006
+Fundamentals of Health Science (WSTC Prep)
+10
+
+Credit Points
+40
+Trimester 3
+BIOS 1037
+Human Development and Disease across the Lifespan (WSTC)
+10
+COMM 1008
+Communication in Health (WSTC)
+10
+PUBH 2006
+Culture, Diversity and Health (WSTC)
+10
+
+Credit Points
+30
+Trimester 1
+BIOS 1038
+Anatomy and Physiology in Health (WSTC)
+10
+HLTH 1014
+Evidence in Health (WSTC)
+10
+BEHV 1015
+Psychology and Health (WSTC)
+10
+
+Credit Points
+30
+Year 2
+Spring session
+HLTH 2022
+Biostatistics in Health
+10
+Select three electives
+30
+
+Credit Points
+40
+Autumn session
+PUBH 1012
+Public Health
+10
+PUBH 2020
+Epidemiology for Public Health
+10
+Select two electives
+20
+
+Credit Points
+40
+Year 3
+Spring session
+MEDI 3007
+Professional Health Placement
+10
+PUBH 3025
+Health Policy and Advocacy
+10
+PUBH 3024
+Harm Minimisation and Prevention
+10
+Select one elective
+10
+
+Credit Points
+40
+Autumn session
+PUBH 3028
+Transforming Health
+10
+PUBH 3027
+Public Health in a Changing World
+10
+Select two electives
+20
+
+Credit Points
+40
+
+Total Credit Points
+260
+
+Courselist Tables:
+
+courselist table1:
+PUBH 7016Introduction to Epidemiology10
+HLTH 7008Introduction to Biostatistics10
+PUBH 7010Epidemiology of Non-Communicable Diseases10
+Choose one of the following:10
+PUBH 7033The Social Determinants of Health
+PUBH 7031Health Systems and Policy
+PUBH 7028Surveillance and Disaster Planning
+Total Credit Points40

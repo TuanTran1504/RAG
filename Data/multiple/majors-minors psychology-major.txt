@@ -1,0 +1,114 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Psychology, Major (0001)
+- Western Sydney University Major Code:
+- Previous Code: KT1000.1
+- Psychology is the field of inquiry that uses scientific techniques and methods to understand and explain behaviour and experience. As a profession, it involves the application of psychological knowledge to practical problems in human behaviour. Subjects in the program are drawn from the following core areas of psychology: brain and behaviour, learning, motivation and emotion, social psychology, lifespan development, perception and cognitive processes.
+- Location
+- Accreditation
+- The Major in Psychology offered within the Bachelor of Arts is accredited by the Australian Psychology Accreditation Council (APAC) as an undergraduate three year sequence in Psychology.
+- Major Structure
+- The accredited Psychology Major requires the four BA Core subjects and the sequence of subjects in the recommended sequence.
+- Equivalent Core Subjects
+- The core subjects listed below count towards completion of this major for students who passed these subjects in 2019 or earlier.
+- HUMN 1002 - Analytical Reading and Writing, replaced by LANG 1029 Foundations of Academic English
+HUMN 1005 - Australia and the World, replaced by HUMN 1052 Australian Politics and Active Citizenship
+HUMN 1009 - Contemporary Society, replaced by HUMN 1053 Diversity, Language and Culture
+LANG 1026 - Texts and Traditions, replaced by LANG 1030 Thinking Critically About Texts and Society
+- LANG 1029 Foundations of Academic English
+- HUMN 1052 Australian Politics and Active Citizenship
+- HUMN 1053 Diversity, Language and Culture
+- LANG 1030 Thinking Critically About Texts and Society
+- Recommended Sequence
+- Bankstown, Penrith and Parramatta South Campuses
+- Related Programs
+
+Location Table:
+- Bankstown City Campus
+- Internal
+- enquiriesHCA@uws.edu.au
+- Parramatta Campus - Victoria Road
+- Internal
+- enquiriesHCA@uws.edu.au
+- Penrith Campus
+- Internal
+- enquiriesHCA@uws.edu.au
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+BEHV 1018
+Psychology: Human Behaviour
+10
+
+Credit Points
+10
+Spring session
+BEHV 1016
+Psychology: Behavioural Science
+10
+
+Credit Points
+10
+Year 2
+Autumn session
+BEHV 2002
+Brain and Behaviour
+10
+MATH 2006
+Experimental Design and Analysis
+10
+BEHV 2010
+Perception
+10
+
+Credit Points
+30
+Spring session
+BEHV 2005
+Human Learning
+10
+BEHV 3014
+Motivation and Emotion
+10
+BEHV 3023
+Social Psychology
+10
+
+Credit Points
+30
+Year 3
+Autumn session
+BEHV 3004
+Advanced Research Methods
+10
+BEHV 3009
+Developmental Psychology
+10
+
+Credit Points
+20
+Spring session
+BEHV 3002
+Abnormal Psychology
+10
+BEHV 3007
+Cognitive Processes
+10
+
+Credit Points
+20
+
+Total Credit Points
+120
+
+Courselist Tables:
+
+courselist table1:
+Arts Core Subjects
+HUMN 1052Australian Politics and Active Citizenship10
+LANG 1030Thinking Critically About Texts and Society10
+HUMN 1053Diversity, Language and Culture10
+LANG 1029Foundations of Academic English10

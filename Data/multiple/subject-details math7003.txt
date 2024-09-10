@@ -1,0 +1,16 @@
+Academic Handbook Current Edition MATH 7003 Applied Business Statistics Credit Points 10 Legacy Code 300962 Coordinator Kenan Matawie Opens in new window Description This subject introduces the basic statistical concepts and techniques for descriptive and inferential data analysis. It will aid and improve business decision-making, especially when faced with uncertain outcomes. School Computer, Data & Math Sciences Discipline Statistics Student Contribution Band HECS Band 1 10cp Check your fees via the Fees page. Level Postgraduate Coursework Level 7 subject Restrictions Students must be enrolled in a postgraduate program. Assumed Knowledge Mathematics to the HSC level. Learning Outcomes On successful completion of this subject, students should be able to: Organise, tabulate, present, summarise and graph data appropriately;
+Apply probability to solve business decision making problems;
+Define and distinguish between discrete and continuous probability distributions;
+Estimate population means and proportions using confidence intervals;
+Test hypotheses about population means and proportions;
+Understand and apply correlation and linear regression to describe and analyse relationships between variables;
+Use the Chi-square test for goodness of fit and test for independence to analyse categorical type data;
+Use the necessary computing skills required in Excel to solve and analyse statistical data. Subject Content Data type and collection, graphical and tabular techniques
+Numerical descriptive measures, and basic Probability
+Discrete and continuous probability distributions
+Sampling distribution
+Statistical inferences - hypothesis testing
+Correlation and Linear regression analysis
+Statistical inferences -estimation
+Analysis of Categorical data
+Index Numbers Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Quiz 50 minutes 15 N Individual Y  Quiz 50 minutes 15 N Individual Y  Practical One week 20 N Individual Y  Final Exam 2 hours 50 N Individual Y Prescribed Texts Teaching Periods Quarter 2 (2024) Parramatta City - Macquarie St On-site Subject Contact Kenan Matawie Opens in new window View timetable Opens in new window Quarter 4 (2024) Parramatta City - Macquarie St On-site Subject Contact Kenan Matawie Opens in new window View timetable Opens in new window Structures that include subject Graduate Certificate in Applied Finance (2760) Graduate Diploma in Applied Finance (exit only) (2796) Master of Applied Finance (2759) Master of Business Administration/Master of Applied Finance (2782) Mathematics (MATH)

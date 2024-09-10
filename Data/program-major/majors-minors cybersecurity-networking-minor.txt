@@ -1,0 +1,21 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Cybersecurity Networking, Minor (0274)
+- Western Sydney University Minor Code:
+- Previous Code: SM3125.1
+- Minor Structure
+- Students must complete 40 credit points from the subjects listed below.
+- Related Programs
+
+Location Table:
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+INFO 3002Ethical Hacking Principles and Practice10
+COMP 2020Technologies for Web Applications10
+COMP 2004Computer Networking10
+INFO 3007Network Security10

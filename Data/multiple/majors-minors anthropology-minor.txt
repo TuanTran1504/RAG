@@ -1,0 +1,40 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Anthropology, Minor (0002)
+- Western Sydney University Minor Code:
+- Previous Code: SM1131.1
+- Social Anthropology is the study of humans and the cultures they create. The minor in Anthropology within the Bachelor of Social Science offers students the opportunity to examine social patterns and practices across cultures, to discover similarities and differences between cultures, and to understand the processes by which humans organise and create meaning. Areas of focus include the development of anthropology as a discipline; globalisation and culture; power and politics; gender and sexuality; identity and belonging; ethnography and ethnographic methods; indigenous peoples and nation states. Specific attention is given to cultures of Australasia, Southeast Asia and the Pacific, and to cross cultural interactions, at both global and local levels. The minor seeks to equip students with multi-cultural knowledge as well as to provide a thorough grounding in research methods and ethics with utility in a variety of professional and academic contexts.
+- Location
+- Minor Structure
+- Students must complete 40 credit points as follows.
+- The subjects listed below count towards completion of this minor for students who passed these subjects in 2021 or earlier.
+- HUMN 2012 Anthropologies of the Everyday, replaced by HUMN 2069 Society, Culture and Human Diversity
+- HUMN 2069 Society, Culture and Human Diversity
+- HUMN 2024 - Ethnographies of Southeast Asia and the Pacific - replaced by HUMN 2068 Cultures of Southeast Asia and Oceania
+- Related Programs
+
+Location Table:
+- Liverpool Campus
+- Internal
+- Associate Professor Mary Hawkins
+- Penrith Campus
+- Internal
+- Associate Professor Mary Hawkins
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Students must complete the following compulsory subject:
+HUMN 1016Different Ways of Being in the World: Introduction to Social Anthropology10
+Select three of the following:30
+HUMN 2068Cultures of Southeast Asia and Oceania
+HUMN 1026Global Structures, Local Cultures
+HUMN 2028Identity and Belonging
+CULT 3016Indigenous Cultures: A Global Perspective
+HUMN 3066Power as a Cultural System
+HUMN 2069Society, Culture and Human Diversity
+HUMN 3078The Anthropologies of Gender and Sexualities
+Total Credit Points40

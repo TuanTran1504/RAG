@@ -1,0 +1,24 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Humanitarian and Development Studies, Major (0332)
+- Western Sydney University Major Code:
+- Major subjects
+- 80 credit points of Major subjects for Program 1735 - Bachelor of Humanitarian and Development Studies
+
+Location Table:
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+HUMN 3116Emergency and Disaster Management10
+HUMN 1015Development and Sustainability10
+HUMN 3119Emergency Field Operations: Supply Management and Logistics10
+POLI 1002Introduction to International Relations10
+HUMN 2032Issues in World Development: Rich World, Poor World10
+BUSM 3082Project Management in Humanitarian and Development Studies10
+HUMN 3068Public Health Response in Complex Emergencies10
+HUMN 3077Sustainable Futures10
+Total Credit Points80

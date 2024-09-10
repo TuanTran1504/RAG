@@ -1,0 +1,13 @@
+Academic Handbook Current Edition ELEC 3002 Data Communications Credit Points 10 Legacy Code 300997 Coordinator Ranjith Liyanapathirana Opens in new window Description This subject is concerned with the principles and topics of fundamental importance to digital data communication, computer communication networks and telecommunications.  The lower layers of the protocol structure (physical layer, data link layer and some aspects of the network layer) and the physical medium (hardware and transmission lines) are emphasized.  An engineering approach will be taken to provide an insight to transmission and transmission media, communication techniques and transmission efficiency. School Eng, Design & Built Env Discipline Electrical And Electronic Engineering And Technology Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Pre-requisite(s) ELEC 2011 Incompatible Subjects ELEC 4001 - Data Networks Learning Outcomes On successful completion of this subject, students should be able to: Outline common data transmission concepts and techniques.
+Identify the concepts and physical mechanisms underlying data communication in telecommunication networks.
+Analyse the telephone network to identify the concepts and physical mechanisms underlying data communication.
+Evaluate the differences between circuit switching and packet switching, and explain how a data communication system can detect and correct channel errors in transmission. Subject Content 1. Data transmission
+2. Guided (including optical fibre) and unguided (wireless) transmission
+3. Signal encoding
+4. Interfacing
+5. Data link control
+6. Multiplexing (Synchronous, Asynchronous, Statistical)
+7. Spread Spectrum Modulation (Frequency Hopping, Direct Sequence)
+8. Error control and flow control techniques
+9. Circuit switching and packet switching Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Practical 5 x 3 hours (group)
+Written report max 10 pages (individual) 20 Y Group/Individual Y  Intra-session Exam 1.5 hours 20 N Individual Y  Final Exam 2 hours 60 Y Individual Y Prescribed Texts Teaching Periods Spring (2024) Penrith (Kingswood) On-site Subject Contact Ranjith Liyanapathirana Opens in new window View timetable Opens in new window Structures that include subject Electrical Engineering, Testamur Major (T102) Electrical and Electronic Eng. (ELEC) Electrical, Testamur Major (T035) Telecommunications, Concentration (0120)

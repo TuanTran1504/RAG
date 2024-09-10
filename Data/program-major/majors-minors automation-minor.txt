@@ -1,0 +1,25 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Automation, Minor (0123)
+- Western Sydney University Minor Code:
+- Location
+- Minor Structure
+- This minor is only available to students enrolled in Bachelor of Engineering (Honours) (3740) and Bachelor of Engineering Advanced (Honours) (3771).
+- Students must complete 4 subjects as follows.
+
+Location Table:
+- Penrith Campus
+- Internal
+- beng@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+ENGR 2025Design Graphics: Engineering Documentation10
+INFO 3003Human-Computer Interaction10
+ELEC 2008Microcontrollers and PLCs10
+MECH 4003Mobile Robotics10
+Total Credit Points40

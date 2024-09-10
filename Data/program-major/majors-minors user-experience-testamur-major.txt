@@ -1,0 +1,33 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- User Experience, Testamur Major (T154)
+- Western Sydney University Major Code:
+- User experience (UX) is key to the success of organisations in shaping great products and services. Taking a user centred approach, students in this major design interactive digital applications, information systems and services that meet the needs of their target market. Students learn about design as a systematic and data driven process, backed up by up-to-date theoretical and practical knowledge, enabling them to design efficient and effective artefacts in a rapidly changing, fast paced environment. In this multidisciplinary field, students incorporate analytics, research, human factors, security and privacy into their designs using a range of technologies. Skills developed in this major prepare students for UX careers in a diverse range of business and industry environments, wherever interactions with clients or the general public are essential.
+- Location
+- Major Structure Current
+- Students must complete 80 credit points as follows
+
+Location Table:
+- Parramatta - Victoria Road
+- Full time
+- Internal
+- Dr Simi Kamini Bajaj
+- Parramatta - Victoria Road
+- Part time
+- Internatl
+- Dr Simi Kamini Bajaj
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+BEHV 1025Usable Design10
+ENGR 1041Designing for User Experience (UX)10
+INFO 2006Usable Security10
+COMP 2026Visual Analytics10
+HUMN 3033Digital Cultures10
+ENGR 3024Design Research Methods (Advanced)10
+COMP 2021Software Engineering Fundamentals10
+COMP 3034Multimodal Interaction10

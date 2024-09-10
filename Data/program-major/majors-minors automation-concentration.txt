@@ -1,0 +1,28 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Automation, Concentration (0123)
+- Western Sydney University Concentration Code:
+- Previous Code: SM3072.1
+- Location
+- Concentration Structure Current
+- This concentration is only available to students enrolled in Bachelor of Engineering (Honours) or Bachelor of Engineering - Mechanical major only.
+- From 2024, please refer to Automation, Minor (0123). This minor is available to all students in Bachelor of Engineering (Honours) (3740) and Bachelor of Engineering Advanced (Honours) (3771).
+- Students must complete 4 subjects as follows.
+- Related Programs
+
+Location Table:
+- Penrith Campus
+- Internal
+- beng@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+MECH 4001Computational Fluid Dynamics10
+INFO 3003Human-Computer Interaction10
+ELEC 2008Microcontrollers and PLCs10
+MECH 4003Mobile Robotics10
+Total Credit Points40

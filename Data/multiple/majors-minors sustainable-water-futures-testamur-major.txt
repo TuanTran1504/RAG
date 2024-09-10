@@ -1,0 +1,208 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Sustainable Water Futures, Testamur Major (T152)
+- Western Sydney University Major Code:
+- Sustainable Water Futures, Testamur Major
+- Must be enrolled in a Post Graduate program
+- The right to safe drinking water and sanitation is an internationally recognized human right and integral to the realization of other human rights. Efficient water management will be key to this in the future as well as providing adequate food, health and well-being, and preserving our natural environments and ecosystems. This specialisation uses a transdisciplinary approach to developing sustainable solutions to current problems with water resourcing and to equip graduates with the tools to tackle future difficulties in water management. It is expected that upon completion of the program students will have the cognitive, technical and critical thinking skills to analyse issues and articulate appropriate solutions in the complex field of water sustainability. A capstone subject involving either a research or professional industry project will allow students to integrate their knowledge and skills developed throughout the program.
+- Major Structure
+- Qualification for the award of Master of Science (Sustainable Water Futures) requires the successful completion of 160 credit points comprising:
+- Students should note that the subjects available in Alternate Pool 1 and Alternate Pool 2 are listed under the Structure tab of the Master of Science page.
+- Recommended Sequence Current
+- Master of Science full-time start-year intake
+- Master of Science full-time mid-year intake
+- Major in other postgraduate programs,  full-time start-year intake
+- Major in other postgraduate programs,  Mid-year intake
+- Equivalent Subject
+- The subject listed below counts towards completion of this major for students who passed this subject in 2021 or earlier.
+- ENGR 7018 - Research Preparation in Post Graduate Studies, replaced by NATS 7057 Research Preparation in Post Graduate Studies
+- NATS 7057 Research Preparation in Post Graduate Studies
+
+Location Table:
+- Hawkesbury Campus
+- On-Site
+- Internal
+- Science@westernsydney.edu.au
+- Parramatta South Campus
+- On-Site
+- Internal
+- Science@westernsydney.edu.au
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+AGEN 7010
+Sustainability through Transdisciplinary Approaches
+10
+AGEN 7009
+Water Sustainability in Catchments
+10
+Select two alternate subjects
+20
+
+Credit Points
+40
+Spring session
+AGEN 7007
+Water Planning, Policy and Governance
+10
+AGEN 7008
+Water Sustainability in Agriculture
+10
+MATH 7016
+The Nature of Data
+10
+select one alternate subject
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+NATS 7055
+Experiment Design and Project Management
+10
+Select three alternate subjects
+30
+
+Credit Points
+40
+Spring session
+Choose 20 credit Points from:
+20
+NATS 7033
+MSc Research Project
+
+NATS 7054
+Professional Topic
+
+NATS 7057
+Research Preparation in Post Graduate Studies
+
+Select two alternate subjects
+20
+
+Credit Points
+40
+
+Total Credit Points
+160
+Year 1
+Spring session
+Credit Points
+AGEN 7007
+Water Planning, Policy and Governance
+10
+AGEN 7008
+Water Sustainability in Agriculture
+10
+Select two alternate subjects
+20
+
+Credit Points
+40
+Autumn session
+AGEN 7010
+Sustainability through Transdisciplinary Approaches
+10
+AGEN 7009
+Water Sustainability in Catchments
+10
+Select two alternate subjects
+20
+
+Credit Points
+40
+Year 2
+Spring session
+MATH 7016
+The Nature of Data
+10
+Choose 20 credit points from:
+20
+NATS 7033
+MSc Research Project
+
+NATS 7054
+Professional Topic
+
+NATS 7057
+Research Preparation in Post Graduate Studies
+
+Select one alternate subject
+10
+
+Credit Points
+40
+Autumn session
+NATS 7055
+Experiment Design and Project Management
+10
+Select three alternate subjects
+30
+
+Credit Points
+40
+
+Total Credit Points
+160
+Year 1
+Autumn session
+Credit Points
+AGEN 7010
+Sustainability through Transdisciplinary Approaches
+10
+AGEN 7009
+Water Sustainability in Catchments
+10
+
+Credit Points
+20
+Spring session
+AGEN 7007
+Water Planning, Policy and Governance
+10
+AGEN 7008
+Water Sustainability in Agriculture
+10
+
+Credit Points
+20
+
+Total Credit Points
+40
+Year 1
+Spring session
+Credit Points
+AGEN 7007
+Water Planning, Policy and Governance
+10
+AGEN 7008
+Water Sustainability in Agriculture
+10
+
+Credit Points
+20
+Autumn session
+AGEN 7010
+Sustainability through Transdisciplinary Approaches
+10
+AGEN 7009
+Water Sustainability in Catchments
+10
+
+Credit Points
+20
+
+Total Credit Points
+40
+
+Courselist Tables:
+
+courselist table1:
+AGEN 7010Sustainability through Transdisciplinary Approaches10
+AGEN 7009Water Sustainability in Catchments10
+AGEN 7007Water Planning, Policy and Governance10
+AGEN 7008Water Sustainability in Agriculture10

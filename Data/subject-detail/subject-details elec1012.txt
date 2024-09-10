@@ -1,0 +1,17 @@
+Academic Handbook Current Edition ELEC 1012 Electrical Fundamentals (Block) Credit Points 10 Coordinator Maisha Tabassum Opens in new window Description This subject introduces essential electrical engineering concepts that provide students with the basic requirements for analysing, designing, building, and testing simple engineering systems. Students use techniques for analysing different types of circuits based on their knowledge of electrical theory and the characteristics of power, electrical energy, signals, and electrical circuit components. Students have practical activities including conducting experiments in learning how electrical systems work. Students are introduced to Electrical Machines and Renewable Energy systems for a fundamental understanding. School Eng, Design & Built Env Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 1 subject Equivalent Subjects ELEC 1003 (300021) Electrical Fundamentals
+ELEC 1005 (700024) Electrical Fundamentals (WSTC)
+ELEC 1004 (700104) Electrical Fundamentals (WSTC AssocD) Restrictions Students must be enrolled in program :- 7178 Diploma of Aerotropolis Industry 4.0 (Mechatronic Skills) Learning Outcomes 1. Explain the elements in electric circuits and electronic devices
+2. Apply appropriate techniques in the analysis of electric circuits
+3. Analyse the principles of capacitors and inductors as energy storage elements and their first order circuits
+4. Explain the operation of transformers, DC and AC machines
+5. Outline the key principles involved in the operation of Renewable Energy systems
+6. Use appropriate equipment in conducting experiments in a safe manner. Subject Content 1. Introduction to basic electrical quantities.
+2. Kirchhoffs current and voltage laws.
+3. Series and parallel resistors, current and the voltage divider rules.
+4. Nodal and Loop analysis, The principle of superposition and Thevenin and Norton equivalent circuits.
+5. Energy storage elements, capacitors and inductors.  Transient Response of first-order circuits.
+6. An introduction to Electronics.
+7. An introduction to communication waves.
+8. Logic gates and number systems.
+9. An introduction to Transformers, Electrical Machines.
+10. An introduction to Renewable Energy systems. Structures that include subject Diploma in Aerotropolis Industry 4.0 (Mechatronics Skills) (7178) Diploma in Aerotropolis Industry 4.0 (Mechatronics Skills)/Bachelor of Engineering Science (6046) Electrical and Electronic Eng. (ELEC)

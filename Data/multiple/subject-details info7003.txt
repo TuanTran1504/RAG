@@ -1,0 +1,25 @@
+Academic Handbook Current Edition INFO 7003 Advanced Topics in User System Interaction Credit Points 10 Legacy Code 301045 Coordinator Harry Wang Opens in new window Description The domain of User System Interaction or also known as Human Computer Interaction (HCI) dictates that IT graduates must be able to develop and evaluate interfaces that not only look professional but are usable, functional and accessible. This post graduate subject also examines HCI as a field of research and discusses novel areas of research in the area. Students in this subject will be required to complete a research project alongside a literature review document both of which comprise of content that is of a standard of being able to be considered for publication and/or presentation in a HCI conference or journal. School Computer, Data & Math Sciences Discipline Information Technology, Not Elsewhere Classified. Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Postgraduate Coursework Level 7 subject Pre-requisite(s) INFS 7007 Incompatible Subjects INFO 3003 - Human-Computer Interaction INFO 3004 - Human-Computer Interaction (Advanced) Restrictions Students must be enrolled in a postgraduate program. Learning Outcomes On successful completion of this subject, students should be able to: Apply cognitive and user models to the design of application user interfaces.
+Describe ways in which users' characteristics (i.e., age, education, cultural differences, disability etc.) require adaptation of a user interface to increase effectiveness.
+Integrate appropriate user-centred design methodologies into the development of an application, website or emerging technology (such as mobile and wearable devices)
+Describe and use the major usability guidelines and standards.
+Develop low-fidelity prototypes, and high-fidelity prototypes.
+Develop user interfaces for domain specific applications.
+Create an appropriate user evaluation plan with carefully chosen subjective and objective measures.
+Discuss state of the art research issues and novel interaction technologies under the umbrella of HCI by means of presenting discourse through a literature review paper. Subject Content Understanding the user and the user experience
+Interaction styles
+Usability standards
+User-centred design methods
+Development tools and prototyping
+Matching interface elements to user requirements
+Usability testing: tools and methodologies
+Accessibility and assistive technologies
+Rich media
+Localization, globalization
+Developing for multiple devices (Computer, PDAs, 3G phones etc)
+Human Computer Interface In Industry
+Emerging technologies
+Research initiatives in HCI
+Research skills (literature review, collecting and analysing data, writing a research report)
+Novel Interaction Techniques
+Multimodal Interaction
+Mobile HCI Attendance It is highly recommended that students engage with the weekly tutorial activities as work will be marked within each tutorial. Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Log/Workbook 3 -5 questions to be completed during tutorial  10 Y Individual Y  Log/Workbook Weekly exercises to be completed at home 20 N Individual N  Applied Project Part A - 750 words Part B - 1,200 words Part C - 10 minutes presentation 50 Y Individual Y  Literature Review 1,500-2,000 words 20 N Individual N Teaching Periods Autumn (2024) Parramatta - Victoria Rd On-site Subject Contact Harry Wang Opens in new window View timetable Opens in new window Sydney City Campus - Term 2 (2024) Sydney City On-site Subject Contact Mahsa Razavi Opens in new window View timetable Opens in new window Sydney City Campus - Term 3 (2024) Sydney City On-site Subject Contact Harry Wang Opens in new window View timetable Opens in new window Structures that include subject Graduate Certificate in Artificial Intelligence (exit only) (3767) Graduate Certificate in Information and Communications Technology (3701) Graduate Certificate in User Experience (3788) Graduate Diploma in Artificial Intelligence (exit only) (3766) Graduate Diploma in Information and Communications Technology (3700) Information and Communications Technology, Major (0232) Master of Artificial Intelligence (3765) Master of Information and Communications Technology (3699) Master of Information and Communications Technology (Advanced) (3698) Master of Information and Communications Technology (Research) (8112) Master of Information and Communications Technology/Master of Data Science (3780) Other information Technology (INFO)

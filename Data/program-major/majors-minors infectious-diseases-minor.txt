@@ -1,0 +1,31 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Infectious Diseases, Minor (0231)
+- Western Sydney University Minor Code:
+- Previous Code:  SM3114.1
+- Infectious diseases are a major threat to health across the globe, including increasing threats from new pathogens and the emergence of antibiotic resistance in established pathogens. This minor will examine organisms that typically cause infectious disease and will deliver skills and knowledge on how these interact with the immune system, cause disease, and are diagnosed and treated. This will be allied to learning and developing skills in epidemiology, how epidemics can be controlled and prevented, and the principle of risk management. This minor will be useful for future population health professionals, medical scientists, researchers, or those involved in biological risk management.
+- Location
+- Students must complete four subjects as follows.
+- Related Programs
+
+Location Table:
+- Campbelltown Campus
+- Internal
+- science@westernsydney.edu.au
+- Hawkesbury Campus
+- Internal
+- science@westernsydney.edu.au
+- Parramatta Campus - Victoria Road
+- Internal
+- science@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+BIOS 2022Microbiology 110
+PUBH 2010Epidemiology10
+NATS 3030Medical Microbiology10
+PUBH 3007Disease Prevention and Control10

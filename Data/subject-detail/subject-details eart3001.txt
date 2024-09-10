@@ -1,0 +1,24 @@
+Academic Handbook Current Edition EART 3001 Biological Adaptation to Climate Change Credit Points 10 Legacy Code 300909 Coordinator Justin Welbergen Opens in new window Description This subject investigates how organisms respond to variation in climate and what can be done to reduce their vulnerability to anthropogenic climate change. The subject makes use of a novel conceptual framework that defines 'vulnerability' as a function of the 'exposure' and 'sensitivity' of organisms to climate change. Therefore, we will begin by exploring how organisms are exposed to climate change, from regional climatic changes acting at the scale of populations, to local climatological effects acting at the scale of individuals. Next, we will examine what determines the sensitivity of organisms, focusing on the physiological, behavioural, and life-history traits that affect the ability of organisms to cope with and adapt to climate change. Then, we will show how exposure and sensitivity combine to determine the vulnerability of organisms, including in both managed and natural ecosystems. Finally, we will discuss the 'mitigation' and 'adaptation' strategies that can prevent the worst of the potential impacts from becoming realised and help protect our biodiversity in the face of anthropogenic climate change. School Science Discipline Ecology and Evolution Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Restrictions Successful completion of 40 credit points at Level 2. Learning Outcomes On successful completion of this subject, students should be able to: Describe how climate change will affect wildlife and ecosystems from local and global perspectives
+Explain the significance of historical changes in climate in shaping ecosystems and species radiations
+Evaluate climate change exposure at different temporal and spatial (global to microhabitat) scales
+Evaluate climate change sensitivity at all levels of biological organisation
+Analyse what drives vulnerability of organisms to climate change and what can help reduce impacts
+Conduct investigations safely and ethically in the field and laboratory, using sampling methodology correctly to obtain valid data
+Use spreadsheets and statistical tools in analytical programs to enter, analyse, and graph data; and use GIS and population modelling tools to draw appropriate conclusions from data
+Communicate findings correctly in oral or in written form using an appropriate style, as well as accessing the scientific literature to place the findings in context Subject Content 1. Overview on climate change impacts on biodiversity
+2. Effects of climate change exposure at different temporal (means vs extremes) and spatial (global to microhabitat) scales
+- Historical climate change, recent and future global & regional climate change (climate change-velocity etc.)
+- Extreme events (changes in regimes)
+- climate change refugia, microhabitat buffering
+3. Comparison of climate change sensitivity at all levels of biological organisation
+- Genetic change, acclimation/phenotypic plasticity Vs adaptation
+- Cellular & epigenetic processes
+- Plant physiology
+- Animal physiology
+- life-history, population dynamics
+- species interactions & phenology
+- Ecosystem function
+4. Factors that drive vulnerability of organisms to climate change and can help reduce impacts
+- Vulnerability - focus on biodiversity
+- Vulnerability - focus on agriculture
+- Prioritisation & conservation action Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Quizzes 1 hr 20 N Individual   Applied Project and Multimedia activity A minimum of four distinct website pages with full functionality on electronic devices 20 N Individual   Scientific Report 2,000 words maximum 30 N Individual   Final Exam 2 hours 30 N Individual Structures that include subject Bachelor of Science/Bachelor of International Studies (3764) Biological Sciences (BIOS) Earth Sciences (EART) Global Climate Change, Major (0168)

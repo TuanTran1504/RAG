@@ -1,0 +1,253 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Graduate Diploma in Artificial Intelligence (exit only) (3766)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 0101784
+- The program is an early exit point from Master of Artificial Intelligence
+- Study Mode
+- One year full-time, two years part-time
+- Program Advice
+- Associate Professor Dongmo Zhang
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Admission
+- This program is an early exit point only.
+- Students enrol in Master of Artificial Intelligence and exit with the Graduate Diploma in Artificial Intelligence.
+- Sequence Current
+- This sequence applies to students who commenced in Spring 2023 or later. If you commenced prior to Spring 2023 please refer to the Sequence to Autumn 2023 tab for details.
+- Qualification for this award requires the successful completion of 80 credit points which include the subjects listed in the recommended sequence below.
+- Autumn Intake
+- Spring Intake
+- Alternate Subjects
+- Exit Awards
+- Note: Students may exit with Graduate Certificate in Artificial Intelligence (40 credit points) on completion of the relevant subjects as specified in the program structure.
+- Recommended Sequence to Autumn 2023
+- If you commenced in Spring 2023 or later please refer to the Spring 2023 tabs for details.
+- Qualification for this award requires the successful completion of 80 credit points which include the subjects listed in the recommended sequence below.
+- Autumn Intake
+- Spring Intake
+- Alternate Subjects
+- Exit Awards
+- Note: Students may exit with Graduate Certificate in Artificial Intelligence (40 credit points) on completion of the relevant subjects as specified in the program structure.
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2020 or earlier.
+- INFO 7008 - Modern Software Architectures, replaced by INFO 7018 Cloud Systems Development
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 7011 Predictive Analytics, replaced by  COMP 7023 Predictive Analytics
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Full Time
+- Internal
+- See above
+- Parramatta Campus - Victoria Road
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+COMP 7016
+Visualisation
+10
+COMP 7022
+Natural Language Processing
+10
+COMP 7019
+Applied Machine Learning
+10
+COMP 7013
+Network Technologies
+10
+At this point, students can exit with a Graduate Certificate in Artificial Intelligence
+
+
+Credit Points
+40
+Spring session
+COMP 6003
+Computer Vision
+10
+INFO 7002
+Advanced Topics in Artificial Intelligence
+10
+COMP 7020
+Artificial Intelligence Ethics and Organisations
+10
+Select one alternate subject
+10
+
+Credit Points
+40
+
+Total Credit Points
+80
+Year 1
+Spring session
+Credit Points
+COMP 7013
+Network Technologies
+10
+COMP 7020
+Artificial Intelligence Ethics and Organisations
+10
+INFO 7002
+Advanced Topics in Artificial Intelligence
+10
+Select one Alternate subject
+10
+
+Credit Points
+40
+Autumn session
+COMP 7016
+Visualisation
+10
+COMP 6003
+Computer Vision
+10
+COMP 7019
+Applied Machine Learning
+10
+COMP 7022
+Natural Language Processing
+10
+
+Credit Points
+40
+
+Total Credit Points
+80
+Year 1
+Autumn session
+Credit Points
+COMP 7016
+Visualisation
+10
+COMP 7022
+Natural Language Processing
+10
+COMP 7019
+Applied Machine Learning
+10
+COMP 7003
+Big Data
+10
+At this point, students can exit with a Graduate Certificate in Artificial Intelligence
+
+
+Credit Points
+40
+Spring session
+COMP 7013
+Network Technologies
+10
+INFO 7002
+Advanced Topics in Artificial Intelligence
+10
+COMP 7020
+Artificial Intelligence Ethics and Organisations
+10
+Select one alternate subject
+10
+
+Credit Points
+40
+
+Total Credit Points
+80
+Year 1
+Spring session
+Credit Points
+COMP 7013
+Network Technologies
+10
+COMP 7020
+Artificial Intelligence Ethics and Organisations
+10
+INFO 7002
+Advanced Topics in Artificial Intelligence
+10
+Select one Alternate subject
+10
+
+Credit Points
+40
+Autumn session
+COMP 7016
+Visualisation
+10
+COMP 7003
+Big Data
+10
+COMP 7019
+Applied Machine Learning
+10
+COMP 7022
+Natural Language Processing
+10
+
+Credit Points
+40
+
+Total Credit Points
+80
+
+Courselist Tables:
+
+courselist table1:
+INFO 7014Advanced Topics in Cybersecurity10
+COMP 7002Advanced Topics in Networking10
+INFO 7003Advanced Topics in User System Interaction10
+COMP 7004Cloud Computing10
+INFO 7018Cloud Systems Development10
+HUMN 7012Cyber Justice (PG)10
+COMP 7006Data Science10
+COMM 7003Foundations of Media Arts Production (PG)10
+CULT 7004Global Digital Futures10
+COMP 7028Hands-on Quantum Computing10
+COMM 7013Ideate, Develop: Makerspace 110
+COMP 7008Internet of Things10
+COMP 7009Mobile Computing10
+COMM 7009Mobile Media10
+COMP 7011Multimedia Communication Systems10
+COMP 7024Programming for Data Science10
+COMM 7011Researching Convergent Media10
+COMP 7025Social Media Intelligence10
+INFS 7006Software Testing and Automation10
+INFS 7008Systems and Network Security10
+MATH 7016The Nature of Data10
+INFS 7009Web Technologies10
+INFO 7013Web Engineering10
+COMP 7017Wireless Networking10
+
+courselist table2:
+INFO 7014Advanced Topics in Cybersecurity10
+COMP 7002Advanced Topics in Networking10
+INFO 7003Advanced Topics in User System Interaction10
+COMP 7004Cloud Computing10
+INFO 7018Cloud Systems Development10
+HUMN 7012Cyber Justice (PG)10
+COMP 7006Data Science10
+COMM 7003Foundations of Media Arts Production (PG)10
+CULT 7004Global Digital Futures10
+COMP 7028Hands-on Quantum Computing10
+COMM 7013Ideate, Develop: Makerspace 110
+COMP 7008Internet of Things10
+COMP 7009Mobile Computing10
+COMM 7009Mobile Media10
+COMP 7011Multimedia Communication Systems10
+COMP 7024Programming for Data Science10
+COMM 7011Researching Convergent Media10
+COMP 7025Social Media Intelligence10
+INFS 7006Software Testing and Automation10
+INFS 7008Systems and Network Security10
+MATH 7016The Nature of Data10
+INFS 7009Web Technologies10
+INFO 7013Web Engineering10
+COMP 7017Wireless Networking10

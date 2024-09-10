@@ -1,0 +1,121 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Bachelor of Psychological Science (Honours) (1905)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 107232F
+- This program applies to students who commenced in 2022 or later
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- For Commencement Year 2018 to 2021 - please refer to 1860.1 Bachelor of Psychological Studies (Honours)
+- This one-year, 80 credit point, fee-paying program includes a 30 credit point research thesis and 50 credit points of course work.
+- Study Mode
+- One year full-time or two years part-time.
+- Program Advice
+- Program Advice
+- Location
+- Accreditation
+- This program is accredited by the Australian Psychology Accreditation Council (APAC) on the basis that it meets all the APAC Accreditation Standards (June 2010) for a fourth year sequence of study in psychology.
+- Admission
+- In addition, students must have obtained an Average Admission Mark of 70+ in Level 2 and 3 Psychology subjects.
+- Entry into Honours is restricted by supervisory capacity. Limited places are available in this program and meeting the admission criteria does not guarantee entry.
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Program Structure
+- Qualification for this award requires the successful completion of 80 credit points as per the recommended sequence below.
+- Please note: Students must enrol in BEHV 4004 Psychology Research Thesis and BEHV 4006 Research Methods Seminar in both Autumn and Spring sessions in order to receive final grades and credit points.
+- BEHV 4004 Psychology Research Thesis
+- BEHV 4006 Research Methods Seminar
+- Recommended Sequence
+- Full-time start-year intake
+- Part-time start-year intake
+
+Location Table:
+- Bankstown City Campus
+- Full Time
+- Internal
+- See above
+- Bankstown City Campus
+- Part Time
+- Internal
+- See above
+- Parramatta Campus - Victoria Road
+- Full Time
+- Internal
+- See above
+- Parramatta Campus - Victoria Road
+- Part Time
+- Internal
+- See above
+- Penrith Campus
+- Full Time
+- Internal
+- See above
+- Penrith Campus
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+WELF 4002
+Counselling and Consultation
+10
+BEHV 4006
+Research Methods Seminar
+10
+
+Credit Points
+20
+Spring session
+BEHV 4005
+Theory and Practice of Psychological Assessment and Intervention
+10
+BEHV 4006
+Research Methods Seminar
+10
+
+Credit Points
+20
+Year 2
+Autumn session
+BEHV 4009
+Advanced Topics in Contemporary Psychology
+10
+BEHV 4004
+Psychology Research Thesis
+15
+
+Credit Points
+25
+Spring session
+BEHV 4004
+Psychology Research Thesis
+15
+
+Credit Points
+15
+
+Total Credit Points
+80
+
+Courselist Tables:
+
+courselist table1:
+Autumn
+BEHV 4009Advanced Topics in Contemporary Psychology10
+WELF 4002Counselling and Consultation10
+BEHV 4006Research Methods Seminar10
+BEHV 4004Psychology Research Thesis15
+Spring session
+BEHV 4005Theory and Practice of Psychological Assessment and Intervention10
+BEHV 4006Research Methods Seminar10
+BEHV 4004Psychology Research Thesis15
+Total Credit Points80

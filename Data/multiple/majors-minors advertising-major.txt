@@ -1,0 +1,96 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Advertising, Major (0159)
+- Western Sydney University Major Code:
+- Previous Code: M1121.1
+- The Advertising major provides a thorough grounding in current advertising practice, exposing students to authentic agency experiences and sharpening their skills as communicators and persuaders. Areas of study include advertising strategy, media, copywriting and design, client and account management, digital and social media contexts, the creation and delivery of advertising campaigns, plus an internship. Students will develop the skills they need to succeed in a range of contexts, from client liaison and campaign development, to creative messaging and media planning.
+- Location
+- *Curriculum delivered through an agreement with another party
+- Major Structure Current
+- This structure applies to students who commenced in 2024 or later. If you commenced prior to 2024 please refer to the Structure 2023 tab for details.
+- Students must complete 80 credit points as follows:
+- Major Structure 2023
+- If you commenced in 2024 or later please refer to the Structure Current tab for details.
+- Bachelor of Business Students
+- Bachelor of Business students must complete the structure under the heading for Bachelor of Business below.
+- Creative Industries Students
+- Creative Industries students must complete their Introduction to major subject, as part of the core requirements of the program, prior to enrolling in this major.
+- Students must complete 80 credit points as follows
+- Level 2 subjects
+- Level 3 subjects
+- Bachelor of Business Students
+- Students must complete 80 credit points as follows
+- Level 1 subject
+- Level 2 subjects
+- Level 3 subjects
+- Equivalent Subject
+- The subject listed below counts towards completion of this major for students who passed this subject in 2019 or earlier.
+- COMM 3007 Communication Campaigns, replaced by COMM 3045 Advertising: Campaigns
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+- Penrith Campus
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+- Online
+- Online
+- EnquiriesHCA@westernsydney.edu.au
+- Sydney City Campus*
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+- Vietnam Campus*
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Level 1 subject
+MKTG 1001Advertising: An Introduction10
+Level 2 subjects
+COMM 2001Account and Client Management10
+MKTG 2001Advertising: Creative10
+MKTG 2013Advertising: Strategy10
+Level 3 subjects
+COMM 3045Advertising: Campaigns10
+COMM 3018Internship10
+COMM 3051Advertising: Media10
+COMM 3054Digital and Social Communication10
+Total Credit Points80
+
+courselist table2:
+MKTG 1001Advertising: An Introduction10
+
+courselist table3:
+COMM 2001Account and Client Management10
+MKTG 2001Advertising: Creative10
+COMM 2006Advertising: Media10
+COMM 2011Communication Strategies10
+
+courselist table4:
+COMM 3045Advertising: Campaigns10
+COMM 3014Digital Communication20
+Select one of the following:10
+COMM 3018Internship
+COMM 3037Transmedia Production
+Total Credit Points80
+
+courselist table5:
+MKTG 1001Advertising: An Introduction10
+
+courselist table6:
+COMM 2001Account and Client Management10
+MKTG 2001Advertising: Creative10
+COMM 2006Advertising: Media10
+COMM 2011Communication Strategies10
+
+courselist table7:
+COMM 3045Advertising: Campaigns10
+COMM 3014Digital Communication20
+Total Credit Points80

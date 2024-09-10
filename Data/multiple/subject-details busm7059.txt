@@ -1,0 +1,22 @@
+Academic Handbook Current Edition BUSM 7059 Logistics Processes in Enterprise Resource Planning Credit Points 10 Legacy Code 200836 Coordinator Premaratne Samaranayake Opens in new window Description This subject introduces key logistics processes supported by modern ERP (Enterprise Resource Planning) systems, using an integrated process perspective of the firm.  Each process within broader logistics processes provides the basis for executing logistics operations in a range of organisations across manufacturing, service and government sectors.  Logistics processes are introduced through key process cycles including manufacturing, planning and control (MPC) in production planning, procurement cycle in purchasing, sales order processing in sales and distribution, and logistics execution.  Cross-integration of these process cycles is also illustrated using various integrations among the procurement, fulfilment, production and warehouse management processes.   Logistics processes are demonstrated using data, application and technical integration within an ERP system environment. School Business Discipline Business And Management Student Contribution Band HECS Band 4 10cp Check your fees via the Fees page. Level Postgraduate Coursework Level 7 subject Restrictions Students must be enrolled in a postgraduate Business program. Learning Outcomes On successful completion of this subject, students should be able to: Demonstrate understanding of key functional areas of logistics processes in manufacturing and service organisations;
+Explain master data, organisational structures and functions within key functional areas of organisation for effective logistics operations;
+Perform various planning, control and execution functions within broader logistics processes using an ERP system, based on several planning/execution strategies;
+Describe how data, application and technical integration works across key functional modules of ERP system, using functional applications and information systems;
+Apply concepts and principles of logistics processes when implementing re-engineered processes in broader supply chain practices across various industry sectors. Subject Content - introduction to business processes
+- The procurement process
+- The fulfilment process
+- sales and Operations planning and demand management processes
+- The material planning process
+- The production process
+- inventory and warehouse management processes
+- process integration
+- Logistics execution ? selected Topics
+1. Introduction to business processes
+2. The procurement process
+3. The fulfilment process
+4. Sales and operations planning and demand management processes
+5. The material planning process
+6. The production process
+7. Inventory and warehouse management processes
+8. Process integration
+9. Logistics execution ? selected topics Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Intra-session Exam 90 minutes 30 N Individual Y  Report 2,500-3,000 words 30 N Group Y  Final Exam 2 hours 40 N Individual Y Prescribed Texts Teaching Periods Quarter 2 (2024) Parramatta City - Macquarie St On-site Subject Contact Premaratne Samaranayake Opens in new window View timetable Opens in new window Structures that include subject Business and Management (BUSM) Logistics and Supply Chain Management, Major (0235) Master of Business (Operations Management) (2624)

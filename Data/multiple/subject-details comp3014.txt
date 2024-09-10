@@ -1,0 +1,29 @@
+Academic Handbook Current Edition COMP 3014 Networked Systems Design Credit Points 10 Legacy Code 300575 Coordinator Sharon Griffith Opens in new window Description This subject builds on and consolidates the skills and knowledge gained in  Computer Networking and Computer Networks and Internets. Students successfully completing this subject will acquire the necessary design skills and knowledge required to build and configure enterprise scale networks. The subject provides students with an opportunity to develop problem-solving techniques and decision-making skills to resolve networking issues. Students completing this subject and its prerequisites should also now be prepared to attempt world recognized network industry certification (CCNA). School Computer, Data & Math Sciences Discipline Networks and Communications Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Pre-requisite(s) COMP 3007 Equivalent Subjects LGYA 5741 - Broadband Networking Learning Outcomes On successful completion of this subject, students should be able to: Design the physical layout of the network and produce a specification diagram
+Provide detailed network documentation in the appropriate format
+Design an Internet Protocol (IP) subnetting scheme using Variable Length Subnet Mask (VLSM) & Classless Inter-Domain Routing (CIDR)
+Design and propose appropriate router and switch configurations
+Verify and troubleshoot various types of network connections
+Provide a written final report/network design proposal to a professional standard
+Correctly configure a Wireless Local Area Network (WLAN)
+Correctly configure single-area Open Shortest Path First (OSPF) protocol
+Correctly configure Virtual Local Area Networks (VLANs) and 802.1q trunking
+Correctly configure Frame Relay
+Correctly configure Dynamic Host Configuration Protocol (DHCP)
+Correctly configure Network Address Translation (NAT)
+Create and apply Access Control Lists (ACLs)
+Create a Hierarchical Network Design Subject Content Sound Network Design Practices
+Hierarchical Network Design Principles
+Classless Routing
+Single-Area Open Shortest Path First (OSPF) Protocol
+Enhanced Interior Gateway Routing Protocol (EIGRP)
+Switch Configuration
+Spanning-Tree Protocol (STP)
+Virtual Local Area Networks (VLANs)
+Virtual Trunking Protocol (VTP)
+Local Area Network (LAN) Aggregation & Redundancy
+Wireless Local Area Networks (WLANs)
+Scaling Internet Protocol (IP) Addresses
+Wide Aare Network (WAN) Technologies
+Point-to-Point Protocol (PPP)
+Integrated Services Digital Network (ISDN) and Dial-on-Demand Routing (DDR)
+Frame Relay Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Practical Maximum of 12 Lab Exercises at a maximum of 2hr per exercise 10 N Both (Individual & Group) Y  Practical Exam 1 hour 20 N Both (Individual & Group) Y  Multiple Choice 1 hour - closed book 20 Y Individual Y  Professional Task Maximum 15 pages 50 Y Individual Y Teaching Periods Autumn (2024) Penrith (Kingswood) On-site Subject Contact Sharon Griffith Opens in new window View timetable Opens in new window Sydney City Campus - Term 3 (2024) Sydney City On-site Subject Contact Antoinette Cevenini Opens in new window View timetable Opens in new window Structures that include subject Bachelor of Computer Science (3506) Bachelor of Computer Science (Advanced) (3634) Computer Science (COMP) Network Management, Testamur Major (T159) Networked Systems, Major (0065) Networking and Cloud Computing, Testamur Major (T146) Networking, Major (0040) Networking, Minor (0040)

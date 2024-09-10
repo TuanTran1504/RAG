@@ -1,0 +1,57 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Sport, Events and Tourism, Major (0303)
+- Western Sydney University Major Code:
+- This major brings together sport, event and tourism management subjects to provide students with the knowledge and skills required to organise and manage sport and recreation events. Students will also learn about the social and cultural significance of sport, tourism and sporting events, and their unique role in the visitor economy.
+- Location
+- Major Structure
+- Students must complete 80 credit points.
+- Complete the following compulsory subjects
+- Students must also complete two subjects from the following pool.
+- The subject listed below counts towards completion of this major for students who passed this subject in 2022 or earlier.
+- CULT 3015 - Heritage and Tourism, replaced by TOUR 3002 Cultural Tourism and Events
+- TOUR 3002 Cultural Tourism and Events
+- HUMN 2057 - Tourism in Society, replaced by TOUR 2004 Tourism and Festivals in Society
+- TOUR 2004 Tourism and Festivals in Society
+- BUSM 3079 - Travel in the Digital Age, replaced by TOUR 3001 Tourism, Events and Technology
+- TOUR 3001 Tourism, Events and Technology
+- TOUR 1002 - Tourism and Global Trends, replaced by TOUR 1003 Global Trends in Tourism and Events
+- TOUR 1003 Global Trends in Tourism and Events
+- Related Programs
+
+Location Table:
+- Parramatta City
+- Full-time
+- Dr Garth Lean
+- Parramatta City
+- Part-time
+- Dr Garth Lean
+- Parramatta South - Victoria Road
+- Full-time
+- Dr Garth Lean
+- Parramatta South - Victoria Road
+- Part-time
+- Dr Garth Lean
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+TOUR 3006Festivals and Events10
+TOUR 1003Global Trends in Tourism and Events10
+BUSM 2037Sport Entertainment10
+BUSM 2048Sports Marketing10
+BUSM 1031The World of Sport Business10
+TOUR 2004Tourism and Festivals in Society10
+Total Credit Points60
+
+courselist table2:
+Select two of the following:20
+TOUR 3002Cultural Tourism and Events
+BUSM 3083Global Sports Management
+BUSM 3065Special Event Management
+BUSM 3070Strategic Sport Leadership
+TOUR 3001Tourism, Events and Technology
+Total Credit Points20

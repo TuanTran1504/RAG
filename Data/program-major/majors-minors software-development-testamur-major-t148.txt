@@ -1,0 +1,94 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Software Development, Testamur Major (T148)
+- Western Sydney University Major Code:
+- In this major, students learn how to create high quality software to meet client needs. This involves applying the theories and practices of software development to determine requirements, design and deliver solutions. In this software development lifecycle process, students use a range of technologies, and programming skills used for the development of software systems and distributed applications. In addition, students develop the ability to identify, analyse, and formulate solutions to real-world problems in the software development domain. In devising these solutions students also consider principles associated with user interface design, professional and ethical issues, in particular those relating to security and privacy of user data and user behaviour related to software development and associated applications.
+- Location
+- Curriculum delivered through an agreement with another party
+- Major Structure Current
+- This structure applies to students who commenced in Spring 2023.
+- If you commenced in Autumn 2023 please refer to the Autumn 2023 Sequence tab for details.
+- Students must complete 80 credit points as follows
+- Major Structure 2023
+- This major structure applies to students who commenced in Autumn 2023.
+- Students must complete 80 credit points as follows
+- Related Programs
+
+Location Table:
+- Campbelltown Campus
+- Full-time
+- Internal
+- cdms@westernsydney.edu.au
+- Campbelltown Campus
+- Part-time
+- Internal
+- cdms@westernsydney.edu.au
+- Parramatta Victoria Road Campus
+- Full-time
+- Internal
+- cdms@westernsydney.edu.au
+- Parramatta Victoria Road Campus
+- Part-time
+- Internal
+- cdms@westernsydney.edu.au
+- Penrith Campus
+- Full-time
+- Internal
+- cdms@westernsydney.edu.au
+- Penrith Campus
+- Part-time
+- Internal
+- cdms@westernsydney.edu.au
+- Sydney City Campus*
+- Full-time
+- Part-time
+- a.cevenini@city.westernsydney.edu.au
+- Sydney City Campus*
+- Part-time
+- Internal
+- a.cevenini@city.westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+COMP 2009Data Structures and Algorithms10
+COMP 3013Mobile Applications Development10
+INFO 3003Human-Computer Interaction10
+COMP 3012Introduction to Cloud Computing10
+COMP 3036Full Stack Development10
+Select one of the following10
+COMP 2029DevOps
+COMP 3009Distributed Systems and Programming
+COMP 3015Operating Systems Programming
+Select one of the following10
+INFO 3011Social Computing
+COMP 2023Mathematical Programming
+COMP 1013Analytics Programming
+** Select one of the following10
+** Students who NOT completed MATH 1006 in the program core, MUST complete MATH 1006
+MATH 1006Discrete Mathematics
+** Students who HAVE completed MATH 1006 in the program core, MUST complete MATH 2009 or MATH 2010 or COMP 2025
+MATH 2009Introduction to Data Science
+MATH 2010Linear Algebra
+COMP 2025Introduction to Data Science
+Total Credit Points80
+
+courselist table2:
+COMP 2009Data Structures and Algorithms10
+COMP 3013Mobile Applications Development10
+MATH 1006Discrete Mathematics10
+INFO 3003Human-Computer Interaction10
+COMP 3012Introduction to Cloud Computing10
+COMP 3036Full Stack Development10
+Select one of the following10
+COMP 2029DevOps
+COMP 3009Distributed Systems and Programming
+COMP 3015Operating Systems Programming
+Select one of the following10
+INFO 3011Social Computing
+COMP 2023Mathematical Programming
+COMP 1013Analytics Programming
+Total Credit Points80

@@ -1,0 +1,19 @@
+Academic Handbook Current Edition ELEC 1004 Electrical Fundamentals (WSTC AssocD) Credit Points 10 Legacy Code 700104 Coordinator Abbas Ranjbar Opens in new window Description The objective of this subject is to introduce to the student a number of concepts within electrical engineering.  These include basic definitions of charge, current, potential difference, power;  electric circuits and basic laws such as Ohm's and Kirchoff's Laws; Thevenin, Norton's and the maximum power theorems;  electromagnetism and the associated fundamental laws;  capacitor and resistor circuits and time constants;  an introduction to Electronics; communication waves; Logic gates and number systems; and an introduction to Electrical Machines and Renewable Energy systems.  Basic principles are explained and applied to a range of typical electrical circuits and devices. These foundations provide students with the basic requirements for a career in engineering where the concepts can be developed or applied to more complex engineering systems. School Eng, Design & Built Env Discipline Electrical And Electronic Engineering And Technology Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 1 subject Equivalent Subjects ELEC 1003 - Electrical Fundamentals ELEC 1005 - Electrical Fundamentals (WSTC) Restrictions Students must be enrolled in 7022 Associate Degree in Engineering Learning Outcomes On successful completion of this subject, students should be able to: Explain the elements in an electric circuit
+Apply the basic principles of analysing an electric circuit
+Apply nodal, mesh, superposition, Thevenin's analysis DC electric circuits
+Apply the principles of capacitors and inductors as energy storage elements and their first order circuits
+Explain characteristics of electronic devices
+Explain basic principles of communication waves
+Explain significance of Logic gates and number systems
+Explain the operation of transformers, DC and AC machines
+Explain principle of operation of Renewable Energy systems Subject Content 1. Introduction to basic electrical quantities
+2. Kirchhoffs current and voltage laws
+3. Series and parallel resistors, current and the voltage divider rules
+4. Nodal and Loop analysis, The principle of superposition and Thevenin and Norton equivalent circuits
+5. Energy storage elements, capacitors and inductors. Transient Response of first-order circuits
+6. An introduction to Electronics
+7. An introduction to communication waves
+8. Logic gates and number systems
+9. An introduction to Transformers, Electrical Machines
+10. An introduction to renewable energy systems Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Quiz 30 minutes each 30 N Individual N  Intra-session Exam 1 hour 10 N Individual N  Practical 6 hours in total 20 N Group/Individual N  End-of-session Exam Part 1: 2 hours (15%)
+Part 2: Viva Voce 20 minutes per student (25%) 40 N Individual N Prescribed Texts Teaching Periods Quarter 3 (2024) Nirimba Education Precinct Hybrid Subject Contact Abbas Ranjbar Opens in new window View timetable Opens in new window Structures that include subject Associate Degree in Engineering (7022) Electrical and Electronic Eng. (ELEC)

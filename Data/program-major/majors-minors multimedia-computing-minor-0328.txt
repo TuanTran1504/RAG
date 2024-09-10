@@ -1,0 +1,38 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Multimedia Computing, Minor (0328)
+- Western Sydney University Minor Code:
+- This minor focuses on the technical and theoretical knowledge of design, development and deployment of software applications in Interactive Multimedia Computing. Students learn techniques for developing interactive systems, including asset creation, animation and programming. During the minor, students apply the techniques to develop 3D models and animations and video games or interactive simulations.
+- Multimedia computing involves combining a range of texts, graphics, video and animation amongst other media into a package that users can easily navigate and control. This requires knowledge of the technical as well as theoretical aspects of the design, development and deployment of software applications in interactive Multimedia Computing environments. Students learn techniques for developing interactive systems and apply these to design and develop 3D models, animations and video games in work integrated learning projects.
+- Location
+- Students must complete 40 credit points as follows
+
+Location Table:
+- Parramatta Victoria Road Campus
+- Full-time
+- Internal
+- cdms@westernsydney.edu.au
+- Parramatta Victoria Road Campus
+- Part-time
+- Internal
+- cdms@westernsydney.edu.a
+- Penrith Campus
+- Full-time
+- Internal
+- cdms@westernsydney.edu.au
+- Penrith Campus
+- Part-time
+- Internal
+- cdms@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+COMP 10013D Modelling Fundamentals10
+COMP 3024Video Games Development10
+INFO 3003Human-Computer Interaction10
+COMP 3006Computer Graphics10
+Total Credit Points40

@@ -1,0 +1,278 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Financial Planning, Testamur Major (T022)
+- Western Sydney University Major Code:
+- Previous Code: MT2037.1
+- The Financial Planning major is available in the Bachelor of Accounting. The specialised units in this major analyse contemporary issues relevant to financial planning using case studies and discussion. Completion of this major meets the profession’s RG146 generic knowledge requirements, specialist knowledge requirements and skills requirements as they currently stand. Whilst it is not compulsory to complete the Taxation major, students are encouraged to complete the Taxation major which qualifies them to provide tax advice and to meet the accreditation requirements of the Financial Planning Association in Australia (FPA). Details regarding these requirements can be found on the program 2783 Bachelor of Accounting page.
+- Major Structure
+- Qualification for the major requires the successful completion of the eight subjects (80 credit points) below. The first four subjects listed are core subjects in 2783 Bachelor of Accounting. Students who select this major will have three electives remaining in their program.
+- Recommended Sequence
+- Full-time
+- Part-time
+- Minor elective spaces
+- Global Sustainability Minor  Indigenous Australian Studies Minor
+- Equitable Technologies Urban Evolution Migration and Global Change   Personal Innovation     Innovating, Creating and Problem Solving  Eco-Socially Conscious Design and Manufacturing Water for Life  Climate Justice Creative and Visual Communication Global Workplaces Innovating For Humans  Creative Living for Cultural Wellbeing   Ideate.Strategise.Innovate. Humanising Data
+- For more information, visit the Challenge Minor website.
+- Search for majors and minors
+- Students can apply for an elective minor via Western Now.
+- WesternNow
+- The subjects listed below count towards completion of the program for students who may have passed subjects in the list in 2022 or earlier.
+- FINC 1001 - Management Accounting Fundamentals, replaced by ACCT 1010 Management Accounting Fundamentals
+- ACCT 1010 Management Accounting Fundamentals
+- Related Programs
+
+Location Table:
+- Parramatta City Campus-Macquarie Street
+- Internal
+- Program Advice
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+ACCT 1005
+Accounting in Context
+10
+LAWS 1001
+Enterprise Law
+10
+ECON 1011
+Principles of Economics
+10
+Select one of the following:
+10
+ECON 1006
+Introduction to Economic Methods
+
+MATH 1030
+Statistics for Business
+
+
+Credit Points
+40
+Spring session
+ACCT 1007
+Financial Accounting Applications
+10
+ECON 2002
+Corporate Financial Management
+10
+LAWS 2010
+Law of Business Organisations
+10
+FINC 3006
+Insurance Advising - Theory and Practice
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+ACCT 1010
+Management Accounting Fundamentals
+10
+ACCT 2005
+Techniques in Financial Accounting
+10
+LAWS 3070
+Taxation Law
+10
+FINC 2002
+Personal Asset Management
+10
+
+Credit Points
+40
+Spring session
+ACCT 2001
+Contemporary Management Accounting
+10
+ACCT 3003
+Accounting Standards and Governance
+10
+FINC 3014
+Retirement and Succession Planning
+10
+ACCT 3001
+Accounting Information Systems
+10
+
+Credit Points
+40
+Year 3
+Autumn session
+ACCT 3007
+Corporate Accounting Systems
+10
+FINC 3004
+Financial Planning
+10
+LAWS 2005
+Financial Services Law
+10
+Select one elective
+10
+
+Credit Points
+40
+Spring session
+ACCT 3011
+The Accountant as a Consultant
+10
+ACCT 3006
+Auditing and Assurance Services
+10
+Select two electives
+20
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Autumn session
+Credit Points
+ACCT 1005
+Accounting in Context
+10
+LAWS 1001
+Enterprise Law
+10
+
+Credit Points
+20
+Spring session
+ECON 1011
+Principles of Economics
+10
+Select one of the following:
+10
+MATH 1030
+Statistics for Business
+
+ECON 1006
+Introduction to Economic Methods
+
+
+Credit Points
+20
+Year 2
+Autumn session
+ACCT 1007
+Financial Accounting Applications
+10
+ECON 2002
+Corporate Financial Management
+10
+
+Credit Points
+20
+Spring session
+ACCT 1010
+Management Accounting Fundamentals
+10
+LAWS 2010
+Law of Business Organisations
+10
+
+Credit Points
+20
+Year 3
+Autumn session
+ACCT 2005
+Techniques in Financial Accounting
+10
+ACCT 2001
+Contemporary Management Accounting
+10
+
+Credit Points
+20
+Spring session
+LAWS 3070
+Taxation Law
+10
+FINC 3006
+Insurance Advising - Theory and Practice
+10
+
+Credit Points
+20
+Year 4
+Autumn session
+ACCT 3001
+Accounting Information Systems
+10
+FINC 2002
+Personal Asset Management
+10
+
+Credit Points
+20
+Spring session
+FINC 3014
+Retirement and Succession Planning
+10
+ACCT 3003
+Accounting Standards and Governance
+10
+
+Credit Points
+20
+Year 5
+Autumn session
+ACCT 3007
+Corporate Accounting Systems
+10
+Select one elective
+10
+
+Credit Points
+20
+Spring session
+ACCT 3006
+Auditing and Assurance Services
+10
+Select one elective
+10
+
+Credit Points
+20
+Year 6
+Autumn session
+FINC 3004
+Financial Planning
+10
+LAWS 2005
+Financial Services Law
+10
+
+Credit Points
+20
+Spring session
+ACCT 3011
+The Accountant as a Consultant
+10
+Select one elective
+10
+
+Credit Points
+20
+
+Total Credit Points
+240
+
+Courselist Tables:
+
+courselist table1:
+LAWS 1001Enterprise Law10
+FINC 3004Financial Planning10
+LAWS 2005Financial Services Law10
+FINC 3006Insurance Advising - Theory and Practice10
+LAWS 2010Law of Business Organisations10
+FINC 2002Personal Asset Management10
+FINC 3014Retirement and Succession Planning10
+LAWS 3070Taxation Law10
+Total Credit Points80

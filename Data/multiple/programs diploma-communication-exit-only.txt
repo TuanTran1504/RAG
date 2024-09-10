@@ -1,0 +1,88 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Diploma in Communication (exit only) (7043)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 087974D
+- The Diploma in Communication is available as an exit point only from 6007 - Diploma in Communication/Bachelor of Communication, 6009 - Diploma in Communication/Bachelor of Creative Industries or 6015 - Diploma in Communication/Bachelor of Screen Media (Arts and Production).
+- This program applies to students who commenced in 2021 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- Commencement Year 2017 - 2020 - 7043.2 Diploma in Communication
+- Commencement Year 2015 - 2016 - 7043.1 Diploma in Communication
+- This program is designed to give students an understanding of the key areas of communication, before choosing a major in the second year of the Bachelor of Communication, Bachelor of Creative Industries or Bachelor of Screen Media degrees. The inclusion of additional preparatory subjects is designed to assist students in the transition to study at University level.
+- Study Mode
+- One year full-time
+- Program Advice
+- College Program Enquiries
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Admission
+- This program is an exit award only
+- The aim of the course is to prepare students for tertiary study in Communication. These courses are accredited by the University, as principal, to enable its agent, The College, to produce students who are fully prepared for study beyond the first year of a tertiary award.
+- Program Structure
+- This program is an exit award only
+- Students must pass all the Preparatory subjects (WSTC Prep) for which no advanced standing will be granted in the University degree program.
+- The subject listed below counts towards completion of this program for students who passed this subject in 2021 or earlier.
+- VISU 2007 Animation and Visual Effects (WSTC), replaced by COMM 2054 Animation and Visual Effects (WSTC)
+
+Location Table:
+- The College - Nirimba Education Precinct
+- Full Time
+- Internal
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Preparatory subjects – all sequences
+LANG 0003Academic English (WSTC Prep)10
+COMM 0015Communication Practices (WSTC Prep)10
+Total Credit Points20
+
+courselist table2:
+Communication sequence
+COMM 1021Media Cultures and Industries (WSTC)10
+COMM 1011Data, Mediation and Power (WSTC)10
+COMM 1019Introduction to Journalism (WSTC)10
+MKTG 1010Public Relations Theory and Practice (WSTC)10
+COMM 1033Writing Ecologies (WSTC)10
+DESN 1019Visual Storytelling (WSTC)10
+MKTG 1002Advertising: An Introduction (WSTC)10
+COMM 1040Introduction to Screen Media (WSTC)10
+Total Credit Points80
+
+courselist table3:
+Creative Industries sequence
+COMM 1021Media Cultures and Industries (WSTC)10
+COMM 1033Writing Ecologies (WSTC)10
+BUSM 1009Enterprise Leadership (WSTC)10
+COMM 1011Data, Mediation and Power (WSTC)10
+DESN 1019Visual Storytelling (WSTC)10
+BUSM 1011Financing Enterprises (WSTC)10
+Choose two of the following Introduction to Major subjects:20
+COMM 1040Introduction to Screen Media (WSTC)
+DESN 1012Image Design (WSTC)
+MKTG 1002Advertising: An Introduction (WSTC)
+BUSM 1027Organisational Behaviour (WSTC)
+COMM 1019Introduction to Journalism (WSTC)
+MKTG 1010Public Relations Theory and Practice (WSTC)
+LANG 1016Introduction to Literary Studies (WSTC)
+HUMN 1018Everyday Life (WSTC)
+From Term 3 2022, subject HUMN1018 Everyday Life (WSTC) replaced by subject HUMN1067 Introduction to Culture and Society (WSTC)
+Total Credit Points80
+
+courselist table4:
+Screen Media (Arts and Production) sequence
+COMM 1040Introduction to Screen Media (WSTC)10
+DESN 1010Graphic Design: Understanding the Principles (WSTC)20
+COMM 1042Screen Media Fundamentals (WSTC)10
+COMM 1019Introduction to Journalism (WSTC)10
+DESN 1022Web and Time-based Design (WSTC)10
+COMM 1038Digital Narrative (WSTC)10
+COMM 2054Animation and Visual Effects (WSTC)10
+Total Credit Points80

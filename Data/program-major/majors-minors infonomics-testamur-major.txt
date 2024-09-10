@@ -1,0 +1,33 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Infonomics, Testamur Major (T158)
+- Western Sydney University Major Code:
+- Infonomics, an interdisciplinary major in undergraduate computing, merging information and economics to navigate the data-driven era. Students master skills in computer science, economics, and statistics, learning to extract insights from data to inform decision-making. The curriculum covers data analytics, machine learning, and economic principles, preparing graduates for roles as data scientists, strategic consultants, or tech entrepreneurs. Infonomics equips students to thrive in the evolving digital landscape, where understanding the value of information is paramount.
+- Location
+- Major Structure Current
+- Students must complete the following subjects
+
+Location Table:
+- Parramatta - Victoria Road
+- Full time
+- Internal
+- Dr Simi Kamini Bajaj
+- Parramatta - Victoria Road
+- Part time
+- Internal
+- Dr Simi Kamini Bajaj
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+ECON 1006Introduction to Economic Methods10
+ECON 1011Principles of Economics10
+BUSM 1010Financing Enterprises10
+COMP 1013Analytics Programming10
+COMP 2026Visual Analytics10
+COMP 3002Applications of Big Data10
+ECON 3006Economic and Financial Modelling10
+BUSM 3081Business Analytics Project10

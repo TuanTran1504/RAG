@@ -1,0 +1,30 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Systems Administration, Minor (0149)
+- Western Sydney University Minor Code:
+- Previous Code: SM3001.1
+- This minor is available to students who commenced prior to 2013.
+- Location
+- Minor Structure
+- Students must complete 4 subjects as follows.
+- The subjects listed below count towards completion of this minor for students who passed these subjects in 2021 or earlier.
+- INFS 3014 Operating Systems, replaced by COMP 3015 Operating Systems Programming
+- COMP 3015 Operating Systems Programming
+- Related Programs
+
+Location Table:
+- Penrith Campus
+- Internal
+- Program Advice
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+COMP 2009Data Structures and Algorithms10
+COMP 3022Systems Administration Programming10
+COMP 2019Systems Programming 110
+COMP 3015Operating Systems Programming10
+Total Credit Points40

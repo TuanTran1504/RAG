@@ -1,0 +1,16 @@
+Academic Handbook Current Edition ELEC 3004 Digital Systems 2 Credit Points 10 Legacy Code 300019 Coordinator Qi Cheng Opens in new window Description This subject covers modern logic design techniques and the process of creating logic circuits and systems from design specifications to implementation. Topics include logic design techniques for combinational and sequential logic circuits; hardware description language (HDL); logic circuit implementation using an HDL; state-of-the-art logic circuit design tools; and programmable logic devices. School Eng, Design & Built Env Discipline Communications Technologies Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Pre-requisite(s) ELEC 1001 Learning Outcomes On successful completion of this subject, students should be able to: Describe functions of encoders/decoders, adders/subtractors, multiplexers/demultiplexers and their design procedures; and design them using VHDL (combinational logic)
+Describe functions of flip-flops, registers, counters, finite-state machines and their design procedures; and design them using VHDL (sequential logic)
+Build ALUs using VHDL
+Describe VHDL memory functions and use them to design RAM units
+Describe VHDL bus and I/O functions and use them to design bidirectional bus and tri-state buses
+Implement logic circuits on FPGA boards Subject Content Logic function optimization
+State diagram, state table
+Logic circuit design
+Hardware description languages (VHDL)
+Statements, structures, data, variable, signal, type
+Logic circuit modelling using VHDL
+RAM implementation
+Bus implementation
+ALU implementation
+Field programmable gate array devices
+Implementation of logic circuits on FPGA Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Numerical Problem Solving Approximately 10 questions each, individual theoretical and programming tasks 15 N Individual Y  Practical 3 hours per session/Approximately 5-10 pages 20 N Individual Y  Final Exam 2 hours 65 N Individual Y Teaching Periods Sydney City Campus - Term 1 (2024) Sydney City On-site Subject Contact Qi Cheng Opens in new window View timetable Opens in new window Sydney City Campus - Term 3 (2024) Sydney City On-site Subject Contact Qi Cheng Opens in new window View timetable Opens in new window Structures that include subject Electrical Engineering, Testamur Major (T102) Electrical and Electronic Eng. (ELEC) Electrical, Testamur Major (T035) Power Engineering, Concentration (0121) Software Engineering, Testamur Major (T105) Telecommunications, Concentration (0120)

@@ -1,0 +1,22 @@
+Academic Handbook Current Edition NATS 2036 Immunology Credit Points 10 Legacy Code 301354 Coordinator Thomas Millar Opens in new window Description From 2020 this subject replaces 300847 - Immunology. This subject aims to provide students with an understanding of the structure and function of the immune system, and particularly highlights common and unique systems that exist across kingdoms and phyla. A foundation is built by examining the organs and cells of the human immune system. The peculiarities associated with the immune systems of marsupials, due to their early developmental stage at birth, will also be examined. Students will also develop laboratory expertise that involves immunological principles, investigative proficiency, and science communication skills, leading to understanding the knowledge base through self-learning and group work. School Science Discipline Medical Science Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 2 subject Pre-requisite(s) BIOS 2014 Equivalent Subjects LGYA 5863 - Immunology BIOS 2020 - Immunology Incompatible Subjects LGYA 5857 - Cell Signalling and Molecular Immunology Restrictions Successful completion of 60 credit points at Level 1 and 20 credit points at Level 2. Learning Outcomes On successful completion of this subject, students should be able to: Identify and describe the structure and function of lymphatic tissue
+Describe the processes of adaptive immunity
+Describe the defensive mechanisms and signal pathways that are relevant to nonspecific immunity
+Explain the processes from pathogen recognition to immune response
+Analyse the relationship between the immune defences of different kingdoms and phyla
+Synthesise the relationships between specific immune defence mechanisms across kingdoms or phyla
+Conduct laboratory investigations in immunology safely and ethically using appropriate techniques and recording results formally according to the conventions of the discipline
+Communicate the results of scientific investigations in written and spoken formats
+Work within a group environment towards a shared goal Subject Content Adaptive immunity (restricted to vertebrates)
+Haemopoietic tissue, lymphatic organs and lymphoid tissues: anatomy, histology and function
+Cells of the immune system, histology, physiology and function
+Common mechanistic and molecular systems between plants invertebrates and vertebrates
+Cytokines - interleukins (Interleukin-1?), tumour necrosis factor alpha, tumour growth factor beta
+Defensive mechanisms and signal pathways that are relevant to nonspecific immunity
+Integuments
+Antibacterial peptides and proteins (antimicrobial proteins, lysozyme, phosphatases trypsin cathepsin proteases and mucus)
+Overview of pathogen detection and response (pattern recognition receptors such as MAMPS, PAMPS)
+Chemical mediators of immunological defence (immunoglobulins, pentraxins, complement, eiconosoids)
+Inflammation
+Mechanisms for suppression of host defences: e.g. resistance genes (R genes) in plants, leucine-rich repeats (LRR) pathogen recognition specificity domains which occur in plants, insects, jawless vertebrates and mammals
+complement (animals): salicylic acid, jasmonic acid or jasmonate, ethylene, reactive oxygen species, and nitric oxide (plants)
+Systemic acquired resistance, and adaptive immunity Structures that include subject Cell and Molecular Biology, Major (0167) Other Natural and Physical Sci (NATS)

@@ -1,0 +1,20 @@
+Academic Handbook Current Edition INFO 3021 Information Security (Advanced) Credit Points 10 Coordinator Yun Bai Opens in new window Description This subject introduces cryptography theory and application. It teaches cryptography algorithms and protocols in information security and the application of such knowledge in the design and implementation of secure computer and network systems. The contents include symmetric and asymmetric encryptions, signature, matrix, number theory, algebra, and security protocols. Students will learn the application of cryptography algorithm in current computer systems and information security management. This subject also provides practical exercises by security programming. School Computer, Data & Math Sciences Discipline Security Science Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Pre-requisite(s) MATH1006
+COMP2030 Assumed Knowledge Basic understanding of data structures and discrete mathematics
+Basic programming skills in C, C++, Java, Python, etc. Learning Outcomes After successful completion of this Subject, students will be able to: Describe fundamentals in computer security and basic knowledge in cryptography
+Explain conventional encryption/decryption methods and the concepts of symmetric keys
+Design and implement block ciphers and stream ciphers
+Explain principles of public key cryptosystems and public key algorithms
+Summarize the number theory used in the RSA algorithm, Diffie-Hellman key exchange and digital signatures
+Apply authentication functions and hash functions in message authentication
+Illustrate Kerberos authentication protocols
+Apply security requirements and design in electronic mail systems and in electronic commerce
+Explain principles and mechanisms of security management
+Investigate and apply advanced mathematical knowledges to security algorithms and implementations Subject Content Security, cyberattack and countermeasure, cryptography, and steganography
+Conventional encryption and DES system
+Number Theory and algebra, Modular arithmetic, and Euclid's algorithm
+Public key encryption and RSA algorithm
+Digital signature and authentication protocols
+Key distribution and management
+Security protocols and various applications in current computer systems
+Information Security management 
+Conventional and public key decryption algorithms and implementation Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Short Answer 2-5 pages 15 N Individual N  Practical 500 lines of program 20 N Individual N  Final Exam 2 hours 50 Y Individual Y  Report 5-10 pages 15 N Individual Y Prescribed Texts Stallings, W. (2023). Cryptography and network security: Principles and practice (8th Global ed.). Pearson. Teaching Periods Spring (2024) Penrith (Kingswood) On-site Subject Contact Yun Bai Opens in new window View timetable Opens in new window Parramatta - Victoria Rd On-site Subject Contact Yun Bai Opens in new window View timetable Opens in new window Structures that include subject Bachelor of Computer Science (Advanced) (3634) Cyber Security, Major (0066) Networked Systems, Major (0065) Other information Technology (INFO)

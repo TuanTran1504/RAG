@@ -1,0 +1,13 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Majors and Minors
+- Majors
+- Minors
+- Concentrations
+
+Location Table:
+
+Sequence Tables:
+
+Courselist Tables:

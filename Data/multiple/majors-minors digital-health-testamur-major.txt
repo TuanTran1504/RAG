@@ -1,0 +1,222 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Digital Health, Testamur Major (T089)
+- Western Sydney University Major Code:
+- Previous Codes: A4053.1, A4054.1, A4055.1
+- Select the link for your program below for the major summary, locations and availability
+- Master of Data Science
+- Advances in computing and technology mean that health care systems and staff have a greater reliance on digital systems to inform, support and manage the delivery of effective patient care. In this Field of Study, students learn about the critical role of digital health innovations, the core components of digital health management system, and human-centred digital health design.
+- Location
+- Master of Health Science
+- The Digital Health major combines the opportunity to study contemporary issues associated with digital health management in healthcare organisations with the integration of a sound understanding of the impact of digital health, as well as the development and implementation of projects and programs relating to this growing and critical area in both organisations and professional practice. The major would be of interest to clinicians, health management and science (information engineering) professionals, and personnel working in health corporate roles with responsibilities in health data and information. Students in this major can further focus their studies in aspects of innovation and entrepreneurship, and research and development in the digital health space
+- Location
+- Inherent Requirements
+- The Inherent requirement for the Master of Health Sciences will apply to this Field of Study: https://www.westernsydney.edu.au/ir/inherent_requirements/inherent_requirements_for_master_of_public_health_and_master_of_health_science
+- Major Structure
+- Select the link for your program below to see details of the major
+- Master of Data Science
+- Students must complete 40 credit points as follows
+- Master of Health Science (Digital Health) 1 year pathway
+- Students must complete 80 credit points, as listed below.
+- Master of Health Science (Digital Health) 1.5 year pathway
+- Students must complete 120 credit points, including all the Domian and Specialisation Core Subjects.
+- The subjects listed below count towards completion of this major for students who passed these subjects in 2019 or earlier.
+- HUMN 4009 - Research Design 1: Theories of Enquiry, replaced by HUMN 4001 Researcher Development 1: Reading ,Writing, and the Business of Research
+- HUMN 4001 Researcher Development 1: Reading ,Writing, and the Business of Research
+- HUMN 4012 - Research Literacies, replaced by HUMN 4003 Writing Beyond the Academy: Knowledge Translation and Public Audience Communication
+- HUMN 4003 Writing Beyond the Academy: Knowledge Translation and Public Audience Communication
+- Master of Health Science (Digital Health) 2 year pathway
+- Students must complete 160 credit points, including all the Domian and Specialisation Core Subjects.
+- The subjects listed below count towards completion of this major for students who passed these subjects in 2019 or earlier.
+- HUMN 4009 - Research Design 1: Theories of Enquiry
+- HUMN 4012 - Research Literacies, replaced by HUMN 4003 Writing Beyond the Academy: Knowledge Translation and Public Audience Communication
+- HUMN 4003 Writing Beyond the Academy: Knowledge Translation and Public Audience Communication
+- HUMN 4001 Researcher Development 1: Reading ,Writing, and the Business of Research
+- Related Programs
+
+Location Table:
+- Parramatta–Victoria Rd
+- Internal
+- As above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+PUBH 7031Health Systems and Policy10
+INFS 7002Advanced Healthcare Software and Systems10
+PUBH 7029Digital Health Management10
+PUBH 7032Patient-centred digital healthcare10
+Total Credit Points40
+
+courselist table2:
+Domain Subjects
+PUBH 7016Introduction to Epidemiology10
+PUBH 7033The Social Determinants of Health10
+Specialisation Core
+PUBH 7032Patient-centred digital healthcare10
+INFS 7001Advanced Healthcare Data Environments10
+INFS 7002Advanced Healthcare Software and Systems10
+PUBH 7029Digital Health Management10
+Capstone /Applied Subjects
+HLTH 7027Professional Project in Health 120
+Total Credit Points80
+
+courselist table3:
+Domain Subjects
+PUBH 7016Introduction to Epidemiology10
+PUBH 7033The Social Determinants of Health10
+PUBH 7031Health Systems and Policy10
+HLTH 7025Healthcare Data for Decision-Making10
+Specialisation Core
+PUBH 7032Patient-centred digital healthcare10
+INFS 7001Advanced Healthcare Data Environments10
+INFS 7002Advanced Healthcare Software and Systems10
+PUBH 7029Digital Health Management10
+Capstone /Applied Subjects
+Please note that the following subjects have Enrolment Restrictions.
+Select one of the following 40 credit point subjects:40
+HLTH 7004Dissertation
+HLTH 7020Dissertation (Part Time)
+HLTH 7026Professional Internship in Health
+HLTH 7030Professional Internship in Health (Part-time)
+OR the following two subjects for 40 credit points
+HLTH 7027Professional Project in Health 1
+HLTH 7028Professional Project in Health 2
+OR the following 20 credit point subject plus two 10 credit point subjects from the list of alternate subjects below
+HLTH 7027Professional Project in Health 1
+Alternate subjects
+POLI 7002Translation from Theory and Research to Policy
+REHA 7027Research into Practice: bridging the clinician-researcher divide in applied and creative therapies
+BUSM 7027Employment Relations Professional Practice
+BUSM 7043Industrial Relations and Workplace Change
+BUSM 7081Reward Management
+BUSM 7087Strategic Employment Relations
+ACCT 7015Financial Reports for Decision Making
+BUSM 7024Developing Human Capital and Organisational Capability
+BUSM 7025Diversity, Labour Markets and Workforce Planning
+BUSM 7045Innovation Through Digital Technology
+BUSM 7040Governance, Ethics and Social Entrepreneurship
+BUSM 7072New Venture Finance
+BUSM 7028Entrepreneurial Management Capabilities
+BUSM 7046Innovation for New Markets
+BUSM 7048Innovation, Creativity and Foresight
+BUSM 7064Managing Project Teams and Stakeholders
+BUSM 7082Risk Management and Decision Making
+BUSM 7090Strategic Project Management
+BUSM 7097Time and Quality Management
+MGMT 7003Financial Management of Projects
+NURS 7028Leadership in Clinical Practice
+PUBH 7020Policy, Power and Politics in Health Care Provision
+PUBH 7026Supporting Aged Communities
+PUBH 7011Health Advancement and Health Promotion
+PUBH 7018Leadership for Quality and Safety in Health Care
+PUBH 7014Health and Socio-political Issues in Aged Care
+HLTH 7002Building Organisational Capacity in Health Care
+PUBH 7028Surveillance and Disaster Planning
+HLTH 7008Introduction to Biostatistics
+AGEN 7005Research Protocol Design and Practice
+NURS 7019Cultural and Social Diversity in Health Care
+PUBH 7015Introduction to Clinical Epidemiology
+PUBH 7010Epidemiology of Non-Communicable Diseases
+PUBH 7002Analytic Approaches in Epidemiology
+PUBH 7025Statistical Methods in Epidemiology
+PUBH 7008Environmental Epidemiology
+PUBH 7005Controversies in Epidemiology
+PUBH 7006Data Management and Programming for Epidemiology
+HLTH 7015Qualitative Research Methodology in Health
+BUSM 7078Project Management
+HUMN 4001Researcher Development 1: Reading ,Writing, and the Business of Research
+HUMN 4003Writing Beyond the Academy: Knowledge Translation and Public Audience Communication
+HLTH 7022Advanced Health Service Management
+HLTH 7024Health Services Financing
+PUBH 7030Health Systems Planning and Evaluation
+HLTH 7029Quality and Safety
+PUBH 7034Workplace Safety and Risk Management
+Total Credit Points120
+
+courselist table4:
+Domain Subjects
+PUBH 7016Introduction to Epidemiology10
+PUBH 7033The Social Determinants of Health10
+PUBH 7031Health Systems and Policy10
+HLTH 7025Healthcare Data for Decision-Making10
+Specialisation Core
+PUBH 7032Patient-centred digital healthcare10
+INFS 7001Advanced Healthcare Data Environments10
+INFS 7002Advanced Healthcare Software and Systems10
+PUBH 7029Digital Health Management10
+Special Focus Group and alternate subjects
+Students can choose four subjects from a Special Focus Group, or any combination of four subjects from the Special Focus Groups, or complete four alternate subjects.40
+Special Focus Group: Research
+HLTH 7015Qualitative Research Methodology in Health
+AGEN 7005Research Protocol Design and Practice
+HUMN 4001Researcher Development 1: Reading ,Writing, and the Business of Research
+HUMN 4003Writing Beyond the Academy: Knowledge Translation and Public Audience Communication
+Special Focus: Innovation and Entrepreneurship
+BUSM 7028Entrepreneurial Management Capabilities
+BUSM 7040Governance, Ethics and Social Entrepreneurship
+BUSM 7048Innovation, Creativity and Foresight
+BUSM 7046Innovation for New Markets
+BUSM 7045Innovation Through Digital Technology
+BUSM 7072New Venture Finance
+Alternate subjects
+POLI 7002Translation from Theory and Research to Policy
+REHA 7027Research into Practice: bridging the clinician-researcher divide in applied and creative therapies
+BUSM 7027Employment Relations Professional Practice
+BUSM 7043Industrial Relations and Workplace Change
+BUSM 7081Reward Management
+BUSM 7087Strategic Employment Relations
+ACCT 7015Financial Reports for Decision Making
+BUSM 7024Developing Human Capital and Organisational Capability
+BUSM 7025Diversity, Labour Markets and Workforce Planning
+BUSM 7045Innovation Through Digital Technology
+BUSM 7040Governance, Ethics and Social Entrepreneurship
+BUSM 7072New Venture Finance
+BUSM 7028Entrepreneurial Management Capabilities
+BUSM 7046Innovation for New Markets
+BUSM 7048Innovation, Creativity and Foresight
+BUSM 7064Managing Project Teams and Stakeholders
+BUSM 7082Risk Management and Decision Making
+BUSM 7090Strategic Project Management
+NURS 7028Leadership in Clinical Practice
+PUBH 7020Policy, Power and Politics in Health Care Provision
+PUBH 7026Supporting Aged Communities
+PUBH 7011Health Advancement and Health Promotion
+MGMT 7003Financial Management of Projects
+PUBH 7018Leadership for Quality and Safety in Health Care
+PUBH 7014Health and Socio-political Issues in Aged Care
+HLTH 7002Building Organisational Capacity in Health Care
+BUSM 7097Time and Quality Management
+PUBH 7028Surveillance and Disaster Planning
+HLTH 7008Introduction to Biostatistics
+AGEN 7005Research Protocol Design and Practice
+NURS 7019Cultural and Social Diversity in Health Care
+PUBH 7015Introduction to Clinical Epidemiology
+PUBH 7010Epidemiology of Non-Communicable Diseases
+PUBH 7002Analytic Approaches in Epidemiology
+PUBH 7025Statistical Methods in Epidemiology
+PUBH 7008Environmental Epidemiology
+PUBH 7005Controversies in Epidemiology
+PUBH 7006Data Management and Programming for Epidemiology
+HLTH 7015Qualitative Research Methodology in Health
+HLTH 7022Advanced Health Service Management
+HLTH 7024Health Services Financing
+PUBH 7030Health Systems Planning and Evaluation
+HLTH 7029Quality and Safety
+PUBH 7034Workplace Safety and Risk Management
+BUSM 7078Project Management
+HUMN 4003Writing Beyond the Academy: Knowledge Translation and Public Audience Communication
+Capstone / Applied Subjects
+Please note that the following subjects have Enrolment Restrictions.
+Select one of the following 40 credit point subjects:40
+HLTH 7004Dissertation
+HLTH 7020Dissertation (Part Time)
+HLTH 7026Professional Internship in Health
+HLTH 7030Professional Internship in Health (Part-time)
+OR complete the two following 20 credit point subjects
+HLTH 7027Professional Project in Health 1
+HLTH 7028Professional Project in Health 2
+Total Credit Points160

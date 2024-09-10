@@ -1,0 +1,37 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Pharmacology, Minor ( 0341)
+- Western Sydney University Minor Code:
+- Pharmacology is a multi-disciplinary field that applies knowledge in chemistry, biology, human anatomy and physiology, and pathophysiology to drug design, discovery and the therapeutic treatment of human diseases. This minor is available to all undergraduate students in the School of Science and covers the basic and applied knowledge of pharmacological basis of drug action, principles of pharmacokinetics and pharmacodynamics, topics in clinical pharmacology, drug design, discovery, and structure-activity-relationships, preclinical and clinical development, evaluation of pharmaceutical drugs, and regulatory and legislative frameworks that govern the approval of new therapeutic medicines. This minor is designed to complement different programs offered in the School of Science, preparing skilled graduates for a range of career options that includes further postgraduate study, research and development, clinical trials, and regulatory affairs within the pharmaceutical industry.
+- Minor Structure
+- Students must complete four subjects as follows
+- 3754 Bachelor of Science
+- 3757 Bachelor of Advanced Science
+- 3755 Bachelor of Medical Science
+- 3758 Bachelor of Advanced Medical Science
+- 3756 Bachelor of Science (Pathway to Teaching Primary/Secondary)
+- 6042 Diploma in Science/ Bachelor of Medical Science
+- 6043 Diploma in Science. Bachelor of Science
+
+Location Table:
+- Campbelltown
+- Full-Time
+- 
+- science@westernsydney.edu.au
+- Parramatta - Vic Rd
+- Full-Time
+- 
+- science@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Select four of the following:
+NATS 2045Introduction to Pharmacology10
+NATS 2008Clinical Pharmacology10
+NATS 3057Topics in Pharmacology10
+NATS 3058Pharmacological Chemistry10
+Total Credit Points40

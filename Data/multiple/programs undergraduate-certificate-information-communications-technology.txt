@@ -1,0 +1,42 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Undergraduate Certificate in Information and Communications Technology (7174)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- This program has been suspended from 2023.
+- This program applies to students who commenced in Block B, 2021 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- For Commencement Year 2020 - please refer to 7174.1 Undergraduate Certificate in Information and Communications Technology
+- The Undergraduate Certificate in Information and Communication Technology (ICT) provides basic skills and knowledge in networking and IT applications development, along with the ability to apply practical ICT solutions in real-world situations. It will provide a solid foundation in information systems, databases, ICT support and programming.
+- Study Mode
+- Six months full-time.
+- Program Advice
+- Mitchell Liddle
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Admission
+- This program is open to Australian Citizens and Permanent Residents who are aged 17 years or over and not currently enrolled in or completing Year 12 in the same year of intended admission.
+- For more information on applying please see the link to The College admission pages below.
+- https://www.westernsydney.edu.au/thecollege/how_to_apply
+- Program Structure
+- Qualification for this award requires the successful completion of 40 credit points including the subjects listed below.
+
+Location Table:
+- Online
+- Full Time
+- Online
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+INFS 1013Information Systems in Context (UG Cert)10
+COMP 1012Programming Fundamentals (UG Cert)10
+INFS 2009Database Design and Development (UG Cert)10
+COMP 2024Computer Networking (UG Cert)10
+Total Credit Points40

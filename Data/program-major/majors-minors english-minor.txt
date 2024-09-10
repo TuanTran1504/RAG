@@ -1,0 +1,117 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- English, Minor (0009)
+- Western Sydney University Minor Code:
+- Previous Code: SM1071.1
+- The English minor invites students to explore contemporary approaches to language, literary study and writing, including literary criticism and theory, linguistic analysis, genre and textual study, and creative writing. The English minor focuses on the imaginative workings of language, and students can study a wide selection of modern and classic literature, as well as the relationships between written texts and other media such as film and information technology. Students also have the opportunity to produce their own creative writing and to edit and publish their work. Career prospects include publishing, editing, teaching, writing and advertising.
+- Location
+- Minor Structure
+- Students must successfully complete 40 credit points as follows.
+- Please note all Bachelor of Arts students including Pathways to Teaching, Dean’s Scholars and double degrees must complete the structure under the heading Bachelor of Arts.
+- Please note all Bachelor of Creative Industries students including double degrees must complete the structure under the heading Bachelor of Creative Industries.
+- Note: Not all subjects will be offered each year. Subjects will be offered on a rotational basis.
+- Bachelor of Arts Students
+- Additional subjects to complete the minor can be chosen from the above four subjects or from the pool subjects listed below.
+- Bachelor of Creative Industries Students
+- Creative Industries students will have already completed LANG 1015 Introduction to Literary Studies as their Introduction to Major subject as part of the core requirements of the program and must choose at least two from the following three subjects:
+- LANG 1015 Introduction to Literary Studies
+- Additional subjects to complete the minor can be chosen from the above three subjects or from the pool subjects listed below.
+- Pool Subjects
+- Note: Not all subjects will be offered each year. Subjects will be offered on a rotational basis.
+- The subjects listed below count towards completion of this Minor for students who passed these subjects in 2023 or earlier.
+- LANG 3068 - Race in Literature, replaced by LANG 2058 Race in Literature
+- LANG 2058 Race in Literature
+- The subjects listed below count towards completion of this minor for students who passed these subjects in 2019 or earlier.
+- BEHV 3013 - Humanities Internship, no longer offered as part of this minor
+PERF 2024 - The Musical, no longer offered
+LANG 3092 - The Space of Literature, no longer offered
+LANG 3088 - Women, Travel and Empire, no longer offered
+- The subjects listed below count towards completion of this minor for students who passed these subjects in 2016 or earlier.
+- LANG 3008 - Applied Critical Methods, no longer offered
+LANG 3032 - English Literature After 1830, replaced by LANG 3094 The Value of Literature
+LANG 3064 - Literatures of Decolonisation, no longer offered
+LANG 2042 - Studies in Postcolonial Literature, no longer offered
+CULT 3022 - Queering Text, no longer offered
+LANG 3085 - Text and Discourse in English, replaced by LANG 3030 Discourse Analysis
+COMM 3043 - Writing Portfolio, no longer offered
+- LANG 3094 The Value of Literature
+- LANG 3030 Discourse Analysis
+- Note: The Level 3 subject BEHV 3013 Humanities Internship cannot count towards completion of SM1129 English Teaching Specialisation (Birth-5/Birth-12) or M1126 Education Studies Major - Primary English Teaching Specialisation for students enrolled in programs 1708 Bachelor of Arts (Pathway to Teaching Birth - 5/Birth - 12), 1651 Bachelor of Arts (Pathway to Teaching Primary), 1822 Bachelor of Arts (Pathway to Teaching Primary) Dean's Scholars, 6017 Diploma in Arts/Bachelor of Arts (Pathway to Teaching Birth-5/Birth-12), 6019 Diploma in Arts/Bachelor of Arts (Pathway to Teaching Primary) as this would not satisfy the professional accreditation requirements for NESA.
+- Related Programs
+
+Location Table:
+- Bankstown City Campus
+- Internal
+- enquiriesHCA@uws.edu.au
+- Parramatta Campus - Victoria Road
+- Internal
+- enquiriesHCA@uws.edu.au
+- Penrith Campus
+- Internal
+- enquiriesHCA@uws.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Select at least two of the following:20
+COMM 1004Approaches to Text
+LANG 1015Introduction to Literary Studies
+LANG 2035Methods of Reading
+LANG 3094The Value of Literature
+Total Credit Points20
+
+courselist table2:
+Select at least two of the following:20
+COMM 1004Approaches to Text
+LANG 2035Methods of Reading
+LANG 3094The Value of Literature
+Total Credit Points20
+
+courselist table3:
+LANG 2015Cultural History of Books and Reading10
+COMM 2016Experimental Writing and Electronic Publication10
+COMM 2020Introduction to Film Studies10
+LANG 2033Literature and Decolonisation10
+LANG 2057Literature and Environment10
+LANG 2050Medieval and Early Modern Literature10
+LANG 2036Modern Australian Poetry and Poetics10
+LANG 2058Race in Literature10
+HUMN 2044Representing Everyday Life in Literary and Visual Cultures10
+LANG 2039The Short Story: Nineteenth Century Women’s Writing10
+LANG 2044The Gothic10
+LANG 2048Working Grammar10
+LANG 2051Writing and Reading Sci-Fi and Fantasy10
+COMM 2043Writing Fiction10
+
+courselist table4:
+LANG 300119th Century American Literature10
+LANG 300220th Century American Literature10
+COMM 3005Australian Textual Studies10
+LANG 3019Children's and Young Adult Fiction10
+LANG 3018Children's Literature: Image and Text10
+COMM 3006Cinema and Experience10
+LANG 3100Comedy and Tragedy: Dramas of Death and Rebirth10
+LANG 3069Contemporary Irish Writing10
+LANG 3027Creative Non-Fiction10
+COMM 3013Creative Writing Project10
+LANG 3028Crime Fiction10
+LANG 3029Culture, Discourse and Meaning10
+LANG 3033Film and Drama10
+LANG 3050Introduction to Stylistics10
+LANG 3059Law, Literature and Culture10
+LANG 3061Literary Animals10
+LANG 3062Literature and Philosophy10
+CART 3001Modernism10
+COMM 3024Modernity and Cinema10
+LANG 3066Postcolonial Literatures10
+CULT 3020Representing Crime10
+LANG 3072Short Fiction in the Americas10
+LANG 3086The Novel10
+LANG 3087Women's Writing10
+LANG 3089World Literature in Translation10
+LANG 3091Writing and Society10
+COMM 3041Writing For Performance10
+COMM 3042Writing Poetry10

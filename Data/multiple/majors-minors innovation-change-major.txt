@@ -1,0 +1,32 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Innovation and Change, Major (0017)
+- Western Sydney University Major Code:
+- Previous Code: M2514.1
+- In a world that is undergoing a continuous cycle of change and new ideas, the Innovation and Change major provides students with the key concepts, business models and issues that bring advancement within the context of contemporary business. Students will learn to compete on a global platform and deal with issues surrounding business ethics, corporate social responsibility and cultural awareness. The knowledge and skills acquired through this major will enable future leaders to revitalise organisations and create value in the process of transforming innovations into products or services.
+- Location
+- Major Structure
+- Students must complete 80 credit points including all of the core subjects as follows.
+- The subjects in this major are offered at the Parramatta City campus and the core subjects in the Bachelor of Arts are offered at the Parramatta South, Bankstown and Penrith campuses. Students will be required to travel between campuses in order to complete this major.
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- Program Advice
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+BUSM 2005Cost Benefit Analysis10
+BUSM 3005Creating Change and Innovation10
+BUSM 3006Design Thinking for Creativity10
+BUSM 1006Enterprise Innovation and Markets10
+HUMN 3043Globalisation and Sustainability10
+BUSM 3036Leadership and Entrepreneurship10
+BUSM 2031Managing in the Global Environment10
+BUSM 2040The Service Enterprise10
+Total Credit Points80

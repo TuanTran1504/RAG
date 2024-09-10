@@ -1,0 +1,779 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Bachelor of Computer Science (3506)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 041105G
+- This program applies to students who commenced in 2022 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- For Commencement Year 2019 to 2021 please refer to: 3506.9 - Bachelor of Computer Science
+- For Commencement Year 2014 to 2016 please refer to: 3506.7 - Bachelor of Computer Science
+- The Bachelor of Computer Science provides an in-depth technical understanding of computer software systems, underpinned by theoretical foundations and practical techniques. The program provides a solid foundation for computer science study in computer theory, software design, development, and applications. It provides you with the knowledge and skills to develop effective and innovative solutions to problems. A range of specialised majors are offered in Cyber Security, Artificial Intelligence, Systems Programming, Networked Systems, Technology Entrepreneurship and Cloud Computing. Students work on real world projects and complete an industry experience project giving them an edge to access excellent career opportunities as programmers, system or software developers, or AI engineers.
+- Study Mode
+- Three years full-time.
+- Program Advice
+- Program advice
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Accreditation
+- The Bachelor of Computer Science currently is accredited with the Australian Computer Society at the professional level. Australian Computer Society accreditation for the Surabaya Campus offering will be sought.
+- Work Integrated Learning
+- Admission
+- Assumed Knowledge: HSC Mathematics and any two units of HSC English.
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- International students currently completing an Australian Year 12 in or outside Australia, an International Baccalaureate in Australia or a New Zealand National Certificate of Educational Achievement (NCEA) level 3 must apply via UAC International.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Sequence Current
+- This sequence below applies to students who commenced in 2024. If you commenced prior to 2024 please refer to the Sequence 2022-23 tab for details.
+- Qualification for this award requires the successful completion of 240 credit points which include the subjects listed in the recommended sequence below.
+- Full-time start-year intake
+- Full-time mid-year intake
+- Accelerated Pathway - Summer Sessions
+- Suggested Elective Subjects
+- Surabaya Campus Indonesia
+- Majors
+- The majors listed below have been designed specifically for this program and are recommended for Bachelor of Computer Science students.
+- Minor
+- Note: students may use some of their elective space to complete a Major or the Minor
+- Major and Minor elective spaces
+- Global Sustainability Minor   Indigenous Australian Studies Major    Indigenous Australian Studies Minor
+- Equitable Technologies Urban Evolution Migration and Global Change    Personal Innovation     Innovating, Creating and Problem Solving  Eco-Socially Conscious Design and Manufacturing Water for Life  Climate Justice Creative and Visual Communication Global Workplaces Innovating For Humans Creative Living for Cultural Wellbeing Ideate. Strategise. Innovate.  Humanising Data
+- For more information, visit the Challenge Minor website.
+- Search for majors and minors
+- Students can apply for an elective major or minor via Western Now.
+- WesternNow
+- Sequence 2022-2023
+- This sequence below applies to students who commenced in 2023 or earlier. If you commenced in 2024 or later please refer to the Sequence 2024 tab for details.
+- Qualification for this award requires the successful completion of 240 credit points which include the subjects listed in the recommended sequence below.
+- Full-time start-year intake
+- Full-time mid-year intake
+- Accelerated Pathway - Summer Sessions
+- Suggested Elective Subjects
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 2014 Visual Analytics, replaced by COMP 2026 Visual Analytics
+- Majors
+- The majors listed below have been designed specifically for this program and are recommended for Bachelor of Computer Science students.
+- Minor
+- Note: students may use some of their elective space to complete a Major or the Minor
+- Minor elective spaces
+- Global Sustainability Minor  Indigenous Australian Studies Minor
+- Equitable Technologies Urban Evolution Migration and Global Change   Personal Innovation     Innovating, Creating and Problem Solving  Eco-Socially Conscious Design and Manufacturing Water for Life  Climate Justice Creative and Visual Communication Global Workplaces Innovating For Humans  Creative Living for Cultural Wellbeing   Ideate.Strategise.Innovate. Humanising Data
+- For more information, visit the Challenge Minor website.
+- Search for majors and minors
+- Students can apply for an elective minor via Western Now.
+- WesternNow
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Full Time
+- Internal
+- See above
+- Penrith Campus
+- Full Time
+- Internal
+- See above
+- Surabaya Campus Indonesia
+- Full Time
+- Internal
+- See above
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+MATH 1028
+Statistical Decision Making
+10
+COMP 1005
+Programming Fundamentals
+10
+INFO 1003
+Professional Practice, Communication and Ethics
+10
+MATH 1006
+Discrete Mathematics
+10
+
+Credit Points
+40
+Spring session
+COMP 2008
+Computer Organisation
+10
+COMP 2014
+Object Oriented Programming
+10
+INFS 2001
+Database Design and Development
+10
+COMP 2004
+Computer Networking
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+COMP 2019
+Systems Programming 1
+10
+COMP 2009
+Data Structures and Algorithms
+10
+Select two electives or major or minor subjects
+20
+
+Credit Points
+40
+Spring session
+INFS 3003
+Artificial Intelligence
+10
+INFO 3006
+Information Security
+10
+COMP 3009
+Distributed Systems and Programming
+10
+Select one elective or major or minor subject
+10
+
+Credit Points
+40
+Year 3
+Autumn session
+INFO 3019
+Project Management
+10
+Select three electives or major or minor subjects
+30
+
+Credit Points
+40
+Spring session
+COMP 3018
+Professional Experience
+10
+INFS 3008
+Formal Software Engineering
+10
+Select two electives or major or minor subjects
+20
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Spring session
+Credit Points
+COMP 1005
+Programming Fundamentals
+10
+INFS 2001
+Database Design and Development
+10
+COMP 2004
+Computer Networking
+10
+Select one elective or major or minor subject
+10
+
+Credit Points
+40
+Autumn session
+MATH 1028
+Statistical Decision Making
+10
+INFO 1003
+Professional Practice, Communication and Ethics
+10
+MATH 1006
+Discrete Mathematics
+10
+Select one elective or major or minor subject
+10
+
+Credit Points
+40
+Year 2
+Spring session
+COMP 2008
+Computer Organisation
+10
+COMP 2014
+Object Oriented Programming
+10
+Select two electives or major or minor subjects
+20
+
+Credit Points
+40
+Autumn session
+COMP 2019
+Systems Programming 1
+10
+COMP 2009
+Data Structures and Algorithms
+10
+INFO 3019
+Project Management
+10
+Select one elective or major or minor subject
+10
+
+Credit Points
+40
+Year 3
+Spring session
+INFO 3006
+Information Security
+10
+INFS 3008
+Formal Software Engineering
+10
+COMP 3009
+Distributed Systems and Programming
+10
+INFS 3003
+Artificial Intelligence
+10
+
+Credit Points
+40
+Autumn session
+COMP 3018
+Professional Experience
+10
+Select three electives or major or minor subjects
+30
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Autumn session
+Credit Points
+MATH 1028
+Statistical Decision Making
+10
+COMP 1005
+Programming Fundamentals
+10
+INFO 1003
+Professional Practice, Communication and Ethics
+10
+MATH 1006
+Discrete Mathematics
+10
+
+Credit Points
+40
+Spring session
+COMP 2008
+Computer Organisation
+10
+COMP 2014
+Object Oriented Programming
+10
+INFS 2001
+Database Design and Development
+10
+COMP 2004
+Computer Networking
+10
+
+Credit Points
+40
+Summer session
+Select two electives or major or minor
+20
+
+Credit Points
+20
+Year 2
+Autumn session
+COMP 2009
+Data Structures and Algorithms
+10
+COMP 2019
+Systems Programming 1
+10
+Select two electives or major or minor subjects
+20
+
+Credit Points
+40
+Spring session
+INFS 3008
+Formal Software Engineering
+10
+INFO 3006
+Information Security
+10
+COMP 3009
+Distributed Systems and Programming
+10
+INFS 3003
+Artificial Intelligence
+10
+
+Credit Points
+40
+Summer session
+INFO 3019
+Project Management
+10
+Select one elective or major or minor subject
+10
+
+Credit Points
+20
+Year 3
+Autumn session
+COMP 3018
+Professional Experience
+10
+Select three electives or major or minor subjects
+30
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Credit Points
+Semester 1
+
+COMP 1005
+Programming Fundamentals
+10
+INFS 2001
+Database Design and Development
+10
+COMP 2004
+Computer Networking
+10
+CULT 1030
+Pancasila
+5
+Semester 2
+
+MATH 1028
+Statistical Decision Making
+10
+INFO 1003
+Professional Practice, Communication and Ethics
+10
+MATH 1006
+Discrete Mathematics
+10
+COMP 3012
+Introduction to Cloud Computing
+10
+CULT 1031
+Civic Education
+5
+
+Credit Points
+80
+Year 2
+Semester 3
+
+COMP 2008
+Computer Organisation
+10
+COMP 2014
+Object Oriented Programming
+10
+INFO 3019
+Project Management
+10
+COMP 3032
+Machine Learning
+10
+TBA
+Indonesian Language
+5
+Semester 4
+
+COMP 2019
+Systems Programming 1
+10
+COMP 2009
+Data Structures and Algorithms
+10
+COMP 3006
+Computer Graphics
+10
+TBA
+Religion
+5
+
+Credit Points
+80
+Year 3
+Semester 5
+
+INFO 3006
+Information Security
+10
+INFS 3008
+Formal Software Engineering
+10
+COMP 3009
+Distributed Systems and Programming
+10
+INFS 3003
+Artificial Intelligence
+10
+Semester 6
+
+COMP 3018
+Professional Experience
+10
+COMP 2026
+Visual Analytics
+10
+COMP 3027
+Robotic Programming
+10
+COMP 2025
+Introduction to Data Science
+10
+
+Credit Points
+80
+
+Total Credit Points
+240
+Year 1
+Autumn session
+Credit Points
+MATH 1028
+Statistical Decision Making
+10
+COMP 1005
+Programming Fundamentals
+10
+COMM 1026
+Principles of Professional Communication 1
+10
+INFO 1003 replaces COMM 1026 from Autumn 2023
+
+MATH 1006
+Discrete Mathematics
+10
+
+Credit Points
+40
+Spring session
+COMP 2008
+Computer Organisation
+10
+COMP 2014
+Object Oriented Programming
+10
+INFS 2001
+Database Design and Development
+10
+COMP 2004
+Computer Networking
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+COMP 2019
+Systems Programming 1
+10
+COMP 2009
+Data Structures and Algorithms
+10
+Select two electives
+20
+
+Credit Points
+40
+Spring session
+INFS 3003
+Artificial Intelligence
+10
+INFO 3006
+Information Security
+10
+COMP 3009
+Distributed Systems and Programming
+10
+Select one elective
+10
+
+Credit Points
+40
+Year 3
+Autumn session
+INFO 3008
+Professional Development
+10
+Select three electives
+30
+
+Credit Points
+40
+Spring session
+COMP 3018
+Professional Experience
+10
+INFS 3008
+Formal Software Engineering
+10
+Select two electives
+20
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Spring session
+Credit Points
+COMP 1005
+Programming Fundamentals
+10
+INFS 2001
+Database Design and Development
+10
+COMP 2004
+Computer Networking
+10
+Select one elective
+10
+
+Credit Points
+40
+Autumn session
+MATH 1028
+Statistical Decision Making
+10
+COMM 1026
+Principles of Professional Communication 1
+10
+INFO 1003 replaces COMM 1026 from Autumn 2023
+
+MATH 1006
+Discrete Mathematics
+10
+Select one elective
+10
+
+Credit Points
+40
+Year 2
+Spring session
+COMP 2008
+Computer Organisation
+10
+COMP 2014
+Object Oriented Programming
+10
+Select two electives
+20
+
+Credit Points
+40
+Autumn session
+COMP 2019
+Systems Programming 1
+10
+COMP 2009
+Data Structures and Algorithms
+10
+INFO 3008
+Professional Development
+10
+Select one elective
+10
+
+Credit Points
+40
+Year 3
+Spring session
+INFO 3006
+Information Security
+10
+INFS 3008
+Formal Software Engineering
+10
+COMP 3009
+Distributed Systems and Programming
+10
+INFS 3003
+Artificial Intelligence
+10
+
+Credit Points
+40
+Autumn session
+COMP 3018
+Professional Experience
+10
+Select three electives
+30
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Autumn session
+Credit Points
+MATH 1028
+Statistical Decision Making
+10
+COMP 1005
+Programming Fundamentals
+10
+COMM 1026
+Principles of Professional Communication 1
+10
+INFO 1003 replaces COMM 1026 from Autumn 2023
+
+MATH 1006
+Discrete Mathematics
+10
+
+Credit Points
+40
+Spring session
+COMP 2008
+Computer Organisation
+10
+COMP 2014
+Object Oriented Programming
+10
+INFS 2001
+Database Design and Development
+10
+COMP 2004
+Computer Networking
+10
+
+Credit Points
+40
+Summer A session
+Select two electives
+20
+
+Credit Points
+20
+Year 2
+Autumn session
+COMP 2009
+Data Structures and Algorithms
+10
+COMP 2019
+Systems Programming 1
+10
+Select two electives
+20
+
+Credit Points
+40
+Spring session
+INFO 3006
+Information Security
+10
+INFS 3008
+Formal Software Engineering
+10
+COMP 3009
+Distributed Systems and Programming
+10
+INFS 3003
+Artificial Intelligence
+10
+
+Credit Points
+40
+Summer A session
+INFO 3008
+Professional Development
+10
+Select one elective
+10
+
+Credit Points
+20
+Year 3
+Autumn session
+COMP 3018
+Professional Experience
+10
+Select three electives
+30
+
+Credit Points
+40
+
+Total Credit Points
+240
+
+Courselist Tables:
+
+courselist table1:
+COMP 3003Cloud Computing Architecture10
+COMP 3006Computer Graphics10
+COMP 3007Computer Networks and Internets10
+INFO 3002Ethical Hacking Principles and Practice10
+INFO 3015Internet of Things and Smart Environments10
+COMP 3012Introduction to Cloud Computing10
+COMP 2025Introduction to Data Science10
+COMP 3013Mobile Applications Development10
+INFO 3007Network Security10
+COMP 3014Networked Systems Design10
+COMP 3015Operating Systems Programming10
+COMP 3032Machine Learning10
+COMP 3033Quantum Computing and Communication10
+COMP 3027Robotic Programming10
+COMP 3020Social Web Analytics10
+COMP 2026Visual Analytics10
+COMP 3025Wireless and Mobile Networks10
+
+courselist table2:
+COMP 3003Cloud Computing Architecture10
+COMP 3006Computer Graphics10
+COMP 3007Computer Networks and Internets10
+INFO 3002Ethical Hacking Principles and Practice10
+INFO 3015Internet of Things and Smart Environments10
+COMP 3012Introduction to Cloud Computing10
+MATH 2009Introduction to Data Science10
+From 2022 MATH 2009 Introduction to Data Science is replaced by COMP 2025 Introduction to Data Science
+COMP 2025Introduction to Data Science10
+COMP 3013Mobile Applications Development10
+INFO 3007Network Security10
+COMP 3014Networked Systems Design10
+COMP 3015Operating Systems Programming10
+MATH 3007Predictive Modelling10
+From Spring 2022 MATH 3007 Predictive Modelling is replaced by COMP 3032 Machine Learning
+COMP 3032Machine Learning10
+COMP 3033Quantum Computing and Communication10
+COMP 3027Robotic Programming10
+COMP 3020Social Web Analytics10
+COMP 2020Technologies for Web Applications10
+COMP 2026Visual Analytics10
+INFS 3017Web Systems Development10
+COMP 3025Wireless and Mobile Networks10

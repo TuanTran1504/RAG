@@ -1,0 +1,151 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Secondary Chemistry Education, Major (0349)
+- Effective from:
+- Western Sydney University Major Code:
+- The Secondary Chemistry Education Major will provide students with 60 credit points of Chemistry discipline knowledge and 20 credit points of Chemistry pedagogy and curriculum knowledge. Together with completion of subjects in the Bachelor of Education (Secondary), this Major will enable students to meet requirements to graduate from the Bachelor of Education (Secondary) with the Chemistry teaching area. The Secondary Chemistry Education Major will span the Foundation and Development phases of the Bachelor of Education (Secondary), enabling students to develop strong pedagogical content knowledge, an understanding of evidence-based pedagogies, and skills in using assessment and feedback to guide and enhance student learning.
+- Location
+- Major Structure
+- Higher level chemistry subjects have specific pre-requisites, please plan your program progression to meet these pre-requisites. Seek program advice if needed.
+- Students must successfully complete 80 credit points as follows.
+- Start-year intake
+- Mid-year intake
+- Alternate Subjects
+- Students complete three of the following subjects, with at least one subject at Level 3.
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria road
+- Internal
+- SecondaryEnquiries@westernsydney.edu.au
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+CHEM 1008
+Introductory Chemistry
+10
+
+Credit Points
+10
+Spring session
+CHEM 1012
+Essential Chemistry
+10
+
+Credit Points
+10
+Year 2
+Autumn session
+Select one Alternate Subject (from the pool of subjects listed below)
+10
+
+Credit Points
+10
+Spring session
+Select one Alternate Subject (from the pool of subjects listed below)
+10
+
+Credit Points
+10
+Year 3
+Autumn session
+Select one level 3 Alternate Subject (from the pool of subjects listed below)
+10
+
+Credit Points
+10
+Spring session
+NATS 3044
+Complex Case Studies in Science
+10
+TEAC 3058
+Science Curriculum 7-10
+10
+
+Credit Points
+20
+Year 4
+Autumn session
+TEAC 4026
+Chemistry Curriculum 11-12
+10
+
+Credit Points
+10
+
+Total Credit Points
+80
+Year 1
+Spring session
+Credit Points
+CHEM 1012
+Essential Chemistry
+10
+
+Credit Points
+10
+Autumn session
+CHEM 1008
+Introductory Chemistry
+10
+
+Credit Points
+10
+Year 2
+Spring session
+Select one Alternate Subject (from the pool of subjects listed below)
+10
+
+Credit Points
+10
+Autumn session
+Select one Alternate Subject (from the pool of subjects listed below)
+10
+
+Credit Points
+10
+Year 3
+Spring session
+NATS 3044
+Complex Case Studies in Science
+10
+TEAC 3058
+Science Curriculum 7-10
+10
+
+Credit Points
+20
+Autumn session
+Select one level 3 Alternate Subject (from the pool of subjects listed below)
+10
+
+Credit Points
+10
+Year 4
+Autumn session
+TEAC 4026
+Chemistry Curriculum 11-12
+10
+
+Credit Points
+10
+
+Total Credit Points
+80
+
+Courselist Tables:
+
+courselist table1:
+Level 2 Subjects
+CHEM 2001Analytical Chemistry10
+CHEM 2006Inorganic Chemistry10
+CHEM 2008Organic Chemistry10
+CHEM 2010Physical Chemistry10
+Level 3 Subjects
+CHEM 3001Advanced Analytical Chemistry10
+CHEM 3003Advanced Inorganic Chemistry10
+CHEM 3004Advanced Organic Chemistry10
+CHEM 3005Advanced Physical Chemistry10

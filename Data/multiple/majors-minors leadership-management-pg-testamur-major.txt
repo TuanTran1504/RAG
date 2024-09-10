@@ -1,0 +1,31 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Leadership and Management, Testamur Major (T139)
+- Effective from:
+- Western Sydney University Major Code:
+- The Master of Education, Leadership and Management testamur major is designed for emergent and experienced professional leaders in a range of educational organisations, locally and internationally. Subjects are drawn from the School of Education and the School of Business, providing professionals with comprehensive skills and knowledge to strategically foster teaching and learning, and effectively lead organisations in an ever-changing business climate. Students will apply their knowledge and skills to solve a real-world education business management problem through action-learning. Focusing on theory and practice, the specialisation has significant application to the global and dynamic context of education.
+- Location
+- Major Structure
+- Students will select from the major subjects that are on offer in any given semester. Major subjects can be studied in any order.
+- Students must successfully complete 40 credit points as listed below.
+
+Location Table:
+- Online
+- 
+- Online
+- Course Advice
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+ACCT 7015Financial Reports for Decision Making10
+BUSM 7058Leading Contemporary Organisations10
+BUSM 7018Contemporary People Management10
+Select one of the following:10
+TEAC 7063Leadership, Mentoring and Professional Growth
+HUMN 7027Leading Change
+TEAC 7026Designing Curriculum Futures
+Total Credit Points40

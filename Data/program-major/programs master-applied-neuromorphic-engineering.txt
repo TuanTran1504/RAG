@@ -1,0 +1,181 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Master of Applied Neuromorphic Engineering (8124)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 106434D
+- This program applies to students who commenced in 2022 or later.
+- Handbook Summary 2022-2023
+- Neuromorphic Engineering is an exciting inter-disciplinary field combining aspects from electrical engineering, computer science, neuroscience, signal processing and mathematics. The Master of Neuromorphic Engineering offers students an opportunity to partner with high-profile industry partners in an applied project or a research project, mentored by leading researchers from the International Centre for Neuromorphic Systems at the MARCS Institute. This program seeks to address the rapidly growing demand for alternative inter-disciplinary technologies, such as bio-inspired agile sensory systems, smart edge devices, and brain-inspired high performance computational platforms. The students will be introduced to state-of-the-art neuromorphic hardware, sensors and algorithms in a highly structured way that increases their acumen for approaching new situations with creativity and initiative.
+- All students will enrol in the 8124 Master of Applied Neuromorphic Engineering and have the option to transition to 8123 Master of Neuromorphic Engineering at the end of their first year. A student completing the two-year degree may apply to pursue a PhD. Two exit options (Graduate Certificate in Neuromorphic Engineering and Graduate Diploma in Neuromorphic Engineering) are also available. The part-time offering of the 8124 M Applied Neuromorphic Engineering program is available to local students.
+- The majority of the coursework subjects will be undertaken at Parramatta City - Hassall St campus, while the applied project and research project will be located at Penrith campus.
+- Handbook Summary 2024
+- Neuromorphic Engineering is an exciting inter-disciplinary field combining aspects from electrical engineering, computer science, neuroscience, signal processing and mathematics fields. The Master of Applied Neuromorphic Engineering offers students an opportunity to partner with high-profile industry partners in an applied project, mentored by leading researchers from the International Centre for Neuromorphic Systems at the MARCS Institute. This program seeks to address the rapidly growing demand for alternative inter-disciplinary technologies, such as bio-inspired agile sensory systems, smart edge devices, and brain-inspired high performance computational platforms. The students will be introduced to state-of-the-art neuromorphic hardware, sensors and algorithms in a highly structured way that increases their acumen for approaching new situations with creativity and initiative.
+- Students will have the option to transition to 8123 Master of Neuromorphic Engineering at the end of their first year if they meet the transition requirements. Two exit options (Graduate Certificate in Neuromorphic Engineering and Graduate Diploma in Neuromorphic Engineering) are also available. The part-time offering of the 8124 M Applied Neuromorphic Engineering program is available to local students.
+- The majority of coursework subjects will be undertaken at Werrington South - Kingswood campus, except for COMP 7024 Programming for Data science and INFO 7001 Advanced Machine Learning subjects.
+- Early Exits
+- Students may exit this program on completion of 40 credit points with a 8126 Graduate Certificate in Neuromorphic Engineering (exit only) or on completion of 80 credit points with a 8125 Graduate Diploma in Neuromorphic Engineering (exit only)
+- Study Mode
+- One and a half years full-time. Students may be required to travel between campuses to complete their subjects.
+- Program Advice
+- Bharath Ramesh
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Admission
+- Admission 2022-2023
+- Admission to the program requires:
+- Applicants who meet the academic requirement will be invited to an interview to discuss previous experience and suitability for the program.
+- Admission 2024
+- Admission to the program requires:
+- Applicants who meet the academic requirement will be invited to an interview to discuss previous experience and suitability for the program.
+- Recommend Sequence
+- Qualification for this award requires the successful completion of 120 credit points as per the recommended structure below.
+- Full-time start-year intake
+- 8126 - Graduate Certificate in Neuromorphic Engineering
+- 8125 - Graduate Diploma in Neuromorphic Engineering
+- Part-time start-year intake
+- 8126 - Graduate Certificate in Neuromorphic Engineering
+- 8125 - Graduate Diploma in Neuromorphic Engineering
+- 40 cp subject taken over 2 sessions (20cps each session)
+- Note: “Students who have met minimum 4.5 GPA requirements for 8123 Master of Neuromorphic Engineering will be able to transfer to this program and complete ELEC 6002 Master Dissertation in Neuromorphic Engineering (80 credit points) instead of Applied Project in Neuromorphic Engineering (40 credit points).”
+- Please note: If student transition to 8123 Master of Neuromorphic Engineering at the end of second year, they will no longer be able to stay in the part-time offering. 8123 M Neuromorphic Engineering is full time only. The ELEC 6002 Master Dissertation in Neuromorphic Engineering subject (80 credit points) can only be completed full-time.
+
+Location Table:
+- Parramatta City Campus - Macquarie Street
+- Full Time
+- Internal
+- See above
+- Parramatta City Campus - Macquarie Street
+- Part Time
+- Internal
+- See above
+- Penrith campus
+- Full Time
+- Internal
+- See above
+- Penrith campus
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+ELEC 6004
+Neuromorphic Electronics Design
+10
+MATH 7019
+Mathematics of Signal Processing
+10
+NATS 6001
+Introduction to Neuroscience
+10
+COMP 7024
+Programming for Data Science
+10
+Students may exit with a Graduate Certificate in Neuromorphic Engineering at this point. 1
+
+
+Credit Points
+40
+Spring session
+ELEC 6003
+Neuromorphic Accelerators
+10
+COMP 6001
+Neuromorphic Algorithms and Computation
+10
+COMP 6002
+Neuromorphic Sensing
+10
+INFO 7001
+Advanced Machine Learning
+10
+Students may exit with a Graduate Diploma in Neuromorphic Engineering at this point. 2
+
+
+Credit Points
+40
+Year 2
+ELEC 6001
+Applied Project in Neuromorphic Engineering
+40
+Note: From 2023, students who have met minimum 4.5 GPA requirements for 8123 Master of Neuromorphic Engineering will be able to transfer to this program and complete the subject ELEC 6002 Master Dissertation in Neuromorphic Engineering (80 credit points) instead of subject ELEC 6001 Applied Project in Neuromorphic Engineering (40 credit points).
+
+
+Credit Points
+40
+
+Total Credit Points
+120
+Year 1
+Autumn session
+Credit Points
+COMP 7024
+Programming for Data Science
+10
+NATS 6001
+Introduction to Neuroscience
+10
+
+Credit Points
+20
+Spring session
+INFO 7001
+Advanced Machine Learning
+10
+COMP 6002
+Neuromorphic Sensing
+10
+Students may exit with a Graduate Diploma in Neuromorphic Engineering at this point 1
+
+
+Credit Points
+20
+Year 2
+Autumn session
+ELEC 6004
+Neuromorphic Electronics Design
+10
+MATH 7019
+Mathematics of Signal Processing
+10
+
+Credit Points
+20
+Spring session
+ELEC 6003
+Neuromorphic Accelerators
+10
+COMP 6001
+Neuromorphic Algorithms and Computation
+10
+Students may exit with a Graduate Diploma in Neuromorphic Engineering at this point 2
+
+
+Credit Points
+20
+Year 3
+Autumn session
+ELEC 6005
+Applied Project in Neuromorphic Engineering (Part-time) 3
+20
+
+Credit Points
+20
+Spring session
+ELEC 6005
+Applied Project in Neuromorphic Engineering (Part-time) 3
+20
+
+Credit Points
+20
+
+Total Credit Points
+120
+
+Courselist Tables:

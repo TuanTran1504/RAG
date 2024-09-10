@@ -1,0 +1,19 @@
+Academic Handbook Current Edition HLTH 2022 Biostatistics in Health Credit Points 10 Legacy Code 401381 Coordinator John Bidewell Opens in new window Description This subject introduces concepts and practice of biostatistics related to public health, healthcare policy and practice, and health science generally. Evidence-based health professionals must be able to interpret and act upon quantitative data from research about the health of individuals, communities and populations; and factors affecting health including determinants of health, and the effects of policies and interventions on the health of individuals and groups. The subject covers essential principles of statistical reasoning, assumptions and methods applied to health scenarios. Learning is achieved by students exploring available statistical information and through analysis of numerical data sets. School Health Sciences Discipline Health, Not Elsewhere Classified. Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 2 subject Learning Outcomes On successful completion of this subject, students should be able to: Describe the importance and contribution of biostatistics to healthcare policy and practice.
+Describe the structure of statistical software databases.
+Explain the logic, assumptions and limitations of inferential statistics and hypothesis testing as they relate to health investigations.
+Conduct valid descriptive and inferential analyses using statistical software.
+Interpret and report the results of statistical analysis. Subject Content 1.The importance and contribution of biostatistics to health policy and practice.
+2.Structure of data sets in software used for statistical analysis.
+3.Single-variable descriptive statistics for continuous and categorical data.
+4.Descriptive statistics combining two or more categorical or continuous variables.
+5.Descriptive measures of effect: differences, ratios and correlations.
+6.Main effects and interactions in descriptive analyses with two or more variables.
+7.Probability: normal and binomial distributions; standard scores and prediction.
+8.From random sample to population: logic of statistical inference and hypothesis testing.
+9.Sampling distributions, the standard error, z tests, t tests and confidence intervals.
+10.Non-parametric inferential statistics: alternatives to t tests; chi-square for two categorical variables.
+11.One-way analysis of variance.
+12.Regression analysis.
+13.Reporting statistical results: tables, graphs and expository prose; document preparation. Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Quiz 30 minutes per quiz  30 N Individual N  Report 800 words total document
+ 30 N Individual N  Report 1200 words total document 
+ 40 N Individual N Prescribed Texts Teaching Periods Sydney City Campus - Term 2 (2024) Sydney City On-site Subject Contact John Bidewell Opens in new window View timetable Opens in new window Spring (2024) Campbelltown On-site Subject Contact John Bidewell Opens in new window View timetable Opens in new window Online Online Subject Contact John Bidewell Opens in new window View timetable Opens in new window Structures that include subject Humanising Data, Minor (0335) Other Health (HLTH) Public Health (PUBH) Public Health Studies, Major (0297) Public Health, Major (0055) Public Health, Minor (0055) Public Health, Testamur Major (T021)

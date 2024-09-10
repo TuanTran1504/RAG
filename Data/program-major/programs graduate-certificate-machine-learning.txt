@@ -1,0 +1,55 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Graduate Certificate in Machine Learning (3784)
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 105594G
+- This program applies to students who commenced in 2021 or later.
+- Businesses in this Information Age are accumulating huge amounts of data. Mastery of Machine Learning provides us with a means to convert this data into knowledge and hence guide decision making processes. This course introduces the skills and knowledge, with a strong focus on practical application, required to begin a career in Machine Learning.
+- Study Mode
+- Six months full-time or one year part-time.
+- Program Advice
+- Program Advice
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Admission
+- Applicants must have:
+- Applicants seeking admission on the basis of work experience must support their application with a Statement of Service for all work experience listed on the application.
+- Statement of Service form
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- International students currently completing an Australian Year 12 in or outside Australia, an International Baccalaureate in Australia or a New Zealand National Certificate of Educational Achievement (NCEA) level 3 must apply via UAC International.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Qualification for this award requires the successful completion of 40 credit points which include the subjects listed below.
+- Students are required to complete the following three core subjects
+- Core Units
+- Electives
+- Elective subjects must be at Postgraduate Level 7.
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 7011 Predictive Analytics, replaced by  COMP 7023 Predictive Analytics
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Full Time
+- Internal
+- See above
+- Parramatta Campus - Victoria Road
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+COMP 7024Programming for Data Science10
+MATH 7016The Nature of Data10
+COMP 7023Predictive Analytics10
+And one elective10
+Total Credit Points40

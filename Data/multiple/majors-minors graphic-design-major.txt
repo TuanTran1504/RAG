@@ -1,0 +1,158 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Graphic Design, Major (0073)
+- Western Sydney University Major Code:
+- Previous Code: M1116.1
+- The Graphic Design major provides students from outside the Design program with a comprehensive introduction to fundamental skills and knowledge in graphic design. The major is delivered through a series of practice-based and theoretical subjects and you will study areas such as image design, contextual design studies, web design and branding. In addition, you will have the opportunity to choose a practice-based specialisation from the areas of interactive design; digital design; illustration and photomedia.
+- Location
+- Major Structure
+- Students must successfully complete 80 credit points as follows
+- Creative Industries Students
+- Creative Industries students must complete one of the following two subjects as their Introduction to Major subject as part of the core requirements for their program.
+- To complete this major, Creative Industries students must enrol into whichever level 1 subject they did not complete as their Introduction to major subject.
+- Design Pairings
+- Recommended Sequence
+- Qualification for this major requires the successful completion of 80 credit points as per the recommended sequence below
+- Full-time start-year intake
+- Full-time mid-year intake
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- enquiriesHCA@uws.edu.au
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+Select one of the following:
+10
+DESN 1011
+Image Design
+
+DESN 1021
+Web and Time-based Design ( Also available in Spring )
+
+
+Credit Points
+10
+Year 2
+Autumn session
+DESN 2014
+Researching the Visual
+10
+Select one subject from the selected Design Pairing
+10
+
+Credit Points
+20
+Spring session
+DESN 2001
+Australian Design
+10
+Select one subject from the selected Design Pairing
+10
+
+Credit Points
+20
+Year 3
+Autumn session
+DESN 3013
+Social Design: Research and Practice
+10
+DESN 3001
+Contextual Design Studies
+10
+
+Credit Points
+20
+Spring session
+DESN 3006
+Graphic Design: Developing a Personal Portfolio
+10
+
+Credit Points
+10
+
+Total Credit Points
+80
+Year 1
+Spring session
+Credit Points
+Students must choose either DESN 1021 (available in Spring) or DESN 1011 (available in Autumn)
+10
+DESN 1021
+Web and Time-based Design
+
+DESN 1011
+Image Design
+
+
+Credit Points
+10
+Autumn session
+DESN 2014
+Researching the Visual
+10
+
+Credit Points
+10
+Year 2
+Spring session
+DESN 2001
+Australian Design
+10
+
+Credit Points
+10
+Autumn session
+DESN 3001
+Contextual Design Studies
+10
+Select one subject from the selected Design Pairing
+10
+
+Credit Points
+20
+Year 3
+Spring session
+DESN 3006
+Graphic Design: Developing a Personal Portfolio
+10
+Select one subject from the selected Design Pairing
+10
+
+Credit Points
+20
+Autumn session
+DESN 3013
+Social Design: Research and Practice
+10
+
+Credit Points
+10
+
+Total Credit Points
+80
+
+Courselist Tables:
+
+courselist table1:
+DESN 1011Image Design10
+DESN 1021Web and Time-based Design10
+
+courselist table2:
+Illustration
+DESN 2007Illustrating Narrative10
+DESN 3007Illustrating Popular Culture10
+Interactive
+DESN 3008Interactive Design: Apps10
+COMM 2019Interactive Design: Games10
+Photomedia
+VISU 3002Photomedia: Fashion and Identity10
+DESN 2013Photomedia: Photographic Practice10
+Digital Design
+DESN 3002Data Visualisation10
+DESN 2011Motion Design10

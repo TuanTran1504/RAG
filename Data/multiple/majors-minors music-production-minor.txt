@@ -1,0 +1,40 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Music Production, Minor (0079)
+- Western Sydney University Minor Code:
+- Previous Code: SM1126.1
+- The Music Production minor allows Bachelor of Music students to develop expertise in studio recording and production, integrating music with multimedia, expanding live performance with technology and stage craft, and composing for screen media. The minor focuses on professional applications of music technology and builds students’ experience with creative projects undertaken solo or in groups.
+- Location
+- Minor Structure
+- Students must complete 4 subjects as follows.
+- The subjects listed below count towards completion of this minor for students who passed these subjects in 2023 or earlier.
+- PERF 2031 The Music Industry, replaced by PERF 2033 Recording Studio Practices
+- PERF 2033 Recording Studio Practices
+- The subjects listed below count towards completion of this minor for students who passed these subjects in 2021 or earlier.
+- PERF 2022 Studio Production, replaced by PERF 2026 Advanced Production 
+PERF 3007 Expanded Music Performance, replaced by PERF 3027 Interactive Electronic Media and Performance
+PERF 2008 Digital Musicianship, replaced by PERF 2027 Electronic Music Production 
+PERF 2026 Advanced Production, replaced by PERF 2031 The Music Industry
+PERF 3027 Interactive Electronic Media and Performance, replaced by PERF 3028 Expanded Performance
+PERF 2027 Electronic Music Production, replaced by PERF 2029 Music Multimedia Project
+- PERF 2031 The Music Industry
+- PERF 3028 Expanded Performance
+- PERF 2029 Music Multimedia Project
+- Related Programs
+
+Location Table:
+- Penrith Campus
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+PERF 2029Music Multimedia Project10
+PERF 3028Expanded Performance10
+PERF 2033Recording Studio Practices10
+PERF 3022Screen Media Composition10
+Total Credit Points40

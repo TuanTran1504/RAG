@@ -1,0 +1,29 @@
+Academic Handbook Current Edition ENGR 1052 Fundamentals of Mechanics (Block) Credit Points 10 Coordinator Maisha Tabassum Opens in new window Description In this subject students acquire knowledge about the action and interaction of forces, moments and couples in two and three dimensions.  Students then apply this to the analysis of the equilibrium of single bodies, and of trusses, mechanisms, and transversely loaded beams.  In addition, students study the dynamics of a non-rotating body, and a body rotating about a fixed axis.  Further, they study the friction between bodies.  Students conduct experiments to see how the lecture content applies to the real world, and make extensive use of vector algebra. School Eng, Design & Built Env Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 1 subject Restrictions Students must be enrolled in program :- 7178 Diploma of Aerotropolis Industry 4.0 (Mechatronic Skills) Learning Outcomes 1. Use equilibrium to evaluate unknown reactions, internal loads and represent distributed forces.
+2. Evaluate the internal forces in planar trusses, and mechanisms.
+3. Calculate the acceleration of a body under the action of an unbalanced force or couple.
+4. Analyse static and kinetic friction.
+5. Construct bending moment and shear force diagrams.
+6. Take measurements in the real world, and use them to verify the theory presented in the lectures. Subject Content 1. Statics in two dimensions
+• Vectors
+• Forces Moments and Couples
+• Free body diagrams
+• Equilibrium
+• Friction
+• Trusses
+• Frames and Machines
+2. Statics in three dimensions
+• Vectors
+• Forces Moments and Couples
+• Free body diagrams
+• Equilibrium
+3. Translational Dynamics
+• Acceleration
+• The work-energy equation
+• Potential energy
+4. Rotational Dynamics
+• Acceleration
+• The work-energy equation
+5. Beam Diagrams
+• Internal loads
+• Bending moments and shear force diagrams
+• Distributed forces Special Requirements Essential equipment College approved Calculator. Structures that include subject Diploma in Aerotropolis Industry 4.0 (Mechatronics Skills) (7178) Diploma in Aerotropolis Industry 4.0 (Mechatronics Skills)/Bachelor of Engineering Science (6046) Other Engr. and Related Tech (ENGR)

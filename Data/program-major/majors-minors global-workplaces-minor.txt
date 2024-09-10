@@ -1,0 +1,50 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Global Workplaces, Minor (0316)
+- Western Sydney University Minor Code:
+- Previous Code: SM1150.1
+- The transdisciplinary Global Workplaces minor upskills students from any disciplinary background with the knowledge and experience required to succeed in the increasingly globalised, disrupted and diverse world of work. The core values of ethics and diversity run as a backbone throughout the curriculum, providing a moral thread that underpins and helps to apply theoretical training in ethics, management, and international trade. At the same time, the minor offers real-world training in data analytics, business, law, client management and digital life that gives non-professional students a leg up in the market. This multi-disciplinary curriculum is fulfilled by required transdisciplinary core unit that has been developed in consultation with PricewaterhouseCoopers, a globally leading consultant advisory form.
+- This minor is a Challenge Minor, which is an innovative transdisciplinary minor co-created with students as partners. With a Challenge Minor, your learning reaches beyond your discipline, giving you the chance to amplify your learning in new directions. For more information, visit the Challenge Minor website.
+- Location
+- Minor Structure
+- Students must complete 40 credit points as follows.
+- The minor requires students to complete 40 credit points in an interdisciplinary program.
+
+Location Table:
+- Bankstown City Campus
+- Internal
+- B.Bennett@westernsydney.edu.au
+- Campbelltown Campus
+- Internal
+- B.Bennett@westernsydney.edu.au
+- Online
+- Internal
+- B.Bennett@westernsydney.edu.au
+- Parramatta South Campus - Victoria Road
+- Internal
+- B.Bennett@westernsydney.edu.au
+- Parramatta City Campus -cMacquarie Street
+- Internal
+- B.Bennett@westernsydney.edu.au
+- Penrith Campus
+- Internal
+- B.Bennett@westernsydney.edu.au
+- Liverpool Campus
+- Internal
+- B.Bennett@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Select three of the following:30
+BUSM 1015Introduction to International Business
+HUMN 1064Digital Identities
+BUSM 2031Managing in the Global Environment
+COMM 2024Media Law and Ethics
+COMM 2001Account and Client Management
+Students must complete the core subject:
+LAWS 3079Law, Economics, Ethics and Change10
+Total Credit Points40

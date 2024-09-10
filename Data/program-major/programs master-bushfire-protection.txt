@@ -1,0 +1,325 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Master of Bushfire Protection (3708)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- This program applies to students who commenced in 2022 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- For Commencement Year Summer A 2017/ 2018, please refer to: 3708.3 Master of Bushfire Protection
+- For Commencement Year 2016 - please refer to 3708.2 Master of Bushfire Protection
+- The Master of Bushfire Protection is a three-year part-time program which provides students with a comprehensive understanding of bushfire behaviour in relation to local vegetation, topography, land management and weather conditions. Students will be able to conduct bushfire assessments, provide advice on developments in bushfire prone areas, assess building designs against both the accepted and performance requirements of planning provisions, building code and standards.
+- The program has been designed primarily for External delivery. However, two subjects have a compulsory workshop that students are required to attend. Students are encouraged to attend online workshops to gain the benefit of interaction with their peers.
+- Early Exits
+- Students may exit this program on completion of 40 credit points with a 3794 Graduate Certificate in Bushfire Protection or on completion of 80 credit points with a 3793 Graduate Diploma in Bushfire Protection
+- Study Mode
+- Three years part-time. Students can fast-track by completing additional subjects per semester to complete the program earlier.
+- Program Advice
+- Program Advice
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Accreditation
+- The program is recognised by Fire Protection Association Australia as a qualification for accreditation under the Bushfire Planning and Design Scheme.
+- Admission
+- There are three entry pathways into the Master of Bushfire Protection.  Students are categorised into three Pathways based on their previous study background and work experience as indicated below and program sequence and length is set accordingly.
+- Pathway A
+- Applicants must have successfully completed an undergraduate degree or higher in land surveying, building, building surveying, construction management, planning, urban studies, quantity surveying, architecture, landscape architecture, science, environmental studies, natural resource management, emergency management, land-use planning, local government, property development or public sector management, and
+at least two years of related work experience
+- Pathway B
+- Applicants must have successfully completed an undergraduate degree or higher in planning, urban studies, environmental studies, natural resource management, urban and regional planning or property development, and
+at least two years relevant experience in planning (development control).
+- Pathway C
+- Applicants must have successfully completed an undergraduate degree or higher in building surveying, building or construction management, and
+at least two years relevant work experience in building surveying.
+- Applicants seeking admission on the basis of work experience must support their application with a Statement of Service for all work experience listed on the application.
+- Statement of Service form
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local and International applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Recommended Sequence
+- The program structure and sequence varies based on the student’s previous study background and level, and work experience.  See the Admission tab for more details.
+- Pathway A - Autumn intake
+- Qualification for this award requires the successful completion of 160 credit points as per the recommended sequence below.
+- Pathway B - Spring intake
+- Qualification for this award requires the successful completion of 160 credit points as per the recommended sequence below.
+- Pathway C - Spring intake
+- Exit Awards
+- Graduate Certificate in Bushfire Protection
+- Graduate Diploma in Bushfire Protection
+- Equivalent Subjects
+- The core subjects listed below count towards completion of this program for students who passed these subjects in 2019 or earlier.
+- ENGR 7003 - Alternative Solutions for Bushfire Prone Areas, replaced by ENGR 7026 Performance Solutions for Bushfire Protection.
+- ENGR 7026 Performance Solutions for Bushfire Protection
+
+Location Table:
+- Parramatta City Campus - Macquarie Street
+- Part Time
+- External
+- See above
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+ARCH 7004
+Planning and Development Control
+10
+BLDG 7007
+Interpreting Building Regulations (Residential Buildings)
+10
+
+Credit Points
+20
+Spring session
+ENGR 7016
+Planning for Bushfire Prone Areas
+
+Note: From Spring 2022 ENGR 7016 is replaced by ENGR 6002
+10
+ENGR 6002
+Planning for Bushfire Prone Areas
+
+BLDG 7004
+Building in Bushfire Prone Areas
+10
+Students may exit at this point with a Graduate Certificate in Bushfire Protection (40 credit points).
+
+
+Credit Points
+20
+Year 2
+1H session
+The following subject is not required for students intending to exit with the Graduate Diploma
+
+BLDG 7014
+Construction Industry Practice A
+20
+
+Credit Points
+20
+Autumn session
+ENGR 6001
+Bushfire Design and Climate Change
+10
+(Workshop attendance in this subject is required)
+
+PUBH 7007
+Disaster and Emergency Management (PG)
+10
+(Workshop attendance in this subject is required)
+
+
+Credit Points
+20
+2H session
+The following subject is not required for students intending to exit with the Graduate Diploma
+
+BLDG 7015
+Construction Industry Practice B
+20
+
+Credit Points
+20
+Spring session
+ENGR 7026
+Performance Solutions for Bushfire Protection
+10
+BLDG 7008
+Professional Practice and Building Law
+10
+Students may exit at this point with a Graduate Diploma in Bushfire Protection (80 credit points).
+
+
+Credit Points
+20
+Year 3
+Autumn session
+INFO 7010
+Research Project A
+20
+
+Credit Points
+20
+Spring session
+INFO 7011
+Research Project B
+20
+
+Credit Points
+20
+
+Total Credit Points
+160
+Year 1
+Spring session
+Credit Points
+ENGR 7016
+Planning for Bushfire Prone Areas
+
+Note: From Spring 2022 ENGR 7016 is replaced by ENGR 6002
+10
+ENGR 6002
+Planning for Bushfire Prone Areas
+
+BLDG 7008
+Professional Practice and Building Law
+10
+
+Credit Points
+20
+Autumn session
+ENGR 6001
+Bushfire Design and Climate Change
+10
+(Workshop attendance in this subject is required)
+
+BLDG 7007
+Interpreting Building Regulations (Residential Buildings)
+10
+
+Credit Points
+20
+Year 2
+2H SESSION
+
+The following subject is not required for students intending to exit with the Graduate Diploma
+
+BLDG 7014
+Construction Industry Practice A
+20
+SPRING SESSION
+
+BLDG 7004
+Building in Bushfire Prone Areas
+10
+ENGR 7026
+Performance Solutions for Bushfire Protection
+10
+1H SESSION
+
+The following subject is not required for students intending to exit with the Graduate Diploma
+
+BLDG 7015
+Construction Industry Practice B
+20
+AUTUMN SESSION
+
+ARCH 7004
+Planning and Development Control
+10
+PUBH 7007
+Disaster and Emergency Management (PG)
+10
+(Workshop attendance in this subject is required)
+
+Students may exit with a Graduate Certificate in Bushfire Protection (40 credit points) with ENGR 7016 , BLDG 7004 , ARCH 7004 and BLDG 7007
+
+
+Credit Points
+80
+Year 3
+Spring session
+INFO 7010
+Research Project A
+20
+
+Credit Points
+20
+Autumn session
+INFO 7011
+Research Project B
+20
+
+Credit Points
+20
+
+Total Credit Points
+160
+Year 1
+Spring session
+Credit Points
+BLDG 7004
+Building in Bushfire Prone Areas
+10
+BLDG 7008
+Professional Practice and Building Law
+10
+
+Credit Points
+20
+Autumn session
+ENGR 6001
+Bushfire Design and Climate Change
+10
+(Workshop attendance in this subject is required)
+
+ARCH 7004
+Planning and Development Control
+10
+
+Credit Points
+20
+Year 2
+2H SESSION
+
+The following subject is not required for students intending to exit with the Graduate Diploma
+
+BLDG 7014
+Construction Industry Practice A
+20
+SPRING SESSION
+
+ENGR 7016
+Planning for Bushfire Prone Areas
+
+Note: From Spring 2022 ENGR 7016 is replaced by ENGR 6002
+10
+ENGR 6002
+Planning for Bushfire Prone Areas
+
+ENGR 7026
+Performance Solutions for Bushfire Protection
+10
+1H SESSION
+
+The following subject is not required for students intending to exit with the Graduate Diploma
+
+BLDG 7015
+Construction Industry Practice B
+20
+AUTUMN SESSION
+
+BLDG 7007
+Interpreting Building Regulations (Residential Buildings)
+10
+PUBH 7007
+Disaster and Emergency Management (PG)
+10
+(Workshop attendance in this subject is required)
+
+Students may exit with a Graduate Certificate in Bushfire Protection (40 credit points) with ENGR 7016 , BLDG 7004 , ARCH 7004 and BLDG 7007
+
+
+Credit Points
+80
+Year 3
+Spring session
+INFO 7010
+Research Project A
+20
+
+Credit Points
+20
+Autumn session
+INFO 7011
+Research Project B
+20
+
+Credit Points
+20
+
+Total Credit Points
+160
+
+Courselist Tables:

@@ -1,0 +1,46 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Education Studies - Secondary Teaching, Minor (0267)
+- Western Sydney University Minor Code:
+- Previous Code:  SM1142.1
+- The Education Studies – Secondary Teaching minor is comprised of the four initial subjects from the Master of Teaching (Secondary) or three subjects towards the Master of Teaching (Secondary) STEM. These subjects are broadly structured for students to investigate the underlying principles and concepts in adolescent development, diversity and social justice, skills in the design of learning experiences along these principles, and putting their application into practice. Available to all students in a Pathway to Teaching (Secondary) degree, enrolment is dependent on the successful completion of 160 credit points in the undergraduate program.
+- Minor Structure Current
+- This structure applies to students who commenced in 2024 or later. If you commenced prior to 2024 please refer to the relevant Structure tab for details.
+- Students must successfully complete 40 credit points including the subjects listed below.
+- Minor Structure 2023
+- This structure applies to students who commenced in 2023 or prior. If you commenced in 2024 or later, please refer to the relevant Structure tab for details.
+- Students must successfully complete 40 credit points including the subjects listed below.
+- Equivalent Subjects
+- The subject listed below count towards completion of this program for students who passed these subjects in 2023 or earlier.
+- TEAC 7004 Adolescent Development and Teaching, replaced by TEAC 7161 Educational Psychology for Learning and Teaching
+- TEAC 7161 Educational Psychology for Learning and Teaching
+- Replaced Subjects
+- The subjects listed below counts towards completion of this program for students who passed the subjects in 2023 or earlier.
+- TEAC 7027 Designing Teaching and Learning, replaced by TEAC 7160 Literacy and Numeracy for Secondary Teaching
+- TEAC 7160 Literacy and Numeracy for Secondary Teaching
+- Related Programs
+
+Location Table:
+- Penrith Campus
+- Internal
+- Jaydene Barnes
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Students must have successfully completed 160 credit points of study before enrolling in the following Level 7 subjects:
+TEAC 7161Educational Psychology for Learning and Teaching10
+TEAC 7032Diversity, Social Justice and Schooling10
+TEAC 7160Literacy and Numeracy for Secondary Teaching10
+TEAC 7108Professional Practice Community Engagement10
+Total Credit Points40
+
+courselist table2:
+TEAC 7161Educational Psychology for Learning and Teaching10
+TEAC 7160Literacy and Numeracy for Secondary Teaching10
+TEAC 7032Diversity, Social Justice and Schooling10
+TEAC 7108Professional Practice Community Engagement10
+Total Credit Points40

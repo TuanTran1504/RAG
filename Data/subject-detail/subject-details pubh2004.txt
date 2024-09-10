@@ -1,0 +1,25 @@
+Academic Handbook Current Edition PUBH 2004 Clinical Classification and Coding Credit Points 10 Legacy Code 300951 Coordinator Cassie Rupnik Opens in new window Description This subject is designed to enable the student to classify diseases and interventions using the current version of the International Statistical Classification of Diseases and Related Health Problems, Tenth Revision, Australian Modification, the Australian Classification of Health Interventions and the Australian Coding Standards (ICD-10-AM/ACHI/ACS). The subject will also include the historical development of clinical classification systems as well as the purpose and value of classifying diseases and interventions within the health system. The student will become familiar with the structure and content of ICD-10-AM ACHI/ACS and be introduced to the rules and conventions associated within ICD-10-AM/ACHI. The primary ACS for ICD-10-AM/ACHI will be studied and applied when coding from line diagnoses/interventions, case studies, simple discharge summaries and clinical record reports. They will gain skills in data abstraction for clinical coding, specifically, the selection of principal and additional diagnoses and interventions. School Computer, Data & Math Sciences Discipline Other Health Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 2 subject Pre-requisite(s) HLTH 2007 Learning Outcomes On successful completion of this subject, students should be able to: summarise the history and development of ICD-10-AM/ACHI/ACS;
+explain the difference between a statistical classification and a nomenclature;
+understand and correctly apply the principles and techniques of clinical classification to code diagnoses and interventions using ICD-10-AM/ACHI/ACS;
+identify and interpret diagnostic and therapeutic test results and accurately classify findings based on qualification from within the clinical record;
+analyse diagnostic and procedural statements, case studies and simple discharge summaries/clinical record reports to determine which clinical statements to abstract and classify;
+source further information to clarify complex clinical coding issues;
+explain the use of clinical classification systems in health care, describing their purpose and value;
+integrate the knowledge acquired in other units of study in this course with the knowledge learnt in this unit. Subject Content 1. The history and purpose of clinical classification;
+2. Application of classification systems in a healthcare setting and the relationship to the ehr;
+3. Classification vs nomenclature;
+4. Coding symptoms, diagnoses and interventions;
+5. Coding factors influencing health status and contact with health services;
+6. Coding external causes of morbidity;
+7. Code sequencing and data abstracting techniques;
+8. Coding infectious diseases;
+9. Coding neoplasms/morphology;
+10. Coding blood and immunological disorders;
+11. Coding mental and behavioural disorders;
+12. Coding diseases of the nervous system;
+13. Coding diseases of the eye and ear;
+14. Coding respiratory diseases;
+15. Coding digestive diseases;
+16. Coding genitourinary disorders;
+17. Coding diseases of the skin and subcutaneous tissue;
+18. Coding musculoskeletal and connective tissue diseases. Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Practical Exam 1 hour 25 N Individual Y  Practical Exam 1 hour 25 N Individual Y  Practical Exam 2 hours 50 Y Individual Y Prescribed Texts Teaching Periods Autumn (2024) Campbelltown On-site Subject Contact Anupama Ginige Opens in new window View timetable Opens in new window Penrith (Kingswood) On-site Subject Contact Anupama Ginige Opens in new window View timetable Opens in new window Online Online Subject Contact Cassie Rupnik Opens in new window View timetable Opens in new window Parramatta - Victoria Rd On-site Subject Contact Anupama Ginige Opens in new window View timetable Opens in new window Structures that include subject Bachelor of Information and Communications Technology (Health Information Management) (3711) Diploma/Bachelor of Information and Communications Technology (Health Information Management) (6038) Health Informatics, Testamur Major (T007) Information Systems (INFS) Public Health (PUBH)

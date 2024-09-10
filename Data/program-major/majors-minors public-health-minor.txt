@@ -1,0 +1,35 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Public Health, Minor (0055)
+- Western Sydney University Minor Code:
+- Previous Code: SM4003.1
+- NOTE: Available to students from all other programs except those with majors in T021 Public Health or 0055 Public Health. Public health is the science of disease prevention, prolonging life and improving health for individuals and their communities. The Public Health Minor can be used to complement study in another health or interdisciplinary course and students will study topics in health prevention, disease control, population health assessment and measurement, environmental health and community engagement.
+- Location
+- Curriculum delivered through an agreement with another party
+- Major Structure
+- For any student at Western who meets the units pre-requisite rules, has sufficient elective space to complete the unit set and is not enrolled in T021, 0055 or M4022. This minor offers a concentrated study in public health for any Western student. The Minor will be noted on the student’s transcript. The minor is made up of 40 credit points.
+- Related Programs
+
+Location Table:
+- Campbelltown Campus
+- Internal
+- Dr Caterina Tannous
+- Online
+- Dr Caterina Tannous
+- Sydney City Campus*
+- Internal
+- Dr Andrey Zheluk
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Student must choose 4 from the following:40
+PUBH 1012Public Health
+HLTH 2022Biostatistics in Health
+PUBH 2020Epidemiology for Public Health
+PUBH 3024Harm Minimisation and Prevention
+PUBH 3025Health Policy and Advocacy
+Total Credit Points40

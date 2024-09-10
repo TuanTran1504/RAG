@@ -1,0 +1,39 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Property, Major (0172)
+- Western Sydney University Major Code:
+- Previous code:  SP2017.1
+- This major provides the opportunity for advanced level of study in property investment and development. It develops students’ understanding of the multi-disciplinary nature of property investment and development, as well as analytical and decision making skills necessary for property investment and development, and property professionals.
+- Location
+- Major Structure
+- Students must successfully complete 60 credit points as listed below.
+- The subjects listed below count towards completion of this major for students who passed these subjects in 2019 or earlier.
+- MKTG 7021 - Property Development, replaced by MKTG 7030 Sustainable Property Development 
+MKTG 7022 - Property Feasibility Study, replaced by MKTG 7011 Feasibility Modelling
+ACCT 7020 - Property Finance and Taxation, replaced by MKTG 7014 International Property Finance
+
+FINC 7018 - Property Valuation, replaced by MKTG 7015 Investment Property Valuation
+- MKTG 7030 Sustainable Property Development
+- MKTG 7011 Feasibility Modelling
+- MKTG 7014 International Property Finance
+- MKTG 7015 Investment Property Valuation
+- Related Programs
+
+Location Table:
+- Parramatta City Campus - Macquarie Street
+- Internal
+- Dr Laurel Jackson
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+MKTG 7011Feasibility Modelling10
+MKTG 7014International Property Finance10
+FINC 7017Property Investment Analysis10
+MKTG 7024Property Portfolio Analysis10
+MKTG 7015Investment Property Valuation10
+MKTG 7030Sustainable Property Development10
+Total Credit Points60

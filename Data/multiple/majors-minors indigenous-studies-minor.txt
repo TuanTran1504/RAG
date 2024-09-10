@@ -1,0 +1,30 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Indigenous Studies, Minor (0263)
+- Western Sydney University Minor Code:
+- Previous Code: SM1148.1
+- A minor in Indigenous Studies is a cross-disciplinary program that provides students with rigorous knowledge of the diversity and complexity of Indigenous Australian peoples. Students will develop skills in Indigenous methodologies, research and ethical praxis, In addition, the program offers students an opportunity to develop detailed critical understandings and perspectives of how representations and discourses of Indigenous peoples operate in contemporary society, including social, political, cultural, and historical contexts that produce them
+- Minor Structure
+- Students must complete 40 credit points as follows.
+- Equivalent Major Subjects
+- The subject listed below counts towards completion of this major for students who passed this subject in 2021 or earlier.
+- CULT 2019 - First Peoples and Criminal Justice, replaced by HUMN 2070 First Peoples and Criminal Justice
+- Related Programs
+
+Location Table:
+- Liverpool Campus
+- Internal
+- Dr Corrinne Sullivan
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Autumn session
+WELF 3023Indigenous Disability and Inclusion10
+Spring session
+HUMN 2070First Peoples and Criminal Justice10
+CULT 3016Indigenous Cultures: A Global Perspective10
+HUMN 3112Indigenous Methodologies10

@@ -1,0 +1,54 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Diploma in Aerotropolis Industry 4.0 (Mechatronics Skills) (7178)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- This is an exit only program from Diploma in Aerotropolis Industry 4.0 (Mechatronics Skills)/Bachelor of Engineering Science
+- The fourth industrial revolution, also known as Industry 4.0, is affecting almost every industry worldwide and rapidly transforming how businesses operate. The Diploma in Aerotropolis Industry 4.0 (Mechatronics Skills) is designed to equip students with the relevant employability skills required to successfully navigate Aerotropolis Industry 4.0, in addition to equipping students with the skills, knowledge, and attributes required for further studies in Engineering. The Diploma presents students with subjects from the first year of the Bachelor of Engineering Science degree and the Bachelor of Engineering (Honours). The Diploma is designed to develop student’s ability to work autonomously, work within teams, problem solve real-world issues within their field, as well as offering a cultural induction in to the Aerotropolis Industry.
+- Study Mode
+- One year full-time (three terms).
+- Program Advice
+- College Admin
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Inherent Requirements
+- The Inherent requirements will be the same as for the current Bachelor of Engineering Science and Bachelor of Engineering (Honours).
+- Inherent Requirements
+- Admission
+- This is an exit only program from Diploma in Aerotropolis Industry 4.0 (Mechatronics Skills)/Bachelor of Engineering Science
+- Completion of Year 12 with specified ATAR to be determined year by year, or completed Certificate III or higher, or equivalent work experience.
+- Equivalent experience includes:
+- Applicants seeking admission on the basis of work experience must support their application with a Statement of Service for all work experience listed on the application.
+- Assumed Knowledge: Two subjects of Science and two subjects of Mathematics (not General Mathematics).
+- For more information on applying please see link to The College admission pages below
+- https://www.westernsydney.edu.au/thecollege/how_to_apply
+- Recommend Sequence
+- Qualification for this award requires the successful completion of 80 credit points which include the subjects listed in the recommended sequence below.
+
+Location Table:
+- Online
+- Full Time
+- Online
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Block D
+MATH 1036Mathematics for Engineers Preliminary (UG Cert)10
+ENGR 1048Engineering Materials (UG Cert)10
+Block E
+ENGR 1051Engineering Physics (Block)10
+Block F
+ELEC 1012Electrical Fundamentals (Block)10
+ENGR 1052Fundamentals of Mechanics (Block)10
+Block B
+ENGR 1049Introduction to Engineering Practice (Block)10
+Block C
+ELEC 1011Engineering Computing (Block)10
+Total Credit Points70

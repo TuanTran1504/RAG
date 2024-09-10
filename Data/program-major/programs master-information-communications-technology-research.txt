@@ -1,0 +1,469 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Master of Information and Communications Technology (Research) (8112)
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 092789G
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- The Master of Information and Communications Technology (Research) program exposes students to advanced topics and research in ICT. This program is comprised of a coursework component that is followed by a yearlong full-time-equivalent  supervised research training subject. Students will graduate from this program with research skills appropriate to the ICT discipline, by engaging in research projects within the university or in collaboration with an external organisation, and have an option to pursue a pathway to Higher Degree Research studies.
+- Study Mode
+- Two and a half years full-time.
+- Location
+- Accreditation
+- The Master of Information and Communications Technology (Research) is accredited at Professional Level by the Australian Computer Society
+- Admission 2018 - 2022
+- To be eligible for admission, you must have successfully completed
+- To be eligible for up to 40 credit points of advanced standing, you must have successfully completed
+- Advanced standing from foundation units are subject to approval by the relevant Director of Academic Programs (DAP).
+- Applicants seeking admission on the basis of work experience MUST support their application with a Statement of Service for all work experience listed on the application.
+- Statement of Service
+- Admission 2023
+- To be eligible for admission, you must have successfully completed
+- To be eligible for up to 40 credit points of advanced standing, you must have successfully completed
+- Advanced standing from foundation units are subject to approval by the relevant Director of Academic Programs (DAP).
+- Applicants seeking admission on the basis of work experience MUST support their application with a Statement of Service for all work experience listed on the application
+- Statement of Service
+- How to apply
+- Please use the link below for details on the application process.
+- Application Process - Master of Information and Communications Technology (Research)
+- Sequence Current
+- This sequence applies to students who commenced in 2023 or later. If you commenced prior to 2023 please refer to the Sequence 2018 - 2022 tab for details.
+- Qualification for this award requires the successful completion of 200 credit points as per the recommended sequence below.
+- Start-year intake
+- Mid-year intake
+- Alternate Subjects
+- Recommended Sequence 2018 - 2022
+- If you commenced in 2023 or later please refer to the Sequence 2023 tab for details.
+- Qualification for this award requires the successful completion of 200 credit points as per the recommended sequence below.
+- Full-time start-year intake
+- Full-time mid-year intake
+- List 1 - Foundation Subjects
+- List 2 - Specialised Subjects
+- Replaced Subjects
+- The specialised subjects listed below count towards completion of this program for students who passed these subjects in 2020 or earlier.
+- MATH 7007 Genomic Data Science
+- INFO 7008 Software Architectures
+- List 3 - Multidisciplinary Subjects
+- Replaced Subjects
+- The core subjects listed below count towards completion of this program for students who passed these subjects in 2019 or earlier.
+
+Location Table:
+- Parramatta Campus
+- Full time
+- Internal
+- 
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+COMP 7015
+Programming Proficiency
+10
+ENGR 7017
+Professional Practice and Communication
+10
+COMP 7013
+Network Technologies
+10
+
+Credit Points
+40
+2H session
+HUMN 4001
+Researcher Development 1: Reading ,Writing, and the Business of Research
+10
+
+Credit Points
+10
+Spring session
+INFO 6001
+IT Project Management
+10
+INFO 7015
+Applied Cybersecurity
+10
+Select one Alternate Subject
+10
+
+Credit Points
+30
+Year 2
+1H session
+HUMN 4002
+Researcher Development 2: Proposing and Justifying Research
+10
+
+Credit Points
+10
+Autumn session
+COMP 7003
+Big Data
+10
+INFS 7003
+Advanced Topics in ICT
+10
+INFO 7003
+Advanced Topics in User System Interaction
+10
+
+Credit Points
+30
+2H session
+INFO 9002
+Higher Degree Research Thesis - Information Technology
+40
+Please note INFO 9002 is a year-long subject
+
+
+Credit Points
+40
+Year 3
+1H session
+INFO 9002
+Higher Degree Research Thesis - Information Technology
+40
+Please note INFO 9002 is a year-long subject
+
+
+Credit Points
+40
+
+Total Credit Points
+200
+Year 1
+Spring session
+Credit Points
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+COMP 7015
+Programming Proficiency
+10
+ENGR 7017
+Professional Practice and Communication
+10
+COMP 7013
+Network Technologies
+10
+
+Credit Points
+40
+1H session
+HUMN 4001
+Researcher Development 1: Reading ,Writing, and the Business of Research
+10
+
+Credit Points
+10
+Autumn session
+INFO 7003
+Advanced Topics in User System Interaction
+10
+INFS 7003
+Advanced Topics in ICT
+10
+Select one Alternate Subject
+10
+
+Credit Points
+30
+Year 2
+2H session
+HUMN 4002
+Researcher Development 2: Proposing and Justifying Research
+10
+
+Credit Points
+10
+Spring session
+INFO 7005
+IT Project Management
+10
+COMP 7003
+Big Data
+10
+INFO 7015
+Applied Cybersecurity
+10
+
+Credit Points
+30
+1H session
+INFO 9002
+Higher Degree Research Thesis - Information Technology
+40
+Please note INFO 9002 is a year-long subject
+
+
+Credit Points
+40
+Year 3
+2H session
+INFO 9002
+Higher Degree Research Thesis - Information Technology
+40
+Please note INFO 9002 is a year-long subject
+
+
+Credit Points
+40
+
+Total Credit Points
+200
+Year 1
+Autumn session
+Credit Points
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+COMP 7015
+Programming Proficiency
+10
+INFO 7003
+Advanced Topics in User System Interaction
+10
+ENGR 7017
+Professional Practice and Communication
+10
+
+Credit Points
+40
+2H session
+HUMN 4001
+Researcher Development 1: Reading ,Writing, and the Business of Research
+10
+
+Credit Points
+10
+Spring session
+COMP 7013
+Network Technologies
+10
+INFO 7005
+IT Project Management
+10
+Select one Alternate subject from List 1, List 2 or List 3
+10
+
+Credit Points
+30
+Year 2
+1H session
+HUMN 4002
+Researcher Development 2: Proposing and Justifying Research
+10
+
+Credit Points
+10
+Autumn session
+COMP 7003
+Big Data
+10
+INFS 7003
+Advanced Topics in ICT
+10
+Select one Alternate subject from List 1, List 2 or List 3
+10
+Research Quarter 3 & 4 sessions
+
+Please note INFO 9002 is a year-long subject studied in Research Quarters, 20cp per Quarter
+40
+INFO 9002
+Higher Degree Research Thesis - Information Technology
+
+
+Credit Points
+70
+Year 3
+Research Quarter 1 & 2 sessions
+
+Please note INFO 9002 is a year-long subject studied in Research Quarters, 20cp per Quarter
+40
+INFO 9002
+Higher Degree Research Thesis - Information Technology
+
+
+Credit Points
+40
+
+Total Credit Points
+200
+Year 1
+Spring session
+Credit Points
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+COMP 7015
+Programming Proficiency
+10
+ENGR 7017
+Professional Practice and Communication
+10
+COMP 7013
+Network Technologies
+10
+
+Credit Points
+40
+1H session
+HUMN 4001
+Researcher Development 1: Reading ,Writing, and the Business of Research
+10
+
+Credit Points
+10
+Autumn session
+INFO 7003
+Advanced Topics in User System Interaction
+10
+INFS 7003
+Advanced Topics in ICT
+10
+Select one Alternate subject from List 1, List 2 or List 3
+10
+
+Credit Points
+30
+Year 2
+2H session
+HUMN 4002
+Researcher Development 2: Proposing and Justifying Research
+10
+
+Credit Points
+10
+Spring session
+INFO 7005
+IT Project Management
+10
+COMP 7003
+Big Data
+10
+Select one Alternate subject from List 1, List 2 or List 3
+10
+Research Quarter 1 & 2 sessions
+
+Please note INFO 9002 is a year-long subject studied in Research Quarters, 20cp per Quarter
+40
+INFO 9002
+Higher Degree Research Thesis - Information Technology
+
+
+Credit Points
+70
+Year 3
+Research Quarter 3 & 4 sessions
+
+Please note INFO 9002 is a year-long subject studied in Research Quarters, 20cp per Quarter
+40
+INFO 9002
+Higher Degree Research Thesis - Information Technology
+
+
+Credit Points
+40
+
+Total Credit Points
+200
+
+Courselist Tables:
+
+courselist table1:
+COMP 7018Advanced Cloud Computing10
+PUBH 7001Advanced Health Classifications and Coding10
+INFS 7001Advanced Healthcare Data Environments10
+INFS 7002Advanced Healthcare Software and Systems10
+INFO 7001Advanced Machine Learning10
+INFO 7002Advanced Topics in Artificial Intelligence10
+INFO 7014Advanced Topics in Cybersecurity10
+COMP 7002Advanced Topics in Networking10
+COMP 7019Applied Machine Learning10
+COMP 7020Artificial Intelligence Ethics and Organisations10
+INFO 7018Cloud Systems Development10
+INFS 7004Content Management Systems and Web Analytics10
+COMP 7006Data Science10
+COMP 7028Hands-on Quantum Computing10
+COMP 7007Information Security Management10
+COMP 7008Internet of Things10
+COMP 7021Knowledge Representation and Reasoning10
+COMP 7009Mobile Computing10
+COMP 7011Multimedia Communication Systems10
+COMP 7022Natural Language Processing10
+COMP 7012Network Management10
+COMP 7023Predictive Analytics10
+COMP 7024Programming for Data Science10
+MATH 7017Probabilistic Graphical Models10
+NATS 7057Research Preparation in Post Graduate Studies10
+COMP 7025Social Media Intelligence10
+INFS 7006Software Testing and Automation10
+INFS 7008Systems and Network Security10
+MATH 7016The Nature of Data10
+COMP 7016Visualisation10
+INFO 7013Web Engineering10
+INFS 7009Web Technologies10
+COMP 7017Wireless Networking10
+INFO 7016Postgraduate Project A10
+INFO 7017Postgraduate Project B10
+HUMN 4003Writing Beyond the Academy: Knowledge Translation and Public Audience Communication10
+HUMN 4001Researcher Development 1: Reading ,Writing, and the Business of Research10
+
+courselist table2:
+INFO 7003Advanced Topics in User System Interaction10
+INFS 7004Content Management Systems and Web Analytics10
+INFO 7005IT Project Management10
+COMP 7013Network Technologies10
+COMP 7015Programming Proficiency10
+INFS 7007Systems Analysis and Database Management Systems10
+INFS 7008Systems and Network Security10
+INFS 7009Web Technologies10
+
+courselist table3:
+COMP 7018Advanced Cloud Computing10
+PUBH 7001Advanced Health Classifications and Coding10
+INFS 7001Advanced Healthcare Data Environments10
+INFS 7002Advanced Healthcare Software and Systems10
+INFO 7001Advanced Machine Learning10
+MECH 7004Advanced Mobile Robotics10
+MECH 7005Advanced Robotics10
+INFO 7002Advanced Topics in Artificial Intelligence10
+INFS 7003Advanced Topics in ICT10
+COMP 7002Advanced Topics in Networking10
+COMP 7019Applied Machine Learning10
+COMP 7020Artificial Intelligence Ethics and Organisations10
+COMP 7003Big Data10
+COMP 7004Cloud Computing10
+INFO 7018Cloud Systems Development10
+COMP 7006Data Science10
+COMP 7028Hands-on Quantum Computing10
+COMP 7008Internet of Things10
+COMP 7021Knowledge Representation and Reasoning10
+COMP 7009Mobile Computing10
+COMP 7011Multimedia Communication Systems10
+COMP 7022Natural Language Processing10
+COMP 7012Network Management10
+MATH 7011Predictive Analytics10
+MATH 7017Probabilistic Graphical Models10
+MATH 7012Programming for Data Science10
+MATH 7014Social Media Intelligence10
+INFS 7006Software Testing and Automation10
+MATH 7016The Nature of Data10
+COMP 7016Visualisation10
+INFO 7013Web Engineering10
+COMP 7017Wireless Networking10
+
+courselist table4:
+BUSM 7018Contemporary People Management10
+ECON 7001Economics10
+ACCT 7015Financial Reports for Decision Making10
+BUSM 7040Governance, Ethics and Social Entrepreneurship10
+BEHV 7036Research Internship and Engagement10
+BUSM 7086Strategic Business Management10
+BUSM 7094The Contemporary Business Environment10
+BUSM 7099Understanding Contemporary Organisations10
+HUMN 4003Writing Beyond the Academy: Knowledge Translation and Public Audience Communication10

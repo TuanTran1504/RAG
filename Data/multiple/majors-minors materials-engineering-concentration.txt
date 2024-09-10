@@ -1,0 +1,28 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Materials Engineering, Concentration (0280)
+- Western Sydney University Concentration Code:
+- Previous Code: SM3117.1
+- Location
+- Concentration Structure
+- Students must successfully complete 40 credit points from the subjects below.
+- Related Programs
+
+Location Table:
+- Parramatta City Campus-Macquarie Street
+- Internal
+- Program Advice
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+PROC 1008Introduction to Materials Engineering10
+PROC 4001Advanced Materials Topics10
+PROC 4002Engineering Materials from Waste10
+Students enrolled in the Advanced Manufacturing major must complete the following subject
+PROC 2003Materials Selection and Design10
+Students enrolled in the Sustainability Engineering major must complete the following subject
+PROC 3008Materials Processing and Applications10

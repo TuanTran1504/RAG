@@ -1,0 +1,45 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Business Regulation, Governance and Compliance, Major (0165)
+- Western Sydney University Major Code:
+- Previous Code: M2021.1
+- A sound understanding of the legal framework of business regulation, governance and legal compliance is an increasingly important and expanding field of operation within a complex commercial world in which practitioners, to be effective and proactive, should acquire competencies of governance and risk assessment within a legal framework. The significant impact and interplay between law and business will be addressed with the objective of providing students with the skills to identify and critically evaluate the mandatory requirements for compliant business practice and the necessary strategies to minimise legal risk and maximise effective commercial governance. Students must be enrolled in Bachelor of Business or Diploma in Business/Bachelor of Business.
+- Location
+- Major Structure
+- Students must complete 80 subjects as follows.
+- The subject listed below counts towards completion of this major for students who passed this subject in 2021 or earlier.
+- JUST 2009 Law Economics and Business Ethics
+- The subjects listed below counts towards completion of this major for students who passed the subjects in 2024 or earlier.  
+LAWS 3017 Employment Law and Policy
+LAWS 3026 Governance
+LAWS 3038 International Transactions Law
+LAWS 3060 Protecting Ideas
+- Related Programs
+
+Location Table:
+- Bankstown City Campus
+- Internal
+- Program Advice
+- Campbelltown Campus
+- Internal
+- Program Advice
+- Parramatta Campus - Victoria Road
+- Internal
+- Program Advice
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Select eight of the following:80
+LAWS 4003Advanced Taxation Law
+ACCT 2001Contemporary Management Accounting
+ECON 2002Corporate Financial Management
+LAWS 2005Financial Services Law
+LAWS 2010Law of Business Organisations
+LAWS 2012Regulatory Risk and Compliance
+LAWS 3070Taxation Law
+LAWS 3014Corporate Governance
+Total Credit Points80

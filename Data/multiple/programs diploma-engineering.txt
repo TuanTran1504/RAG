@@ -1,0 +1,53 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Diploma in Engineering (7034)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 063562M
+- This program applies to students who commenced in Term 1, 2014 or later.
+- The Diploma in Engineering is designed to engage students in, and further prepare students for, tertiary study in Engineering / Engineering Science and in so doing address any perceived deficiencies in the students’ mathematical and physics knowledge and skills. The Diploma presents students with subjects from the first year of the Bachelor of Engineering (Honours) or Bachelor of Engineering Science degrees. The Diploma aims to produce students who are fully prepared for study beyond the first year of the Bachelor of Engineering (Honours) / Engineering Science degrees. The Diploma, completed in a smaller, more supportive learning environment than usually found in first year undergraduate programs, is designed to develop students to have greater ability in self-directed study and have the self-esteem that comes from prior achievement in a tertiary environment.
+- Study Mode
+- One year full-time. Students will be required to attend the Kingswood or Parramatta South campus for some learning experiences.
+- Program Advice
+- College Program Enquiries
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Admission
+- Local students entering this Diploma are required to have:
+- Assumed to have a background in mathematics at senor high school level and assumed background Science knowledge, preferably in Physics.
+- Met other entry requirements such as:
+- International students entering the Diploma must satisfy one of the following language requirements:
+- Assumed to have background in mathematics at senor high school level and assumed background Science knowledge, preferably in Physics.
+- Academic Entry Requirements vary according to country of origin. However, in general:
+- Program Structure
+- Students must pass the following subjects
+- Qualification for this award requires the successful completion of 100 credit points which include the subjects listed in the recommended sequence below.
+
+Location Table:
+- Parramatta City Campus-George Street
+- Full Time
+- Internal
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+ELEC 1005Electrical Fundamentals (WSTC)10
+ELEC 1008Engineering Computing (WSTC)10
+ENGR 1010Engineering Materials (WSTC)10
+ENGR 1013Engineering Physics (WSTC)10
+ENGR 1020Fundamentals of Mechanics (WSTC)10
+ENGR 1026Introduction to Engineering Practice (WSTC)10
+MATH 1018Mathematics for Engineers 1 (WSTC)10
+MATH 1023Mathematics for Engineers Preliminary (WSTC)10
+Students must pass the following preparatory level subjects for which no advanced standing will be granted in the Western Sydney University degree program:
+PHYS 0003Foundation Physics 2 (WSTC Prep)10
+MATH 0008Mathematics 2 (WSTC Prep)10
+Students must also pass the following non-award subject, which does not count for credit towards the Diploma:
+GEDU 0008Tertiary Study Skills in Engineering (WSTC Prep)0
+Total Credit Points100

@@ -1,0 +1,40 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Health Promotion Studies, Major (0298)
+- Western Sydney University Minor Code:
+- Previous Code: M4023.1
+- For any student at Western who meets the subjects’ pre-requisite rules, has sufficient elective space to complete the subject set and is not enrolled in the Bachelor of Health Science or Diploma in Health Science/ Bachelor of Health Science.
+- Health Promotion extends beyond raising awareness of healthcare issues to developing and implementing strategies for communities, individuals and policy makers to support good health and wellbeing. Graduates may help address health inequities in communities, link individuals and communities with healthcare, and assist individuals and communities to follow healthy behaviours, working across sectors and engaging collaboratively with communities to do so. Health promotion projects are as diverse as injury prevention, skin cancer prevention, HIV/AIDS awareness and community development. Graduates with studies in health promotion develop understandings of health that may be applied in health work settings. The program combines studies of health politics and planning, health promotion practice and public health with a comprehensive foundation in the health sciences
+- Location
+- Curriculum delivered through an agreement with another party
+- Major Structure
+- Students must complete 80 credit points as follows.
+- Related Programs
+- Bachelor of Health Science
+- No results found.
+
+Location Table:
+- Campbelltown Campus
+- Internal
+- Dr Caterina Tannous
+- Online
+- Dr Caterina Tannous
+- Sydney City Campus*
+- Internal
+- Dr Andrey Zheluk
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+PUBH 1010Health Promotion Theory and Approaches10
+PUBH 2005Culture, Diversity and Health10
+PUBH 1006Population Health and Society10
+PUBH 3022Advances and Challenges in Health Promotion10
+PUBH 1011Promoting Health Collaboratively in Communities10
+PUBH 3025Health Policy and Advocacy10
+PUBH 3026Health Promotion Planning and Implementation10
+MEDI 3007Professional Health Placement10
+Total Credit Points80

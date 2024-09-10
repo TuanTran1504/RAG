@@ -1,0 +1,42 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Data Analytics, Testamur Major (T004)
+- Western Sydney University Major Code:
+- Previous Code:  ST3053.1
+- Extracting information from data has become a science in itself, blending skill sets from mathematics, statistics and computing. With a strong applications focus, this major covers the nature of data, how to embark on data driven investigations and visual and computational analytics. Graduates will have the knowledge and skills required to operate effectively in a data driven world.
+- Location
+- Major Structure
+- Students studying in the Master of Information and Communications Technology and the Master of Information and Communications Technology (Advanced) must complete 40 credit points as follows.
+- Students studying in the Master of Artificial Intelligence must complete the following four subjects.
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 7011 Predictive Analytics, replaced by  COMP 7023 Predictive Analytics
+- MATH  7014 Social Media Intelligence, replaced by COMP 7025 Social Media Intelligence
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- postgradit@scem.uws.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Students must complete the following three subjects:
+COMP 7006Data Science10
+COMP 7023Predictive Analytics10
+MATH 7016The Nature of Data10
+Select one of the following:10
+COMP 7016Visualisation
+COMP 7024Programming for Data Science
+COMP 7025Social Media Intelligence
+Total Credit Points40
+
+courselist table2:
+COMP 7006Data Science10
+COMP 7024Programming for Data Science10
+COMP 7025Social Media Intelligence10
+MATH 7016The Nature of Data10
+Total Credit Points40

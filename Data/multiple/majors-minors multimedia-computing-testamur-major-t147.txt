@@ -1,0 +1,44 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Multimedia Computing, Testamur Major (T147)
+- Western Sydney University Major Code:
+- Multimedia computing involves combining a range of texts, graphics, video and animation amongst other media into a package that users can easily navigate and control. This requires knowledge of the technical as well as theoretical aspects of the design, development and deployment of software applications in interactive Multimedia Computing environments. Students learn a range of techniques and skills in depth to develop digital assets such as 3D models, animations, video games and interactive simulations in work integrated learning projects. The skills developed in this major are applicable to the interactive media industry, marketing and production of movies, animations, or special effects.
+- Location
+- Students must complete 80 credit points as follows
+
+Location Table:
+- Parramatta Victoria Road Campus
+- Full-time
+- Internal
+- cdms@westernsydney.edu.au
+- Parramatta Victoria Road Campus
+- Part-time
+- Internal
+- cdms@westernsydney.edu.au
+- Penrith Campus
+- Full-time
+- Internal
+- cdms@westernsydney.edu.au
+- Penrith Campus
+- Part-time
+- Internal
+- cdms@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+COMP 10013D Modelling Fundamentals10
+COMP 2011Games Technology10
+MATH 2010Linear Algebra10
+COMP 3024Video Games Development10
+INFO 3003Human-Computer Interaction10
+COMP 3006Computer Graphics10
+COMP 3036Full Stack Development10
+Select one of the following:10
+COMP 2018Simulation Fundamentals
+COMP 3009Distributed Systems and Programming
+COMP 2009Data Structures and Algorithms
+Total Credit Points80

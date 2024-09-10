@@ -1,0 +1,107 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Health Informatics, Testamur Major (T007)
+- Western Sydney University Major Code:
+- Previous Code: ST3091.1
+- Increasingly, healthcare information is being captured electronically and newer technology modes are being applied in many innovative ways to support efficient and effective clinical care. Students completing this major develop an understanding of Information and Communications Technology (ICT) concepts in healthcare including electronic healthcare records; healthcare data analysis; fundamentals of medicine concepts and terminologies; disease and intervention classification systems; healthcare IT system interoperability and design. This major will prepare students for the ICT challenges ahead in the healthcare domain and equip them with the knowledge and skills for taking up employment opportunities within public and private healthcare providers and technology suppliers.
+- Location
+- Major Structure
+- Master of Information and Communications Technology and Master of Information and Communications Technology (Advanced)
+- Students in Master of Information and Communications Technology and Master of Information and Communications Technology (Advanced) complete the following
+- Master of Data Science
+- Students in Master of Data Science complete the following
+- Master of Information and Communications Technology/Master of Data Science
+- Bachelor of Information Systems and Bachelor of Information Systems (Advanced) - 2025
+- Students enrolled in the Bachelor of Information Systems and the Bachelor of Information Systems (Advanced) must complete 80 credit points as follows
+- Bachelor of Information Systems and Bachelor of Information Systems (Advanced) - 2022-2024
+- Students enrolled in the Bachelor of Information Systems and the Bachelor of Information Systems (Advanced) must complete 80 credit points as follows
+- Bachelor of Information and Communications Technology and Bachelor of Information and Communications Technology (Advanced)
+- Students enrolled in the Bachelor of Information and Communications Technology and the Bachelor of Information and Communications Technology (Advanced) must complete 80 credit points as follows
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 2009 Introduction to Data Science is replaced by COMP 2025 Introduction to Data Science
+- Bachelor of Data Science
+- Students enrolled in the Bachelor of Data Science must complete 80 credit points as follows
+- Related Programs
+
+Location Table:
+- Penrith
+- Full time
+- Internal
+- Dr Simi Kamini Bajaj
+- Penrith
+- Part time
+- Internal
+- Dr Simi Kamini Bajaj
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Students must complete the following three subjects:
+PUBH 7001Advanced Health Classifications and Coding10
+INFS 7001Advanced Healthcare Data Environments10
+INFS 7002Advanced Healthcare Software and Systems10
+Select one of the following:10
+COMP 7016Visualisation
+MATH 7016The Nature of Data
+Total Credit Points40
+
+courselist table2:
+PUBH 7001Advanced Health Classifications and Coding10
+INFS 7001Advanced Healthcare Data Environments10
+INFS 7002Advanced Healthcare Software and Systems10
+INFS 7007Systems Analysis and Database Management Systems10
+Total Credit Points40
+
+courselist table3:
+PUBH 7001Advanced Health Classifications and Coding10
+INFS 7001Advanced Healthcare Data Environments10
+INFS 7002Advanced Healthcare Software and Systems10
+COMP 7004Cloud Computing10
+Total Credit Points40
+
+courselist table4:
+PUBH 2004Clinical Classification and Coding10
+INFS 3002Advanced Clinical Classification10
+HLTH 2007Fundamentals of Medical Concepts and Terminology10
+INFS 3010Healthcare Data Environments10
+INFS 3011Healthcare Software and Systems10
+COMP 2025Introduction to Data Science10
+INFS 2004Introduction to Health Informatics10
+INFS 3001Activity Based Funding/Casemix and Data Quality10
+Total Credit Points80
+
+courselist table5:
+PUBH 2004Clinical Classification and Coding10
+INFS 2001Database Design and Development10
+HLTH 2007Fundamentals of Medical Concepts and Terminology10
+INFS 3010Healthcare Data Environments10
+INFS 3011Healthcare Software and Systems10
+INFO 3003Human-Computer Interaction10
+INFS 2004Introduction to Health Informatics10
+INFS 1006Systems Analysis and Design10
+Total Credit Points80
+
+courselist table6:
+PUBH 2004Clinical Classification and Coding10
+INFS 3002Advanced Clinical Classification10
+HLTH 2007Fundamentals of Medical Concepts and Terminology10
+INFS 3010Healthcare Data Environments10
+INFS 3011Healthcare Software and Systems10
+COMP 2025Introduction to Data Science10
+INFS 2004Introduction to Health Informatics10
+INFS 3001Activity Based Funding/Casemix and Data Quality10
+Total Credit Points80
+
+courselist table7:
+PUBH 2004Clinical Classification and Coding10
+INFS 3002Advanced Clinical Classification10
+HLTH 2007Fundamentals of Medical Concepts and Terminology10
+INFS 3010Healthcare Data Environments10
+INFS 3011Healthcare Software and Systems10
+MATH 2011Making Sense of Data10
+INFS 2004Introduction to Health Informatics10
+INFS 3001Activity Based Funding/Casemix and Data Quality10
+Total Credit Points80

@@ -1,0 +1,41 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Networking, Testamur Major (T009)
+- Western Sydney University Major Code:
+- Previous Code: ST3049.1
+- The Networking major is aimed at providing students with knowledge in emerging areas of networking. It focuses on essential fundamentals as well as advanced knowledge on the principles, practices, protocols and standards in some key areas of the networking discipline. This major prepares students for careers in network security and management, multimedia and wireless communications, and other contemporary and emerging networking areas. The major is also designed to introduce students to trends and key research areas in some emerging fields in networking so as to provide students with initial skills and knowledge for future research studies or careers.
+- Location
+- Curriculum delivered through an agreement with another party
+- Major Structure
+- Students in the Master of Artificial Intelligence
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- postgradit@scem.uws.edu.au
+- Sydney City Campus*
+- Internal
+- Mahsa Razavi
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Select four subjects from the following:40
+COMP 7002Advanced Topics in Networking
+COMP 7008Internet of Things
+COMP 7011Multimedia Communication Systems
+INFS 7008Systems and Network Security
+COMP 7017Wireless Networking
+Total Credit Points40
+
+courselist table2:
+Students must complete the following four subjects
+COMP 7002Advanced Topics in Networking10
+COMP 7008Internet of Things10
+COMP 7011Multimedia Communication Systems10
+COMP 7017Wireless Networking10
+Total Credit Points40

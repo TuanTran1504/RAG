@@ -1,0 +1,86 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Information Technology, Testamur Major (T011)
+- Western Sydney University Major Code:
+- Previous Code:  ST3059.1
+- Location
+- Major Structure 2025
+- Alternate subjects
+- Students in the Master of Project Management should complete the required number of credit points from the following subject list, as noted in their Pathway structure.
+- Students in the Graduate Diploma in Project Management should complete 50 credit points from the following list (40cps to complete the major plus an extra 10cps selected from the pool to complete the program).
+- Major Structure to 2024
+- Students must complete three 10 credit point Management alternate subjects and three 10 credit point Information Technology alternate subjects.
+- The subject listed below counts towards completion of this major for students who passed this subject in Autumn 2021 or earlier.
+- INFO 7008 - Modern Software Architectures, replaced by INFO 7018 Cloud Systems Development
+- INFO 7018 Cloud Systems Development
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 7011 Predictive Analytics, replaced by  COMP 7023 Predictive Analytics
+- Related Programs
+
+Location Table:
+- Parramatta City Campus - Macquarie Street
+- Internal
+- Xiaohua (Sean) Jin
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+COMP 7018Advanced Cloud Computing10
+PUBH 7001Advanced Health Classifications and Coding10
+INFS 7001Advanced Healthcare Data Environments10
+INFS 7002Advanced Healthcare Software and Systems10
+INFO 7002Advanced Topics in Artificial Intelligence10
+COMP 7002Advanced Topics in Networking10
+COMP 7003Big Data10
+COMP 7004Cloud Computing10
+INFS 7004Content Management Systems and Web Analytics10
+INFO 7018Cloud Systems Development10
+COMP 7006Data Science10
+COMP 7007Information Security Management10
+COMP 7008Internet of Things10
+INFO 7005IT Project Management10
+COMP 7023Predictive Analytics10
+COMP 7025Social Media Intelligence10
+COMP 7024Programming for Data Science10
+INFS 7006Software Testing and Automation10
+INFS 7008Systems and Network Security10
+INFO 7013Web Engineering10
+COMP 7017Wireless Networking10
+
+courselist table2:
+Management subjects - offered in Quarter 2 and Quarter 4 sessions
+Select three of the following:30
+BUSM 7018Contemporary People Management
+ACCT 7015Financial Reports for Decision Making
+BUSM 7040Governance, Ethics and Social Entrepreneurship
+BUSM 7065Managing in the Global Context
+BUSM 7086Strategic Business Management
+BUSM 7092Supply Chain Management
+Information Technology subjects - offered in Autumn and Spring sessions
+Select three of the following:30
+COMP 7018Advanced Cloud Computing
+PUBH 7001Advanced Health Classifications and Coding
+INFS 7001Advanced Healthcare Data Environments
+INFS 7002Advanced Healthcare Software and Systems
+INFO 7002Advanced Topics in Artificial Intelligence
+COMP 7002Advanced Topics in Networking
+COMP 7003Big Data
+COMP 7004Cloud Computing
+INFS 7004Content Management Systems and Web Analytics
+INFO 7018Cloud Systems Development
+COMP 7006Data Science
+COMP 7007Information Security Management
+COMP 7008Internet of Things
+INFO 7005IT Project Management
+COMP 7011Multimedia Communication Systems
+COMP 7023Predictive Analytics
+COMP 7025Social Media Intelligence
+COMP 7024Programming for Data Science
+INFS 7006Software Testing and Automation
+INFS 7008Systems and Network Security
+INFO 7013Web Engineering
+COMP 7017Wireless Networking
+Total Credit Points60

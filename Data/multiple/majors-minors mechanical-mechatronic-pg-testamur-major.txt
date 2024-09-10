@@ -1,0 +1,38 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Mechanical and Mechatronic, Testamur Major (T112)
+- Western Sydney University Major Code:
+- Previous Code:  ST3085.1
+- Location
+- Major Structure
+- Students must complete 100 credit points as follows.
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- pg-enq@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Complete the following core double major subjects:
+MECH 7007Mechanical System Design10
+MECH 7008Mechatronic System Design10
+MECH 7003Advanced Dynamic Systems10
+MECH 7005Advanced Robotics10
+Select three of the following Mechanical alternate major subjects:30
+MECH 7002Advanced Computer Aided Engineering
+MECH 7001Advanced Computational Fluid Dynamics
+MECH 7006Advanced Thermal and Fluid Engineering
+CIVL 7005Advanced Numerical Methods in Engineering
+Select three of the following Mechatronic alternate major subjects:30
+ELEC 7001Advanced Control Systems
+ELEC 7003Advanced Electrical Machines and Drives
+MECH 7004Advanced Mobile Robotics
+ELEC 7008Instrumentation and Measurement (PG)
+ENGR 7024Advanced Biomedical Electronics
+Total Credit Points100

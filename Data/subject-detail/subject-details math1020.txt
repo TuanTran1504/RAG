@@ -1,0 +1,20 @@
+Academic Handbook Current Edition MATH 1020 Mathematics for Engineers 2 (WSTC AssocD) Credit Points 10 Legacy Code 700102 Coordinator Zdenka Misanovic Opens in new window Description The content of this subject covers a number of topics that build on the student's calculus knowledge from Mathematics for Engineers 1. The subject matter includes:  ordinary differential equations, Laplace transforms and multi-variable calculus.Offerings of alternate subjects are dependent on there being sufficient student enrolment numbers. If enrolments are low, the College may cancel delivery of the alternate subject. School Eng, Design & Built Env Discipline Mathematics Student Contribution Band HECS Band 1 10cp Check your fees via the Fees page. Level Undergraduate Level 1 subject Pre-requisite(s) MATH 1017 Equivalent Subjects MATH 1019 - Mathematics for Engineers 2 LGYB 0454 - Mathematics for Engineers 2 (WSTC) Restrictions Learning Outcomes On successful completion of this subject, students should be able to: Recognise and solve various types of first and second order differential equations and some higher order ordinary differential equations.
+Set up a linear 2D system of differential equations and investigate its solution and the nature of its critical points.
+Apply Laplace transforms in solving problems.
+Use multivariable calculus techniques competently.
+Evaluate multiple (double and triple) integrals.
+Use mathematical reasoning to solve problems and communicate mathematical ideas using standard practices. Subject Content First Order Ordinary Differential Equations (O.D.E.) – separable and linear equations and applications
+Second Order Linear ODEs.– both homogeneous and non-homogeneous with constant coefficients and applications, Euler Cauchy and Power series solutions  .
+Higher Order ODEs.- homogeneous and non-homogeneous with constant coefficients and Euler Cauchy.
+2D linear constant coefficient homogeneous systems, phase plane, critical points, and criteria for critical points.
+Laplace Transforms and solving ODE’s using Laplace Transforms
+Level curves and sketching regions in space
+Limits and continuity of functions of two variables
+Partial differentiation
+Chain rule
+Gradient vectors and directional derivatives
+Equations of normal lines and tangent planes
+Maxima, minima and saddle points
+Lagrange multipliers
+Double integrals in rectangular and polar coordinates and applications
+Triple integrals in rectangular, cylindrical and spherical coordinates and applications. Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Quiz Approx. 30 minutes 10 N Individual N  Numerical Problem Solving 90 minutes 30 N Individual N  Quiz Approx 30 minutes 10 N Individual N  End-of-session Exam 2 hours +30 min for submission 25 Y Individual Y  Viva Voce 20 min per student 25 Y Individual Y Teaching Periods Quarter 4 (2024) Nirimba Education Precinct Hybrid Subject Contact Zdenka Misanovic Opens in new window View timetable Opens in new window Structures that include subject Civil, Testamur Major (T033) Electrical and Electronic Eng. (ELEC) Electrical, Testamur Major (T035) Mathematics (MATH) Mechanical, Testamur Major (T036) Robotics and Mechatronics, Testamur Major (T037)

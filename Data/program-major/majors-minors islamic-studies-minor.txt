@@ -1,0 +1,60 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Islamic Studies, Minor (0020)
+- Western Sydney University Minor Code:
+- Previous Code: SM1074.1
+- Students engage in interdisciplinary study essential to an understanding of Islam, past and present. The area of study balances historical and modern Islamic studies and research methods. One of the keys to Islamic Studies is ‘relevance’ to contemporary Australian society but relevance can only come from a sound comprehension of past traditions in Islamic scholarship and their socio-historical contexts. Preparation for graduate study is also a key objective of this program, with its focus on developing critical and interdisciplinary research skills through a combination of approaches.
+- Location
+- Minor Structure
+- Students must complete 40 credit points as follows.
+- Additional subjects to complete the minor can be chosen from the above four subjects, or from the following pool subjects.
+- Pool Subjects
+- The subjects listed below count towards completion of this minor for students who passed these subjects in 2020 or earlier.
+- LANG 3008 - Applied Critical Methods, no longer offered.
+HUMN 3025 - Conceptualising Islam, no longer offered.
+ BEHV 3013 - Humanities Internship, no longer offered as part of this minor.
+HUMN 1047 - Understanding Islam and Muslim Societies, replaced by HUMN 1061 Islam: Past, Present and Future
+LANG 2017 - Great Texts of Islam: Quran and Hadith, replaced by PHIL 2011 The Qur'an: An Introduction
+HUMN 2063 - New Ethnicities, Old Racisms, replaced by HUMN 2056 The Racial State
+HUMN 3055 - Islam in the Modern World, replaced by HUMN 2031 Islam in the Modern World
+- HUMN 1061 Islam: Past, Present and Future
+- PHIL 2011 The Qur'an: An Introduction
+- HUMN 2056 The Racial State
+- HUMN 2031 Islam in the Modern World
+- Related Programs
+
+Location Table:
+- Bankstown City Campus
+- Internal
+- enquiriesHCA@uws.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Select at least two of the following:20
+PHIL 1002Hadith: The Prophetic Tradition
+LAWS 3040Islamic Law in a Changing World
+PHIL 2011The Qur'an: An Introduction
+HUMN 1061Islam: Past, Present and Future
+Total Credit Points20
+
+courselist table2:
+HUMN 2031Islam in the Modern World10
+HUMN 2061Women with Muslim Identity10
+Total Credit Points20
+
+courselist table3:
+PHIL 3009Ethical Traditions in Islam10
+HUMN 3047History of Muslim Civilisations and Ideas10
+HUMN 3105History of Religion10
+HUMN 3056Islam in the West10
+HUMN 3054Islam in Southeast Asia10
+HUMN 3057Islam, Media and Conflict10
+HUMN 3058Islamic Revivalism in the Globalised World10
+HUMN 3061Mystical Islam: The Emergence of Sufism in World History10
+HUMN 3075Sociology of Religion10
+HUMN 3081The International Relations of the Middle East Since 194510
+Total Credit Points100

@@ -1,0 +1,18 @@
+Academic Handbook Current Edition ELEC 2009 Microprocessor Systems Credit Points 10 Legacy Code 300076 Coordinator Qi Cheng Opens in new window Description This subject introduces students to the internal structure of microprocessors used in computing systems and their fundamental operations. Topics include assembly language programming, interrupt processing, CPU functions, memory organization, and peripheral programming. The microprocessor and embedded processors are discussed. Students write assembly language programs, debug and create executable files to control  microprocessor systems. School Eng, Design & Built Env Discipline Computer Engineering Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 2 subject Pre-requisite(s) ELEC 1001 Learning Outcomes On successful completion of this subject, students should be able to: Write assembly language programs
+Debug assembly programs and create executable files
+Describe interrupt (exception) processing
+Explain CPU hardware functions and address decoding (memory/IO)
+Program peripherals Subject Content Instruction format, instruction types and assembler directives
+Memory segmentation
+20-bit address formation and determination
+Addressing modes
+Types of instructions
+Stack operation and access
+Assembly programming
+Interrupt processing
+BIOS and DOS function calls
+CPU structure and pin functions
+Instruction execution cycles and system timing diagram
+Memory and memory address decoding
+Memory-mapped and interrupt-driven I/Os
+Peripheral Programming Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Numerical Problem Solving around 10 pages (each) 25 N Individual N  Multiple Choice 30 minutes (per quiz) 10 N Individual N  Practical 3 hours (per practical)  10 N Individual N  Final Exam 2 hours  55 N Individual N Prescribed Texts Teaching Periods Sydney City Campus - Term 1 (2024) Sydney City On-site Subject Contact Qi Cheng Opens in new window View timetable Opens in new window Spring (2024) Penrith (Kingswood) On-site Subject Contact Qi Cheng Opens in new window View timetable Opens in new window Parramatta City - Macquarie St On-site Subject Contact Qi Cheng Opens in new window View timetable Opens in new window Sydney City Campus - Term 3 (2024) Sydney City On-site Subject Contact Qi Cheng Opens in new window View timetable Opens in new window Structures that include subject Electrical Engineering, Testamur Major (T102) Electrical and Electronic Eng. (ELEC) Electrical, Testamur Major (T035) Robotics and Mechatronics Engineering, Testamur Major (T104)

@@ -1,0 +1,97 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Cyber Security and Ethical Hacking, Testamur Major (T145)
+- Western Sydney University Major Code:
+- Cyber Security is an essential aspect of today’s information systems. The Cyber Security and Ethical Hacking  major aims to develop graduates with skills in  network security, cloud security, information security, in the ethical and legal aspects of activities in cyber space. With the widespread use of networked systems, protecting these systems from various attacks is more important than ever. Students apply system security knowledge and security protocols, from basic cryptography algorithms to their applications, in computer systems, networked systems, blockchain technologies and crypto currencies. Students  learn how to analyse security vulnerabilities and to implement cybersecurity solutions using ethical hacking techniques and following legal and professional standards.
+- Location
+- Major Structure Current
+- This structure applies to students who commenced in Spring 2024.
+- Students must complete 80 credit points as follows
+- Major Structure Spring 2023
+- This structure applies to students who commenced in Spring 2023.
+- If you commenced in Autumn 2023 please refer to the Autumn 2023 Sequence tab for details.
+- Students must complete 80 credit points as follows
+- Major Structure Autumn 2023
+- This sequence applies to students who commenced in Autumn 2023.
+- Students must complete 80 credit points as follows
+- Related Programs
+
+Location Table:
+- Parramatta Victoria Road Campus
+- Full-time
+- Internal
+- cdms@westernsydney.edu.au
+- Parramatta Victoria Road Campus
+- Part-time
+- Internal
+- cdms@westernsydney.edu.au
+- Penrith Campus
+- Full-time
+- Internal
+- cdms@westernsydney.edu.au
+- Penrith Campus
+- Part-time
+- Internal
+- cdms@westernsydney.edu.au
+- Sydney City Campus
+- Full-time
+- Internal
+- Antoinette Cevenini
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+COMP 3007Computer Networks and Internets10
+COMP 3012Introduction to Cloud Computing10
+COMP 3037Cloud Security10
+INFO 3002Ethical Hacking Principles and Practice10
+INFO 3014Digital Investigations and Forensics10
+Select one of the following:10
+INFO 3015Internet of Things and Smart Environments
+COMP 3036Full Stack Development
+COMP 2029DevOps
+Select one of the following10
+INFO 2004Cyber Crime and Social Engineering
+COMP 2028Cryptography, Cryptocurrencies and Blockchain
+** Select one of the following10
+** Students who completed MATH 1006 in the program core, MUST complete one of the following as part of their major: MATH  2010, COMP 2025
+MATH 2010Linear Algebra
+COMP 2025Introduction to Data Science
+** Students who completed MATH 1038 in the program core,  MUST complete one of the following as part of their major: MATH 1006, MATH  2010, COMP 2025
+MATH 1006Discrete Mathematics
+MATH 2010Linear Algebra
+COMP 2025Introduction to Data Science
+
+courselist table2:
+COMP 3007Computer Networks and Internets10
+COMP 2028Cryptography, Cryptocurrencies and Blockchain10
+COMP 3037Cloud Security10
+INFO 3002Ethical Hacking Principles and Practice10
+INFO 2004Cyber Crime and Social Engineering10
+INFO 3014Digital Investigations and Forensics10
+Select one of the following:10
+INFO 3015Internet of Things and Smart Environments
+COMP 3036Full Stack Development
+** Select one of the following10
+** Students who completed MATH 1006 in the program core, MUST complete one of the following as part of their major: MATH  2009, MATH 2010, COMP 2025
+MATH 2010Linear Algebra
+COMP 2025Introduction to Data Science
+** Students who completed MATH 1038 in the program core,  MUST complete one of the following as part of their major: MATH 1006, MATH  2009, MATH  2010, COMP 2025
+MATH 1006Discrete Mathematics
+MATH 2010Linear Algebra
+COMP 2025Introduction to Data Science
+
+courselist table3:
+MATH 1006Discrete Mathematics10
+COMP 3007Computer Networks and Internets10
+COMP 2028Cryptography, Cryptocurrencies and Blockchain10
+COMP 3037Cloud Security10
+INFO 3002Ethical Hacking Principles and Practice10
+INFO 2004Cyber Crime and Social Engineering10
+INFO 3014Digital Investigations and Forensics10
+Select one of the following:10
+INFO 3015Internet of Things and Smart Environments
+COMP 3036Full Stack Development

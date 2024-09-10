@@ -1,0 +1,51 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Graphic Design, Minor (0073)
+- Western Sydney University Minor Code:
+- Previous Code: SM1118.1
+- The Graphic Design minor provides students from outside the Design program with an introduction to fundamental skills and knowledge in graphic design. The minor includes a selection of practice-based and theoretical subjects and you can opt for study areas such as image design, contextual design studies, web design and branding. In addition, you will have the opportunity to choose a practice-based specialisation from the areas of interactive design; digital design; illustration and photomedia.
+- Location
+- Minor Structure
+- Students must complete 40 credit points as follows
+- Note: Creative Industries Students
+- Creative Industries students complete whichever Level 1 subject they did not complete as their introductory major subject. Subject DESN 1011 Image Design or DESN 1021 Web and Time-based Design.
+- DESN 1011 Image Design
+- DESN 1021 Web and Time-based Design
+- Design Pairings
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- enquiriesHCA@uws.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Select one of the following:10
+DESN 1011Image Design
+DESN 1021Web and Time-based Design
+Select 30 credit points of the following OR Select 10 credit points of the following and one of the 20 credit point Design Pairings.30
+DESN 2001Australian Design
+DESN 3001Contextual Design Studies
+DESN 3006Graphic Design: Developing a Personal Portfolio
+DESN 2014Researching the Visual
+DESN 3013Social Design: Research and Practice
+Total Credit Points40
+
+courselist table2:
+Illustration
+DESN 2007Illustrating Narrative10
+DESN 3007Illustrating Popular Culture10
+Interactive
+DESN 3008Interactive Design: Apps10
+COMM 2019Interactive Design: Games10
+Photomedia
+VISU 3002Photomedia: Fashion and Identity10
+DESN 2013Photomedia: Photographic Practice10
+Digital Design
+DESN 3002Data Visualisation10
+DESN 2011Motion Design10

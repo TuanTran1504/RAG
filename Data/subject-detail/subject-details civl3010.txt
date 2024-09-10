@@ -1,0 +1,14 @@
+Academic Handbook Current Edition CIVL 3010 Highway Infrastructure Credit Points 10 Legacy Code 300988 Coordinator Chin Leo Opens in new window Description This subject focuses on two key aspects of highway infrastructure design, namely, the bridge superstructure design and the foundation soil preparation prior to construction of the highway pavement. It aims to provide students with specialised knowledge in bridge loading and structural design, methods to deal with soft and weak grounds, and building of earth embankments to support the highway pavement. These aspects will be discussed in relation to Australian design codes. School Eng, Design & Built Env Discipline Transport Engineering Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Pre-requisite(s) CIVL 2007 AND
+CIVL 2012 Learning Outcomes On successful completion of this subject, students should be able to: Apply soil and structural mechanics principles in highway infrastructure design
+Interpret soil properties and soil test data for use in geotechnical analysis and design
+Apply engineering software as a tool for use in geotechnical analysis and design
+Interpret and apply Australian Standards when designing highway infrastructures
+Analyse and propose cost effective design highway infrastructures Subject Content Bridge Superstructure Module
+1. Types of bridges
+2. Bridge substructures and superstructures
+3. Bridge loading and design loads
+4. Design of superstructures
+Highway Embankment and Foundation Module
+1. Soft soil remediation
+2. Soil stabilisation and improvement
+3. Earth fills and retaining structures Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Participation 2 Hours 10 N  N  Applied Project 15-20 pages each (include calculations and diagrams) 50 N  N  Numerical Problem Solving 1 hour each 40 N  N Structures that include subject Civil Engineering (CIVL) Civil Engineering, Testamur Major (T131) Civil, Testamur Major (T033) Construction Engineering, Testamur Major (T132) Construction, Testamur Major (T034) Structures, Concentration (0116)

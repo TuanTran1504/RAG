@@ -1,0 +1,143 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Diploma in Building Design and Construction (7192)
+- Effective from:
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- This program applies to students who commenced in Autumn Block 1, 2025 or later.
+- Replaced Programs
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- For Commencement Year 2022 to 2024 - 6031 Diploma in Building Design Management/Bachelor of Building Design Management
+For Commencement Year 2022 to 2024 - 6045 Diploma in Construction Technology/ Bachelor of Construction Technology
+For Commencement Year 2021 to 2024 - 7183 Diploma in Building Design Management Extended
+For Commencement Year 2021 to 2024 - 7184 Diploma in Construction Technology Extended 
+For Commencement Year 2022 to 2024 - 7108 Diploma in Building Design Management
+For Commencement Year 2022 to 2024 - 7169 Diploma in Construction Technology (exit only)
+- The program is designed to provide students with a range of foundational skills and knowledge in building design and construction that are transferrable to a wide range of career options and future academic study. Through the program, students will understand the tasks performed by various roles in the building industry and investigate a wide scope of construction materials, processes, and technologies. This will develop students’ ability to communicate effectively to construction stakeholders while performing ethically and socially responsibly. The Diploma program offers various avenues by which students can personalise learning and enhance their future employability. The inclusion of additional preparatory subjects is designed to assist students in the transition to study at University level.
+- Study Mode
+- One year full-time or two years part-time
+- Program Advice
+- College Program Enquiries
+- Location
+- Admission
+- This program is open to Australian Citizens and Permanent Residents who are aged 17 years or over and not currently enrolled in or completing Year 12 in the same year of intended admission.
+- Program Structure
+- Students will need to enrol in one subject that will run online for 17 weeks (in either Autumn or Spring sessions) and will simultaneously study another four subjects on campus in block mode (1 subject studied every 4 weeks) during this period. Please note that subjects in blocks are studied over 4 weeks.
+- Qualification for this award requires the successful completion of 110 credit points including the subjects listed below.
+- Start-year Intake
+- Students may choose electives from any other subject offered under a Destination College Diploma. These subjects cannot be University subjects or other College subjects.
+- Mid-year Intake
+- Students may choose electives from any other subject offered under a Destination College Diploma. These subjects cannot be University subjects or other College subjects.
+- Available Electives
+- Students may choose any subject from the below Destination College Diplomas as their electives. Please note, not all elective options may be available on all campuses or in all teaching sessions. Elective subjects cannot be the same as compulsory program-specific subjects.
+
+Location Table:
+- Penrith Campus
+- Full time
+- Internal
+- See above
+- Penrith Campus
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Autumn Semester
+GEDU 0016Employability and Graduate Success (WSTC Prep) (Studied over 17 weeks)15
+Autumn Block 1
+GEDU 1001Introduction to University Life (WSTC)10
+Autumn Block 2
+ENVL 1008Sustainable and Ethical Industry Practices (WSTC)10
+Autumn Block 3
+BLDG 1019Construction Site Administration (WSTC)10
+Autumn Block 4
+BLDG 1020Domestic Construction (WSTC)10
+Spring Semester
+GEDU 0017Transition Success (WSTC Prep)15
+Spring Block 1
+BLDG 1021Commercial Construction (WSTC)10
+Spring Block 2
+BLDG 1022Construction Site Safety (WSTC)10
+Spring Block 3
+Choose one elective subject 110
+Spring Block 4
+Choose one elective subject 110
+Total Credit Points110
+
+courselist table2:
+Spring Semester
+GEDU 0016Employability and Graduate Success (WSTC Prep)15
+Spring Block 1
+GEDU 1001Introduction to University Life (WSTC)10
+Spring Block 2
+ENVL 1008Sustainable and Ethical Industry Practices (WSTC)10
+Spring Block 3
+BLDG 1019Construction Site Administration (WSTC)10
+Spring Block 4
+BLDG 1020Domestic Construction (WSTC)10
+Autumn Semester
+GEDU 0017Transition Success (WSTC Prep)15
+Autumn Block 1
+BLDG 1021Commercial Construction (WSTC)10
+Autumn Block 2
+BLDG 1022Construction Site Safety (WSTC)10
+Autumn Block 3
+Choose one elective subject 110
+Autumn Block 4
+Choose one elective subject 110
+Total Credit Points110
+
+courselist table3:
+BIOS 1040Natural Science (WSTC)10
+BIOS 1041Fundamentals of Biotechnology (WSTC)10
+BLDG 1019Construction Site Administration (WSTC)10
+BLDG 1020Domestic Construction (WSTC)10
+BLDG 1021Commercial Construction (WSTC)10
+BLDG 1022Construction Site Safety (WSTC)10
+BUSM 1045Creative Enterprises and Information Technologies (WSTC)10
+BUSM 1046Managing and Leading Enterprises (WSTC)10
+CART 1009Exploring the Creative Industries (WSTC)10
+CHEM 1013Essential Chemistry (WSTC)10
+COMM 1046Data Dynamics: Influence, Ethics, and Power (WSTC)10
+COMP 1015Programming Fundamentals and Algorithmic Design (WSTC)10
+COMP 1016Foundations of Networking and Cyber Security (WSTC)10
+CULT 1028Introduction to Criminology and Justice (WSTC)10
+CULT 1029The Individual in a Global Context: The Concepts and Ideas that Shape Us (WSTC)10
+DESN 1023Visual Media Design (WSTC)10
+ECON 1015Understanding the Economic Context of Enterprises (WSTC)10
+EDUC 1010Educational Psychology (WSTC)10
+EDUC 1012Literacy and Numeracy for Educators (WSTC)10
+EDUC 1013Sociology for Educators(WSTC)10
+EDUC 2015Education for Sustainability (WSTC)10
+ENGR 1053Applied Physics for Engineers (WSTC)10
+ENVL 1008Sustainable and Ethical Industry Practices (WSTC)10
+FINC 1004Financial Concepts and the Language of Business (WSTC)10
+HLTH 1021Effective Communication in Health (WSTC)10
+GEDU 1002Core Foundations and Key Ideas (WSTC)10
+HLTH 1021Effective Communication in Health (WSTC)10
+HLTH 1022Evidence in Health Practice (WSTC)10
+HLTH 1023Diversity in Health (WSTC)10
+HUMN 1068Intersectionality: Identity, Diversity and Difference (WSTC)10
+HUMN 1069Human Rights and Community Action (WSTC)10
+HUMN 1070Indigenous Australia: People, Places and Philosophies (WSTC)10
+HUMN 1072The Human Experience: Fundamentals of Arts and Humanities (WSTC)10
+HUMN 1073Understanding Contemporary Australia (WSTC)10
+INFO 1005Website Design(WSTC)10
+INFS 1017Database Design and Management (WSTC)10
+LANG 1033Cultural Crossroads: Understanding the World Through Texts (WSTC)10
+MATH 1039Engineering Mathematics and Statistics (WSTC)10
+MATH 1040Engineering Mathematics and Computing (WSTC)10
+MATH 1042Mathematics for the Digital World (WSTC)10
+MKTG 1013Marketing Enterprises (WSTC)10
+NATS 1029Human Anatomy and Physiology 1 (WSTC)10
+NATS 1030Human Anatomy and Physiology 2  (WSTC)10
+NATS 1032Introduction to Applied Science and Technology (WSTC)10
+PROC 1009Materials Science in Engineering (WSTC)10
+PUBH 1015People, Health and Society (WSTC)10
+TEAC 2067Being a Teacher (WSTC)10

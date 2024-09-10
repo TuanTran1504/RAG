@@ -1,0 +1,42 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Graduate Certificate in Marketing (exit only) (2818)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- Program Status:
+- This program applies to students who commenced in 2019 or later.
+- The Graduate Certificate in Marketing is an exit program only. Applicants apply to 2817 Master of Marketing and exit with the Graduate Certificate award on successful completion of 40 credit points.
+- Please refer to the program entry for 2817 Master of Marketing for details of the program structure.
+- Master of Marketing
+- Location
+- Admission
+- This program is an exit award from 2817 Master of Marketing.
+- Program Structure
+- The Graduate Certificate in Marketing is an exit award only. Qualification for this award requires the successful completion of 40 credit points.
+- Students may elect to exit the Master of Marketing after the completion of:
+
+Location Table:
+- Parramatta City Campus-Macquarie Street
+- Full Time
+- Internal
+- Dr Neeru Sharma
+- Parramatta City Campus-Macquarie Street
+- Part Time
+- Internal
+- Dr Neeru Sharma
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+MKTG 7033Customer Experience10
+MKTG 7034Digital Marketing10
+MKTG 7019Marketing Systems10
+Select one of the following:10
+BUSM 7007Business Communication Skills
+ACCT 7015Financial Reports for Decision Making
+BUSM 7099Understanding Contemporary Organisations
+Total Credit Points40

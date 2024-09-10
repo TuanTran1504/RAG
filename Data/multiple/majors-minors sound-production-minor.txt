@@ -1,0 +1,42 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Sound Production, Minor (0242)
+- Western Sydney University Minor Code:
+- Previous Code: SM1133.1
+- Please note: this major is not available to students enrolled in programs 1659 Bachelor of Music, 1738 Bachelor of Music (Dean's Scholars) and 1841 Bachelor of Music/Bachelor of Creative Industries.
+- The Sound Production minor equips students with fundamental skills and knowledge of current practice in music production, sound design, new electronic media, interactive electronic media, and their applications to music performance and composition. Two foundation level subjects present an overview of the basic concepts and practical applications of electronic and digital music technology to music production and sound design in current music and media arts practice. The minor's final two subjects build on this foundational knowledge, offering progressively more challenging instruction in music technology and its applied contexts. In these subjects, students will undertake self-directed technology-based projects as sound designers, composers and performers.
+- Location
+- Minor Structure
+- Student must complete 40 credit points as follows
+- The subjects listed below count towards completion of this major for students who passed these subjects in 2023 or earlier.
+- PERF 2031 The Music Industry, replaced by PERF 2033 Recording Studio Practices
+- PERF 2033 Recording Studio Practices
+- The subjects listed below count towards completion of this major for students who passed these subjects in 2021 or earlier.
+- PERF 2026 Advanced Production, replaced by PERF 2031 The Music Industry
+PERF 2027 Electronic Music Production, replaced by PERF 2029 Music Project 1: Multimedia
+PERF 3027 Interactive Electronic Media and Performance, replaced by PERF 3028 Music Project 2: Creative Performance
+- PERF 2031 The Music Industry
+- PERF 2029 Music Project 1: Multimedia
+- PERF 3028 Music Project 2: Creative Performance
+- Related Programs
+
+Location Table:
+- Penrith Campus
+- Internal
+- Dr Waldo Garrido
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Compulsory Subjects
+PERF 1014Music Production10
+PERF 1025Sound Design10
+Select two of the following:20
+PERF 2033Recording Studio Practices
+PERF 2029Music Multimedia Project
+PERF 3028Expanded Performance
+PERF 3022Screen Media Composition
+Total Credit Points40

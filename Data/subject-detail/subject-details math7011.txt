@@ -1,0 +1,11 @@
+Academic Handbook Current Edition MATH 7011 Predictive Analytics Credit Points 10 Legacy Code 301117 Coordinator Rosalind Wang Opens in new window Description The information age has allowed business and science to take advantage of the vast amount of available data for predicting outcomes and estimating trends, to make informed decisions. Machine learning is the  process of allowing a computer to learn from data, which at its heart is used in making these important decisions.  This subject provides students with the knowledge and practice required to implement and effectively use these predictive models such as Neural Networks and Support Vector Machines, and provides opportunity for students to investigate state-of-the-art. Students will use the Python programming language throughout this subject. School Computer, Data & Math Sciences Discipline Computer Science Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Postgraduate Coursework Level 7 subject Pre-requisite(s) MATH 7016 Learning Outcomes On successful completion of this subject, students should be able to: Multiple linear regression models;
+Linear models, and generalised linear models;
+Simple Machine Learning techniques, Support vector Machines and Regression Trees;
+Create appropriate models using selection procedures in various scenarios;
+Use Computer software (R ) to analyse data including model building, model selection and outcome prediction. Subject Content 1. Gradient Descent
+2. Regularisation and Feature selection
+3. Neural Networks
+4. Support Vector Machines
+5. Naive Bayes
+6. Machine Learning applications
+7. Semi-supervised learning Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Online Quizzes 5 x 40 minutes (per quiz) 20 N Individual   Intra-session Exam 2 hours 30 Y Individual   Applied Project: Computer based assignment, part 1 2000 words 10 N Group   Applied Project: Computer based assignment, part 2 2000 words 40 N Group Structures that include subject Computer Science (COMP) Master of Information and Communications Technology (Research) (8112) Mathematics (MATH)

@@ -1,0 +1,89 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Public Relations, Major (0160)
+- Western Sydney University Major Code:
+- Previous Code: M1122.1
+- The Public Relations major provides a thorough grounding in the skills and knowledge required in the profession of public relations. Areas of study include strategies and tactics, event management, issues and crisis management, digital and social communication, account and client management, campaign development and evaluation, and an industry internship. The major focuses on the role of the public relations practitioner (both in-house and consultancy) and provides a theoretical framework of the industry. Students engage with both theory and practical projects, and engage with industry throughout the program.
+- Location
+- *Curriculum delivered through an agreement with another party
+- Accreditation
+- This major is accredited by Communication and Public Relations Australia (CPRA), formerly the Public Relations Institute of Australia (PRIA).
+- Major Structure Current
+- This structure applies to students who commenced in 2024 or later. If you commenced prior to 2024 please refer to the Structure 2023 tab for details.
+- Students must complete 80 credit points as follows:
+- Major Structure 2023
+- If you commenced in 2024 or later please refer to the Structure 2024 tab for details.
+- Bachelor of Business Students
+- Bachelor of Business students must complete the structure under the heading for Bachelor of Business below.
+- Creative Industries Students
+- Creative Industries students must complete their Introduction to major subject, as part of the core requirements of the program, prior to enrolling in this major
+- Students must complete 80 credit points as follow
+- Bachelor of Business Students
+- Students must complete 80 credit points as follows
+- Equivalent Alternate Subjects
+- The alternate subject listed below counts towards completion of this program for students who passed this subject in 2019 or earlier.
+- COMM 3007 - Communication Campaigns, replaced by MKTG 3018 Public Relations: Campaigns
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+- Penrith Campus
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+- Online
+- Online
+- EnquiriesHCA@westernsydney.edu.au
+- Sydney City Campus*
+- Internal
+- EnquiriesHCA@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Level 1
+MKTG 1009Public Relations Theory and Practice10
+Level 2
+COMM 2001Account and Client Management10
+COMM 2015Strategic Event Promotion10
+MKTG 2012Public Relations: Strategies and Tactics10
+Level 3
+MKTG 3018Public Relations: Campaigns10
+COMM 3018Internship10
+MKTG 3022Issues Management and Crisis Communication10
+COMM 3054Digital and Social Communication10
+Total Credit Points80
+
+courselist table2:
+MKTG 1009Public Relations Theory and Practice10
+
+courselist table3:
+Level 2
+COMM 2001Account and Client Management10
+COMM 2011Communication Strategies10
+COMM 2015Strategic Event Promotion10
+MKTG 2005Issues, Risk and Crisis Communication10
+Level 3
+MKTG 3018Public Relations: Campaigns10
+COMM 3014Digital Communication20
+Select one of the following:10
+COMM 3018Internship
+COMM 3037Transmedia Production
+Total Credit Points80
+
+courselist table4:
+Level 1
+MKTG 1009Public Relations Theory and Practice10
+Level 2
+COMM 2001Account and Client Management10
+COMM 2011Communication Strategies10
+COMM 2015Strategic Event Promotion10
+MKTG 2005Issues, Risk and Crisis Communication10
+Level 3
+MKTG 3018Public Relations: Campaigns10
+COMM 3014Digital Communication20
+Total Credit Points80

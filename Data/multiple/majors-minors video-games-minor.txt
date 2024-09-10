@@ -1,0 +1,27 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Video Games, Minor (0276)
+- Western Sydney University Minor Code:
+- Location
+- Students must complete 40 credit points as follow.
+
+Location Table:
+- Parramatta - Victoria Road campus
+- Internal
+- Full-time
+- Dr Laurence Park
+- Parramatta - Victoria Road campus
+- Internal
+- Part-time
+- Dr Laurence Park
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+COMP 3006Computer Graphics10
+COMP 2014Object Oriented Programming10
+COMP 2018Simulation Fundamentals10
+COMP 3024Video Games Development10

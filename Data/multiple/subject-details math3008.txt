@@ -1,0 +1,11 @@
+Academic Handbook Current Edition MATH 3008 Quantitative Project Credit Points 10 Legacy Code 200045 Coordinator Andrew Francis Opens in new window Description In this subject, students can deepen or apply knowledge gained during their course and practise verbal and written presentation skills. Students will carry out a project under the supervision of an academic staff member. Assisted by their supervisor, students will define the problem to be studied and then acquire, develop and apply the appropriate theory or methodology. They will prepare a final report presenting theoretical results or methodology, an analysis and a discussion followed by an appropriate conclusion, as well as a literature review or a list of references as appropriate. Students will also give a talk on their project. School Computer, Data & Math Sciences Student Contribution Band HECS Band 1 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Pre-requisite(s) Students must have successfully completed 30 credit points of Level 2 mathematicsstatistics units from MATH 2010 Linear Algebra
+MATH 2001 Advanced Calculus
+MATH 2003 Differential Equations
+COMP 2003 Computer Algebra
+MATH 2011 Making Sense of Data
+MATH 2009 Introduction to Data Science
+Students must also have completed 30 credit points of Level 3 mathematicsstatistics units from MATH 3006 Mathematical Modelling
+MATH 3003 Analysis
+MATH 3001 Abstract Algebra
+COMP 3020 Social Web Analytics
+MATH 3007 Predictive Modelling MATH 3005 Environmental Informatics Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory     Written project outline 12 - 15 pages 10 N Both (Individual & Group)   Presentation of project outline (possibly by video-conferencing) 10 minutes 10 N Both (Individual & Group)   Written project report 20 - 40 pages 45 N Both (Individual & Group)   Presentation of project report (possibly by video-conferencing) 20 minutes 25 N Both (Individual & Group)   Supervisor's assessment of the student's self-directed project work  10 N Individual Structures that include subject Mathematics (MATH)

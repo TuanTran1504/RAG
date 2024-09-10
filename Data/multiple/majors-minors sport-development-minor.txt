@@ -1,0 +1,48 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Sport Development, Minor (0254)
+- Western Sydney University Minor Code:
+- Previous Code: SM4006.1
+- The Sport Development minor offers an introduction to knowledge and skills associated with the sport and recreation industry. Students will focus on and further develop in areas associated with physical activity, exercise, sport coaching, sociology, community development and sport management. Subjects are taken from the School of Health Science and School of Business and as such students will be expected to travel to alternative campus’. The minor is recommended as a complementary study for students in the 4656 Bachelor of Health Science program.
+- Location
+- Minor Structure
+- Students must choose the following 3 subjects
+- Alternate Subjects
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2022 or earlier.
+- BUSM 3053 - Our Sporting Future, replaced by BUSM 3083 Global Sports Management
+- BUSM 3083 Global Sports Management
+- SPRT 3005 Contemporary Youth Health Issues, replaced by SPRT 3024 Contemporary Youth Health
+- Related Programs
+
+Location Table:
+- Campbelltown Campus
+- Internal
+- Program Advice
+- Parramatta Campus - Victoria Road
+- Internal
+- Program Advice
+- Parramatta City Campus-Macquarie Street
+- Internal
+- Program Advice
+- Penrith Campus
+- Internal
+- Program Advice
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+SPRT 1008Sport for Social Development10
+SPRT 2012Community Sport Development10
+BUSM 1031The World of Sport Business10
+And one alternate subject10
+Total Credit Points40
+
+courselist table2:
+HLTH 2023Introduction to Physical Cultural Studies10
+BUSM 2037Sport Entertainment10
+SPRT 3024Contemporary Youth Health10
+BUSM 3083Global Sports Management10
+BUSM 3070Strategic Sport Leadership10

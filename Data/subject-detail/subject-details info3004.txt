@@ -1,0 +1,26 @@
+Academic Handbook Current Edition INFO 3004 Human-Computer Interaction (Advanced) Credit Points 10 Legacy Code 300901 Coordinator Omar Mubin Opens in new window Description IT graduates must be able to develop and evaluate software, websites and mobile apps that not only look professional but are usable, functional and accessible. However, the study of HCI is often restricted to its use as a tool in the software development process. This advanced subject also examines HCI as a field of research and how to conduct research into human user factors. Students in this advanced subject will be required to complete a research project and produce a final research report, which is of a standard capable of being considered for publication in a HCI conference or journal. School Computer, Data & Math Sciences Discipline Information Technology, Not Elsewhere Classified. Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Incompatible Subjects INFO 3003 - Human-Computer Interaction INFS 3015 - Software Interface Design Restrictions Students must be enrolled in program 2801 Bachelor of Information Systems Advanced/Bachelor of Laws, 3684 Bachelor of Information and Communications Technology (Advanced), 3688 Bachelor of Information Systems Advanced or 3745 Bachelor of Information Systems Advanced/Bachelor of Business. Learning Outcomes On successful completion of this subject, students should be able to: Apply cognitive models to the design of application user interfaces.
+Describe ways in which users' characteristics (i.e., age, education, cultural differences, disability etc.) require adaptation of a user interface to increase effectiveness.
+Integrate appropriate user-centred design methodologies into the development of an application, website or emerging technology (such as mobile and wearable devices)
+Discuss the advantages and disadvantages for using a human-centred software development approach.
+Describe and use the major usability guidelines and standards.
+Develop low-fidelity prototypes, and high-fidelity prototypes.
+Develop user interfaces for domain specific applications.
+Create an appropriate user evaluation plan with carefully chosen subjective and objective measures.
+Discuss state of the art research issues and novel interaction technologies under the umbrella of HCI.
+Conduct a research based project in HCI and write a research report, which could be considered for publication in a HCI conference or journal. Subject Content Understanding the user and the user experience
+Interaction styles
+Usability standards
+User-centred design methods
+Development tools and prototyping
+Matching interface elements to user requirements
+Usability testing: tools and methodologies
+Accessibility and assistive technologies
+Rich media
+Localisation, globalisation
+Personalisation and trust
+Developing for multiple devices (Computer, PDAs, 3G phones etc) Human Computer Interface In Industry
+HCI and virtual worlds
+Emerging technologies
+Current technological and theoretical advances in HCI
+Research initiatives in HCI Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Log/Workbook In-class basic tutorial questions to be completed in a log book during the tutorial session. Number of questions will usually range from 3 - 5 10 Y Individual Y  Log/Workbook In extension to class work, students will be given weekly exercises that they must be complete at home and submit at two points in the semester W7 and W12 15 Y Individual Y  Applied Project Part A - 1200 words Part B - 1200 words in addition to a set of diagrams as part of an appendix 
+Part C - 10 minutes presentation. 55 Y Individual Y  Report 2000 words 20 Y Individual Y Teaching Periods Autumn (2024) Campbelltown On-site Subject Contact Omar Mubin Opens in new window View timetable Opens in new window Penrith (Kingswood) On-site Subject Contact Omar Mubin Opens in new window View timetable Opens in new window Parramatta - Victoria Rd On-site Subject Contact Omar Mubin Opens in new window View timetable Opens in new window Structures that include subject Bachelor of Information Systems Advanced (3688) Bachelor of Information Systems Advanced/Bachelor of Business (3745) Bachelor of Information Systems Advanced/Bachelor of Laws (2801) Bachelor of Information Systems Advanced/Bachelor of Laws (Honours) (2842) Bachelor of Information and Communications Technology (Advanced) (3684) Other information Technology (INFO)

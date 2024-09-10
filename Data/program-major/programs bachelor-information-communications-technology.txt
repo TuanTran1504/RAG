@@ -1,0 +1,985 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Bachelor of Information and Communications Technology (3639)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 064013K
+- This program applies to students who commenced in 2016 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- For Commencement Year 2014, please refer to: 3639.3 Bachelor of Information and Communications Technology
+- For Commencement Year 2009 to Autumn 2013, please refer to: 3639.1 Bachelor of Information and Communications Technology
+- The Bachelor of Information and Communications Technology is a three-year program accredited by the Australian Computer Society. It meets the demands of business to be competitive and to innovate in this fast-changing area. Students build strong foundational skills, and then apply these to a range of industry relevant problems and projects as part of work-integrated learning. To complete the degree, students do a major to specialise in topics, such as, cyber security, cloud computing, multimedia computing. Students also have options to do a minor. This is a challenging and rewarding degree with an ever-expanding range of employment options.
+- NB: Majors / minors may not be offered on all campuses.
+- Study Mode
+- Three years full-time. Six years part-time.
+- Program Advice
+- Program Advice
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Programs delivered through an agreement with another party
+- Accreditation
+- On completion of this Program graduates will be eligible for professional membership of the Australian Computer Society. Australian Computer Society accreditation for the Surabaya Campus offering will be sought.
+- Work Integrated Learning
+- There is an optional work component available in this program.  Please contact the Program Advisor listed above for information.
+- International students should be aware that if an elective is a requirement of the program but the work itself was not registered with CRICOS, students can still complete these electives but it would be counted towards the work limitation.  For more details, refer to the 'Work Integrated Learning (WIL) for international students' website.
+- Work Integrated Learning (WIL) for international students
+- There is a mandatory work component required for completion of this program.  Please contact the Program Advisor listed above for information.
+- International students should also refer to the link below for more information and a link to the Commonwealth Register of Institutions and Courses for Overseas Students (CRICOS).
+- Work Integrated Learning (WIL) for international students
+- Admission
+- Assumed knowledge required: HSC Mathematics and any two units of HSC English
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- International students currently completing an Australian Year 12 in or outside Australia, an International Baccalaureate in Australia or a New Zealand National Certificate of Educational Achievement (NCEA) level 3 must apply via UAC International.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Sequence Current
+- This sequence applies to students who commenced Spring 2023 or later.
+- If you commenced in Autumn 2023 please refer to the Autumn 2023 Sequence tab for details. If you commenced prior to 2023 please refer to the Sequence 2022 tab for details.
+- Qualification for this award requires the successful completion of 240 credit points which include the subjects listed in the recommended sequence below.
+- Recommended Sequence - Sydney City Campus
+- Click here for the recommended sequence at Sydney City Campus.
+- Recommended Sequence - Campbelltown, Parramatta and Penrith Campuses
+- Full-time start-year intake
+- Full-time mid-year intake
+- Electives
+- Please note: elective spaces can be used to complete a Minor.
+- Major or minor subjects can be used in the elective spaces.
+- Recommended Sequence - Surabaya Campus, Indonesia
+- Surabaya Campus Indonesia
+- Majors
+- Minors
+- It is suggested that students in the Bachelor of Information and Communications Technology who wish to choose a  minor should choose from the list of optional minors below.
+- Major and Minor elective spaces
+- Global Sustainability Minor   Indigenous Australian Studies Major    Indigenous Australian Studies Minor
+- Equitable Technologies Urban Evolution Migration and Global Change    Personal Innovation     Innovating, Creating and Problem Solving  Eco-Socially Conscious Design and Manufacturing Water for Life  Climate Justice Creative and Visual Communication Global Workplaces Innovating For Humans Creative Living for Cultural Wellbeing Ideate. Strategise. Innovate.  Humanising Data
+- For more information, visit the Challenge Minor website.
+- Search for majors and minors
+- Students can apply for an elective major or minor via Western Now.
+- WesternNow
+- This sequence applies to students who commenced in Autumn 2023. If you commenced prior to 2023 please refer to the Sequence 2022 tab for details.
+- Qualification for this award requires the successful completion of 240 credit points which include the subjects listed in the recommended sequence below.
+- Recommended Sequence - Sydney City Campus Autumn 2023
+- Click here for the recommended sequence at Sydney City Campus.
+- Recommended Sequence - Campbelltown, Parramatta and Penrith Campuses Autumn 2023
+- Full-time start-year intake
+- Full-time mid-year intake
+- Electives
+- Please note: elective spaces can be used to complete a Minor.
+- Major or minor subjects can be used in the elective spaces.
+- Majors
+- Minors
+- It is suggested that students in the Bachelor of Information and Communications Technology who wish to choose a  minor should choose from the list of optional minors below.
+- Major and Minor elective spaces
+- Global Sustainability Minor   Indigenous Australian Studies Major    Indigenous Australian Studies Minor
+- Equitable Technologies Urban Evolution Migration and Global Change    Personal Innovation     Innovating, Creating and Problem Solving  Eco-Socially Conscious Design and Manufacturing Water for Life  Climate Justice Creative and Visual Communication Global Workplaces Innovating For Humans Creative Living for Cultural Wellbeing Ideate. Strategise. Innovate.  Humanising Data
+- For more information, visit the Challenge Minor website.
+- Search for majors and minors
+- Students can apply for an elective major or minor via Western Now.
+- WesternNow
+- If you commenced in 2023 or later please refer to the Sequence 2023 tab for details.
+- Qualification for this award requires the successful completion of 240 credit points which include the subjects listed in the recommended sequence below.
+- Recommended Sequence - Sydney City Campus 2022
+- Click here for the recommended sequence at Sydney City Campus.
+- Recommended Sequence - Campbelltown, Parramatta and Penrith Campuses 2022
+- Full-time start-year intake
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2023 or earlier.
+- INFS 3017 Web Systems Development, replaced by COMP 3036 Full Stack Development
+- Full-time mid-year intake
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2023 or earlier.
+- INFS 3017 Web Systems Development, replaced by COMP 3036 Full Stack Development
+- Start-year 2.5 Year Accelerated Pathway with Summer Session
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2023 or earlier.
+- INFS 3017 Web Systems Development, replaced by COMP 3036 Full Stack Development
+- Mid-Year 2.5 Year Accelerated Pathway with Summer Session
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2023 or earlier.
+- INFS 3017 Web Systems Development, replaced by COMP 3036 Full Stack Development
+- Elective Majors and Minors
+- Please note: majors and minors are optional.
+- Majors
+- Campbelltown, Parramatta and Penrith Campuses
+- Sydney City Campus
+- Minors
+- Campbelltown, Parramatta and Penrith Campuses
+- It is suggested that students in the Bachelor of Information and Communications Technology who wish to choose a major or minor should choose from the list of optional majors and minors above.
+- Information Technology
+- Web Systems Development
+- Mobile Application Development (for Non-computing Students only)
+- Web Application Development (for Non-Computing Students)
+- Major and Minor elective spaces
+- Global Sustainability Minor   Indigenous Australian Studies Major    Indigenous Australian Studies Minor
+- Equitable Technologies Urban Evolution Migration and Global Change    Personal Innovation     Innovating, Creating and Problem Solving  Eco-Socially Conscious Design and Manufacturing Water for Life  Climate Justice Creative and Visual Communication Global Workplaces Innovating For Humans Creative Living for Cultural Wellbeing Ideate. Strategise. Innovate.  Humanising Data
+- For more information, visit the Challenge Minor website.
+- Search for majors and minors
+- Students can apply for an elective major or minor via Western Now.
+- WesternNow
+- The majors and minors listed below count towards completion of this program for students who began studying these majors and minors prior to the years indicated below.
+- M3102 Cyber Security, Major, replaced by Cyber Security, Major in 2018 (listed above).
+M3070 Networking, Major, replaced by Networking, Major in 2017 (listed above).
+- SM3055 Networking, Minor, replaced by Networking, Minor in 2017 (listed above).
+SM3089 Statistics, Minor, discontinued from 2020
+
+Location Table:
+- Campbelltown Campus
+- Full Time
+- Internal
+- See above
+- Parramatta Campus - Victoria Road
+- Full Time
+- Internal
+- See above
+- Penrith Campus
+- Full Time
+- Internal
+- See above
+- Sydney City Campus*
+- Full Time
+- Internal
+- Antoinette Cevenini
+- ATMC-Melbourne*
+- Full time
+- Internal
+- wsum@atmc.edu.au
+- Surabaya Campus Indonesia
+- Full time
+- Internal
+- See above
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+COMP 1005
+Programming Fundamentals
+10
+INFO 1003
+Professional Practice, Communication and Ethics
+10
+HUMN 1013
+Contextualising Indigenous Australia (Day Mode)
+10
+Select one of the following
+10
+MATH 1038
+Mathematics for Computing
+
+MATH 1006
+Discrete Mathematics
+
+
+Credit Points
+40
+Spring session
+COMP 2004
+Computer Networking
+10
+COMP 2021
+Software Engineering Fundamentals
+10
+INFS 2001
+Database Design and Development
+10
+COMP 2015
+Programming Techniques
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+COMP 2027
+Cyber Security
+10
+Select two major subjects
+20
+Select one elective
+10
+
+Credit Points
+40
+Spring session
+COMP 3028
+Software Construction
+10
+INFO 3019
+Project Management
+10
+Select two major subjects
+20
+
+Credit Points
+40
+Year 3
+Autumn session
+Select two major subjects
+20
+Select two electives
+20
+
+Credit Points
+40
+Spring session
+COMP 3018
+Professional Experience
+10
+Select two major subjects
+20
+Select one elective
+10
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Spring session
+Credit Points
+COMP 2004
+Computer Networking
+10
+INFS 2001
+Database Design and Development
+10
+COMP 1005
+Programming Fundamentals
+10
+Select one elective
+10
+
+Credit Points
+40
+Autumn session
+INFO 1003
+Professional Practice, Communication and Ethics
+10
+HUMN 1013
+Contextualising Indigenous Australia (Day Mode)
+10
+COMP 2021
+Software Engineering Fundamentals
+10
+Select one of the following
+10
+MATH 1038
+Mathematics for Computing
+
+MATH 1006
+Discrete Mathematics
+
+
+Credit Points
+40
+Year 2
+Spring session
+COMP 3028
+Software Construction
+10
+COMP 2015
+Programming Techniques
+10
+Select two major subjects
+20
+
+Credit Points
+40
+Autumn session
+COMP 2027
+Cyber Security
+10
+Select two major subjects
+20
+Select one elective
+10
+
+Credit Points
+40
+Year 3
+Spring session
+INFO 3019
+Project Management
+10
+Select two major subjects
+20
+Select one elective
+10
+
+Credit Points
+40
+Autumn session
+COMP 3018
+Professional Experience
+10
+Select two major subjects
+20
+Select one elective
+10
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Credit Points
+Semester 1
+
+COMP 2004
+Computer Networking
+10
+MATH 1038
+Mathematics for Computing
+10
+INFS 2001
+Database Design and Development
+10
+COMP 1005
+Programming Fundamentals
+10
+CULT 1030
+Pancasila
+5
+Semester 2
+
+COMP 2021
+Software Engineering Fundamentals
+10
+INFO 1003
+Professional Practice, Communication and Ethics
+10
+MATH 1006
+Discrete Mathematics
+10
+CULT 1031
+Civic Education
+5
+
+Credit Points
+80
+Year 2
+Semester 3
+
+COMP 3028
+Software Construction
+10
+COMP 2015
+Programming Techniques
+10
+COMP 2008
+Computer Organisation
+10
+INFO 3015
+Internet of Things and Smart Environments
+10
+TBA
+Indonesian Language
+5
+Semester 4
+
+COMP 2027
+Cyber Security
+10
+COMP 2009
+Data Structures and Algorithms
+10
+COMP 3012
+Introduction to Cloud Computing
+10
+INFO 3003
+Human-Computer Interaction
+10
+TBA
+Religion
+5
+
+Credit Points
+90
+Year 3
+Semester 5
+
+INFO 3019
+Project Management
+10
+COMP 3013
+Mobile Applications Development
+10
+COMP 3036
+Full Stack Development
+10
+INFO 3018
+Computing Practicum
+10
+Semester 6
+
+COMP 3018
+Professional Experience
+10
+COMP 3015
+Operating Systems Programming
+10
+COMP 2023
+Mathematical Programming
+10
+
+Credit Points
+70
+
+Total Credit Points
+240
+Year 1
+Autumn session
+Credit Points
+COMP 1005
+Programming Fundamentals
+10
+MATH 1038
+Mathematics for Computing
+10
+INFO 1003
+Professional Practice, Communication and Ethics
+10
+HUMN 1013
+Contextualising Indigenous Australia (Day Mode)
+10
+
+Credit Points
+40
+Spring session
+COMP 2004
+Computer Networking
+10
+COMP 2021
+Software Engineering Fundamentals
+10
+INFS 2001
+Database Design and Development
+10
+COMP 2015
+Programming Techniques
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+COMP 2027
+Cyber Security
+10
+Select two major subjects
+20
+Select one elective
+10
+
+Credit Points
+40
+Spring session
+COMP 3028
+Software Construction
+10
+INFO 3019
+Project Management
+10
+Select two major subjects
+20
+
+Credit Points
+40
+Year 3
+Autumn session
+Select two major subjects
+20
+Select two electives
+20
+
+Credit Points
+40
+Spring session
+COMP 3018
+Professional Experience
+10
+Select two major subjects
+20
+Select one elective
+10
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Spring session
+Credit Points
+COMP 2004
+Computer Networking
+10
+COMP 2021
+Software Engineering Fundamentals
+10
+INFS 2001
+Database Design and Development
+10
+COMP 1005
+Programming Fundamentals
+10
+
+Credit Points
+40
+Autumn session
+MATH 1038
+Mathematics for Computing
+10
+INFO 1003
+Professional Practice, Communication and Ethics
+10
+HUMN 1013
+Contextualising Indigenous Australia (Day Mode)
+10
+Select one elective
+10
+
+Credit Points
+40
+Year 2
+Spring session
+COMP 3028
+Software Construction
+10
+COMP 2015
+Programming Techniques
+10
+Select two major subjects
+20
+
+Credit Points
+40
+Autumn session
+COMP 2027
+Cyber Security
+10
+Select two major subjects
+20
+Select one elective
+10
+
+Credit Points
+40
+Year 3
+Spring session
+INFO 3019
+Project Management
+10
+Select two major subjects
+20
+Select one elective
+10
+
+Credit Points
+40
+Autumn session
+COMP 3018
+Professional Experience
+10
+Select two major subjects
+20
+Select one elective
+10
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Autumn session
+Credit Points
+COMP 1005
+Programming Fundamentals
+10
+COMM 1026
+Principles of Professional Communication 1
+10
+INFS 1006
+Systems Analysis and Design
+10
+MATH 1028
+Statistical Decision Making
+10
+
+Credit Points
+40
+Spring session
+COMP 2004
+Computer Networking
+10
+COMP 2015
+Programming Techniques
+10
+INFS 2001
+Database Design and Development
+10
+Select one elective
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+COMP 2020
+Technologies for Web Applications
+10
+COMP 3007
+Computer Networks and Internets
+10
+INFS 2006
+Object Oriented Analysis
+10
+Select one elective
+10
+
+Credit Points
+40
+Spring session
+INFS 3017
+Web Systems Development
+10
+From Spring 2024 students are advised to select COMP 3036
+
+COMP 3036
+Full Stack Development
+
+COMP 3020
+Social Web Analytics
+10
+Select two electives
+20
+
+Credit Points
+40
+Year 3
+Autumn session
+INFO 3003
+Human-Computer Interaction
+10
+INFO 3008
+Professional Development
+10
+COMP 3015
+Operating Systems Programming
+10
+Select one elective
+10
+
+Credit Points
+40
+Spring session
+COMP 3018
+Professional Experience
+10
+Select three electives
+30
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Spring session
+Credit Points
+COMP 2004
+Computer Networking
+10
+INFS 2001
+Database Design and Development
+10
+MATH 1030
+Statistics for Business
+10
+Select one elective
+10
+
+Credit Points
+40
+Autumn session
+COMP 1005
+Programming Fundamentals
+10
+INFS 1006
+Systems Analysis and Design
+10
+COMP 3007
+Computer Networks and Internets
+10
+COMM 1026
+Principles of Professional Communication 1
+10
+
+Credit Points
+40
+Year 2
+Spring session
+COMP 2015
+Programming Techniques
+10
+COMP 3020
+Social Web Analytics
+10
+Select two electives
+20
+
+Credit Points
+40
+Autumn session
+COMP 2020
+Technologies for Web Applications
+10
+INFO 3008
+Professional Development
+10
+INFS 2006
+Object Oriented Analysis
+10
+INFO 3003
+Human-Computer Interaction
+10
+
+Credit Points
+40
+Year 3
+Spring session
+INFS 3017
+Web Systems Development
+10
+From Spring 2024 students are advised to select COMP 3036
+
+COMP 3036
+Full Stack Development
+
+Select three electives
+30
+
+Credit Points
+40
+Autumn session
+COMP 3018
+Professional Experience
+10
+COMP 3015
+Operating Systems Programming
+10
+Select two electives
+20
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Autumn session
+Credit Points
+COMP 1005
+Programming Fundamentals
+10
+COMM 1026
+Principles of Professional Communication 1
+10
+INFS 1006
+Systems Analysis and Design
+10
+MATH 1028
+Statistical Decision Making
+10
+
+Credit Points
+40
+Spring session
+COMP 2015
+Programming Techniques
+10
+COMP 2004
+Computer Networking
+10
+INFS 2001
+Database Design and Development
+10
+Select one elective
+10
+
+Credit Points
+40
+Summer A session
+COMP 2020
+Technologies for Web Applications
+10
+INFO 3003
+Human-Computer Interaction
+10
+
+Credit Points
+20
+Year 2
+Autumn session
+COMP 3007
+Computer Networks and Internets
+10
+INFS 2006
+Object Oriented Analysis
+10
+Select two electives
+20
+
+Credit Points
+40
+Spring session
+INFS 3017
+Web Systems Development
+10
+From Spring 2024 students are advised to select COMP 3036
+
+COMP 3036
+Full Stack Development
+
+COMP 3020
+Social Web Analytics
+10
+Select two electives
+20
+
+Credit Points
+40
+Summer A session
+INFO 3008
+Professional Development
+10
+Select one elective
+10
+Please note that the choice of elective subject in Summer A session may restrict the choice of major that can be completed.
+
+
+Credit Points
+20
+Year 3
+Autumn session
+COMP 3018
+Professional Experience
+10
+COMP 3015
+Operating Systems Programming
+10
+Select two electives
+20
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Spring session
+Credit Points
+COMP 2004
+Computer Networking
+10
+INFS 2001
+Database Design and Development
+10
+MATH 1030
+Statistics for Business
+10
+Select one elective
+10
+
+Credit Points
+40
+Summer A session
+INFS 1006
+Systems Analysis and Design
+10
+INFO 3003
+Human-Computer Interaction
+10
+
+Credit Points
+20
+Autumn session
+COMP 1005
+Programming Fundamentals
+10
+COMP 3007
+Computer Networks and Internets
+10
+INFS 2006
+Object Oriented Analysis
+10
+COMM 1026
+Principles of Professional Communication 1
+10
+
+Credit Points
+40
+Year 2
+Spring session
+COMP 2015
+Programming Techniques
+10
+COMP 3020
+Social Web Analytics
+10
+Select two electives
+20
+
+Credit Points
+40
+Summer A session
+COMP 2020
+Technologies for Web Applications
+10
+Select one elective
+10
+Please note that the choice of elective subject in Summer A session may restrict the choice of major that can be completed.
+
+
+Credit Points
+20
+Autumn session
+INFO 3008
+Professional Development
+10
+COMP 3015
+Operating Systems Programming
+10
+Select two electives
+20
+
+Credit Points
+40
+Year 3
+Spring session
+INFS 3017
+Web Systems Development
+10
+From Spring 2024 students are advised to select COMP 3036
+
+COMP 3036
+Full Stack Development
+
+COMP 3018
+Professional Experience
+10
+Select two electives
+20
+
+Credit Points
+40
+
+Total Credit Points
+240
+
+Courselist Tables:

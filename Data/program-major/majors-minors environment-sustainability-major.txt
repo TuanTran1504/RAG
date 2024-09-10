@@ -1,0 +1,47 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Environment and Sustainability, Major (0169)
+- Western Sydney University Major Code:
+- Previous Code: M4009.1
+- The need to achieve sustainability for human societies is a goal recognised globally. Getting this to happen in practice is the challenge facing all sectors of our society; business, government, academia, and private citizens. This major covers the essentials of sustainability as an academic discipline, giving students knowledge and skills in the scientific, social, legislative and planning frameworks so that evidence-based sustainability can be implemented across our society.
+- Location
+- Major Structure
+- Students must complete 8 subjects as follows.
+- Level 1
+- Level 2
+- Level 3
+- The subjects listed below count towards completion of this major for students who passed these subjects in 2020 or earlier.
+- BIOS 1020 Indigenous Landscapes, replaced by HUMN 1058 Indigenous Landscapes
+- HUMN 1058 Indigenous Landscapes
+- PUBH 2007 Environmental Planning and Climate Change, replaced by ENVL 2006 Environmental Planning and Climate Change
+- ENVL 2006 Environmental Planning and Climate Change
+- Related Programs
+
+Location Table:
+- Hawkesbury Campus
+- Internal
+- Assoc Prof Charles Morris
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Select two of the following:20
+BIOS 1027Management of Aquatic Environments10
+BIOS 1030Resource Sustainability10
+ENVL 1001Understanding Landscape10
+Total Credit Points50
+
+courselist table2:
+ENVL 2002Environmental Regulation and Policy10
+ENVL 2006Environmental Planning and Climate Change10
+HUMN 1058Indigenous Landscapes10
+Total Credit Points30
+
+courselist table3:
+ENVL 3003Environmental Risk Management10
+ENVL 3007Urban Environment10
+AGRI 3007Water in the Landscape10
+Total Credit Points30

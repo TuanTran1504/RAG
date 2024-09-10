@@ -1,0 +1,38 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Legal Studies, Minor (0266)
+- Western Sydney University Minor Code:
+- Previous Code: SM1140.1
+- Students in this minor examine the nature and functions of law and law-making and the development of Australian and international legal systems. Students have the opportunity to investigate the key areas of law and justice, including family law, youth justice, and first peoples and the criminal justice system. This minor meets NSW Education Standards (NESA) content requirements for students who wish to teach Legal Studies in NSW Secondary Schools
+- Location
+- Minor Structure
+- Students must complete 40 credit points.
+- Equivalent Minor Subjects
+- The subject listed below counts towards completion of this minor for students who passed this subject in 2021 or earlier.
+- CULT 2019 - First Peoples and Criminal Justice, replaced by HUMN 2070 First Peoples and Criminal Justice
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- Dr Di Dickenson
+- Penrith Campus
+- Internal
+- Dr Di Dickenson
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+LAWS 1003Fundamentals of Australian Law10
+LAWS 1009Legal Analysis and Critique10
+Select two of the following:20
+LAWS 2008Government and Public Law
+HUMN 2070First Peoples and Criminal Justice
+CULT 2017Youth Justice and Practice
+LAWS 3023Family Law
+CULT 3008Crime Prevention and Community
+CULT 3025Prisons, Punishment and Criminal Justice
+Total Credit Points40

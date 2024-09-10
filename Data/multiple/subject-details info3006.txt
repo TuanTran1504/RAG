@@ -1,0 +1,17 @@
+Academic Handbook Current Edition INFO 3006 Information Security Credit Points 10 Legacy Code 300128 Coordinator Yun Bai Opens in new window Description Information Security is concerned with the protection and privacy of information in computer systems. The focus is primarily on introducing cryptography concepts, algorithms and protocols in information security and applying such knowledge in the design and implementation of secure computer and network systems. The subject also addresses conventional and public key encryption, number theory and algebra and their application in public key encryption and signatures. Students will learn the application of cryptography algorithms in current computer systems and information security management. This subject also provides students with the practical experience around security programming. School Computer, Data & Math Sciences Discipline Security Science Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Pre-requisite(s) MATH 1006 AND
+COMP 2009 OR
+COMP 2015 OR
+COMP 2016 Assumed Knowledge Basic understanding of data structures and discrete mathematics Basic programming skills in C, C++, java, etc. Learning Outcomes On successful completion of this subject, students should be able to: Describe fundamentals in computer security and basic knowledge in cryptography
+Analyse conventional encryption/decryption methods and the concepts of symmetric keys
+Design and implement block ciphers and stream ciphers
+Evaluate principles of public key cryptosystems and public key algorithms
+Master the number theory used in the RSA algorithm, Diffie-Hellman key exchange and digital signatures
+Develop authentication functions and hash functions in message authentication
+Construct security protocols for complex scenarios, based on theories and principles of information security. Subject Content Security, cyberattack and countermeasure, cryptography and steganography
+Conventional encryption and DES system
+Number Theory and algebra, Modular arithmetic and Euclid's algorithm
+Public key encryption and RSA algorithm
+Digital signature and authentication protocols
+Key distribution and management
+Security protocols and various applications in current computer systems
+Information Security management Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Practical up to 5 pages 25 N Individual Y  Applied Project 500+ report plus 800+ lines of program code 25 N Individual Y  Final Exam 2 hours 50 Y Individual Y Prescribed Texts Teaching Periods Spring (2024) Penrith (Kingswood) On-site Subject Contact Yun Bai Opens in new window View timetable Opens in new window Parramatta - Victoria Rd On-site Subject Contact Yun Bai Opens in new window View timetable Opens in new window Structures that include subject Bachelor of Computer Science (3506) Computational Mathematics, Testamur Major (T118) Cyber Security, Major (0066) Cybersecurity Systems, Minor (0277) Networked Systems, Major (0065) Other information Technology (INFO) Systems Security, Minor (0150)

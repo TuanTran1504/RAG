@@ -1,0 +1,41 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Public Health Studies, Major (0297)
+- Western Sydney University Major Code:
+- Previous Code: M4022.1
+- This major is available to students from all other programs except 4656 Bachelor of Health Science or 6000 Diploma in Health Science/Bachelor of Health Science.
+- Public health is the science of disease prevention, prolonging life and improving health for individuals and their communities. The Public Health Studies major covers a wide range of areas such as health promotion, disease control, population health assessment and measurement, environmental health and community engagement. Students will gain knowledge of the main factors that underpin the health of a population, public health policy, and how to promote health for all. Students will develop and use skills in epidemiology and biostatistics, surveillance and prevention and apply them to public health problems. This Major will be identified on the Student’s Academic Transcript following completion of the course
+- Location
+- Curriculum delivered through an agreement with another party
+- Major Structure
+- For any student at Western who meets the subjects’ pre-requisite rules, has sufficient elective space to complete the subject set and is not enrolled in the Bachelor of Health Science or Diploma in Health Science/ Bachelor of Health Science).
+- Students must complete 80 credit points as follows.
+- Related Programs
+- Bachelor of Health Science
+- No results found.
+
+Location Table:
+- Campbelltown Campus
+- Internal
+- Dr Caterina Tannous
+- Online
+- Dr Caterina Tannous
+- Sydney City Campus*
+- Internal
+- Dr Andrey Zheluk
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+PUBH 1012Public Health10
+PUBH 1006Population Health and Society10
+HLTH 2022Biostatistics in Health10
+PUBH 2020Epidemiology for Public Health10
+PUBH 2005Culture, Diversity and Health10
+PUBH 3024Harm Minimisation and Prevention10
+PUBH 3025Health Policy and Advocacy10
+PUBH 3027Public Health in a Changing World10
+Total Credit Points80

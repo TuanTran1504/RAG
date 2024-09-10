@@ -1,0 +1,28 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Advanced Manufacturing, Concentration (0282)
+- Western Sydney University Concentration Code:
+- Previous Code: SM3119.1
+- Location
+- Concentration Structure
+- Students must successfully complete 40 credit points from the subjects below.
+- Related Programs
+
+Location Table:
+- Parramatta City Campus-Macquarie Street
+- Internal
+- Program Advice
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+ENGR 2035Modern Digital Design and Development (not yet available)10
+ENGR 3033Digital Manufacturing and IIoT10
+ENGR 4039Design for Advanced Manufacturing10
+Students enrolled in the Materials Engineering major must complete the following subject
+ELEC 1003Electrical Fundamentals10
+Students enrolled in the Sustainability Engineering major must complete the following subject
+PROC 3008Materials Processing and Applications10

@@ -1,0 +1,122 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Graduate Certificate in Engineering (3695)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 061593J
+- This program applies to students who commenced in 2021 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- For commencement year 2020, please refer to: 3695.2 Graduate Certificate in Engineering
+- The Graduate Certificate in Engineering enhances the specialist training of students at a postgraduate level and enables them to adapt to a dynamically developing and changing technological environment. The program also prepares students, especially those coming from a non-Australian learning background, for higher level postgraduate training.
+- Study Mode
+- One year full time or two years part-time.
+- Program Advice
+- Program Advice
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Admission
+- Applicants must have successfully completed an Engineers Australia accredited three year undergraduate degree in Engineering Science or a recognised four year undergraduate degree in Engineering in one of the following specialisations: Civil, Biomedical, Environmental, Mechatronic, Mechanical, Electrical, Telecommunication.
+- Advanced standing may be granted for relevant prior studies for students who have successfully completed an Engineers Australia accredited four year Bachelor of Engineering program.
+- Those who have successfully completed a recognised three year undergraduate degree in Science or four year Bachelor of Engineering in another specialisation or equivalent qualifications must undertake and complete specified non-award undergraduate engineering subjects with approval of the Director of Academic Program before articulation to the Graduate Certificate in Engineering.
+- Additional Information
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Program Structure
+- Qualification for this award requires the successful completion of 80 credit points including the subjects listed below.
+- 40 credit points of core subjects
+- and
+- 40 credit points of single major subjects
+- Core Subjects
+- Majors
+- All students must enrol in a major before enrolling in their subjects
+- Students enrolled in 3695 Graduate Certificate in Engineering choose four specialised major subjects
+- Graduate Diploma in Engineering students can choose a single major by following the course structure below.
+- Recommended sequence
+- Qualification for the award of Graduate Certificate in Engineering requires the successful completion of 80 credit points
+- Start-year intake
+- Note:
+- (1) Students must carefully follow the requirements of their chosen single major in order to qualify for the Graduate Certificate in Engineering award. If unsure, students must seek the advice of the Academic Program Advisor.
+- (2) Major subject offering is subject to sufficient demand and may not be offered annually.
+- Mid-year intake
+- Note:
+- (1) Students must carefully follow the requirements of their chosen single major in order to qualify for the Graduate Certificate in Engineering award. If unsure, students must seek the advice of the Academic Program Advisor.
+- (2) Major subject offering is subject to sufficient demand and may not be offered annually.
+
+Location Table:
+- Parramatta City Campus-Macquarie Street
+- Full Time
+- Internal
+- See above
+- Parramatta City Campus-Macquarie Street
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+ENGR 7019
+Specialised Software Applications
+10
+Three major subjects (see Note)
+30
+
+Credit Points
+40
+Spring session
+CIVL 7014
+Sustainable Systems
+10
+ENGR 7028
+Engineering Project 1 (PG)
+20
+One major subject
+10
+
+Credit Points
+40
+
+Total Credit Points
+80
+Year 1
+Spring session
+Credit Points
+CIVL 7014
+Sustainable Systems
+10
+Three major subjects (see Note)
+30
+
+Credit Points
+40
+Autumn session
+ENGR 7019
+Specialised Software Applications
+10
+ENGR 7028
+Engineering Project 1 (PG)
+20
+One major subject (see Note)
+10
+
+Credit Points
+40
+
+Total Credit Points
+80
+
+Courselist Tables:
+
+courselist table1:
+CIVL 7014Sustainable Systems10
+ENGR 7019Specialised Software Applications10
+ENGR 7028Engineering Project 1 (PG)20
+Total Credit Points40

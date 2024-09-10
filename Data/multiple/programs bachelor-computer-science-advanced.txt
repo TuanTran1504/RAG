@@ -1,0 +1,233 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Bachelor of Computer Science (Advanced) (3634)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 061245G
+- This program applies to students who commenced in 2017 or later.
+- Handbook summary 2017-2023
+- This program is an advanced version of Bachelor of Computer Science. It provides students with a thorough and in-depth technical understanding of modern decentralised computer systems. This understanding includes how these computer systems are put together, how they work and what are the principles that govern them. Based on this solid foundation, students then have the opportunity to further learn the practical skills needed to design, develop and integrate the decentralised computer systems required by today's large organisations. This program is a three year program with distinct majors which allow students to specialise in different applications of computer science and computer systems. Some of the majors are: Cyber Security, Networked Systems, Cloud Computing, Systems Programming, Artificial Intelligence and others.
+- Students in the Bachelor of Computer Science (Advanced) will follow the same study program that is set out for the Bachelor of Computer Science. However, each student in this program will have an academic mentor and the student will also participate in additional compulsory activities including research projects. To maintain their enrolment in the Bachelor of Computer Science (Advanced) students must maintain an overall above 5 Grade Point Average, otherwise they will be transferred to the standard 3506 – Bachelor of Computer Science program. At enrolment students will be required to sign a declaration acknowledging the need to maintain a grade-point average (GPA) of 5.0 or more.
+- Handbook summary 2024
+- This program is designed for high performing students who are motivated to explore further in cutting-edge technology. In addition to computer science study which covers programming, data structure, algorithm, security, artificial intelligence, software design and development, the program provides student with independent learning and research training in advanced topics including algorithms, artificial intelligence, software engineering and security. Mentor will be assigned to each student. This program offers majors in Cyber Security, Artificial Intelligence, Systems Programming, Networked Systems, Technology Entrepreneurship, and a minor in Cloud Computing. 
+Graduates of an advanced computer science program will be well-equipped to tackle complex computational problems and contribute to the development of innovative technologies. Career paths include software engineering, cybersecurity, artificial intelligence, and research in computer science.
+Students are required to maintain a grade-point average (GPA) of 5.0 or more at every semester.
+- Study Mode
+- Three years full-time.
+- Program Advice
+- Program Advice
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Accreditation
+- The Bachelor of Computer Science currently is accredited by Australian Computer Society at the professional level.
+- Work Integrated Learning
+- There is a mandatory work component required for completion of this program.  Please contact the Program Advisor listed above for information.
+- International students should also refer to the link below for more information and a link to the Commonwealth Register of Institutions and Courses for Overseas Students (CRICOS).
+- Work Integrated Learning (WIL) for international students
+- Admission
+- Assumed Knowledge: HSC Mathematics and any two units of HSC English.
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- International students currently completing an Australian Year 12 in or outside Australia, an International Baccalaureate in Australia or a New Zealand National Certificate of Educational Achievement (NCEA) level 3 must apply via UAC International.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Program Structure Current
+- The sequence below applies to students who commenced in 2024. If you commenced prior to 2024 please refer to the Structure 2017-23 tab for details.
+- Qualification for this award requires the successful completion of 240 credit points which include the subjects listed in the recommended sequence below.
+- Recommended Sequence
+- Full-time start-year intake
+- Suggested Elective Subjects
+- Majors
+- The majors listed below have been designed specifically for this program and are recommended for Bachelor of Computer Science students.
+- Minor
+- Note: students may use some of their elective space to complete a Major or the Minor
+- Major and Minor elective spaces
+- Global Sustainability Minor   Indigenous Australian Studies Major    Indigenous Australian Studies Minor
+- Equitable Technologies Urban Evolution Migration and Global Change    Personal Innovation     Innovating, Creating and Problem Solving  Eco-Socially Conscious Design and Manufacturing Water for Life  Climate Justice Creative and Visual Communication Global Workplaces Innovating For Humans Creative Living for Cultural Wellbeing Ideate. Strategise. Innovate.  Humanising Data
+- For more information, visit the Challenge Minor website.
+- Search for majors and minors
+- Students can apply for an elective major or minor via Western Now.
+- WesternNow
+- Program Structure 2017 - 2023
+- If you commenced in 2024 or later please refer to the Structure 2024 tab for details.
+- In addition to the subjects outlined in the program structure for Bachelor of Computer Science, students in the advanced program must also complete the following three subjects.
+- Students must enrol in both 1H and 2H sessions.
+- Recommended Sequence
+- Minor Elective Spaces
+- Students may select their electives to be used toward obtaining an additional approved minor in Applied Leadership or Critical Thinking.
+- Applied Leadership, Minor
+- Critical Thinking, Minor
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Full Time
+- Internal
+- See above
+- Penrith Campus
+- Full Time
+- Internal
+- See above
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+MATH 1028
+Statistical Decision Making
+10
+COMP 1005
+Programming Fundamentals
+10
+INFO 1003
+Professional Practice, Communication and Ethics
+10
+MATH 1006
+Discrete Mathematics
+10
+
+Credit Points
+40
+Spring session
+COMP 2008
+Computer Organisation
+10
+COMP 2014
+Object Oriented Programming
+10
+INFS 2002
+Database Design and Development (Advanced)
+10
+COMP 2005
+Computer Networking (Advanced)
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+COMP 2019
+Systems Programming 1
+10
+COMP 2030
+Data Structures and Algorithms (Advanced)
+10
+Select two electives or major or minor subjects
+20
+
+Credit Points
+40
+Spring session
+INFS 3020
+Artificial Intelligence (Advanced)
+10
+INFO 3021
+Information Security (Advanced)
+10
+COMP 3009
+Distributed Systems and Programming
+10
+Select one elective or major or minor subject
+10
+
+Credit Points
+40
+Year 3
+Autumn session
+INFO 3019
+Project Management
+10
+Select three electives or major or minor subjects
+30
+
+Credit Points
+40
+Spring session
+COMP 3018
+Professional Experience
+10
+INFS 3021
+Formal Software Engineering (Advanced)
+10
+Select two electives or major or minor subjects
+20
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+1H session
+Credit Points
+COMP 1002
+Advanced Computer Science Activities 1
+0
+
+Credit Points
+0
+2H session
+COMP 1002
+Advanced Computer Science Activities 1
+0
+
+Credit Points
+0
+Year 2
+1H session
+COMP 2001
+Advanced Computer Science Activities 2
+0
+
+Credit Points
+0
+2H session
+COMP 2001
+Advanced Computer Science Activities 2
+0
+
+Credit Points
+0
+Year 3
+1H session
+COMP 3001
+Advanced Computer Science Activities 3
+0
+
+Credit Points
+0
+2H session
+COMP 3001
+Advanced Computer Science Activities 3
+0
+
+Credit Points
+0
+
+Total Credit Points
+0
+
+Courselist Tables:
+
+courselist table1:
+COMP 3003Cloud Computing Architecture10
+COMP 3006Computer Graphics10
+COMP 3007Computer Networks and Internets10
+INFO 3002Ethical Hacking Principles and Practice10
+INFO 3015Internet of Things and Smart Environments10
+COMP 3012Introduction to Cloud Computing10
+COMP 2025Introduction to Data Science10
+COMP 3013Mobile Applications Development10
+INFO 3007Network Security10
+COMP 3014Networked Systems Design10
+COMP 3015Operating Systems Programming10
+COMP 3032Machine Learning10
+COMP 3033Quantum Computing and Communication10
+COMP 3027Robotic Programming10
+COMP 3020Social Web Analytics10
+COMP 2026Visual Analytics10
+COMP 3025Wireless and Mobile Networks10

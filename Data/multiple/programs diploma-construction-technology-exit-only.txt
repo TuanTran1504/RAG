@@ -1,0 +1,55 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Diploma in Construction Technology (exit only) (7169)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- This program applies to students who commenced in Term 1, 2022 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- Commencement Year 2021 - 7169.1 Diploma in Construction Management
+- Commencement Year Term 3, 2016 - 7015.7 Diploma in Construction Management
+- The Diploma in Construction Technology is available as an exit point only from  Diploma in Construction Technology/Bachelor of Construction Technology
+- Study Mode
+- One year full-time (three terms)
+- Program Advice
+- College Program Enquiries
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Admission
+- This program is an exit award only
+- Local students are required to have
+- Students are also assumed to have background in Mathematics at a senior high school level and assumed background in Science knowledge, preferably in Physics
+- Met other entry requirements such as
+- International students must satisfy one of the following language requirements
+- Students are also assumed to have a background in Mathematics at a senior high school level and assumed background in Science knowledge, preferably in Physics.
+- Academic Entry Requirements vary according to country of origin. However, in general
+- Program Structure
+- This course is an exit award only
+- Qualification for this award requires the successful completion of the subjects listed below.
+- The early exit College Diploma consists of 100 credit points which includes College Preparatory subjects.
+
+Location Table:
+- Penrith campus
+- Full time
+- Internal
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+BLDG 1008Construction Work Safety (WSTC)10
+ENGR 1037Construction Communication (WSTC)10
+BLDG 2012Contract Administration (WSTC)10
+BLDG 1018Residential Building (WSTC)10
+BLDG 1016Building Science (WSTC)10
+ARCH 1005Drawing and CAD (WSTC)10
+BLDG 1017Non-Residential Building (WSTC)10
+BLDG 1010Environmental Building Design (WSTC)10
+Students must pass the following preparatory level subjects for which no advanced standing will be granted in the University degree program
+BLDG 0002Building Calculations (WSTC Prep)10
+LANG 0050Essential Literacy for Construction Professionals II (WSTC Prep)10
+Total Credit Points100

@@ -1,0 +1,61 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Cybersecurity, Testamur Major (T003)
+- Western Sydney University Major Code:
+- Previous Code:  ST3065.1
+- Cybersecurity is a fundamental aspect of information and communication systems and protecting these systems from various attacks and threats is becoming one of the major technology challenges for public and private sectors. The Cybersecurity field of study aims to develop graduates with advanced knowledge and skills in the discipline of information and communication security. This field of study covers fundamental knowledge in system and network security, security protocols and their applications in computer systems and networked systems such as cloud computing. Students will also learn other related topics such as artificial intelligence and visualisation and their application in cybersecurity development.
+- Location
+- Major Structure
+- Students studying in the Master of Information and Communications Technology and the Master of Information and Communications Technology (Advanced) must complete 40 credit points as follows.
+- Students studying in the Master of Artificial Intelligence must complete the following four subjects.
+- Students studying in the Master of Data Science must complete 40 credit points as follows.
+- The subjects listed below count towards completion of this major for students in the Master of Data Science who passed these subjects in 2024 or earlier.
+- INFO 7018        Cloud Systems Development
+- Students studying in the Master of Data Engineering must complete the following four subjects
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- postgradit@scem.uws.edu.au
+- Sydney City Campus
+- Internal
+- Mahsa Razavi
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Students must complete the following three subjects
+INFO 7014Advanced Topics in Cybersecurity10
+INFO 7015Applied Cybersecurity10
+INFS 7008Systems and Network Security10
+Select one of the following:10
+INFO 7002Advanced Topics in Artificial Intelligence
+COMP 7004Cloud Computing
+COMP 7007Information Security Management
+COMP 7016Visualisation
+Total Credit Points40
+
+courselist table2:
+INFO 7014Advanced Topics in Cybersecurity10
+COMP 7004Cloud Computing10
+INFO 7018Cloud Systems Development10
+INFS 7008Systems and Network Security10
+Total Credit Points40
+
+courselist table3:
+INFO 7014Advanced Topics in Cybersecurity10
+COMP 7004Cloud Computing10
+COMP 7013Network Technologies10
+INFS 7008Systems and Network Security10
+Total Credit Points40
+
+courselist table4:
+INFO 7014Advanced Topics in Cybersecurity10
+INFO 7018Cloud Systems Development10
+COMP 7013Network Technologies10
+INFS 7008Systems and Network Security10
+Total Credit Points40

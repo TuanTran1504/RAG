@@ -1,0 +1,15 @@
+Academic Handbook Current Edition CIVL 5001 Building Engineering Credit Points 10 Coordinator Brendan Kirkland Opens in new window Description This subject provides students with an understanding of the factors that contribute to decisions in building design, particularly compliance with the National Construction Code and related standards. Students apply their learning to real world contexts as they integrate the construction codes, standards and engineering structural principles to building engineering. Students build their skillset to assess the structural performance acceptability of buildings. School Eng, Design & Built Env Discipline Building Services Engineering Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Postgraduate Coursework Level 5 subject Equivalent Subjects CIVL 7011 - Building Engineering Restrictions Students enrolled in the 3693 Master of Engineering (Civil Engineering) cannot enrol in this subject. Learning Outcomes 1. Analyse the underlying concepts of building engineering.
+2. Interpret soil classification and its implication on footing systems.
+3. Determine structural design actions and strength of various structural members through simple performance evaluation.
+4. Interpret the performance requirements of the structural provisions of the National Construction Code as they relate to all classes of buildings.
+5. Apply various standards and codes of practice related to structural engineering.
+6. Evaluate existing structures in terms of the acceptability of their performance. Subject Content 1. Structural provisions of the National Construction Code (Volumes 1 and 2)
+2. Structural design actions: dead and live load, wind effect
+3. Load combinations and Limit State Design
+4. Soil classification and footing systems
+5. Structural engineering concepts
+6. Behaviour of structural materials
+7. Reinforced concrete members and prestressed concrete
+8. Structural timber members and connections
+9. Structural steel members: beams, columns, and tension members
+10. Steel connections, frames, and composite members Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Quiz 3 x 30 minutes 30 N Individual N  Report 3000 words 30 N Individual N  Report 4000 words 40 Y Individual Y Teaching Periods Spring (2024) Online Online Subject Contact Brendan Kirkland Opens in new window View timetable Opens in new window Structures that include subject Civil Engineering (CIVL) Graduate Certificate in Building Surveying (3790) Graduate Diploma in Building Surveying (3789) Master of Building Surveying (3703)

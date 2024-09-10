@@ -1,0 +1,25 @@
+Academic Handbook Current Edition COMP 3020 Social Web Analytics Credit Points 10 Legacy Code 300958 Coordinator Gizem Intepe Opens in new window Description The Social Web provides everyone with a voice; information from Facebook, Twitter and other social networks allows us to identify trends and relationships in society. Whilst this has interest on a personal level, the killer-apps will be in analysing social Web data for business, such as tracking the buzz around a new product, and understanding the relationships between customers and products. This subject will introduce its students to the Social Web data that is available, and blend data science and machine learning concepts to allow extraction and analysis of such data. School Computer, Data & Math Sciences Discipline Statistics Student Contribution Band HECS Band 1 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Pre-requisite(s) Students NOT enrolled in the 3770 must have successfully completed one of the following groupings
+(MATH 1028 Statistical Decision Making OR
+MATH 1003 Biometry OR
+COMP 1014 Thinking about Data)
+OR
+(MATH 1030 Statistics for Business AND
+COMP 1013 MATH 1002 Analytics Programming)
+OR
+(MATH 1012 Management Analytics AND
+COMP 1013 MATH 1002 Analytics Programming)
+OR
+(MATH 2006 Experimental Design and Analysis AND
+COMP 1013 MATH 1002 Analytics Programming) Co-requisite(s) For students enrolled in courses 3769 Bachelor of Data Science or 3770 Bachelor of Applied Data Science
+COMP 1014 Thinking About Data Assumed Knowledge Students are expected to be familiar with fundamental computer programming concepts and required to have a prior statistics knowledge. Learning Outcomes On successful completion of this subject, students should be able to: extract and process formatted data from social Web sources.
+use computer algorithms to visualise complex social Web interactions.
+use mathematical and statistical methods to identify significant trends in the social Web.
+use mathematical and statistical techniques to identify critical regions of a social network.
+partition a social network into clusters.
+choose an appropriate metric to measure the interaction between social network nodes.
+compute the popularity, authority and hub scores for network nodes. Subject Content Data extraction and formatting.
+Visualisation of social networks.
+Identifying trends in social networks.
+Measuring similarity in multiple networks.
+Clustering social network information
+Finding authorities and hubs in a social network. Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Short Answer 45 minutes 15 N Individual N  Report 10 to 30 pages 25 N Group N  Quiz 15 minutes 15 N Individual N  Final Exam 2 hours 45 Y Individual Y Prescribed Texts Teaching Periods Vietnam Session 2 (2024) Vietnam On-site Subject Contact Gizem Intepe Opens in new window View timetable Opens in new window Spring (2024) Campbelltown On-site Subject Contact Gizem Intepe Opens in new window View timetable Opens in new window Penrith (Kingswood) On-site Subject Contact Gizem Intepe Opens in new window View timetable Opens in new window Parramatta - Victoria Rd On-site Subject Contact Gizem Intepe Opens in new window View timetable Opens in new window Sydney City Campus - Term 3 (2024) Sydney City On-site Subject Contact Antoinette Cevenini Opens in new window View timetable Opens in new window Structures that include subject Artificial Intelligence, Major (0031) Bachelor of Applied Data Science (3770) Bachelor of Computer Science (3506) Bachelor of Computer Science (Advanced) (3634) Bachelor of Data Science (3769) Bachelor of Information and Communications Technology (3639) Bachelor of Information and Communications Technology (Advanced) (3684) Bachelor of Information and Communications Technology (Health Information Management) (3711) Bachelor of Information and Communications Technology/Bachelor of Arts (3654) Bachelor of Information and Communications Technology/Bachelor of Business (3737) Bachelor of Information and Communications Technology/Bachelor of Business (Accounting) (3738) Bachelor of Information and Communications Technology/Bachelor of Laws (2768) Bachelor of Information and Communications Technology/Bachelor of Laws (Honours) (2837) Big Data, Major (0144) Business Analytics, Testamur Major (T130) Computational Mathematics, Testamur Major (T118) Computer Science (COMP) Cyber Security, Major (0066) Data Science and Machine Learning, Minor (0322) Data Science, Testamur Major (T079) Diploma/Bachelor of Information and Communications Technology (6039) Diploma/Bachelor of Information and Communications Technology (Health Information Management) (6038) Information Systems Analytics, Major (0166) Interactive Analytics, Major (0203) Mathematics (MATH) Networked Systems, Major (0065) Social Media Analytics, Minor (0147) Systems Programming, Major (0064)

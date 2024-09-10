@@ -1,0 +1,33 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Astroinformatics, Minor (0096)
+- Western Sydney University Minor Code:
+- Previous Code: SM3080.1
+- This minor aims to produce graduates with excellent computing skills, a thorough grounding in astronomy, and experience in using computers to solve complex, challenging scientific problems. Modern astronomy is strongly driven by large datasets, which require advanced computing procedures to analyse. Students will learn about the science of stars, planets and galaxies; the use of computers in science; and how to formulate and solve challenging problems in modern science using high-level computer skills.
+- Location
+- Minor Structure
+- Students must complete 40 credit points as follows
+- Related Programs
+
+Location Table:
+- Campbelltown Campus
+- Internal
+- CDMS@westernsydney.edu.au
+- Parramatta Campus - Victoria Road
+- Internal
+- CDMS@westernsydney.edu.au
+- Penrith Campus
+- Internal
+- CDMS@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+PHYS 3001Astroinformatics10
+MATH 1014Mathematics 1A10
+COMP 1005Programming Fundamentals10
+PHYS 2004The Cosmos in Perspective: Information and Life10
+Total Credit Points40

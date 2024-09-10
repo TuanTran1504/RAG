@@ -1,0 +1,74 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Graduate Certificate in Data Science (3751)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 095724M
+- Program Status:
+- This program applies to students who commenced in 2017 or later.
+- Increasingly in the digital age data plays an important role in most, if not all, occupations. Extracting information from data has become a science in itself, blending skill sets from mathematics, statistics and computing. With a strong applications focus, this program introduces the skills needed to embark on data driven investigations.
+- Study Mode
+- Six months full-time or one year part-time.
+- Program Advice
+- Program Advice
+- Location
+- Admission
+- Applicants must have
+- Applicants seeking admission on the basis of work experience must support their application with a Statement of Service for all work experience listed on the application.
+- Statement of Service form
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Program Structure Current
+- Qualification for this award requires the successful completion of 40 credit points which include the subjects listed below.
+- Program Structure 2017-Autumn 2024
+- Qualification for this award requires the successful completion of 40 credit points which include the subjects listed below.
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- MATH 7011 Predictive Analytics, replaced by  COMP 7023 Predictive Analytics
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Full Time
+- Internal
+- See above
+- Parramatta Campus - Victoria Road
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Core Subjects
+COMP 7024Programming for Data Science10
+MATH 7016The Nature of Data10
+Select two of the following:20
+COMP 7003Big Data
+COMP 7006Data Science
+MATH 7017Probabilistic Graphical Models
+COMP 7023Predictive Analytics
+COMP 7025Social Media Intelligence
+COMP 7016Visualisation
+INFS 7007Systems Analysis and Database Management Systems
+ENGR 7017Professional Practice and Communication
+Total Credit Points40
+
+courselist table2:
+Core Subjects
+COMP 7024Programming for Data Science10
+MATH 7016The Nature of Data10
+Select two of the following:20
+COMP 7003Big Data
+COMP 7006Data Science
+MATH 7017Probabilistic Graphical Models
+COMP 7023Predictive Analytics
+COMP 7025Social Media Intelligence
+COMP 7016Visualisation
+Total Credit Points40

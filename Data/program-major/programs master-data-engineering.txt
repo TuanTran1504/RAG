@@ -1,0 +1,315 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Master of Data Engineering (3802)
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 114849C
+- This program applies to students who commenced in Spring 2024 or later.
+- The Master of Data Engineering offers students comprehensive training in data infrastructure design, construction, and maintenance. With a blend of theoretical study and hands-on projects, students cultivate technical prowess and problem-solving aptitude for intricate data issues in diverse sectors. Industry involvement is stressed, facilitating collaborations with professionals for real-world experience. Graduates of this program will have the opportunity for careers in technology, finance, healthcare, e-commerce, and consulting domains, where data engineering is pivotal for insights’ extraction.
+- Early Exits
+- Students may exit this program on completion of 40 credit points with a Graduate Certificate in Data Science (3751) or on completion of 80 credit points with a Graduate Diploma in Data Science (3750).
+- Study Mode
+- Two years full-time or four years part-time.
+- Program Advice
+- Program Advice
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission| International Admission|
+- Location
+- Work Integrated Learning
+- Work Integrated Learning
+- Applicants must have successfully completed an undergraduate degree, or higher, in any discipline.
+- Additional Information
+- Previous experience of statistics or computer programming will be an advantage but is not essential.
+- Applicants with the following may be eligible to receive credit for prior learning up to 80 credit points:
+- OR
+- Applicants seeking admission on the basis of work experience must support their application with a Statement of Service for all work experience listed on the application.
+- Statement of Service form
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Program Sequence 2025
+- This sequence applies to students who commenced in Autumn 2025 or later.
+- Qualification for this award requires the successful completion of 160 credit points which include the subjects listed in the recommended sequence below.
+- Start Year Intake
+- Mid-year Intake
+- Elective Spaces
+- Students may select their electives from any program offered by the university, provided any requisite requirements are met. Elective subjects must be at Postgraduate Level.
+- Students may use their elective subjects towards obtaining one of the approved Majors. Alternatively, students may use their elective subjects towards completing 40 credit points from one of the following Master of Business Administration AACSB approved Majors.
+- Program Sequence 2024
+- This sequence applies to students who commenced in Spring 2024.
+- Qualification for this award requires the successful completion of 160 credit points which include the subjects listed in the recommended sequence below.
+- Start Year Intake
+- Mid-year Intake
+- Majors
+
+Location Table:
+- Parramatta - Victoria Road
+- Full Time
+- Internal
+- See above
+- Parramatta - Victoria Road
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+MATH 7016
+The Nature of Data
+10
+COMP 7024
+Programming for Data Science
+10
+COMP 7003
+Big Data
+10
+COMP 7016
+Visualisation
+10
+
+Credit Points
+40
+Spring session
+COMP 7023
+Predictive Analytics
+10
+ENGR 7017
+Professional Practice and Communication
+10
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+COMP 7026
+Data Engineering Fundamentals
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+COMP 7004
+Cloud Computing
+10
+COMP 7027
+Advanced Data Engineering
+10
+Select two electives
+20
+
+Credit Points
+40
+Spring session
+INFO 6001
+IT Project Management
+10
+INFO 6003
+Postgraduate Research Project
+10
+Select two electives
+20
+
+Credit Points
+40
+
+Total Credit Points
+160
+Year 1
+Spring session
+Credit Points
+MATH 7016
+The Nature of Data
+10
+COMP 7024
+Programming for Data Science
+10
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+ENGR 7017
+Professional Practice and Communication
+10
+
+Credit Points
+40
+Autumn session
+COMP 7003
+Big Data
+10
+COMP 7016
+Visualisation
+10
+Select two electives
+20
+
+Credit Points
+40
+Year 2
+Spring session
+INFO 6001
+IT Project Management
+10
+COMP 7023
+Predictive Analytics
+10
+COMP 7026
+Data Engineering Fundamentals
+10
+Select one elective
+10
+
+Credit Points
+40
+Autumn session
+COMP 7027
+Advanced Data Engineering
+10
+COMP 7004
+Cloud Computing
+10
+INFO 6003
+Postgraduate Research Project
+10
+Select one elective
+10
+
+Credit Points
+40
+
+Total Credit Points
+160
+Year 1
+Autumn session
+Credit Points
+MATH 7016
+The Nature of Data
+10
+COMP 7024
+Programming for Data Science
+10
+COMP 7003
+Big Data
+10
+COMP 7016
+Visualisation
+10
+
+Credit Points
+40
+Spring session
+COMP 7023
+Predictive Analytics
+10
+ENGR 7017
+Professional Practice and Communication
+10
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+Select one elective
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+COMP 7004
+Cloud Computing
+10
+COMP 7026
+Data Engineering Fundamentals
+10
+Select two electives
+20
+
+Credit Points
+40
+Spring session
+INFO 6001
+IT Project Management
+10
+INFO 6003
+Postgraduate Research Project
+10
+COMP 7027
+Advanced Data Engineering
+10
+Select one elective
+10
+
+Credit Points
+40
+
+Total Credit Points
+160
+Year 1
+Spring session
+Credit Points
+MATH 7016
+The Nature of Data
+10
+COMP 7024
+Programming for Data Science
+10
+INFS 7007
+Systems Analysis and Database Management Systems
+10
+ENGR 7017
+Professional Practice and Communication
+10
+
+Credit Points
+40
+Autumn session
+COMP 7003
+Big Data
+10
+COMP 7016
+Visualisation
+10
+COMP 7026
+Data Engineering Fundamentals
+10
+Select one elective
+10
+
+Credit Points
+40
+Year 2
+Spring session
+INFO 6001
+IT Project Management
+10
+COMP 7023
+Predictive Analytics
+10
+COMP 7027
+Advanced Data Engineering
+10
+Select one elective
+10
+
+Credit Points
+40
+Autumn session
+COMP 7004
+Cloud Computing
+10
+INFO 6003
+Postgraduate Research Project
+10
+Select two electives
+20
+
+Credit Points
+40
+
+Total Credit Points
+160
+
+Courselist Tables:

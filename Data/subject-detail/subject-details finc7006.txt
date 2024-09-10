@@ -1,0 +1,14 @@
+Academic Handbook Current Edition FINC 7006 Financial Modelling Credit Points 10 Legacy Code 51054 Coordinator Rachel Reyes Opens in new window Description This subject is essential in preparing students for applied financial analysis and modelling applications used extensively in a number of postgraduate finance subjects.  It familiarises students with the strengths and limitations of contemporary quantitative modelling techniques using multivariate statistical procedures and optimisation approaches.  Students are also familiarised with relevant software. School Business Discipline Econometrics Student Contribution Band HECS Band 4 10cp Check your fees via the Fees page. Level Postgraduate Coursework Level 7 subject Restrictions Students must be enrolled in a postgraduate Business program. Learning Outcomes On successful completion of this subject, students should be able to: Undertake tests of economic and financial hypotheses using empirical data and summarise their results in a sensible reporting format;
+Apply quantitative analysis techniques;
+Implement the basic elements of financial modelling and forecasting;
+Use computer software to analyse financial problems;
+Demonstrate ability to construct financial models. Subject Content Introduction to Financial Modelling and Financial Data
+Correlation Analysis
+Introduction to Simple Regression
+Multiple Regressions
+Regression with Dummy Variables
+Regression with Lagged Explanatory Variables
+Univariate Time Series Analysis
+Regression with Time Series Variables
+Financial Volatility
+Revision and writing an Empirical Project Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Intra-session Exam 90 minutes 30 N Individual Y  Report 4,500 words 20 N Group Y  Final Exam 2 hours 50 N Individual Y Prescribed Texts Teaching Periods Quarter 1 (2024) Parramatta City - Macquarie St On-site Subject Contact Rachel Reyes Opens in new window View timetable Opens in new window Structures that include subject Bachelor of Research Studies (8083) Banking, Finance and Related (FINC) Master of Applied Finance (2759) Master of Business Administration/Master of Applied Finance (2782) Master of Finance (2705)

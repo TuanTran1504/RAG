@@ -1,0 +1,17 @@
+Academic Handbook Current Edition MECH 2002 Kinematics and Kinetics of Machines (WSTC AssocD) Credit Points 10 Legacy Code 700244 Coordinator Abbas Ranjbar Opens in new window Description Kinematics is the study of the motion of objects, and Kinetics is the study of the causes of the motion. The focus for this subject is on rigid body kinematics, which involves the study of a solid body with little or no deformation in planar motion, such as those in machines. The motion of key machine components and the forces they generate gives rise to design problems. Students gain an understanding of the relevance of kinematics and kinetics in the analysis and design of mechanical systems and of methods to ensure machines operate efficiently and safely. School Eng, Design & Built Env Discipline Mechanical And Industrial Engineering And Technology Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 2 subject Pre-requisite(s) MATH 1017 AND
+ENGR 1019 Equivalent Subjects MECH 2001 - Kinematics and Kinetics of Machines Restrictions Learning Outcomes On successful completion of this subject, students should be able to: Interpret the kinematic structure of mechanisms
+Identify freedom and constraint in machines
+Apply graphical velocity and acceleration analysis techniques to mechanisms
+Predict the movement of particles 
+Analyse translational and angular displacements, velocities and accelerations of a single rigid body
+Analyse multi-body mechanisms, gear trains, and cams
+Verify measurements in the real world against theory presented in the lectures Subject Content Freedom and constraints in mechanisms
+Velocity and acceleration analysis of mechanisms
+Particle kinematics
+Particle kinetics
+Rigid body kinematics
+Rigid body kinetics
+Mechanism kinematics
+Simple and epicyclic gear trains
+Involute geometry of gear teeth
+The geometry of cams Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Lab Reports x 3 2 hrs each 30 N Individual N  Online Quizzes x 5 30 mins each 20 N Individual N  Numerical Problem Solving 2 hours each 20 N Individual N  Research report and presentation 5 - 10 pages (Depending on the design, including images, graphs, photos, calculations and drawings using any simple drawing package Presentation 10 min including question time 30 N Individual N Prescribed Texts Structures that include subject Mechanical and Industrial Eng. (MECH) Mechanical, Testamur Major (T036) Robotics and Mechatronics, Testamur Major (T037)

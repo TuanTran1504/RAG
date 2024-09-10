@@ -1,0 +1,21 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Cybersecurity Systems, Minor (0277)
+- Western Sydney University Minor Code:
+- Previous Code: SM3126.1
+- Minor Structure
+- Students must complete 40 credit points from the subjects listed below.
+- Related Programs
+
+Location Table:
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+INFO 3006Information Security10
+COMP 2009Data Structures and Algorithms10
+COMP 2014Object Oriented Programming10
+COMP 3015Operating Systems Programming10

@@ -1,0 +1,20 @@
+Academic Handbook Current Edition PROC 1006 Materials Engineering Fundamentals Credit Points 10 Legacy Code 301414 Coordinator Qinghua Zeng Opens in new window Description This subject will introduce students to the foundations of chemistry, exploring the molecular nature of matter and change which is essential foundational knowledge for a career in materials engineering. From  atomic structure and the understanding of the periodic properties of elements, students learn about the chemical bonds and intermolecular forces that are responsible for determining the structure and properties of materials. Students put theory into practice by conducting and reporting on laboratory experiments to test the principles of chemical equilibrium, chemical reactions involving acids/bases, electron transfer as well as thermodynamics and kinetics of chemical processes. School Eng, Design & Built Env Discipline Materials Engineering Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 1 subject Learning Outcomes On successful completion of this subject, students should be able to: Explain the structures of chemical substances, including atomic structures, bonding, intermolecular forces, and their relation to the properties of the material.
+Identify the concept of chemical equilibrium used to evaluate phenomena related to chemical reactions including acids and bases.
+Outline the principles of thermodynamics in predicting the spontaneity of chemical reactions.
+Explain the rates and mechanisms of chemical reactions in collision theory at the molecular level.
+Apply concepts of oxidation and reduction to analyse electrochemical cells and corrosion.
+Communicate concepts, experiments and results in a clear and ethical manner.
+Work safely and collaboratively in groups on laboratory experiments and projects, contributing to reports. Subject Content 1.Atomic structure
+2.Periodic properties of the elements
+3.Bonding
+4.States and properties of matter
+5.Stoichiometry
+6.Chemical equilibrium
+7.Acids and bases
+8.Electrochemistry
+9.Thermodynamics
+10.Kinetics Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Self-Assessment 30 minutes 
+(each week)
+ 20 N Individual N  Practical 500-1000 words  30 N Both (Individual & Group) N  Quiz 45 minutes
+(per Quiz)
+ 30 N Individual N  Report 2000-3000 words (Individual) and 15 minutes (Group) 20 N Both (Individual & Group) N Prescribed Texts Structures that include subject Bachelor of Engineering (Honours) (3740) Civil Engineering (CIVL) Materials Engineering, Testamur Major (T128) Process and Resources Eng. (PROC)

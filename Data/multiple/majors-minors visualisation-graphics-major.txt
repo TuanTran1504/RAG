@@ -1,0 +1,37 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Visualisation and Graphics, Major (0080)
+- Western Sydney University Major Code:
+- Previous Code: M3123.1
+- Location
+- Major Structure
+- The Bachelor of Design and Technology is offered on Parramatta - Macquarie Street Campus. Parts of this course may be taught at the Parramatta City - Hassall St campus or at the Parramatta South campus.
+- Students may be required to travel between campuses in order to complete some subjects within specific majors and minors.
+- Students must complete 80 credit points as follows.
+- Related Programs
+- No results found.
+
+Location Table:
+- Parramatta City Campus - Macquarie Street
+- Internal
+- Dr Sasha Alexander
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Core Subjects
+ENGR 1038Design Graphics: Presenting Innovation10
+ENGR 2025Design Graphics: Engineering Documentation10
+ENGR 2024Design Graphics: Communication for Manufacture10
+INFO 3003Human-Computer Interaction10
+Major Alternative Units
+ENGR 2022Design Practice: Sustainable Manufacturing10
+MANU 3003Creative Digital: Robots and Avatars10
+COMP 1005Programming Fundamentals10
+Select one of the following:10
+INFO 2003Technologies for Mobile Applications
+INFO 2002Tangible Interaction Design
+Total Credit Points80

@@ -1,0 +1,17 @@
+Academic Handbook Current Edition MECH 3008 Thermodynamics and Heat Transfer Credit Points 10 Legacy Code 300760 Coordinator Ming Zhao Opens in new window Description This subject introduces students to the fundamentals of thermodynamics which involves energy in the form of heat and heat transfer. Students explore the basic laws and properties of thermodynamics to discover how energy is converted and transferred. Students will apply their knowledge to evaluate power and refrigeration cycles, industrial devices, as well as to design a simple industrial device. School Eng, Design & Built Env Discipline Mechanical Engineering Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 3 subject Pre-requisite(s) MATH 1019 AND
+ENGR 1011 OR
+ENGR 1028 Learning Outcomes On successful completion of this subject, students should be able to: Describe thermodynamic systems and the associated heat transfer processes
+Illustrate the concepts of thermodynamic parameters and processes
+Explain thermodynamic relations
+Apply thermodynamic principles to evaluating power and refrigeration cycles
+Explain the nature of heat transfer processes
+Apply heat transfer principles to design and evaluation of simple industrial device Subject Content Properties of thermodynamic systems
+Laws of thermodynamics
+Concepts of energy, work, heat and entropy
+Thermodynamic relations
+Reversible and irreversible processes
+Power and refrigeration cycles
+Heat conduction
+Natural and forced convection
+Radiation heat transfer
+Heat exchangers Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Participation 2 hours (per class) 15 N Individual N  Practical 2,000 word (each) 30 N Individual Y  Quiz 50 minutes 25 N Individual N  Quiz 1 hour 30 N Individual N Teaching Periods Sydney City Campus - Term 1 (2024) Sydney City On-site Subject Contact Ming Zhao Opens in new window View timetable Opens in new window Spring (2024) Penrith (Kingswood) On-site Subject Contact Ming Zhao Opens in new window View timetable Opens in new window Parramatta City - Macquarie St On-site Subject Contact Ming Zhao Opens in new window View timetable Opens in new window Sydney City Campus - Term 3 (2024) Sydney City On-site Subject Contact Ming Zhao Opens in new window View timetable Opens in new window Structures that include subject Materials Engineering, Testamur Major (T128) Mechanical Engineering, Testamur Major (T103) Mechanical and Industrial Eng. (MECH) Mechanical, Testamur Major (T036) Robotics and Mechatronics Engineering, Testamur Major (T104) Robotics and Mechatronics, Testamur Major (T037) Thermal and Fluid Systems, Concentration (0126) ​Thermal and Fluid Systems, Minor (0126)

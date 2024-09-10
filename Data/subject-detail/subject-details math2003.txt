@@ -1,0 +1,15 @@
+Academic Handbook Current Edition MATH 2003 Differential Equations Credit Points 10 Legacy Code 200030 Coordinator Shatha Aziz Opens in new window Description Differential equations arise naturally both in abstract mathematics and in the study of many phenomena.  This subject provides the theory of ordinary differential equations and an introduction to partial differential equations together with methods of solution.  Examples are drawn from a wide range of biological, chemical, physical and economic applications. School Computer, Data & Math Sciences Discipline Mathematics Student Contribution Band HECS Band 1 10cp Check your fees via the Fees page. Level Undergraduate Level 2 subject Pre-requisite(s) MATH1015 - Mathematics 1B Incompatible Subjects MATH 1019 - Mathematics for Engineers 2 Restrictions Students enrolled in Bachelor of Engineering, Bachelor of Engineering (Honours) or Bachelor of Engineering Science may not enrol in this subject. Assumed Knowledge None Learning Outcomes On successful completion of this subject, students should be able to: Classify and solve various types of first order ordinary differential equations
+Classify and solve various types of second order ordinary differential equations
+Apply Laplace transforms to solve problems including second order ordinary differential equations
+Classify and solve various types of basic partial differential equations. Subject Content - Review of first order differential equations
+- homogeneous linear second order equations
+- reducible second order equations
+- linear second order equations with constant coefficients
+- differential operators
+- method of undetermined coefficients
+- variation of parameters
+- equations with variable coefficients
+- power series solutions
+- Laplace transforms
+- simple partial differential equations and separation of Variables, eg diffusion, wave and Laplace equations
+- application of Fourier series to partial differential equations Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Intra-session Exam 45 minutes 10 N Individual Y  Intra-session Exam 45 minutes 10 N Individual Y  Intra-session Exam 45 minutes 15 N Individual Y  Intra-session Exam 45 minutes 15 N Individual Y  Final Exam 2 hours 50 Y Individual Y Teaching Periods Spring (2024) Campbelltown On-site Subject Contact Shatha Aziz Opens in new window View timetable Opens in new window Penrith (Kingswood) On-site Subject Contact Shatha Aziz Opens in new window View timetable Opens in new window Parramatta - Victoria Rd On-site Subject Contact Shatha Aziz Opens in new window View timetable Opens in new window Structures that include subject Bachelor of Mathematics (3778) Mathematics (MATH) Mathematics, Major (0059) Mathematics, Minor (0059) Secondary Mathematics Education, Major (0350)

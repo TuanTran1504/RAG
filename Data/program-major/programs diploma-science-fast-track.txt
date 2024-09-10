@@ -1,0 +1,106 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Diploma in Science Fast Track (7009)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 068984D
+- This program is suspended from Term 1, 2025, no new students will be admitted from this session.
+- This program applies to students who commenced in Term 1, 2017 or later.
+- This program is designed to engage students in, and further prepare students for, tertiary study in science. It presents students with first year level Bachelor of Science subjects and aims to produce students who are fully prepared for study beyond the first year of the Bachelor of Science degree. It is delivered in a smaller, more supportive learning environment than usually found in first year undergraduate programs.
+- Study Mode
+- Eight months full-time (two terms) or four terms part-time
+- Program Advice
+- College Admin
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Admission
+- Local students entering this Diploma are required to have
+- Students are also assumed to have completed some study in Mathematics and Science at senior high school level or its equivalent.
+- Met other entry requirements such as
+- International students entering the Diploma must satisfy one of the following language requirements
+- Students are also assumed to have completed some study in Mathematics and Science at senior high school level or its equivalent.
+- Academic Entry Requirements vary according to country of origin. However, in general
+- Program Structure
+- Bachelor of Medical Science (Medicinal Chemistry or Anatomy and Physiology or Biomedical Science) or Bachelor of Medical Science (Forensic Mortuary Practice)
+- Bachelor of Natural Science (Animal Science or Environmental Management) or Bachelor of Science (Chemistry)
+- Bachelor of Science
+- Bachelor of Science (Forensic Science)
+- Bachelor of Science (Biological Sciences)
+- Bachelor of Science (Nutrition and Food)
+- Bachelor of Science (Environmental Science)
+- Bachelor of Science (Zoology)
+- Replaced Subjects
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2019 or earlier.
+- BIOS 1026 - Introduction to Physiology (WSTC), Replaced by NATS 1024 Introduction to Physiology (WSTC)
+- NATS 1024 Introduction to Physiology (WSTC)
+
+Location Table:
+- The College - Nirimba Education Precinct
+- Full Time
+- Internal
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Students must pass the following non-award subject which does not count for credit towards the Diploma
+GEDU 0013Tertiary Study Skills in Science (WSTC Prep)0
+Students must pass the following subjects
+BIOS 1014Cell Biology (WSTC)10
+CHEM 1006Essential Chemistry 2 (WSTC)10
+NATS 1020Scientific Literacy (WSTC)10
+Select one of the following:10
+CHEM 1009Introductory Chemistry (WSTC)
+CHEM 1004Essential Chemistry 1 (WSTC)
+Bachelor of Science (Forensic Science or Chemistry) students must choose CHEM 1004 Essential Chemistry 1 (WSTC)
+Select one of the following:10
+BIOS 1003Biodiversity (WSTC)
+PHYS 1004Physics 1 (WSTC)
+Bachelor of Science (Chemistry) and Bachelor of Medical Science (Forensic Mortuary Practice) students must choose PHYS 1004 Physics 1 (WSTC)
+Select one of the following:10
+MATH 1027Quantitative Thinking (WSTC)
+MATH 1004Biometry (WSTC)
+Bachelor of Medical Science (Forensic Mortuary Practice) students must choose MATH 1004 Biometry (WSTC)
+
+courselist table2:
+NATS 1002Concepts in Human Anatomy (WSTC)10
+NATS 1021Concepts in Human Physiology (WSTC)10
+
+courselist table3:
+NATS 2024Integrated Science (WSTC)10
+BIOS 1031Resource Sustainability (WSTC)10
+
+courselist table4:
+NATS 1021Concepts in Human Physiology (WSTC)10
+NATS 2024Integrated Science (WSTC)10
+
+courselist table5:
+NATS 1002Concepts in Human Anatomy (WSTC)10
+NATS 2024Integrated Science (WSTC)10
+
+courselist table6:
+NATS 1021Concepts in Human Physiology (WSTC)10
+Select one of the following:10
+NATS 2024Integrated Science (WSTC)
+BIOS 1031Resource Sustainability (WSTC)
+
+courselist table7:
+NATS 1021Concepts in Human Physiology (WSTC)10
+PROC 1003Food Science 1 (WSTC)10
+
+courselist table8:
+BIOS 1031Resource Sustainability (WSTC)10
+Select one of the following:10
+NATS 1021Concepts in Human Physiology (WSTC)
+NATS 2024Integrated Science (WSTC)
+
+courselist table9:
+Select two of the following:20
+NATS 2024Integrated Science (WSTC)
+BIOS 1003Biodiversity (WSTC)
+BIOS 1031Resource Sustainability (WSTC)

@@ -1,0 +1,39 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Physical Activity and Health, Minor (0257)
+- Western Sydney University Minor Code:
+- Previous code: SM4007.1
+- The Physical Activity and Health minor offers an introduction to knowledge and skills associated with the use of physical activity as a means of promoting health. Students will further develop in areas associated with physical activity, exercise, nutrition, outdoor recreation, games for diverse groups and sport and exercise psychology. The minor is recommended as complementary study for students in the 4656 Bachelor of Health Science. Subjects are taken from the Health and Physical Education program and as such students will be expected to travel to Penrith campus for some subjects.
+- Location
+- Minor Structure Current
+- Minor Structure 2022
+- Related Programs
+
+Location Table:
+- Penrith Campus
+- Internal
+- Program Advice
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Select four of the following:40
+NATS 2040Physical Activity, Nutrition and Health
+SPRT 1009Exercise Performance and Health
+SPRT 2013Leading Games and Sports
+SPRT 3022Outdoor Education, Sustainability and Health
+BEHV 3025Sport and Exercise Psychology
+BEHV 3015Motor Control and Skill Acquisition
+Total Credit Points40
+
+courselist table2:
+Select four of the following:40
+HLTH 2023Introduction to Physical Cultural Studies
+SPRT 1005Outdoor Recreation
+SPRT 2007PDHPE: Games for Diverse Groups
+NATS 2040Physical Activity, Nutrition and Health
+BEHV 3025Sport and Exercise Psychology
+Total Credit Points40

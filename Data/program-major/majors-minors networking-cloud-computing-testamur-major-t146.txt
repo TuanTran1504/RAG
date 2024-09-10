@@ -1,0 +1,62 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Networking and Cloud Computing, Testamur Major (T146)
+- Western Sydney University Major Code:
+- The networking and cloud computing major provides students with in-depth knowledge for the analysis, design, and implementation of cloud and networked systems. It offers students the opportunity to develop the technical skills needed for the management and secure operations of a broad range of systems, including LANs, WANs, wireless and mobile networks, and large heterogeneous networks.
+- Location
+- Curriculum delivered through an agreement with another party
+- Students must complete 80 credit points as follows
+
+Location Table:
+- Campbelltown Campus
+- Full-time
+- Internal
+- cdms@westernsydney.edu.au
+- Campbelltown Campus
+- Part-time
+- Internal
+- cdms@westernsydney.edu.au
+- Parramatta Victoria Road Campus
+- Full-time
+- Internal
+- cdms@westernsydney.edu.au
+- Parramatta Victoria Road Campus
+- Part-time
+- Internal
+- cdms@westernsydney.edu.au
+- Penrith Campus
+- Full-time
+- Internal
+- cdms@westernsydney.edu.au
+- Penrith Campus
+- Part-time
+- Internal
+- cdms@westernsydney.edu.au
+- Sydney City Campus*
+- Full-time
+- Internal
+- a.cevenini@city.westernsydney.edu.au
+- Sydney City Campus*
+- Part-time
+- Internal
+- a.cevenini@city.westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+COMP 3012Introduction to Cloud Computing10
+COMP 3007Computer Networks and Internets10
+COMP 2013LAN Workshop10
+COMP 3003Cloud Computing Architecture10
+COMP 3025Wireless and Mobile Networks10
+COMP 3037Cloud Security10
+Select one of the following:10
+COMP 3014Networked Systems Design
+COMP 3009Distributed Systems and Programming
+Select one of the following:10
+INFO 3002Ethical Hacking Principles and Practice
+INFO 3015Internet of Things and Smart Environments
+Total Credit Points80

@@ -1,0 +1,30 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Microbiology, Minor (0105)
+- Western Sydney University Minor Code:
+- Previous Code: SM3044.1
+- The Microbiology minor is available to all undergraduate students except those enrolled in the Microbiology major.
+- Microorganisms impact on all aspects of our lives. A microbiology sub-major will equip students with the skills and knowledge of microbiology and molecular microbiology relevant to employment in research laboratories and industries including biotechnology companies, medical and environmental laboratories, food, wine and pharmaceutical companies, quality assurance and scientific sales.
+- Location
+- Minor Structure
+- Students must complete four subjects as follows.
+- Related Programs
+
+Location Table:
+- Hawkesbury
+- Internal
+- science@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Level 2
+BIOS 2022Microbiology 110
+BIOS 2024Microbiology 210
+Level 3
+BIOS 3004Analytical Microbiology10
+NATS 3030Medical Microbiology10
+Total Credit Points40

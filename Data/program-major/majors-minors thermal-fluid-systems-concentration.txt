@@ -1,0 +1,28 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Thermal and Fluid Systems, Concentration (0126)
+- Western Sydney University Concentration Code:
+- Previous Code: SM3074.1
+- Location
+- Concentration Structure
+- This concentration is only available to students enrolled in Bachelor of Engineering (Honours) or 3689 Bachelor of Engineering - Robotics & Mechatronics major only.
+- From 2024, please refer to Thermal and Fluid Systems, Minor (0126). This minor is available to all students in Bachelor of Engineering (Honours) (3740) and Bachelor of Engineering Advanced (Honours) (3771).
+- Students must complete 4 subjects as follows.
+- Related Programs
+
+Location Table:
+- Penrith Campus
+- Internal
+- Beng@uws.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+MECH 4001Computational Fluid Dynamics10
+CIVL 2003Fluid Mechanics10
+MECH 3008Thermodynamics and Heat Transfer10
+MECH 3007Thermal and Fluid Engineering10
+Total Credit Points40

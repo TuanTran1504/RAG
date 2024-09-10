@@ -1,0 +1,46 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Building, Testamur Major (T149)
+- Western Sydney University Major Code:
+- The Building Major is designed for students who envisage their future in the field of construction contracting rather than in professional consulting or building control. Building contractors manage and deliver building projects that may range from residential to commercial or institutional in nature.  They may be involved in ‘Design and Construct’ projects or they may tender for pre-designed project. Students who undertake this major will learn to manage building firms and projects with modern construction drivers, by controlling quality, cost and time efficiently.
+- Location
+- Students must complete 80 credit points as follows
+- No results found.
+
+Location Table:
+- Parramatta Victoria Road Campus
+- Full-time
+- Internal
+- edbe@westernsydney.edu.au
+- Parramatta Victoria Road Campus
+- Part-time
+- Internal
+- edbe@westernsydney.edu.au
+- Penrith Campus
+- Full-time
+- Internal
+- edbe@westernsydney.edu.au
+- Penrith Campus
+- Part-time
+- Internal
+- edbe@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+BLDG 4006Modern Construction Enterprises10
+BLDG 4007Modern Construction Projects10
+BLDG 3008Negotiation in the Built Environment10
+ENGR 3021Professional Practice10
+Select four of the following:40
+BLDG 3011Construction Business Management
+BLDG 2015Leading Teams in Construction
+BLDG 2003Building Regulations Studies
+ARCH 2003Development Control
+CIVL 2017Sustainable Construction Materials
+BLDG 3015Contract Management
+BLDG 3009Quality and Value Management
+Total Credit Points80

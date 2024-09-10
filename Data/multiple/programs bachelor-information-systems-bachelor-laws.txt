@@ -1,0 +1,911 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Bachelor of Information Systems/Bachelor of Laws (2800)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 095799C
+- This program applies to students who commenced in 2022 or later.
+- This combined program enables multi-skilling into two diverse career paths- information systems and law, providing increased marketability to multiple areas of expertise. The Bachelor of Laws equips students with the professional legal skills and knowledge which are required by the Legal Profession Admission Board for admission to legal practice in New South Wales and to solve legal and non-legal problems. Students can undertake specialised study in topical local and international law. The Bachelor of Information Systems integrates the applications of computing and information systems in the context of a global business environment. Students collaborate with an organisation in its industry based setting, on a project to solve a real community-based problem. The project involves the design, development, deployment and further management of the information system.
+- Early Exit
+- Students may exit this program on completion of 80 credit points with a 2827 Diploma in Laws (exit only)
+- Study Mode
+- Five years full-time or ten years part-time. Information systems subjects are offered at the Parramatta campus and Law subjects are offered at Campbelltown and Parramatta campuses. Students may be required to travel between campuses in order to complete their subjects.
+- Program Advice
+- courseadvicelaw@westernsydney.edu.au
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Accreditation
+- Graduates from this program are eligible to apply to the Legal Profession Admission Board for admission to legal practice in NSW after undertaking prescribed practical legal training. The Bachelor of Information Systems is accredited with the Australian Computer Society (ACS) at Professional Level.
+- Inherent Requirements
+- There are inherent requirements for this program that you must meet in order to complete your program and graduate. Make sure you read and understand the requirements for this program online.
+- Inherent Requirements
+- Work Integrated Learning
+- There is a mandatory work component required for completion of this program.  Please contact the Program Advisor listed above for information.
+- International students should also refer to the link below for more information and a link to the Commonwealth Register of Institutions and Courses for Overseas Students (CRICOS).
+- Work Integrated Learning (WIL) for international students
+- Admission
+- Assumed Knowledge: HSC Mathematics and any two units of HSC English.
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- International students currently completing an Australian Year 12 in or outside Australia, an International Baccalaureate in Australia or a New Zealand National Certificate of Educational Achievement (NCEA) level 3 must apply via UAC International.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Special Requirements Prerequisites
+- Students enrolling in these subjects may need to have a National Police Certificate and consent or prohibited employment declarations as they may be conducting their placement in circumstances where they work with minors. This would be managed on an as needs basis:
+- LAWS 3077 Legal Internship
+- LAWS 3074 Judicial Internship
+- LAWS 4017 Access to Justice Clinic
+- LAWS 4012 First Nations Peoples' Access to Justice Clinic
+- LAWS 3080 Street Law Clinic
+- JUST 3011 Issues in the Criminal Justice System
+- COMP 3018 Professional Experience
+- The following subject requires a visa for the relevant country and the ability to travel at a specified time:
+- LAWS 3024 Foundations of Chinese Law
+- LAWS 3025 Law, Culture and Entrepreneurial Innovation in India
+- LAWS 3078 Legal, Economic and Social Transformation in Taiwan
+- LAWS 2017 Indonesia: Law, Governance and Culture
+- Program Structure 2022-2024
+- This structure applies to students who commenced in 2022-2024. If you commenced in 2025 or later, please refer to the relevant Structure tab for details.
+- Qualification for the double Bachelors degree in Information Systems / Law requires the successful completion of 400 credit points consisting of the subjects listed in the recommended sequence.
+- Early Exit - Students are eligible to graduate in the Bachelor of Information Systems on completion of the 16 specified information systems subjects plus the eight law subjects specified in the table below in lieu of program 3687 Bachelor of Information Systems electives and / or ‘Major’:
+- Information Systems subjects
+- Students enrolled in the Bachelor of Information Systems/Bachelor of Laws will only be eligible to graduate from their Bachelor of Laws degree upon completion of the entire 400 credit point program. Students enrolled in this program who wish to graduate with a standalone law degree prior to completion of the entire Bachelor of Information Systems component must transfer to program 2502 Bachelor of Laws (Non Graduate Entry) which requires the completion of 320 credit points (inclusive of 80 credit points of non-LLB study).
+- Students may exit with the Diploma in Laws on completion of 80 credit points, comprising 20 credit points of specified Law core subjects and 60 credit points of Law core or alternate subjects, as provided in the program structure. Please refer to the links above for details.
+- Planning Study - It may be possible to vary the sequence of subjects so that students study a greater concentration of either law or information systems study each semester, to minimise travel between campuses and to overcome timetabling problems. Students should speak to their Academic Program Advisor as needed.
+- Recommended Sequence 2022-2024
+- This sequence applies to students who commenced in 2022 - 2024. If you commenced in 2025 or later, please refer to the relevant Sequence tab for details.
+- Full-time start-year intake
+- Full-time mid-year intake
+- LLB Alternate Subjects
+- Students must complete 80 credit points of subjects from the list of Bachelor of Laws alternate subjects.
+- Please note that the availability of Bachelor of Laws Alternate Subjects may vary from year to year. New subjects may become available and some others discontinued. The School will publish information on which subjects are available in a session.
+- The equivalent subjects listed below counts toward completion of this program for students who passed these subjects in 2019 or earlier.
+- LAWS 2014 Bioethics
+- The equivalent subjects listed below counts toward completion of this program for students who passed these subjects in 2021 or earlier.
+- LAWS 4013 Civil Procedure and Arbitration
+- LAWS 4014 Remedies
+- LAWS 4015 Constitutional Law
+- LAWS 3081 Administrative Law
+- LAWS 3082 Property Law
+- LAWS 2015 Professional Responsibility and Legal Ethics
+- The subjects listed below count towards completion of the program for students who may have passed subjects in the list in 2022 or earlier.
+- LAWS 4017 Access to Justice Clinic
+- The equivalent subjects listed below counts toward completion of this program for students who passed these subjects in 2024 or earlier.
+- The equivalent subjects listed below counts toward completion of this program for students who passed these subjects in 2025 or earlier.
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2021 or earlier.
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2023 or earlier.
+- INFO 3019 Project Management
+- COMP 2027 Cyber Security
+- INFO 1003 Professional Practice, Communication and Ethics
+- The subjects listed below count towards completion of this program for students who passed these subjects in 2025 or earlier.
+- The subjects listed below count towards completion of this program for students who passed the subject in 2024 or earlier.
+- Program Structure 2025
+- This structure applies to students who commenced in 2025 or later. If you commenced prior to 2025, please refer to the relevant Structure tab for details.
+- Qualification for the double Bachelors degree in Information Systems / Law requires the successful completion of 400 credit points consisting of the subjects listed in the recommended sequence.
+- Early Exit - Students are eligible to graduate in the Bachelor of Information Systems on completion of the 16 specified information systems subjects plus the eight law subjects specified in the table below in lieu of program 3687 Bachelor of Information Systems electives and / or ‘Major’:
+- Students enrolled in the Bachelor of Information Systems/Bachelor of Laws will only be eligible to graduate from their Bachelor of Laws degree upon completion of the entire 400 credit point program. Students enrolled in this program who wish to graduate with a standalone law degree prior to completion of the entire Bachelor of Information Systems component must transfer to program 2502 Bachelor of Laws (Non Graduate Entry) which requires the completion of 320 credit points (inclusive of 80 credit points of non-LLB study).
+- Students may exit with the Diploma in Laws on completion of 80 credit points, comprising 20 credit points of specified Law core subjects and 60 credit points of Law core or alternate subjects, as provided in the program structure. Please refer to the links above for details.
+- Planning Study - It may be possible to vary the sequence of subjects so that students study a greater concentration of either law or information systems study each semester, to minimise travel between campuses and to overcome timetabling problems. Students should speak to their Academic Program Advisor as needed.
+- Recommended Sequence 2025
+- This sequence applies to students who commenced in 2025 or later. If you commenced prior to 2025, please refer to the relevant Sequence tab for details.
+- Full-time start-year intake
+- Full-time mid-year intake
+- LLB Alternate Subjects
+- Students must complete 80 credit points of subjects from the list of Bachelor of Laws alternate subjects.
+- Please note that the availability of Bachelor of Laws Alternate Subjects may vary from year to year. New subjects may become available and some others discontinued. The School will publish information on which subjects are available in a session.
+
+Location Table:
+- Campbelltown Campus
+- Full Time
+- Internal
+- See above
+- Campbelltown Campus
+- Part Time
+- Internal
+- See above
+- Parramatta Campus - Victoria Road
+- Full Time
+- Internal
+- See above
+- Parramatta Campus - Victoria Road
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+LAWS 1003
+Fundamentals of Australian Law
+10
+LAWS 2004
+Criminal Law
+10
+INFS 1002
+Information Systems in Context
+10
+INFS 1006
+Systems Analysis and Design
+10
+
+Credit Points
+40
+Spring session
+LAWS 1009
+Legal Analysis and Critique
+10
+LAWS 2013
+Torts Law
+10
+COMP 1005
+Programming Fundamentals
+10
+INFS 2001
+Database Design and Development
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+LAWS 2003
+Contracts
+10
+MATH 1030
+Statistics for Business
+10
+COMP 2020
+Technologies for Web Applications
+10
+COMM 1026
+Principles of Professional Communication 1
+
+Note: From Autumn 2024 COMM 1026 is replaced by INFO 1003
+10
+INFO 1003
+Professional Practice, Communication and Ethics
+
+
+Credit Points
+40
+Spring session
+LAWS 2001
+Alternative Dispute Resolution
+10
+COMP 3013
+Mobile Applications Development
+10
+INFS 3012
+Information Systems Deployment and Management
+10
+COMP 2004
+Computer Networking
+10
+
+Credit Points
+40
+Year 3
+Autumn session
+LAWS 2015
+Professional Responsibility and Legal Ethics
+10
+INFS 3006
+Emerging Trends in Information Systems
+10
+INFO 3003
+Human-Computer Interaction
+10
+INFO 3008
+Professional Development
+
+From Spring 2024 INFO 3008 replaced by INFO 3019 Project Management
+10
+INFO 3019
+Project Management
+
+
+Credit Points
+40
+Spring session
+LAWS 2008
+Government and Public Law
+10
+COMP 3018
+Professional Experience
+10
+INFO 3011
+Social Computing
+10
+INFO 3001
+Computer Security
+
+From Autumn 2024 INFO 3001 is replaced by COMP 2027 Cyber Security
+10
+COMP 2027
+Cyber Security
+
+
+Credit Points
+40
+Year 4
+Autumn session
+LAWS 3018
+Equity & Trusts
+10
+LAWS 3082
+Property Law
+10
+Select two LLB alternate subjects
+20
+
+Credit Points
+40
+Spring session
+LAWS 3081
+Administrative Law
+10
+LAWS 3045
+Law of Associations
+10
+Select two LLB alternate subjects
+20
+
+Credit Points
+40
+Year 5
+Autumn session
+LAWS 4015
+Constitutional Law
+10
+LAWS 4004
+Criminal Procedure and Evidence
+10
+Select two LLB alternate subjects
+20
+
+Credit Points
+40
+Spring session
+LAWS 4014
+Remedies
+10
+LAWS 4013
+Civil Procedure and Arbitration
+10
+Select two LLB alternate subjects
+20
+
+Credit Points
+40
+
+Total Credit Points
+400
+Year 1
+Spring session
+Credit Points
+LAWS 1003
+Fundamentals of Australian Law
+10
+Select three subjects from B Information Systems (refer to the structure tab)
+30
+
+Credit Points
+40
+Autumn session
+LAWS 2003
+Contracts
+10
+LAWS 2004
+Criminal Law
+10
+Select two subjects from B Information Systems (refer to the structure tab)
+20
+
+Credit Points
+40
+Year 2
+Spring session
+LAWS 2013
+Torts Law
+10
+LAWS 1009
+Legal Analysis and Critique
+10
+Select two subjects from B Information Systems (refer to the structure tab)
+20
+
+Credit Points
+40
+Autumn session
+Select four subjects from B Information Systems (refer to the structure tab)
+40
+
+Credit Points
+40
+Year 3
+Spring session
+LAWS 2008
+Government and Public Law
+10
+LAWS 2001
+Alternative Dispute Resolution
+10
+Select two subjects from B Information Systems (refer to the structure tab)
+20
+
+Credit Points
+40
+Autumn session
+LAWS 2015
+Professional Responsibility and Legal Ethics
+10
+Select three subjects from B Information Systems (refer to the structure tab)
+30
+
+Credit Points
+40
+Year 4
+Spring session
+LAWS 3081
+Administrative Law
+10
+LAWS 4013
+Civil Procedure and Arbitration
+10
+Select two LLB alternate subjects
+20
+
+Credit Points
+40
+Autumn session
+LAWS 3018
+Equity & Trusts
+10
+LAWS 3082
+Property Law
+10
+Select two LLB alternate subjects
+20
+
+Credit Points
+40
+Year 5
+Spring session
+LAWS 3045
+Law of Associations
+10
+LAWS 4014
+Remedies
+10
+Select two LLB alternate subjects
+20
+
+Credit Points
+40
+Autumn session
+LAWS 4015
+Constitutional Law
+10
+LAWS 4004
+Criminal Procedure and Evidence
+10
+Select two LLB alternate subjects
+20
+
+Credit Points
+40
+
+Total Credit Points
+400
+Year 1
+Autumn session
+Credit Points
+LAWS 1003
+Fundamentals of Australian Law
+10
+LAWS 2004
+Criminal Law
+10
+COMP 1005
+Programming Fundamentals
+10
+ACCT 1005
+Accounting in Context
+10
+
+Credit Points
+40
+Spring session
+LAWS 1009
+Legal Analysis and Critique
+10
+LAWS 2013
+Torts Law
+10
+INFS 2001
+Database Design and Development
+10
+COMP 2004
+Computer Networking
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+LAWS 2003
+Contracts
+10
+INFO 1003
+Professional Practice, Communication and Ethics
+10
+INFS 2012
+Digital Technologies and Security
+10
+INFS 2013
+Systems Analysis and Design
+10
+
+Credit Points
+40
+Spring session
+LAWS 2001
+Alternative Dispute Resolution
+10
+INFO 3019
+Project Management
+10
+INFS 1016
+Digital Transformation and Design Thinking
+10
+INFS 3024
+Enterprise Architecture
+10
+
+Credit Points
+40
+Year 3
+Autumn session
+LAWS 2015
+Professional Responsibility and Legal Ethics
+10
+INFS 3006
+Emerging Trends in Information Systems
+10
+INFO 3003
+Human-Computer Interaction
+10
+INFS 3023
+Advanced Systems Development Methodologies
+10
+
+Credit Points
+40
+Spring session
+LAWS 2008
+Government and Public Law
+10
+COMP 3018
+Professional Experience
+10
+BUSM 1042
+Introduction to Business Analytics
+10
+INFS 3027
+Social Computing and Systems Thinking
+10
+
+Credit Points
+40
+Year 4
+Autumn session
+LAWS 3018
+Equity & Trusts
+10
+LAWS 3082
+Property Law
+10
+Select two LLB alternate subjects
+20
+
+Credit Points
+40
+Spring session
+LAWS 3081
+Administrative Law
+10
+LAWS 3045
+Law of Associations
+10
+Select two LLB alternate subjects
+20
+
+Credit Points
+40
+Year 5
+Autumn session
+LAWS 4015
+Constitutional Law
+10
+LAWS 4004
+Criminal Procedure and Evidence
+10
+Select two LLB alternate subjects
+20
+
+Credit Points
+40
+Spring session
+LAWS 4014
+Remedies
+10
+LAWS 4013
+Civil Procedure and Arbitration
+10
+Select two LLB alternate subjects
+20
+
+Credit Points
+40
+
+Total Credit Points
+400
+Year 1
+Spring session
+Credit Points
+LAWS 1003
+Fundamentals of Australian Law
+10
+COMP 1005
+Programming Fundamentals
+10
+ACCT 1005
+Accounting in Context
+10
+INFS 2001
+Database Design and Development
+10
+
+Credit Points
+40
+Autumn session
+LAWS 2003
+Contracts
+10
+LAWS 2004
+Criminal Law
+10
+INFO 1003
+Professional Practice, Communication and Ethics
+10
+INFS 2013
+Systems Analysis and Design
+10
+
+Credit Points
+40
+Year 2
+Spring session
+LAWS 2013
+Torts Law
+10
+LAWS 1009
+Legal Analysis and Critique
+10
+COMP 2004
+Computer Networking
+10
+INFO 3019
+Project Management
+10
+
+Credit Points
+40
+Autumn session
+INFS 2012
+Digital Technologies and Security
+10
+INFS 3006
+Emerging Trends in Information Systems
+10
+INFO 3003
+Human-Computer Interaction
+10
+INFS 3023
+Advanced Systems Development Methodologies
+10
+
+Credit Points
+40
+Year 3
+Spring session
+LAWS 2008
+Government and Public Law
+10
+INFS 1016
+Digital Transformation and Design Thinking
+10
+INFS 3024
+Enterprise Architecture
+10
+INFS 3027
+Social Computing and Systems Thinking
+10
+
+Credit Points
+40
+Autumn session
+LAWS 2015
+Professional Responsibility and Legal Ethics
+10
+COMP 3018
+Professional Experience
+10
+BUSM 1042
+Introduction to Business Analytics
+10
+Select one LLB alternate subjects
+10
+
+Credit Points
+40
+Year 4
+Spring session
+LAWS 2001
+Alternative Dispute Resolution
+10
+LAWS 3081
+Administrative Law
+10
+LAWS 4013
+Civil Procedure and Arbitration
+10
+Select one LLB alternate subjects
+10
+
+Credit Points
+40
+Autumn session
+LAWS 3018
+Equity & Trusts
+10
+LAWS 3082
+Property Law
+10
+Select two LLB alternate subjects
+20
+
+Credit Points
+40
+Year 5
+Spring session
+LAWS 3045
+Law of Associations
+10
+LAWS 4014
+Remedies
+10
+Select two LLB alternate subjects
+20
+
+Credit Points
+40
+Autumn session
+LAWS 4015
+Constitutional Law
+10
+LAWS 4004
+Criminal Procedure and Evidence
+10
+Select two LLB alternate subjects
+20
+
+Credit Points
+40
+
+Total Credit Points
+400
+
+Courselist Tables:
+
+courselist table1:
+LAWS 1003Fundamentals of Australian Law10
+LAWS 1009Legal Analysis and Critique10
+LAWS 2013Torts Law10
+LAWS 2001Alternative Dispute Resolution10
+LAWS 2004Criminal Law10
+LAWS 2003Contracts10
+LAWS 2015Professional Responsibility and Legal Ethics10
+LAWS 2008Government and Public Law10
+Total Credit Points80
+
+courselist table2:
+INFS 1002Information Systems in Context10
+INFS 1006Systems Analysis and Design10
+COMP 1005Programming Fundamentals10
+INFS 2001Database Design and Development10
+MATH 1030Statistics for Business10
+COMP 2020Technologies for Web Applications10
+COMM 1026Principles of Professional Communication 110
+Note: From Autumn 2024 COMM 1026 replaced by INFO 1003 Professional Practice, Communication and Ethics
+COMP 3013Mobile Applications Development10
+INFS 3012Information Systems Deployment and Management10
+COMP 2004Computer Networking10
+INFS 3006Emerging Trends in Information Systems10
+INFO 3003Human-Computer Interaction10
+INFO 3008Professional Development10
+Note: From Spring 2024 INFO 3008 replaced by INFO 3019 Project Management
+COMP 3018Professional Experience10
+INFO 3011Social Computing10
+INFO 3001Computer Security10
+From Autumn 2024 INFO 3001 replaced by COMP 2027 Cyber Security
+Total Credit Points160
+
+courselist table3:
+LAWS 4017Access to Justice Clinic10
+LAWS 3001Advanced Family Law10
+LAWS 4003Advanced Taxation Law10
+LAWS 3002Advanced Torts and Civil Wrongs10
+LAWS 3003Advocacy10
+LAWS 3090Animal Law10
+LAWS 3004Anti-Discrimination Law10
+LAWS 3005Australian Competition Law10
+LAWS 3006Australian Consumer Law10
+LAWS 3007Banking and Securities Law10
+LAWS 2014Bioethics10
+LAWS 3089Children's Rights: Local and International10
+LAWS 3011Comparative Law: Legal Systems of the World10
+LAWS 3013Conflict of Laws10
+LAWS 3088Construction Law10
+LAWS 3014Corporate Governance10
+LAWS 3015Cyber Law and Justice10
+LAWS 4010Designing Law Apps for Access to Justice10
+LAWS 3096Drug Policy and Law10
+LAWS 3016Elder Law10
+LAWS 3022Family Dispute Resolution10
+LAWS 3023Family Law10
+LAWS 2005Financial Services Law10
+LAWS 2007First Peoples and the Australian Legal System10
+LAWS 4012First Nations Peoples' Access to Justice Clinic10
+LAWS 3024Foundations of Chinese Law10
+LAWS 2017Indonesia: Law, Governance and Culture10
+LAWS 3025Law, Culture and Entrepreneurial Innovation in India10
+LAWS 3083Gender and the Law10
+LAWS 3091Globalisation, Law, Governance and Culture10
+LAWS 3028Human Rights and the Asia Pacific10
+LAWS 3027Human Rights Law10
+LAWS 3029Immigration Law10
+JUST 3008Independent Study (Law)10
+LAWS 3030Information and Data Governance Law and Regulation10
+LAWS 3031Insolvency Law and Policy10
+LAWS 3032Intellectual Property10
+LAWS 3033International Business Transactions Law10
+LAWS 3034International Criminal Law10
+LAWS 4007International Environmental Law10
+LAWS 3039Islam, International Law and Human Rights10
+JUST 3011Issues in the Criminal Justice System10
+LAWS 3074Judicial Internship10
+LAWS 3042Jurisprudence10
+LAWS 3079Law, Economics, Ethics and Change10
+LAWS 3084Law and Literature10
+LAWS 3044Law and Public Policy10
+LAWS 3046Law of Employment10
+LAWS 3047Law of International Organisations10
+LAWS 3048Law of the Sea10
+LAWS 3085Law of War10
+LAWS 3075Law's Self-Understanding10
+LAWS 3078Legal, Economic and Social Transformation in Taiwan10
+LAWS 3077Legal Internship10
+LAWS 4016Legal Research and Methodology10
+LAWS 3086Managing Legal Risk in Construction Law10
+LAWS 3049Media Law10
+JUST 2013Mediation10
+LAWS 3050Medical Law10
+LAWS 3052Mental Health Law10
+LAWS 3053Moot Court10
+LAWS 3055Planning and Environment Law10
+LAWS 3061Public Health Law10
+LAWS 3063Public International Law10
+LAWS 3097Refugee Law10
+LAWS 2012Regulatory Risk and Compliance10
+LAWS 4008Revenue Law10
+LAWS 3067Self-Managed Superannuation and Trusts10
+LAWS 3068Space Law - Commercial Aspects10
+LAWS 3087Sports Law10
+LAWS 3080Street Law Clinic10
+LAWS 3076Technology, Innovation and the Law10
+LAWS 3071Wills and Succession10
+LAWS 3072Work Health and Safety Law10
+
+courselist table4:
+LAWS 1003Fundamentals of Australian Law10
+LAWS 1009Legal Analysis and Critique10
+LAWS 2013Torts Law10
+LAWS 2001Alternative Dispute Resolution10
+LAWS 2004Criminal Law10
+LAWS 2003Contracts10
+LAWS 2015Professional Responsibility and Legal Ethics10
+LAWS 2008Government and Public Law10
+Total Credit Points80
+
+courselist table5:
+LAWS 4017Access to Justice Clinic10
+LAWS 3001Advanced Family Law10
+LAWS 4003Advanced Taxation Law10
+LAWS 3002Advanced Torts and Civil Wrongs10
+LAWS 3003Advocacy10
+LAWS 3090Animal Law10
+LAWS 3004Anti-Discrimination Law10
+LAWS 3005Australian Competition Law10
+LAWS 3006Australian Consumer Law10
+LAWS 3007Banking and Securities Law10
+LAWS 2014Bioethics10
+LAWS 3089Children's Rights: Local and International10
+LAWS 3011Comparative Law: Legal Systems of the World10
+LAWS 3013Conflict of Laws10
+LAWS 3088Construction Law10
+LAWS 3014Corporate Governance10
+LAWS 3015Cyber Law and Justice10
+LAWS 4010Designing Law Apps for Access to Justice10
+LAWS 3096Drug Policy and Law10
+LAWS 3016Elder Law10
+LAWS 3022Family Dispute Resolution10
+LAWS 3023Family Law10
+LAWS 2005Financial Services Law10
+LAWS 2007First Peoples and the Australian Legal System10
+LAWS 4012First Nations Peoples' Access to Justice Clinic10
+LAWS 3024Foundations of Chinese Law10
+LAWS 2017Indonesia: Law, Governance and Culture10
+LAWS 3025Law, Culture and Entrepreneurial Innovation in India10
+LAWS 3083Gender and the Law10
+LAWS 3091Globalisation, Law, Governance and Culture10
+LAWS 3028Human Rights and the Asia Pacific10
+LAWS 3027Human Rights Law10
+LAWS 3029Immigration Law10
+JUST 3008Independent Study (Law)10
+LAWS 3030Information and Data Governance Law and Regulation10
+LAWS 3031Insolvency Law and Policy10
+LAWS 3032Intellectual Property10
+LAWS 3033International Business Transactions Law10
+LAWS 3034International Criminal Law10
+LAWS 4007International Environmental Law10
+LAWS 3039Islam, International Law and Human Rights10
+JUST 3011Issues in the Criminal Justice System10
+LAWS 3074Judicial Internship10
+LAWS 3042Jurisprudence10
+LAWS 3079Law, Economics, Ethics and Change10
+LAWS 3084Law and Literature10
+LAWS 3044Law and Public Policy10
+LAWS 3046Law of Employment10
+LAWS 3047Law of International Organisations10
+LAWS 3048Law of the Sea10
+LAWS 3085Law of War10
+LAWS 3075Law's Self-Understanding10
+LAWS 3078Legal, Economic and Social Transformation in Taiwan10
+LAWS 3077Legal Internship10
+LAWS 4016Legal Research and Methodology10
+LAWS 3086Managing Legal Risk in Construction Law10
+LAWS 3049Media Law10
+JUST 2013Mediation10
+LAWS 3050Medical Law10
+LAWS 3052Mental Health Law10
+LAWS 3053Moot Court10
+LAWS 3055Planning and Environment Law10
+LAWS 3061Public Health Law10
+LAWS 3063Public International Law10
+LAWS 3097Refugee Law10
+LAWS 2012Regulatory Risk and Compliance10
+LAWS 4008Revenue Law10
+LAWS 3067Self-Managed Superannuation and Trusts10
+LAWS 3068Space Law - Commercial Aspects10
+LAWS 3087Sports Law10
+LAWS 3080Street Law Clinic10
+LAWS 3076Technology, Innovation and the Law10
+LAWS 3071Wills and Succession10
+LAWS 3072Work Health and Safety Law10

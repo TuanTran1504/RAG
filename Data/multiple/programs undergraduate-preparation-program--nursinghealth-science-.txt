@@ -1,0 +1,48 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Undergraduate Preparation Program – Nursing/Health Science (9030)
+- Western Sydney University Program Code:
+- AQF Level:
+- Undergraduate Preparation Program – Nursing/Health Science
+- This program is suspended from Term 1, 2025, no new students will be admitted from this session.
+- This program applies to students who commenced in Term 3, 2022 or later.
+- This program is a university entry program designed for domestic students who have completed a minimum of year 12 or its equivalent. The program provides an academic entry pathway to first year undergraduate study or its equivalent. Students complete forty five (45) credit points over one term.  Subjects are designed to provide students with the generic skills needed for success at university in addition to more specialised discipline specific subjects intended to provide students with curriculum knowledge and skills to be successful in Health Science or Nursing.
+- Pathways to further study
+- Successful completion of this course, achievement of the required GPA and satisfying any relevant English language proficiency requirements will provide a pathway to the following programs.
+- Bachelor of Health Science
+- Bachelor of Health Science (Health and Physical Education)
+- Bachelor of Health Science (Sport and Exercise Science)
+- Diploma in Health Science Extended
+- Diploma in Health Science/Bachelor of Health Science
+- Study Mode
+- Four months (one term)
+- Program Advice
+- College Program Enquiries
+- Location
+- This program is available to Domestic Students only.
+- This program is open to Australian Citizens and Permanent Residents aged 17 years or over and who have completed Australian Year 11 or a comparable educational level and are not currently enrolled in or completing Year 12 in the same year of intended admission.
+- For more information on applying please see link to The College admission pages below.
+- https://www.westernsydney.edu.au/thecollege/how_to_apply
+- Recommended Sequence
+- To graduate from this program, students must meet the following requirements.
+- In order to transition to a Diploma or Bachelor course at Western, students must meet the  program completion rules. In addition, students must meet the relevant GPA entry requirements and any other admission criteria, which may include English language proficiency requirements or the attainment of specific grades, for entry into their intended diploma or undergraduate degree.
+- Health Science/Nursing
+
+Location Table:
+- The College - Nirimba Education Precinct
+- Full Time
+- Internal
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+LANG 0005Academic English (WSTC)10
+NATS 0020Skills for Health Science (WSTC)5
+MATH 0017Mathematics for Health Science (WSTC)10
+NATS 0016Science for Health Professionals (WSTC)10
+NATS 0009Health Communication (WSTC)10
+Total Credit Points45

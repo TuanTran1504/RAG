@@ -1,0 +1,26 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Conservation Science, Minor (0317)
+- Western Sydney University Minor Code:
+- This minor will show you how to use science to support conservation strategies and policies. It integrates conservation, ecology and biodiversity – with a focus on the problems of restoring and maintaining viable populations of animal and plant species, and natural and managed ecosystems – so you can better address complex conservation problems. This program is taught by world-class experts and supported by industry partners. You will deepen your understanding of all aspects of biodiversity and conservation, mitigating risk, environmental restoration, national and international conservation policy, and systematic conservation decision-making processes.
+- Location
+- Minor Structure
+- Students must complete all units. The recommended sequence is provided below; however, students may study the units in any order.
+
+Location Table:
+- Hawkesbury
+- 
+- Internal
+- science@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+ENVL 2008Australian Ecosystems: Threats and Solutions10
+ENVL 2009Ecosystem Restoration10
+ENVL 2010Conservation Priorities and Process10
+BIOS 3037Climate change and biodiversity conservation10
+Total Credit Points40

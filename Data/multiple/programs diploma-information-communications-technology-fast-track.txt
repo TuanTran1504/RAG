@@ -1,0 +1,62 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Diploma in Information and Communications Technology Fast Track (7004)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 063563K
+- This program is suspended from Term 1, 2025, no new students will be admitted from this session.
+- This program applies to students who commenced in Term 1, 2014 or later.
+- Study Mode
+- Eight months full-time (two terms).
+- Students will be required to attend the Kingswood or Parramatta South campus for some learning experiences.
+- Program Advice
+- College Admin
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Admission
+- Local students entering this Diploma are required to have:
+- Students are also assumed to have completed a Mathematics subject, equivalent to the Mathematics unit in the NSW Higher School Certificate.
+- Met other entry requirements such as:
+- International students entering the Diploma must satisfy one of the following language requirements:
+- Students are also assumed to have completed a Mathematics subject, equivalent to the Mathematics subject in the NSW Higher School Certificate.
+- Academic Entry Requirements vary according to country of origin. However, in general:
+- Special Requirements
+- Students must complete Tertiary Study Skills with UWSCollege prior to completion of the diploma.
+- Program Structure
+- Students who wish to enter the Bachelor of Information Systems on completion of this Diploma program will, subject to student numbers, study MATH 1031 Statistics for Business (WSTC).
+- MATH 1031 Statistics for Business (WSTC)
+- Students intending to enter the Bachelor of Information and Communications Technology will, subject to student numbers, study MATH 1029 Statistical Decision Making (WSTC).
+- MATH 1029 Statistical Decision Making (WSTC)
+
+Location Table:
+- Parramatta City Campus-George Street
+- Full Time
+- Internal
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Students must also pass the following seven subjects:
+COMP 2006Computer Networking (WSTC)10
+INFS 2003Database Design and Development (WSTC)10
+INFS 1003Information Systems in Context (WSTC)10
+COMM 1027Principles of Professional Communication 1 (WSTC)10
+COMP 1006Programming Fundamentals (WSTC)10
+INFS 1007Systems Analysis and Design (WSTC)10
+MATH 2013Object Oriented Analysis (WSTC)
+From Term 2 2022 MATH 2013 replaced by INFS 201110
+INFS 2011Object Oriented Analysis (WSTC)
+Select one of the following:10
+Students who wish to enter the Bachelor of Information Systems on completion of this Diploma program select
+MATH 1031Statistics for Business (WSTC)
+Students who wish to enter the Bachelor of Information and Communications Technology  on completion of this Diploma program select
+MATH 1029Statistical Decision Making (WSTC)
+Students must also pass the following non-award subject, which does not count for credit towards the Diploma
+GEDU 0010Tertiary Study Skills in Information and Communications Technology (WSTC Prep)0
+Total Credit Points80

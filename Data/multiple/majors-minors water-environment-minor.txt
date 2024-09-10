@@ -1,0 +1,30 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Water and Environment, Minor (0118)
+- Western Sydney University Minor Code:
+- Location
+- Minor Structure
+- This minor is only available to students enrolled in Bachelor of Engineering (Honours) (3740) and Bachelor of Engineering Advanced (Honours) (3771).
+- Students must complete 4 subjects as follows.
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- beng@westernsydney.edu.au
+- Penrith Campus
+- Internal
+- beng@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Select 40 credit points of the following:40
+EART 3005Statistical Hydrology
+CIVL 3018Hydrogeology
+CIVL 4012Water Resource Engineering
+CIVL 2018Water Supply Systems Design
+CIVL 4011Waste Management
+Total Credit Points40

@@ -1,0 +1,316 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Applied Finance, Testamur Major (T038)
+- Western Sydney University Major Code:
+- Previous Code:  MT2021.1
+- The Applied Finance major equips you with the expert skills to create a career as a finance specialist. In this major you will develop in-depth knowledge of finance with a focus on investment and securities, economics, and banking and finance. The core subjects in the Bachelor of Business will provide you a foundation of business knowledge and develop your skills in innovation, career planning, and numeracy. The Applied Finance major builds on this knowledge and skills in an applied discipline based context. Finance specialists work in a range of roles within the rapidly growing finance sector. This major fulfils the educational requirements for admission as an Associate (A Fin) of the Financial Services Institute of Australasia (FINSIA) provided the applicant is at least working in the financial services industry. All other students are eligible to apply for Affiliate membership (no postnominals apply).
+- Location
+- Curriculum delivered through an agreement with another party
+- Major Structure
+- Qualification for this major requires the successful completion of 80 credit points including all of the core subjects listed below.
+- Professional Subjects for Careers in Money
+- Students undertaking the Applied Finance major are advised to take the following four subjects to satisfy the requirements for their professional core.
+- Recommended Sequence
+- Qualification for the award of Bachelor of Business with a major in Applied Finance requires the successful completion of 240 credit points as per the recommended sequence below.
+- Full-time, start-year intake
+- Part-time, start-year intake
+- Surabaya Campus Intake (commences Sept 2024)
+- Related Programs
+
+Location Table:
+- Parramatta City Campus - Macquarie Street
+- Internal
+- Program Advice
+- Surabaya Campus, Indonesia (commences Sept 2024)
+- Internal
+- Program Advice
+- Sydney City Campus*
+- Internal
+- Neelam Goela
+- Vietnam Campus*
+- Internal
+- Program Advice
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+LAWS 1001
+Enterprise Law
+10
+BUSM 1010
+Financing Enterprises
+10
+ECON 1003
+Financial Institutions and Markets
+10
+Select one of the following:
+10
+ECON 1006
+Introduction to Economic Methods
+
+MATH 1030
+Statistics for Business
+
+
+Credit Points
+40
+Spring session
+BUSM 1008
+Enterprise Leadership
+10
+ECON 2002
+Corporate Financial Management
+10
+BUSM 1006
+Enterprise Innovation and Markets
+10
+Select one elective
+10
+
+Credit Points
+40
+Year 2
+Autumn session
+FINC 3008
+Investment Management
+10
+BUSM 2041
+Working in Professions
+10
+Select two electives
+20
+
+Credit Points
+40
+Spring session
+ECON 3006
+Economic and Financial Modelling
+10
+ECON 3014
+International Finance
+10
+Select two electives
+20
+
+Credit Points
+40
+Year 3
+Autumn session
+FINC 3001
+Bank Management
+10
+ECON 3003
+Derivatives
+10
+BUSM 3028
+Innovation, Enterprise and Society
+10
+Select one elective
+10
+
+Credit Points
+40
+Spring session
+FINC 3015
+Security Analysis and Business Valuation
+10
+ECON 3007
+Economics and Finance Engagement Project ( Enterprise Engaged Subject )
+10
+Select two electives
+20
+
+Credit Points
+40
+
+Total Credit Points
+240
+Year 1
+Autumn session
+Credit Points
+LAWS 1001
+Enterprise Law
+10
+ECON 1003
+Financial Institutions and Markets
+10
+
+Credit Points
+20
+Spring session
+BUSM 1006
+Enterprise Innovation and Markets
+10
+BUSM 1010
+Financing Enterprises
+10
+
+Credit Points
+20
+Year 2
+Autumn session
+ECON 2002
+Corporate Financial Management
+10
+Select one of the following:
+10
+ECON 1006
+Introduction to Economic Methods
+
+MATH 1030
+Statistics for Business
+
+
+Credit Points
+20
+Spring session
+BUSM 1008
+Enterprise Leadership
+10
+Select one elective
+10
+
+Credit Points
+20
+Year 3
+Autumn session
+FINC 3008
+Investment Management
+10
+Select one elective
+10
+
+Credit Points
+20
+Spring session
+BUSM 2041
+Working in Professions
+10
+Select one elective
+10
+
+Credit Points
+20
+Year 4
+Autumn session
+ECON 3014
+International Finance
+10
+Select one elective
+10
+
+Credit Points
+20
+Spring session
+ECON 3006
+Economic and Financial Modelling
+10
+Select one elective
+10
+
+Credit Points
+20
+Year 5
+Autumn session
+FINC 3001
+Bank Management
+10
+BUSM 3028
+Innovation, Enterprise and Society
+10
+
+Credit Points
+20
+Spring session
+ECON 3003
+Derivatives
+10
+Select one elective
+10
+
+Credit Points
+20
+Year 6
+Autumn session
+ECON 3007
+Economics and Finance Engagement Project ( Enterprise Engaged Subject )
+10
+Select one elective
+10
+
+Credit Points
+20
+Spring session
+FINC 3015
+Security Analysis and Business Valuation
+10
+Select one elective
+10
+
+Credit Points
+20
+
+Total Credit Points
+240
+
+Courselist Tables:
+
+courselist table1:
+Core Subjects
+FINC 3001Bank Management10
+ECON 2002Corporate Financial Management10
+ECON 3003Derivatives10
+ECON 3006Economic and Financial Modelling10
+ECON 1003Financial Institutions and Markets10
+ECON 3014International Finance10
+FINC 3008Investment Management10
+FINC 3015Security Analysis and Business Valuation10
+Total Credit Points80
+
+courselist table2:
+ECON 3007Economics and Finance Engagement Project10
+BUSM 3028Innovation, Enterprise and Society10
+BUSM 2041Working in Professions10
+Select one of the following:10
+ECON 1006Introduction to Economic Methods
+MATH 1030Statistics for Business
+
+courselist table3:
+Year 1
+Surabaya Semester 1
+LAWS 1001Enterprise Law10
+BUSM 1010Financing Enterprises10
+ECON 1003Financial Institutions and Markets10
+MATH 1030Statistics for Business10
+CULT 1030Pancasila5
+Surabaya Semester 2
+BUSM 1008Enterprise Leadership10
+ECON 2002Corporate Financial Management10
+BUSM 1006Enterprise Innovation and Markets10
+COMP 1013Analytics Programming10
+CULT 1031Civic Education5
+Year 2
+Surabaya Semester 1
+FINC 3008Investment Management10
+BUSM 2041Working in Professions10
+BUSM 1042Introduction to Business Analytics10
+LANG 1036Indonesian Language5
+Surabaya Semester 2
+ECON 3006Economic and Financial Modelling10
+ECON 3014International Finance10
+INFS 2001Database Design and Development10
+PHIL 1008Religion5
+Year 3
+Surabaya Semester 1
+FINC 3001Bank Management10
+ECON 3003Derivatives10
+BUSM 3028Innovation, Enterprise and Society10
+FINC 3011Property Investment10
+Surabaya Semester 2
+FINC 3015Security Analysis and Business Valuation10
+ECON 3007Economics and Finance Engagement Project10
+COMP 3002Applications of Big Data10
+BUSM 3036Leadership and Entrepreneurship10
+Total Credit Points240

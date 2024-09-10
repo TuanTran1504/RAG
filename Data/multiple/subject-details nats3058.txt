@@ -1,0 +1,22 @@
+Academic Handbook Current Edition NATS 3058 Pharmacological Chemistry Credit Points 10 Description This interdisciplinary subject covers the principles of medicinal chemistry, which combines chemistry, physiology, biochemistry, and pharmacology. The subject focuses on the principles of medicinal chemistry and aims to provide students with an understanding of the relationships between atomic interactions and molecular structure to biomolecular targets and quantitative structure-activity relationships of drugs. Through the exploration of lead compounds design and discovery strategies, chemical synthesis, structure-activity relationship analysis, and in silico-aided methods, students will gain an understanding of the principles of drug design. The subject also emphasises on selected topics of medicinal chemistry including anti-microbial and chemotherapeutic agents to understand and explore their chemistry and structure-activity relationships. Practical experience in compound isolation, synthesis, purification, and characterization is also provided, allowing students to gain hands-on knowledge of the dynamic field of medicinal chemistry. School Science Student Contribution Band Check your fees via the Fees page. Level Undergraduate Level 3 subject Pre-requisite(s) CHEM 1012 Restrictions Successful completion of 120 credit points Learning Outcomes After successful completion of this subject, students will be able to: Identify the types of physicochemical forces and functional groups that govern the drug-target interactions 
+Describe the stereochemical and confirmational requirements of drug-target interactions that impact drug activity
+Appreciate the design of drug analogues using quantitative structure-activity relationship (QSAR) methodologies. 
+Compare and contrast the different strategies involved in new lead compound design and discovery.
+Explore the chemistry and structure-activity relationships of selected antimicrobial and chemotherapeutic agents 
+Apply modern drug synthesis, purification, and analysis techniques through hands-on experiments
+Present laboratory results using scientific writing conventions and graphical presentations Subject Content Introduction to pharmacological chemistry
+Functional groups and impact on drug activity
+Introduction to Structure-Activity Relationships
+Quantitative Structure-Activity Relationships (QSAR)
+Metabolic pathways of drugs and reactions
+Biotechnology in drug design and discovery
+Strategies in search for new lead compounds
+Natural-products-based approach to drug design and discovery
+Computer-aided drug design and discovery
+Fragment-based drug design and discovery
+In silico methods of drug design and discovery
+Selected topics in pharmacological chemistry - Antibacterial agents.
+Selected topics in pharmacological chemistry – Antifungal agents
+Selected topics in pharmacological chemistry - Antiviral agents
+Selected topics in pharmacological chemistry - Anticancer agents
+Practical molecular synthesis, compound isolation, purification, and structural characterisation Special Requirements Essential equipment Laboratory PPE including an approved lab coat, enclosed footwear, safety goggles and hair ties for beyond-shoulder-length hair. Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Quiz 8 x MCQs and 2 x short answer responses per each quiz 25 N Individual N  Practical 180 mins ea.(x6) 20 N Group N  Report 1000 words 15 N Individual N  Report 3000 words 40 N Group/Individual N Structures that include subject Other Natural and Physical Sci (NATS) Pharmacology, Minor ( 0341)

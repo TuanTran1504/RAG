@@ -1,0 +1,27 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Business, Minor (0299)
+- Effective from:
+- Western Sydney University Minor Code:
+- This Business Studies minor provides students with a strong foundation of business knowledge in key areas of management, consumer marketing, human resource management and microeconomics.  Students complete practical industry-related activities which develop communication, cultural and analytic skills required to be innovative and responsible team-members and leaders. The Business Minor provides knowledge of the more people-oriented subjects in business.  As such it would complement non-business students from humanities, social sciences and psychology programs.
+- Location
+- Minor Structure
+- Students must complete 40 credit points as follows.
+- Related Programs
+
+Location Table:
+- Parramatta City
+- 
+- Internal
+- Program Advice
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+BUSM 1008Enterprise Leadership10
+MKTG 2010Customer Experience Fundamentals10
+BUSM 1023Managing People at Work10
+ECON 1014Consumers, Firms and Markets10

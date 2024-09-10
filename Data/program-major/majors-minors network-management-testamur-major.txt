@@ -1,0 +1,57 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Network Management, Testamur Major (T159)
+- Western Sydney University Major Code:
+- The Network Management major provides students with in-depth knowledge for the analysis, design, and implementation of networked systems. It offers students the opportunity to develop the technical skills needed for management and secure operation of a broad range of systems, including LANs, WANs, wireless and mobile networks, and large heterogeneous networks. Graduates can pursue careers in network analysis, design, implementation, management and network security.
+- Location
+- Major Structure Current
+- Students must complete 80 credit points as follows
+
+Location Table:
+- Campbelltown
+- Full time
+- Internal
+- Dr Simi (Kamini) Bajaj
+- Campbelltown
+- Part time
+- Internal
+- Dr Simi (Kamini) Bajaj
+- Parramatta - Victoria Road
+- Full time
+- Internal
+- Dr Simi (Kamini) Bajaj
+- Parramatta - Victoria Road
+- Part time
+- Internal
+- Dr Simi (Kamini) Bajaj
+- Penrith
+- Full time
+- Internal
+- Dr Simi (Kamini) Bajaj
+- Penrith
+- Part time
+- Internal
+- Dr Simi (Kamini) Bajaj
+- Sydney City Campus
+- Full time
+- Internal
+- Dr Simi (Kamini) Bajaj
+- Sydney City Campus
+- Part time
+- Internal
+- Dr Simi (Kamini) Bajaj
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+COMP 3012Introduction to Cloud Computing10
+COMP 3007Computer Networks and Internets10
+COMP 2013LAN Workshop10
+INFO 3007Network Security10
+COMP 3014Networked Systems Design10
+COMP 3025Wireless and Mobile Networks10
+COMP 2027Cyber Security10
+INFO 3015Internet of Things and Smart Environments10

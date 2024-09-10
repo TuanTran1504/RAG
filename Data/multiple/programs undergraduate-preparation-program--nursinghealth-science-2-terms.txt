@@ -1,0 +1,80 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Undergraduate Preparation Program – Nursing/Health Science (9031)
+- Western Sydney University Program Code:
+- AQF Level:
+- Undergraduate Preparation Program – Nursing/Health Science (2 Terms)
+- Handbook Summary 2022-2024
+- This program applies to students who commenced in Term 3, 2022 or later.
+- This program is a university entry program that provides an alternative academic entry pathway to first year undergraduate study or its equivalent. Students complete eighty credit points over two terms.  Subjects are designed to provide students with the generic skills needed for success at university in addition to more specialised discipline specific subjects intended to provide students with curriculum knowledge and skills to be successful in, Health Science or Nursing.
+- Successful completion of this program, achievement of the required GPA and satisfying any relevant English language proficiency requirements will provide a pathway to the following programs.
+- Bachelor of Nursing
+- Bachelor of Health Science
+Bachelor of Health Science (Health and Physical Education)
+Bachelor of Health Science (Sport and Exercise Science)
+Diploma in Health Science Extended
+Diploma in Health Science/Bachelor of Health Science
+- Handbook Summary 2025
+- This program applies to students who commence in 2025 or later.
+- This program is a university entry program that provides an alternative academic entry pathway to first year undergraduate study or its equivalent. Students complete eighty credit points over two semesters. Subjects are designed to provide students with the generic skills needed for success at university in addition to more specialised discipline specific subjects intended to provide students with curriculum knowledge and skills to be successful in Health Science or Nursing.
+- Successful completion of this program, achievement of the required GPA and satisfying any relevant English language proficiency requirements will provide a pathway to the following programs.
+- Bachelor of Nursing
+- Bachelor of Health Science
+- Bachelor of Health Science (Health and Physical Education)
+- Bachelor of Health Science (Sport and Exercise Science)
+- Diploma in Health Science
+- Study Mode
+- Eight months full-time or one and a half years part-time.
+- Program Advice
+- College Program Enquiries
+- Location
+- Domestic students
+- This program is open to Australian Citizens and Permanent Residents aged 17 years or over and who have completed Australian Year 11 or a comparable educational level and are not currently enrolled in or completing Year 12 in the same year of intended admission.
+- For more information on applying please see link to The College admission pages below.
+- https://www.westernsydney.edu.au/future/study/application-pathways/the-college
+- In order to Graduate from this program, students must meet the following requirements:
+- In order to transition to a Diploma or Bachelor course at Western, students must meet the course completion rules. In addition, students must meet the relevant GPA entry requirements and any other admission criteria, which may include English language proficiency requirements or the attainment of specific grades, for entry into their intended diploma or undergraduate degree.
+- Health Science/Nursing
+- Students must pass the following core subjects (all 10 CPs each):
+- These subjects are taught in 4-week Block session On Campus - one subject per Block session:
+- In order to Graduate from this program, students must meet the following requirements:
+- In order to transition to a Diploma or Bachelor course at Western, students must meet the course completion rules. In addition, students must meet the relevant GPA entry requirements and any other admission criteria, which may include English language proficiency requirements or the attainment of specific grades, for entry into their intended diploma or undergraduate degree.
+- Health Science/Nursing
+- Students must complete the following subjects:
+
+Location Table:
+- The College - Nirimba Education Precinct
+- Full Time
+- Internal
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+First Semester of Study
+LANG 0051Communication Skills for Health Science 1 (WSTC)10
+NATS 0002Academic Skills for Health Science (WSTC)10
+BEHV 0008Psychological Foundations of Health (WSTC)10
+HLTH 0002Health Care Environments (WSTC)10
+Second Semester of Study
+NATS 0009Health Communication (WSTC)10
+NATS 0016Science for Health Professionals (WSTC)10
+MATH 0017Mathematics for Health Science (WSTC)10
+LANG 0053Communication Skills for Health Science 2 (WSTC)10
+Total Credit Points80
+
+courselist table2:
+Term 1
+LANG 0051Communication Skills for Health Science 1 (WSTC)10
+BEHV 0008Psychological Foundations of Health (WSTC)10
+NATS 0002Academic Skills for Health Science (WSTC)10
+MATH 0017Mathematics for Health Science (WSTC)10
+Term 2
+LANG 0053Communication Skills for Health Science 2 (WSTC)10
+NATS 0016Science for Health Professionals (WSTC)10
+HLTH 0002Health Care Environments (WSTC)10
+NATS 0009Health Communication (WSTC)10
+Total Credit Points80

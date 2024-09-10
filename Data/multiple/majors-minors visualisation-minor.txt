@@ -1,0 +1,31 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Visualisation, Minor (0083)
+- Western Sydney University Minor Code:
+- Previous Code: SM3107.1
+- Location
+- Minor Structure
+- The Bachelor of Design and Technology is offered on Parramatta Macquarie Street Campus. Students may be required to travel between campuses in order to complete some subjects within specific majors and minors.
+- Students must complete 40 credit points as follows.
+- The subjects listed below count towards completion of this minor for students who passed these subjects in 2021 or earlier.
+- ENGR 2022 Design Practice: Sustainable Manufacturing, replaced by ENGR 1044 Drawing Skills for Design Thinking
+- ENGR 1044 Drawing Skills for Design Thinking
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- 
+- Dr Sasha Alexander
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Core Subjects
+ENGR 1038Design Graphics: Presenting Innovation10
+ENGR 2025Design Graphics: Engineering Documentation10
+ENGR 2024Design Graphics: Communication for Manufacture10
+ENGR 1044Drawing Skills for Design Thinking10
+Total Credit Points40

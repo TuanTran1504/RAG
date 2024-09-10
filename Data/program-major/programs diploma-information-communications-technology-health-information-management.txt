@@ -1,0 +1,57 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Diploma in Information and Communications Technology (Health Information Management) (exit only) (7164)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 094502M
+- This program is suspended from Term 1, 2025, no new students will be admitted from this session.
+- The Diploma in Information and Communications Technology (Health Information Management) is available as an exit point only from 6038 - Diploma/Bachelor of Information and Communications Technology (Health Information Management).
+- The program is designed to provide students with the first year subjects included in the Bachelor of Information and Communications Technology (Health Information Management) degree. It presents students with a range of subjects included in the first year of the corresponding degree and aims to prepare students for study beyond the first year of University study. It is delivered in a smaller, more supportive learning environment than usually found in first year undergraduate programs.
+- Study Mode
+- One year full-time (three terms).
+- Program Advice
+- College Program Enquiries
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Admission
+- This program is an exit award only
+- Domestic students are required to have
+- Students are also assumed to have completed a Mathematics subject, equivalent to the Mathematics subject in the NSW Higher School Certificate.
+- Met other entry requirements such as
+- International students must satisfy one of the following language requirements
+- Academic Entry Requirements vary according to country of origin. However, in general
+- Program Structure
+- This program is an exit award only.
+- Qualification for this award requires the successful completion of 100 credit points which include the subjects listed in the recommended sequence below
+- Students must pass the following subjects, including the preparatory level subjects for which no advanced standing will be granted in the University degree program
+
+Location Table:
+- The College - Nirimba Education Precinct
+- Full Time
+- Internal
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Term 1 of Study
+GEDU 0010Tertiary Study Skills in Information and Communications Technology (WSTC Prep)0
+COMP 0003Programming Design (WSTC Prep)5
+MATH 0008Mathematics 2 (WSTC Prep)10
+COMM 1027Principles of Professional Communication 1 (WSTC)10
+INFS 2005Introduction to Health Informatics (WSTC)10
+Term 2 of Study
+MATH 0028Statistics for Academic Purposes (WSTC Prep)5
+INFS 1007Systems Analysis and Design (WSTC)10
+COMP 1006Programming Fundamentals (WSTC)10
+INFS 2003Database Design and Development (WSTC)10
+Term 3 of Study
+COMP 2006Computer Networking (WSTC)10
+MATH 1029Statistical Decision Making (WSTC)10
+COMP 2017Programming Techniques (WSTC)10
+Total Credit Points100

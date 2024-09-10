@@ -1,0 +1,43 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Sustainable Tourism and Visitor Economies, Major (0320)
+- Western Sydney University Major Code:
+- Tourism and travel are among the world’s largest industries, accounting for a quarter of global employment growth and more than 10% of the world’s GDP (World Travel and Tourism Council, 2021). This major provides students with the knowledge and skills to work in a variety of managerial, operational, policy and planning roles in the tourism and heritage sectors. The major has a strong focus on sustainability, culture and innovation, to prepare students to address current and emerging issues in the sectors. Students are provided with opportunities to complete fieldtrips, applied projects and to learn directly from industry and government experts
+- Inherent Requirements
+- There are inherent requirements for this major that you must meet in order to complete the major and graduate. Make sure you read and understand the requirements for this major online.
+- https://www.westernsydney.edu.au/ir/inherent_requirements
+- Students must complete 60 credit points as follows.
+- Complete the following compulsory subjects.
+- Students must also complete two subjects from the following pool.
+- The subjects listed below count towards completion of this Major for students who passed these subjects in 2023 or earlier.
+- TOUR 6003 - Sustainable Visitor Economies, replaced by TOUR 7003 - Sustainable Visitor Economies
+- TOUR 6004 - Data Capture and Creative Communication, replaced by TOUR 7004 - Tourism, Hospitality and Events Insights
+- TOUR 6002 - Critical Issues for Heritage and Tourism Futures: Assessed Seminars, replaced by TOUR 7006 - Contemporary Issues for Tourism, Hospitality and Event Management
+
+Location Table:
+- Parramatta City
+- Internal
+- Dr Garth Lean
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Autumn Session
+TOUR 5001Sustainable Tourism and Heritage10
+TOUR 5002Frontiers in Sustainable Tourism Practice and Places10
+TOUR 6001Tourism, Heritage and Events Policy and Governance10
+Spring Session
+TOUR 7003Sustainable Visitor Economies10
+Total Credit Points40
+
+courselist table2:
+Select two of the following:20
+Autumn Session
+WELF 7029Indigenous Australia: History, Knowledge and Professional Practice
+Spring Session
+TOUR 7004Tourism, Hospitality and Events Insights
+TOUR 7006Contemporary Issues for Tourism, Hospitality and Event Management
+Total Credit Points20

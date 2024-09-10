@@ -1,0 +1,58 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Building Surveying, Testamur Major (T088)
+- Western Sydney University Major Code:
+- Previous Code:  MT3036.1
+- Building surveying involves assessing building designs and conducting inspections throughout all stages of a building project. This major provides students with knowledge about the building control process and skills in ensuring buildings function well in accordance with the performance requirements of the Building Code of Australia (BCA). Fire safety, energy efficiency and accessibility, as well as trade works compliance in areas such waterproofing are priority topics within this major. Students learn how performance solutions are developed and Deemed-to-Satisfy provisions of the BCA are applied in practice. Students are provided with professional practice opportunities to enable them to develop the knowledge and skills to work in this highly demanding area.
+- Location
+- Major Structure Current
+- Students must complete 80 credit points as follows.
+- Major Structure 2022
+- Students must complete 80 credit points as follows.
+- The subject listed below counts towards completion of this major for students who passed this subject in 2020 or earlier.
+- BLDG 2011 - Contract Administration
+- BLDG 3009 - Quality and Value Management
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- edbe@westernsydney.edu.au
+- Penrith Campus
+- Internal
+- edbe@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+BLDG 2003Building Regulations Studies10
+ARCH 2003Development Control10
+BLDG 3017Building Certification Ethics10
+BLDG 3014Introduction to Building Fire Safety10
+Select four of the following40
+BLDG 2004Built Heritage
+LAWS 1001Enterprise Law
+CIVL 2017Sustainable Construction Materials
+BLDG 3008Negotiation in the Built Environment
+MGMT 1001Introduction to Property
+ENVL 3010Environmental Planning, Policy & Regulation
+Total Credit Points80
+
+courselist table2:
+Select eight subjects from the following:80
+JUST 3003Building Law
+BLDG 2003Building Regulations Studies
+BLDG 2004Built Heritage
+BLDG 3004Construction Information Systems
+ARCH 2003Development Control
+LAWS 1001Enterprise Law
+BLDG 4006Modern Construction Enterprises
+BLDG 4007Modern Construction Projects
+BLDG 3008Negotiation in the Built Environment
+ENGR 3021Professional Practice
+MKTG 3014Property Development Process
+CIVL 2017Sustainable Construction Materials
+Total Credit Points80

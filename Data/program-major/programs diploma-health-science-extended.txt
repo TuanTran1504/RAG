@@ -1,0 +1,98 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Diploma in Health Science Extended (7142)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 085504F
+- This program is suspended from Term 1, 2025, no new students will be admitted from this session.
+- This program applies to students who commenced in Term 3, 2020 or later.
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- Commencement 2018 to term 2 2020
+- This program is designed to provide students with the first year subjects included in the Health Science degree. The inclusion of additional preparatory subjects is designed to assist students in the transition to study at University level. The Diploma is delivered via extended face to face hours in an environment focused specifically on supporting students to make the transition into university study.
+- Study Mode
+- One and a half years full-time (four terms)
+- Program Advice
+- College Program Enquiries
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Admission
+- This program is open to Australian Citizens and Permanent Residents who are aged 17 years or over and not currently enrolled in or completing Year 12 in the same year of intended admission.
+- International Students
+- IELTS 5.5 with minimum 5.0 in each sub band; or equivalent results from The College English Language Program or The College English Entrance Test; and completion of Year 11 or equivalent with specified results.
+- Program Structure Current
+- If you commenced prior to Term 3 2022, please refer to previous Structure tab for details.
+- Qualification for this award requires the successful completion of 140 credit points which include the subjects listed below.
+- Students must pass all Preparatory subjects (WSTC Prep) for which no advanced standing will be granted in the University degree program.
+- Students must pass 40 credit points from the following Preparatory subjects (Level Z) prior to enrolling in the University level subjects (WSTC) listed below.
+- Program Structure Term 3 2020 - Term 2 2022
+- If you commenced in Term 3 2022 or later, please refer to the Structure Current tab for details.
+- Qualification for this award requires the successful completion of 140 credit points which include the subjects listed below.
+- Students must pass all Preparatory subjects (WSTC Prep) for which no advanced standing will be granted in the University degree program.
+- Students must pass 40 credit points from the following Preparatory subjects (Level Z) prior to enrolling in the University level subjects (WSTC) listed below.
+
+Location Table:
+- The College - Nirimba Education Precinct
+- Full Time
+- Internal
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Term 1 of Study
+PUBH 0001Empowering Individual Health (WSTC Prep)10
+NATS 0001Academic Skills for Health Science (WSTC Prep)10
+HLTH 0001Health Care Environments (WSTC Prep)10
+HLTH 0003Literacy in Health Science (WSTC Prep)10
+Term 2 of Study
+NATS 0006Fundamentals of Health Science (WSTC Prep)10
+HLTH 0005The Health Science Professional (WSTC Prep)10
+HLTH 1015Professional Competencies in Health (WSTC)10
+PUBH 1007Population Health and Society (WSTC)10
+Term 3 of Study
+BIOS 1037Human Development and Disease across the Lifespan (WSTC)10
+COMM 1008Communication in Health (WSTC)10
+PUBH 2006Culture, Diversity and Health (WSTC)10
+Term 4 of Study
+BEHV 1015Psychology and Health (WSTC)10
+HLTH 1014Evidence in Health (WSTC)10
+Select one of the following four subjects (depending on which program students are progressing to)10
+NATS 1029Human Anatomy and Physiology 1 (WSTC)
+OR
+NATS 1030Human Anatomy and Physiology 2  (WSTC)
+(Clinical Sciences)
+MATH 1031Statistics for Business (WSTC)
+(Health Service Management)
+BIOS 1038Anatomy and Physiology in Health (WSTC)
+(Public Health, Health Promotion and Recreation Therapy)
+
+courselist table2:
+Term 1 of Study
+PUBH 0001Empowering Individual Health (WSTC Prep)10
+NATS 0001Academic Skills for Health Science (WSTC Prep)10
+HLTH 0001Health Care Environments (WSTC Prep)10
+HLTH 0003Literacy in Health Science (WSTC Prep)10
+Term 2 of Study
+NATS 0006Fundamentals of Health Science (WSTC Prep)10
+HLTH 0005The Health Science Professional (WSTC Prep)10
+HLTH 1015Professional Competencies in Health (WSTC)10
+PUBH 1007Population Health and Society (WSTC)10
+Term 3 of Study
+BEHV 1015Psychology and Health (WSTC)10
+HLTH 1014Evidence in Health (WSTC)10
+Select one of the following (depending  on which program students are progressing to):10
+BIOS 1014Cell Biology (WSTC)
+(Clinical Sciences)
+MATH 1031Statistics for Business (WSTC)
+(Health Service Management)
+BIOS 1038Anatomy and Physiology in Health (WSTC)
+(Public Health, Health Promotion and Recreation Therapy)
+Term 4 of Study
+BIOS 1037Human Development and Disease across the Lifespan (WSTC)10
+COMM 1008Communication in Health (WSTC)10
+PUBH 2006Culture, Diversity and Health (WSTC)10

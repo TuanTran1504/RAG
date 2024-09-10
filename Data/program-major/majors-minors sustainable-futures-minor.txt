@@ -1,0 +1,33 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Sustainable Futures, Minor (0035)
+- Western Sydney University Minor Code:
+- Previous Code: SM3112.1
+- Location
+- Minor Structure
+- Students must complete 40 credit points as follows.
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- Dr Sasha Alexander
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+HUMN 1058Indigenous Landscapes10
+HUMN 3077Sustainable Futures10
+Select one of the following:10
+BLDG 1009Environmental Building Design
+HUMN 3023Climate Change and Culture
+ENVL 3010Environmental Planning, Policy & Regulation
+Select one of the following:10
+HUMN 1026Global Structures, Local Cultures
+BLDG 2004Built Heritage
+BLDG 1014Non-Residential Building
+BIOS 1001Biodiversity
+Total Credit Points40

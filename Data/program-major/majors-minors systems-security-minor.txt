@@ -1,0 +1,27 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Systems Security, Minor (0150)
+- Western Sydney University Minor Code:
+- Previous Code: SM3077.1
+- This minor is only available to students enrolled in the Bachelor of Computing, Bachelor of Information Systems or Bachelor of Information and Communications Technology programs.
+- Location
+- Minor Structure
+- Students must complete 4 subjects as follows.
+- Related Programs
+
+Location Table:
+- Penrith Campus
+- External
+- CDMS@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+INFO 3006Information Security10
+INFO 3007Network Security10
+COMP 3015Operating Systems Programming10
+COMP 2019Systems Programming 110
+Total Credit Points40

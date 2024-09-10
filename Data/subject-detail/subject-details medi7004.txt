@@ -1,0 +1,16 @@
+Academic Handbook Current Edition MEDI 7004 Applications of Magnetic Resonance from Cancer to Neuroanatomy Credit Points 10 Legacy Code 401203 Coordinator Bill Price Opens in new window School Science Discipline Medical Science Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Postgraduate Coursework Level 7 subject Learning Outcomes On successful completion of this subject, students should be able to: Articulate a clear understanding of the concepts of magnetic resonance and imaging.
+Discuss the current and potential applications of magnetic resonance to medicine and other fields.
+Conduct basic and advanced magnetic resonance experiments.
+Process and analyse MRS and MRI data.
+Apply magnetic resonance and imaging to other disciplines.
+Understand OH&S issues related to magnetic resonance. Subject Content 1. Safety in the Research Magnetic Resonance/Clinical MRI Laboratory
+2. Basic NMR theory
+3. Chemical shift and spin-spin coupling
+4. Spin relaxation and diffusion
+5. Standard 1D and multidimensional NMR experiments
+6. Basic magnetic resonance imaging (MRI) experiments
+7. Magnetic resonance spectroscopy (MRS) in brain and tissues
+8. Functional magnetic resonance imaging of the brain
+9. Medical image processing
+10. Diffusion imaging
+11. Advanced Techniques in magnetic resonance Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Written worksheet submission 5 x 3 hours 30 N Individual   Essay 1,500-2,000 words 20 N Individual   Written Examination 2 hours 50 N Individual Structures that include subject Bachelor of Research Studies (8083) Medical Studies (MEDI)

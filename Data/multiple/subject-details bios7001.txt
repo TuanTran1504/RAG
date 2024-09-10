@@ -1,0 +1,19 @@
+Academic Handbook Current Edition BIOS 7001 Emerging Technologies for Biological Science Credit Points 10 Legacy Code 800186 Coordinator Chris Cazzonelli Opens in new window School Graduate Research School Discipline Biological Sciences Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Postgraduate Coursework Level 7 subject Restrictions Students must be enrolled in the Bachelor of Research Studies/ Master of Research. Assumed Knowledge Students should have an undergraduate degree in Biology, Environmental Science, Medical Science, or Agricultural Science, with a background in biological sciences, including some knowledge of molecular biology, genetics, biochemistry and/or physiology. Learning Outcomes On successful completion of this subject, students should be able to: Critically discuss research articles and describe technologies using in biological research investigations.
+Utilise an interdisciplinary systems approach to investigate biological processes.
+Describe core technologies used in physiology, biochemistry or molecular biology.
+Apply new technologies in practical biological research investigations.
+Interpret and analyse data obtained from �eomics technologies using commercial software.
+Conduct investigations safely and ethically in a laboratory using experimental methodology.
+Use spreadsheets, statistical and analytical programs to enter, analyse and graph data as well as draw appropriate conclusions from data.
+Communicate findings correctly in oral or in written form using an appropriate style, as well as access the scientific literature to place research findings in a publication context. Subject Content Tools for Phenotyping and Studying Physiological Processes
+1. Whole organism imaging, confocal microscopy and microelectrode techniques
+2. Principles of fluorescence, gas exchange and stable isotopes analysis
+3. Techniques for measuring carbon budgets
+Molecular and Biochemical Methods
+4. Methods to quantify gene expression and protein abundance or activity
+5. Metabolomics: tools to quantify and identify primary and secondary metabolites
+6. Genetic engineering, genome editing and modification of organism traits
+High Throughput Genetic and Epigenetic Technologies
+7. Next generation sequencing and genomic applications
+8. Genotype by sequencing and gene capture techniques
+9. Deciphering the epigenome: DNA methylation, chromatin modification and RNA silencing Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Quiz 60 minutes per quiz - 20 questions 30 Y Individual   Report 2500 words including figures and tables (excluding references) 40 Y Individual   Final exam 2 hours 30 Y Individual Structures that include subject Bachelor of Research Studies (8083) Biological Sciences (BIOS) Graduate Certificate in Science (exit only) (3776) Graduate Diploma in Science (exit only) (3777) Master of Science (3749)

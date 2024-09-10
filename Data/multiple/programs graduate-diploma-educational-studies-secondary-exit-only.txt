@@ -1,0 +1,135 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Graduate Diploma in Educational Studies (Secondary) (exit only) (1715)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 0101775
+- The Graduate Diploma in Educational Studies (Secondary) is an exit point on completion of 80 credit points of study (excluding Professional Practice subjects) selected from the 1714 - Master of Teaching (Secondary) subjects. Please note, this is not a teaching qualification.
+- Master of Teaching (Secondary)
+- Program Advice
+- SecondaryEnquiries@westernsydney.edu.au
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Admission
+- This is an exit point only from 1714 - Master of Teaching (Secondary).
+- Program Structure Current
+- This structure applies to students who commenced in 2024 or later. If you commenced prior to 2024, please refer to the relevant Structure tab for details.
+- Qualification for this award requires the successful completion of 80 credit points - any eight subjects from those listed below.
+- Program Structure 2022-2023
+- This structure applies to students who commenced in 2022-2023. If you commenced in 2024 or later, please refer to the relevant Structure tab for details.
+- Qualification for this award requires the successful completion of 80 credit points - any eight subjects from those listed below.
+- Equivalent Subjects
+- The subject listed below count towards completion of this program for students who passed these subjects in 2023 or earlier.
+- TEAC 7004 Adolescent Development and Teaching, replaced by TEAC 7161 Educational Psychology for Learning and Teaching
+- TEAC 7161 Educational Psychology for Learning and Teaching
+- Replaced Subjects
+- The subjects listed below counts towards completion of this program for students who passed the subjects in 2023 or earlier.
+- TEAC 7027 Designing Teaching and Learning, replaced by TEAC 7160 Literacy and Numeracy for Secondary Teaching
+- TEAC 7160 Literacy and Numeracy for Secondary Teaching
+
+Location Table:
+- Penrith Campus
+- Full Time
+- Internal
+- See above
+- Penrith Campus
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+TEAC 7160Literacy and Numeracy for Secondary Teaching10
+TEAC 7161Educational Psychology for Learning and Teaching10
+TEAC 7001Aboriginal & Culturally Responsive Pedagogies10
+TEAC 7032Diversity, Social Justice and Schooling10
+TEAC 7082Pedagogy for Positive Learning Environments10
+TEAC 7153Creating Inclusive Classrooms: Perspectives on Theory, Policy, and Practice10
+TEAC 7108Professional Practice Community Engagement10
+TEAC 7154Professional Experience 1 and Pedagogy10
+Students who have satisfied the NESA undergraduate subject content requirements, can undertake the following Curriculum subjects.
+Autumn offerings
+TEAC 5005English Curriculum 110
+TEAC 5007EALD Curriculum 110
+TEAC 5001Aboriginal Studies Curriculum 110
+TEAC 5013History Curriculum 110
+TEAC 5011HSIE Curriculum 110
+TEAC 5009Geography Curriculum 110
+TEAC 5003Business Studies/Commerce Curriculum 110
+TEAC 5024Music Curriculum 110
+TEAC 5036Technology Curriculum 110
+TEAC 5028PDHPE Curriculum 110
+TEAC 5015Languages Curriculum 110
+TEAC 5019Mathematics Curriculum 110
+TEAC 5032Science Curriculum 110
+Spring offerings
+TEAC 5006English Curriculum 210
+TEAC 5008EALD Curriculum 210
+TEAC 5014History Curriculum 210
+TEAC 5010Geography Curriculum 210
+TEAC 5002Aboriginal and Society Studies Curriculum 210
+TEAC 5004Business Studies/Legal Studies/Economics Curriculum 210
+TEAC 5025Music Curriculum 210
+TEAC 5037Technology Curriculum 210
+TEAC 5029PDHPE Curriculum 210
+TEAC 5016Languages Curriculum 210
+TEAC 5020Mathematics Curriculum 210
+TEAC 5033Science Curriculum 210
+TEAC 5012HSIE Curriculum 210
+
+courselist table2:
+TEAC 7001Aboriginal & Culturally Responsive Pedagogies10
+TEAC 7161Educational Psychology for Learning and Teaching10
+TEAC 7160Literacy and Numeracy for Secondary Teaching10
+TEAC 7032Diversity, Social Justice and Schooling10
+TEAC 7082Pedagogy for Positive Learning Environments10
+TEAC 7153Creating Inclusive Classrooms: Perspectives on Theory, Policy, and Practice10
+TEAC 7108Professional Practice Community Engagement10
+TEAC 7154Professional Experience 1 and Pedagogy10
+Students who have satisfied the NESA undergraduate subject content requirements, can undertake the following Curriculum subjects.
+Autumn offerings
+TEAC 5005English Curriculum 110
+TEAC 5007English Curriculum 310
+TEAC 5001Aboriginal Studies Curriculum 110
+TEAC 5013History Curriculum 110
+TEAC 5011HSIE Curriculum 310
+TEAC 5009Geography Curriculum 110
+TEAC 5003Business Studies/Commerce Curriculum 110
+TEAC 5024Music Curriculum 110
+TEAC 5026Music Curriculum 310
+TEAC 5036Technology Curriculum 110
+TEAC 5038Technology Curriculum 310
+TEAC 5028PDHPE Curriculum 110
+TEAC 5030PDHPE Curriculum 310
+TEAC 5015Languages Curriculum 110
+TEAC 5017Languages Curriculum 310
+TEAC 5019Mathematics Curriculum 110
+TEAC 5021Mathematics Curriculum 310
+TEAC 5032Science Curriculum 110
+TEAC 5034Science Curriculum 310
+Spring offerings
+TEAC 5006English Curriculum 210
+TEAC 5008English Curriculum 410
+TEAC 5014History Curriculum 210
+TEAC 5012HSIE Curriculum 410
+TEAC 5010Geography Curriculum 210
+TEAC 5002Aboriginal and Society Studies Curriculum 210
+TEAC 5004Business Studies/Legal Studies/Economics Curriculum 210
+TEAC 5025Music Curriculum 210
+TEAC 5027Music Curriculum 410
+TEAC 5037Technology Curriculum 210
+TEAC 5039Technology Curriculum 410
+TEAC 5029PDHPE Curriculum 210
+TEAC 5031PDHPE Curriculum 410
+TEAC 5016Languages Curriculum 210
+TEAC 5018Languages Curriculum 410
+TEAC 5020Mathematics Curriculum 210
+TEAC 5022Mathematics Curriculum 410
+TEAC 5033Science Curriculum 210
+TEAC 5035Science Curriculum 410

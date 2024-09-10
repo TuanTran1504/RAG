@@ -1,0 +1,154 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Graduate Certificate in Epidemiology (4740)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 088191E
+- Handbook Entry 2020 - 2022
+- The Graduate Certificate in Epidemiology is designed for graduates seeking to improve their knowledge of key areas of health-related research. It provides an understanding of epidemiological concepts and methods and their application in clinical, public health and health policy settings. Its core subjects include foundation subjects in epidemiology and biostatistics, while a range of specialist electives can be undertaken including disease surveillance, environmental epidemiology and research protocol design.
+- Handbook Entry 2023
+- The Graduate Certificate in Epidemiology is designed for graduates seeking to improve their knowledge of key areas of health-related research. It provides an understanding of epidemiological concepts and methods and their application in clinical, population health and health policy settings. Its core Subjects include foundation subjects in epidemiology and biostatistics, while a range of specialist electives can be undertaken including disease surveillance, population health research, big data for research protocol design and and statistical modelling, climate change, and international development..
+- Study Mode
+- Six months full-time or one year part-time.
+- Program Advice
+- Dr Kate McBride
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Inherent Requirements
+- There are inherent requirements for this program that you must meet in order to complete your program and graduate. Make sure you read and understand the requirements for this program online.
+- Inherent requirements
+- Admission Current
+- Applicants must have successfully completed
+- • a Bachelor’s degree, or higher, in any discipline;
+- OR
+- • An advanced diploma, or equivalent, in a related discipline AND five years full-time equivalent work experience at a managerial or professional level in roles in a health, welfare or aged care discipline
+- Applicants seeking admission on the basis of work experience must support their application with a Statement of Service for all work experience listed on the application.
+- Statement of Service form
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Admission 2022 - 2023
+- Applicants must have either
+- an undergraduate degree, or higher, in any discipline
+- Or
+- three years full-time equivalent work experience in a health, welfare or aged care environment.
+- Applicants seeking admission on the basis of work experience must support their application with a Statement of Service for all work experience listed on the application.
+- Statement of Service form
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Recommended Sequence Current
+- Qualification for this award requires the successful completion of 20 credit points of core subjects and 20 credit points of any other subjects from the alternate subject pool.
+- Alternate Subject Pool
+- The subject listed below count towards completion of this program for students who passed these subjects in 2022 or earlier.
+- PUBH 7004 Communicable Diseases, replaced by PUBH 5001 Infectious Diseases and Outbreak Response
+- PUBH 5001 Infectious Diseases and Outbreak Response
+- Recommended Sequence 2020 - 2022
+- Qualification for this award requires the successful completion of 40 credit points which include the subjects listed in the recommended sequence below.
+
+Location Table:
+- Online
+- Full Time
+- Online
+- See above
+- Online
+- Part Time
+- Online
+- See above
+- Parramatta Campus - Victoria Road
+- Full Time
+- Internal
+- See above
+- Parramatta Campus - Victoria Road
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+Year 1
+Autumn session
+Credit Points
+HLTH 7008
+Introduction to Biostatistics
+10
+Select one of the following:
+10
+PUBH 7015
+Introduction to Clinical Epidemiology
+
+PUBH 7016
+Introduction to Epidemiology
+
+Select two of the following:
+20
+HLTH 7001
+A Global Perspective on Social Determinants of Health
+
+PUBH 7005
+Controversies in Epidemiology
+
+PUBH 7006
+Data Management and Programming for Epidemiology
+
+PUBH 7008
+Environmental Epidemiology
+
+PUBH 7010
+Epidemiology of Non-Communicable Diseases
+
+PUBH 7012
+Health Economics and Comparative Health Systems
+
+PUBH 7015
+Introduction to Clinical Epidemiology
+
+AGEN 7005
+Research Protocol Design and Practice
+
+PUBH 7025
+Statistical Methods in Epidemiology
+
+
+Credit Points
+40
+
+Total Credit Points
+40
+
+Courselist Tables:
+
+courselist table1:
+Autumn /Spring40
+PUBH 7015Introduction to Clinical Epidemiology
+HLTH 7008Introduction to Biostatistics
+Choose two alternate subjects
+
+courselist table2:
+APPLIED TOPICS IN EPIDEMIOLOGY
+PUBH 5001Infectious Diseases and Outbreak Response10
+PUBH 6001Epidemiology of Climate Change10
+PUBH 7010Epidemiology of Non-Communicable Diseases10
+PUBH 7011Health Advancement and Health Promotion10
+PUBH 7031Health Systems and Policy10
+PUBH 7033The Social Determinants of Health10
+GLOBAL HEALTH FOCUS
+HUMN 7023Global Health, Migration and Development10
+HUMN 7028Management and Evaluation of Aid Programs10
+HUMN 7024Humanitarian and Development Agendas and Progress10
+HUMN 7032Public Health in Complex Emergencies10
+HUMN 7031Political Economy of Development10
+DATA SCIENCE IN POPULATION HEALTH FOCUS
+COMP 7006Data Science10
+COMP 7003Big Data10
+MATH 7014Social Media Intelligence10
+PUBH 6002Systems Science and Population Health10
+PUBH 7006Data Management and Programming for Epidemiology10

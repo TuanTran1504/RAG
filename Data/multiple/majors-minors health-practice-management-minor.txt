@@ -1,0 +1,36 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Health Practice Management, Minor (0240)
+- Western Sydney University Minor Code:
+- Previous Code: SM4002.1
+- The Minor complements study in another health or interdisciplinary major. Students will choose four of a suite of five subjects which are grouped to develop students’ knowledge and the skills required to manage a health practice or health service. Such management skills can be applied to management of any work practice and should provide students with more diverse employment opportunities. Note: To avoid duplication of content studied in a course, students may not take this minor with the following fields of study: T019 Health Services Management or 0053 Health Services Management or 0170 Health Management)
+- Location
+- Curriculum delivered through an agreement with another party
+- Minor Structure
+- Students must choose 4 from the following 5 subjects (This Minor is not listed on testamur and may not be taken in conjunction with the T019 Health Services Management or 0053 Health Services Management or 0170 Health Management)
+- Related Programs
+
+Location Table:
+- Campbelltown Campus
+- Internal
+- Dr Caterina Tannous
+- Sydney City Campus*
+- Internal
+- Dr Andrey Zheluk
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Year 2 or 3 (when taken in Bachelor of Health Science)
+Select four of the following:40
+Autumn session
+BUSM 1037Health Administration and Management
+BUSM 2044Health Service Management
+REHA 3042Health Practice Management
+Spring session
+MATH 1012Management Analytics
+BUSM 3080Health Care Systems and Organisation Culture
+Total Credit Points40

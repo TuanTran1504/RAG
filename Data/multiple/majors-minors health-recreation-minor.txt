@@ -1,0 +1,37 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Health and Recreation, Minor (0243)
+- Western Sydney University Minor Code:
+- Previous Code: SM4004.1
+- Health and Recreation Minor is a foundational study in recreational therapy for any student who meets its units’ pre-requisite rules and is not enrolled in another recreational therapy field of study of the Bachelor of Health Science or Diploma in Health Science/Bachelor of Health Science. This Minor may be taken by students who undertake the Bachelor of Health Science testamur majors in Health Promotion, Clinical Sciences, Public Health, or Health Services Management, or another course of the University.
+- Special Requirements
+- Please Note: Enrolment in the subjects, REHA1007 and REHA2015 in this minor, require completion of NSW Health Mandatory requirements. Please see the subject handbook pages for further details.
+- Location
+- Curriculum delivered through an agreement with another party
+- Minor Structure
+- Students must complete the following 40 credit points of subjects:
+- Related Programs
+
+Location Table:
+- Campbelltown Campus
+- Internal
+- Dr Caterina Tannous
+- Online
+- Dr Caterina Tannous
+- Sydney City Campus*
+- Internal
+- Dr Andrey Zheluk
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Autumn session
+REHA 1007Foundations of Recreational Therapy10
+REHA 2015Recreational Therapy Process and Planning10
+Spring session
+REHA 1008Introduction to Leisure and Recreation Theory10
+REHA 3041Facilitation in Recreational Therapy10
+Total Credit Points40

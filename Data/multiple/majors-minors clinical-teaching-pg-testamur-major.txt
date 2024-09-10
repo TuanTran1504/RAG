@@ -1,0 +1,80 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Clinical Teaching, Testamur Major (T014)
+- Western Sydney University Major Code:
+- Previous Codes: A4070.1, A4071.1, A4072.1, A4073.1
+- The Clinical Teaching major provides students with an opportunity to gain formal education in clinical teaching to either enhance their existing teaching experience or provide skill development in this area. Graduates who complete the Clinical Teaching major will be prepared to take on a leadership role in clinical teaching in the roles such as clinical nurse educator, nurse educator, clinical nurse specialist and undergraduate placement facilitator.
+- Major Structure
+- Select the link for your program below to see details of the major
+- Graduate Diploma in Nursing (Clinical Teaching) - 60 cp 1 year pathway
+- 60 credit point Pathway Structure
+- Qualification for this award requires the successful completion of 60 credit points including the subjects listed below.
+- Graduate Diploma in Nursing (Clinical Teaching) - 80 cp 1 year pathway
+- 80 credit point Pathway Structure
+- Qualification for this award requires the successful completion of 80 credit points including the subjects listed below.
+- Master of Nursing (Clinical Teaching) - 1 year pathway
+- 1 year pathway
+- Qualification for this award requires the successful completion of 80 credit points including the subjects listed below.
+- Master of Nursing (Clinical Teaching) - 1.5 year pathway
+- 1.5 year pathway
+- Qualification for this award requires the successful completion of 120 credit points including the subjects listed below.
+- Related Programs
+
+Location Table:
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+NURS 7064Clinical Teaching and Workplace Learning for Competent Practice10
+NURS 7015Clinical Teaching for Learning10
+NURS 7019Cultural and Social Diversity in Health Care10
+NURS 7023Evidence Based Health Care10
+NURS 7003Applied Clinical Practice using Simulation10
+PUBH 7020Policy, Power and Politics in Health Care Provision10
+Total Credit Points60
+
+courselist table2:
+NURS 7064Clinical Teaching and Workplace Learning for Competent Practice10
+NURS 7015Clinical Teaching for Learning10
+NURS 7019Cultural and Social Diversity in Health Care10
+NURS 7023Evidence Based Health Care10
+NURS 7003Applied Clinical Practice using Simulation10
+NURS 7040Perspectives on Nursing10
+PUBH 7020Policy, Power and Politics in Health Care Provision10
+Select one elective10
+Total Credit Points80
+
+courselist table3:
+NURS 7064Clinical Teaching and Workplace Learning for Competent Practice10
+NURS 7015Clinical Teaching for Learning10
+NURS 7019Cultural and Social Diversity in Health Care10
+NURS 7023Evidence Based Health Care10
+NURS 7003Applied Clinical Practice using Simulation10
+Select one elective10
+Complete one of the following 20 credit point subjects:20
+NURS 7065Capstone Experience in Health Care
+NURS 7042Research Project in Health Care
+OR complete the two following 10 credit point subjects
+NURS 7043Scholarship for Practice Change in Health Care
+NURS 7045Writing for Publication
+Total Credit Points80
+
+courselist table4:
+NURS 7064Clinical Teaching and Workplace Learning for Competent Practice10
+NURS 7015Clinical Teaching for Learning10
+NURS 7019Cultural and Social Diversity in Health Care10
+NURS 7023Evidence Based Health Care10
+NURS 7003Applied Clinical Practice using Simulation10
+NURS 7040Perspectives on Nursing10
+PUBH 7020Policy, Power and Politics in Health Care Provision10
+Select three electives30
+Complete one of the following 20 credit point subjects:20
+NURS 7065Capstone Experience in Health Care
+NURS 7042Research Project in Health Care
+OR complete the two following 10 credit point subjects
+NURS 7043Scholarship for Practice Change in Health Care
+NURS 7045Writing for Publication
+Total Credit Points120

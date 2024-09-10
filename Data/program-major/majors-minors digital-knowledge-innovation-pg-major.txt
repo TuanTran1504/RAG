@@ -1,0 +1,29 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Digital Knowledge and Innovation, Major (0223)
+- Western Sydney University Major Code:
+- Previous Code:  SP2022.1
+- From 2024, Digital Knowledge and Innovation, major will no longer be available.
+- Location
+- Major Structure
+- This major is taught by the School of Humanities and Communication Arts and is offered in Autumn and Spring sessions. Please refer to the below subjects for offering details and locations.
+- Students must successfully complete 60 credit points as listed below.
+- Related Programs
+
+Location Table:
+- Parramatta City Campus - Macquarie Street
+- Internal
+- Dr Laurel Jackson
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+CULT 7004Global Digital Futures10
+BUSM 7045Innovation Through Digital Technology10
+COMM 7009Mobile Media10
+COMM 7011Researching Convergent Media10
+COMM 7012Strategic Communication20
+Total Credit Points60

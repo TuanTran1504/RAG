@@ -1,0 +1,77 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Screen Media, Major (0268)
+- Western Sydney University Major Code:
+- Previous Code: M1135.1
+- The Screen Media major provides students with fundamental skills and knowledge in screen media. Areas of study include the exploration of different screen genres and approaches, practical hands-on experience creating commercial, narrative and documentary projects, enhancing screen content using animation and visual effects, plus the application of immersive augmented/virtual reality. This major enables professional communicators to effectively create impactful content in a range of diverse industries (for example within a corporation or for their own business, or within a Public Relations/Advertising Agency).
+- Location
+- Major Structure
+- Students must complete 80 credit points, with at least 30 credit points at Level 3, as follows.
+- Please note the Screen Media program is currently being enhanced and further details will be available in due course. Subjects under development are not yet accessible by hyperlink.
+- Creative Industries Students
+- Note: Creative Industries students must complete either COMM 1015 Foundations of Media Arts and Production or COMM 1039 Introduction to Screen Media prior to enrolling in the Screen Media major.
+- COMM 1039 Introduction to Screen Media
+- Recommended Sequence
+- Full-time start-year intake
+- Full-time mid-year intake
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- Jacki Montgomery
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Level 1
+COMM 1041Screen Media Fundamentals10
+COMM 1037Digital Narrative10
+Level 2
+COMM 2051Animation and Visual Effects10
+COMM 2053Narrative: Fictional Screen Media10
+COMM 2052Documentary: Factual Screen Media10
+Level 3
+COMM 3047Episodic Screen Media10
+COMM 3048Immersive Screen Technologies10
+Select one of the following:10
+COMM 3018Internship
+COMM 3046Personal Branding Strategies: Build and Manage Your Career Profile
+Total Credit Points80
+
+courselist table2:
+Autumn session
+COMM 1041Screen Media Fundamentals10
+COMM 2051Animation and Visual Effects10
+Spring session
+COMM 1037Digital Narrative10
+COMM 3048Immersive Screen Technologies10
+Autumn session
+COMM 2053Narrative: Fictional Screen Media10
+COMM 2052Documentary: Factual Screen Media10
+Spring session
+COMM 3047Episodic Screen Media10
+Select one of the following:10
+COMM 3046Personal Branding Strategies: Build and Manage Your Career Profile
+COMM 3018Internship
+Total Credit Points80
+
+courselist table3:
+Spring session
+COMM 1037Digital Narrative10
+COMM 2051Animation and Visual Effects10
+Autumn session
+COMM 1041Screen Media Fundamentals10
+COMM 2053Narrative: Fictional Screen Media10
+Spring session
+COMM 3047Episodic Screen Media10
+COMM 3048Immersive Screen Technologies10
+Autumn session
+COMM 2052Documentary: Factual Screen Media10
+Select one of the following:10
+COMM 3046Personal Branding Strategies: Build and Manage Your Career Profile
+COMM 3018Internship
+Total Credit Points80

@@ -1,0 +1,109 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Master of Business Administration (2761)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- CRICOS Code: 079261D
+- Students should follow the program structure for the session start date relevant to the year they commenced.
+- This version applies to students whose commencement year in this course is 2019 or later.
+- For Commencement Year 2017 - 2018 - please refer to 2761.5 Master of Business Administration
+- For Commencement Year 2016 (Q4) - please refer to 2761.4 Master of Business Administration
+- For Commencement Year 2015 (Q1) to 2016 (Q3) - please refer to 2761.3 Master of Business Administration
+- Through its research-driven and integrated focus, this degree equips graduates with the skills and knowledge to engage with contemporary business environments. This contemporary focus is evident in students engaging critically with the United Nations’ Sustainable Development Goals through the evaluation of economic, social, and environmental enterprise and professional behaviour and the development of recommendations for sustainable professional or enterprise practice. The design of the degree reflects consultation with a range of stakeholders including industry and professional associations. The design comprises business foundation and core subjects which provide students with key skills such as business communication and analysis, as well as a general knowledge of the basics of business e.g., Accounting, Economics, and Statistics. Upon completion of the foundation and core, students complete 60 credit points in one of the following specialisations: Management, Finance and Investment, Human Resource Management, Innovation and Entrepreneurship, Logistics and Supply Chain Management, Management, Marketing, Sustainable Business, Property, Information and Communications Technology, Digital Knowledge and Innovation, Business Analytics, and Policing, Public Safety and Security, and Finance. Students complete: four foundation (40 credit points), four core (40 credit points), and six major subjects (60 credit points) as well as a 20 credit point capstone subject, for a total of 160 credit points. Students may elect to complete a non-major where six subjects (60 credit points) can be chosen separately from any postgraduate business subjects. This program has multiple intakes each year and is suitable for graduates holding a bachelor degree in any discipline from a recognised university.
+- Early Exit
+- Students may exit this program on completion of 40 credit points with a 2765 Graduate Certificate in Business
+- Study Mode
+- Two years full-time or four years part-time.
+- Program Advice
+- Dr Laurel Jackson
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Accreditation
+- Graduates of the Master of Business Administration with the Human Resource Management Specialisation are eligible for professional accreditation with the Australian Human Resources Institute (AHRI).
+- Association to Advance Collegiate Schools of Business (AACSB)
+- This program is accredited by the Association to Advance Collegiate Schools of Business (AACSB).
+- Inherent Requirements
+- There are inherent requirements for this program that you must meet in order to complete your program and graduate. Make sure you read and understand the requirements for this program online.
+- The inherent requirements articulated for this program are based on the existing inherent requirements for the Accounting programs.
+- Inherent Requirements
+- Admission
+- Applicants must have successfully completed an undergraduate degree, or higher, in any discipline.
+- http://www.uac.edu.au/ https://westernsydney.uac.edu.au/ws/
+- Applicants who have undertaken studies overseas may have to provide proof of proficiency in English. Local applicants who are applying through the Universities Admissions Centre (UAC) will find details of minimum English proficiency requirements and acceptable proof on the UAC website. Local applicants applying directly to the University should also use the information provided on the UAC website.
+- http://www.uac.edu.au/
+- All other International applicants must apply directly to the University via the International Office.
+- International students applying to the University through the International Office can find details of minimum English proficiency requirements and acceptable proof on their website.
+- International Office
+- Program Structure
+- Qualification for this award requires the successful completion of 160 credit points. This includes 40 credit points general foundation subjects, 40 credit points core subjects, 60 credit points specialist knowledge subjects, and a 20 credit point capstone subject as per the structure below:
+- Parramatta City Campus
+- Please note:
+- When enrolling in the first session, please choose two subjects only; BUSM 7007 Business Communication Skills and either BUSM 7050 Integrated Business Experience 1 or MKTG 7019 Marketing Systems unless advised otherwise.
+- BUSM 7007 Business Communication Skills
+- BUSM 7050 Integrated Business Experience 1
+- MKTG 7019 Marketing Systems
+- Sydney City Campus
+- Click here for the recommended sequence at Sydney City Campus.
+- Majors
+- Note: Education Leadership, Testamur Major (T134) is a new specialisation commencing from Q2, 2022.
+Policing, Public Safety and Security, Testamur Major (T066) has been retired from the end of 2023.
+Digital Knowledge and Innovation, Major (0223) has been retired from the end of 2023.
+- Non Major
+- A total of 60 credit points from any postgraduate Business subjects.
+- The following major counts towards completion of this program for students who enrolled in the major in 2019 or earlier.
+- SP2012 Human Resource Management, replaced by Human Resource Management, Major in 2020 (listed above).
+
+Location Table:
+- Parramatta City Campus-Macquarie Street
+- Full Time
+- Internal
+- Laurel Jackson
+- Parramatta City Campus-Macquarie Street
+- Part Time
+- Internal
+- Laurel Jackson
+- Sydney City Campus*
+- Full Time
+- Internal
+- Daniel Townsend
+- Sydney City Campus*
+- Part Time
+- Internal
+- Daniel Townsend
+- Vietnam Campus*
+- Full Time
+- Internal
+- See above
+- Vietnam Campus*
+- Part Time
+- Internal
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+General Foundation Subjects
+BUSM 7007Business Communication Skills10
+BUSM 7050Integrated Business Experience 110
+BUSM 7099Understanding Contemporary Organisations10
+Select one of the following:10
+MKTG 7019Marketing Systems
+BUSM 7094The Contemporary Business Environment
+Core Subjects
+BUSM 7018Contemporary People Management10
+ECON 7001Economics10
+ACCT 7015Financial Reports for Decision Making10
+BUSM 7051Integrated Business Experience 210
+Majors
+Complete one of the Majors listed below, or the Non-Major option60
+Capstone Subject
+Select one of the following:20
+BUSM 7012Business Project
+BUSM 7055Internship
+BUSM 7084Start-up
+Total Credit Points160

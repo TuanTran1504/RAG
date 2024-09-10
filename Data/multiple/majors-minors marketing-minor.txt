@@ -1,0 +1,31 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Marketing, Minor (0291)
+- Effective from:
+- Western Sydney University Minor Code:
+- Previous Code: SM2060
+- The marketing minor provides students with a grounding in the practice of marketing and its application to any type of organisation.  In this minor, students can extend that knowledge into more specialised aspects or marketing such as brand and product development, promotion, strategic marketing and marketing analytics. Students gain communications and analytic skills in assessing and developing key elements of a marketing strategy. There are practical industry-related activities helping students compile a business portfolio for presentation to potential employers.
+- Location
+- Students must complete 40 credit points as follows.
+
+Location Table:
+- Parramatta City-Macquarie St
+- 
+- Internal
+- Program Advice
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+MKTG 1006Marketing Principles10
+Select three of the following30
+MKTG 1011Fundamentals of Marketing Analytics
+MKTG 2010Customer Experience Fundamentals
+MKTG 3021Strategic Brand Management
+MKTG 3016Strategic Marketing Management
+MKTG 3019Marketing and Digital Communications
+MKTG 3020Omnichannel Marketing
+Total Credit Points40

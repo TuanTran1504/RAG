@@ -1,0 +1,52 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Networking, Minor (0040)
+- Western Sydney University Minor Code:
+- Previous Code: SM3095.1
+- The Networking minor provides students with the basic knowledge for analysis, design, and implementation of networked systems. It offers students the opportunity to develop the technical skills needed for management and secure operation of the most commonly used networks.
+- Location
+- Curriculum delivered through an agreement with another party
+- Minor Structure Current
+- Students must complete 40 credit points as follows
+- Minor Structure 2022
+- Student must complete 40 credit points as follows
+- Related Programs
+
+Location Table:
+- Campbelltown Campus
+- Internal
+- CDMS@westernsydney.edu.au
+- Parramatta Campus - Victoria Road
+- Internal
+- CDMS@westernsydney.edu.au
+- Penrith Campus
+- Internal
+- CDMS@westernsydney.edu.au
+- Sydney City Campus*
+- Internal
+- Antoinette Cevenini
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+COMP 3007Computer Networks and Internets10
+COMP 3014Networked Systems Design10
+COMP 3025Wireless and Mobile Networks10
+Select one of the following:10
+COMP 2013LAN Workshop
+INFO 3007Network Security
+Total Credit Points40
+
+courselist table2:
+COMP 2004Computer Networking10
+COMP 3007Computer Networks and Internets10
+Select two of the following:20
+INFO 3001Computer Security
+INFO 3002Ethical Hacking Principles and Practice
+COMP 3014Networked Systems Design
+INFO 3007Network Security
+COMP 3025Wireless and Mobile Networks
+Total Credit Points40

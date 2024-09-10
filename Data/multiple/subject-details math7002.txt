@@ -1,0 +1,11 @@
+Academic Handbook Current Edition MATH 7002 Advanced Statistical Methods Credit Points 10 Legacy Code 301115 Coordinator Paul Hurley Opens in new window Description There has been a significant trend away from simple statistical models for complex and Big Data.  Advanced Statistical Methods is a technical subject that looks at computer intensive statistical techniques for modelling complex data. Students will learn about methods including Density Estimation, the Expectation-Maximisation (EM) algorithm, Bayesian, Markovian and Hidden Markov Models, enabling them to apply sophisticated statistical tools in a Data Science setting. School Computer, Data & Math Sciences Discipline Statistics Student Contribution Band HECS Band 1 10cp Check your fees via the Fees page. Level Postgraduate Coursework Level 7 subject Pre-requisite(s) MATH 7012 AND
+MATH 7016 Co-requisite(s) COMP 7006 Restrictions Students must be enrolled in a postgraduate program. Learning Outcomes On successful completion of this subject, students should be able to: Describe the axioms of probability and the principle of maximum likelihood.
+Use density estimation to model continuous data.
+Apply the EM algorithm (Expectation-Maximisation Algorithm) to maximise complex likelihood functions.
+Evaluate models using computational techniques
+Analyse data using Bayesian statistical models and MCMC (Markov-Chain Monte Carlo) Subject Content 1. Review of Probability Theory and Likelihood
+2. Density Estimation
+3. Maximum Likelihood and EM algorithm
+4. Jack-knife, Bootstrap and Cross-validation
+5. Introduction to Bayesian Methods
+6. Markovian and Hidden Markov Models Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Quiz 5 x 30 minutes 20 N Individual Y  Final Exam 2 Hours 40 Y Individual Y  Applied Project 2,000 words 40 N Individual Y Teaching Periods Spring (2024) Parramatta - Victoria Rd On-site Subject Contact Paul Hurley Opens in new window View timetable Opens in new window Structures that include subject Master of Data Science (3735) Master of Information and Communications Technology/Master of Data Science (3780) Mathematics (MATH)

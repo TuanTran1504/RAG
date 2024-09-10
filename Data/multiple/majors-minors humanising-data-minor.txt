@@ -1,0 +1,33 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Humanising Data, Minor (0335)
+- Western Sydney University Minor Code:
+- Every day, our lives are impacted by machines processing data about us, often with the goal of predicting future outcomes or depicting trends. Yet this processing typically happens in a black box that we can’t often see. We are invited to trust the outcomes, but there are real questions about privacy, liability, fairness, and transparency. This Minor in Humanising Data will help students explore what’s behind data analysis, paving the way for increasing our knowledge and understanding of data and opening up employment opportunities in applied areas of data analytics such as data privacy engineers or marketing specialists.
+- This minor is a Challenge Minor, which is an innovative transdisciplinary minor co-created with students as partners. With a Challenge Minor, your learning reaches beyond your discipline, giving you the chance to amplify your learning in new directions. For more information, visit the Challenge Minor website.
+- Location
+- Qualification for this minor requires the successful completion of 40 credit points including the subjects listed below.
+
+Location Table:
+- Campbelltown Campus
+- 
+- Advice
+- Parramatta City Campus
+- 
+- Advice
+- Parramatta Victoria Road Campus
+- 
+- Advice
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+BEHV 1025Usable Design10
+COMP 2026Visual Analytics10
+INFO 3011Social Computing10
+Select one Alternate subject10
+HLTH 2022Biostatistics in Health
+LAWS 3076Technology, Innovation and the Law
+Total Credit Points40

@@ -1,0 +1,12 @@
+Academic Handbook Current Edition EART 7002 Advanced Statistical Hydrology Credit Points 10 Legacy Code 301013 Coordinator Ataur Rahman Opens in new window Description This subject covers at-site flood frequency analysis, regional flood frequency analysis, trend analysis of hydrological data, linear regression analysis and multivariate statistical techniques to solve advanced hydrological problems. School Eng, Design & Built Env Discipline Hydrology Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Postgraduate Coursework Level 7 subject Restrictions Students must be enrolled in a postgraduate program Learning Outcomes On successful completion of this subject, students should be able to: Apply at-site flood frequency analysis techniques to estimate design floods from recorded streamflow data.
+Apply regional flood frequency analysis techniques to estimate design floods when no recorded streamflow data is available.
+Apply trend analysis to rainfall and streamflow time series data to check the stationarity of the data.
+Apply linear regression analysis to develop prediction models to estimate streamflow and rainfall indices.
+Apply multivariate statistical techniques to hydrological problems.
+Evaluate current Australian codes and software to solve statistical hydrological problems.
+Critically evaluate current literature to benchmark recent problems and developments in statistical hydrology practice.
+Design sustainable hydrology projects. Subject Content 1. At-site flood frequency analysis
+2. Regional flood frequency analysis
+3. Trend analysis of hydrological data
+4. Linear regression analysis as applied to hydrological problems
+5. Multivariate statistical techniques as applied to hydrological problems Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Intra-session Exam 1 hour 25 N Individual N  Report 5,000 words 30 N Group N  Final Exam 2 hours 45 N Individual N Structures that include subject Bachelor of Research Studies (8083) Civil and Environmental, Testamur Major (T111) Civil, Testamur Major (T033) Earth Sciences (EART) Engineering, Testamur Major (T012)

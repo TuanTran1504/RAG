@@ -1,0 +1,51 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Exercise Science, Minor (0279)
+- Western Sydney University Minor Code:
+- Previous Code: SM4008.1
+- This minor offers study in the physiology, analysis, and measurement of exercise and movement. The minor is relevant to students studying health science, physical education and data science. The minor is highly recommended for Bachelor of Health Science (Clinical Sciences) students who are interested in graduate entry programs in physiotherapy or exercise physiology. There are 7 subjects in this minor of which student choose only 4. Minor subject recommendations are based on the student’s program.
+- Location
+- Recommended Sequence
+- Select the link for your program below to see details of the minor
+- Bachelor of Data Science
+- - Bachelor of Health Science (Clinical Sciences)
+- Diploma in Health Science/Bachelor of Health Science
+- - Bachelor of Health Science (Health and Physical Education) - Bachelor of Health Science (Health and Physical Education) pathway - Bachelor of Sport Development - Diploma in Health Science/Bachelor of Health Science (Health and Physical Education)
+- Related Programs
+
+Location Table:
+- Campbelltown Campus
+- Internal
+- healthsciences@westernsydney.edu.au
+- Penrith Campus
+- Internal
+- healthsciences@westernsydney.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+3769 Bachelor of Data Science are recommended to choose the following 4 subjects as long as they meet the subject pre-requisite requirements:
+SPRT 1001Fundamentals of Exercise Science
+HLTH 2003Biomechanics
+SPRT 2002Exercise Testing and Measurement
+HLTH 2005Exercise Prescription I
+
+courselist table2:
+4656 Bachelor of Health Science/6000 Dip Health Science/B Health Science can choose any 4 from the 7 as long as they meet the subject pre-requisite requirements. Clinical Sciences major students who wish to progress to a graduate entry physiotherapy or exercise physiology course should enrol into BIOS 2012:
+SPRT 1001Fundamentals of Exercise Science
+HLTH 2003Biomechanics
+BIOS 2012Exercise Physiology
+BEHV 3025Sport and Exercise Psychology
+SPRT 2002Exercise Testing and Measurement
+HLTH 2005Exercise Prescription I
+HLTH 2025Exercise Nutrition
+
+courselist table3:
+4742 Bachelor of Health Science (HPE teaching pathway), 4747 Bachelor of Health Science (HPE), 6001 Dip Health Science/B Health Science (HPE), and 4741 Bachelor of Sport Development can choose these 4 subjects as long as they meet the subject pre-requisite requirements.
+HLTH 2003Biomechanics
+SPRT 2002Exercise Testing and Measurement
+HLTH 2005Exercise Prescription I
+HLTH 2025Exercise Nutrition

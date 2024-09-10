@@ -1,0 +1,22 @@
+Academic Handbook Current Edition INFO 7009 Network Security Legacy Code 301068 Coordinator Ante Prodan Opens in new window Student Contribution Band Check your fees via the Fees page. Restrictions Learning Outcomes On successful completion of this subject, students should be able to: Identify network security threats.
+Explain techniques for evaluating and managing information security risks.
+Implement the techniques for designing and implementing network security using available security infrastructure and devices.
+Analyse the theory behind - and techniques for implementing - access control, authentication, authorisation and accounting.
+Design secure network architectures.
+Implement firewall and intrusion prevention technologies.
+Use cryptography and virtual private networks to ensure secure transmission of information.
+Outline the importance of physical and environmental security to have a holistic understanding of network security challenges.
+Integrate knowledge and skills from various sources into a coherent whole, making the appropriate abstractions.
+Critically evaluate and reflect upon your own work.
+Solve problems using network modelling tools and real equipment.
+Interpret complex issues both systematically and creatively, making informed judgements in the absence of complete data.
+Integrate knowledge and skills from various sources into a coherent whole, making the appropriate abstractions.
+Solve problems and apply solutions independently to professional or equivalent level tasks/projects/functions.
+Work with others to refine ideas, leading to an improved understanding of key concepts within the computing systems context.
+Build and maintain advanced networks using Cisco equipment.
+Advocate the appropriate use of advanced security technologies.
+Prepare to gain industry-recognised certification. Subject Content 1. Security threats and risk management
+2. Security architecture and design
+3. Security implementation
+4. Cryptography
+5. Security management Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    TMA - Article review; Report; Cisco activities 1000 words 10 Y Individual   TMA - Problem solving task; Apply research to problem; Cisco activities 1200 words 20 Y Group   TMA - Group Case Study; Apply research to problem; Cisco activities 1100 words 20 Y Group   Final examination 3 hours 50 Y Individual

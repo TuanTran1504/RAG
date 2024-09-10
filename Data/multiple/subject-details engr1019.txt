@@ -1,0 +1,34 @@
+Academic Handbook Current Edition ENGR 1019 Fundamentals of Mechanics (WSTC AssocD) Credit Points 10 Legacy Code 700113 Coordinator Abbas Ranjbar Opens in new window Description This subject deals with the action and interaction of forces, moments and couples in two and three dimensions.  It examines the equilibrium of single bodies, and of trusses and mechanisms.  It then looks at the friction between bodies.  It covers the dynamics of a non-rotating body, and a body rotating about a fixed axis.  Finally, internal loadings are investigated - particularly within a transversely loaded beam.  The subject makes extensive use of vector algebra. School Eng, Design & Built Env Discipline Other Engineering And Related Technologies Student Contribution Band HECS Band 2 10cp Check your fees via the Fees page. Level Undergraduate Level 1 subject Equivalent Subjects ENGR 1020 - Fundamentals of Mechanics (WSTC) ENGR 1018 - Fundamentals of Mechanics Restrictions Students must be enrolled in 7022 Associate Degree in Engineering Learning Outcomes On successful completion of this subject, students should be able to: Manipulate vectors in 2 dimensions and 3 dimensions.
+Use the equilibrium equations to evaluate unknown reactions and internal loads.
+Evaluate the member forces in planar trusses.
+Evaluate the inter-body forces in planar mechanisms.
+Calculate the acceleration of a body under the action of an unbalanced force or couple.
+Analyse static and kinetic friction.
+Construct bending moment and shear force diagrams.
+Replace a distributed force by a single equivalent force.
+Identify under-constrained and statically indeterminate problems.
+Take measurements in the real world and use them to verify the theory presented in the lectures. Subject Content 1.Statics in two dimensions
+- Vectors
+- Forces Moments and Couples
+- Free body diagrams
+- Equilibrium
+- Friction
+- Trusses
+- Frames and Machines
+2. Statics in three dimensions
+- Vectors
+- Forces Moments and Couples
+- Free body diagrams
+- Equilibrium
+3. Translational Dynamics
+- Acceleration
+- The work-energy equation
+- Potential energy
+4. Rotational Dynamics
+- Acceleration
+- The work-energy equation
+5. Beam Diagrams
+- Internal loads
+- Bending moments and shear force diagrams
+- Distributed forces Assessment The following table summarises the standard assessment tasks for this subject. Please note this is a guide only. Assessment tasks are regularly updated, where there is a difference your Learning Guide takes precedence. Type Length Percent Threshold Individual/Group Task Mandatory    Practical 6 hours 15 N Group/Individual N  Quiz 10x0.5 hour= 5 hours 30 N Individual N  Intra-session Exam 1 hours + 30 minutes for online submission 15 N Individual N  End-of-session Exam Part 1: 2 hours + 30 minutes for online submission
+Part 2: 20 minutes per student 40 Y Individual Y Prescribed Texts Teaching Periods Quarter 4 (2024) Nirimba Education Precinct Hybrid Subject Contact Abbas Ranjbar Opens in new window View timetable Opens in new window Structures that include subject Associate Degree in Engineering (7022) Mechanical and Industrial Eng. (MECH) Other Engr. and Related Tech (ENGR)

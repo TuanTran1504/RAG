@@ -1,0 +1,136 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- International Relations and Asian Studies, Major (0019)
+- Western Sydney University Major Code:
+- Previous Code: M1055.1
+- This major has been designed to meet the needs of Australian government, business and society to engage the states and peoples of Asia at all levels in pursuit of national interests and as part of the globalisation process. It provides students with the opportunity to study contemporary Asia, as well as the rich and diverse histories, politics, cultures and languages of Asian countries and the international issues affecting Australia’s interests and role in the region and in the world at large. The major area also includes a range of subjects concerned with the United States and Europe as well as with Asia itself, and subjects in international relations covering other parts of the world. It seeks to produce graduates with a broad, liberal education with the skills to mediate between Australia and the world in general and Asia in particular through political, economic, commercial, cultural, diplomatic and strategic links. Students are encouraged to undertake a minor in an Asian language in conjunction with the major. Employment opportunities may be found in the State and Commonwealth public service, overseas organisations, the media, business and industry, education and research.
+- Location
+- Major Structure Current
+- This major may be able to be studied entirely online, depending on student subject selection.
+- Students must complete the following compulsory subjects:
+- And four subjects from the following pools, with no less than three Level 3 subjects in order to pass the major.
+- Note: Not all subjects will be offered each year. Subjects will be offered on a rotational basis.
+- The subject listed below count towards completion of this major for students who passed these subjects in 2023 or earlier.
+POLI 2006 Politics of Australia and Asia Relations , replaced by POLI 2008 Transnational Diplomacy
+- POLI 2008 Transnational Diplomacy
+- The subject listed below count towards completion of the major for students who may have passed this subject in 2022 or earlier.
+POLI 1002 Introduction to International Relations replaced byPOLI 1007 World Politics and International Relations
+- POLI 1007 World Politics and International Relations
+- The subjects listed below count towards completion of the major for students who may have passed subjects in the list in 2019 or earlier.
+- LANG 3008 Applied Critical Methods, no longer offered.
+HUMN 2013 Buddhism in the Contemporary World, replaced by HUMN 2001 A History of Modern Global Buddhism
+HUMN 2021 Doing Business in China, no longer offered as part of this major.
+HUMN 2023 Empire: European Colonial Rule and its Subjects, 1750-1920, no longer offered.
+BEHV 3013 Humanities Internship, no longer offered as part of this major.
+CULT 2007 International Politics of North Asia , no longer offered as part of this major.
+HUMN 3053 International Study Tours, no longer offered as part of this major.
+POLI 3011 The External Relations of the European Union, no longer offered.
+HUMN 2054 The History of Modern Indonesia, no longer offered.
+HUMN 3089 Understanding Global Insecurity, no longer offered.
+POLI 3013 United States Government and Politics, no longer offered.
+HUMN 2059 War, replaced by HUMN 3093 War
+POLI 3014 War and Peace, no longer offered as part of this major.
+HUMN 3095 Warlords, Artists and Emperors: Power and Authority in Japanese History, no longer offered.
+POLI 1006 World Politics: An Introduction, no longer offered.
+- HUMN 2001 A History of Modern Global Buddhism
+- HUMN 3093 War
+- Major Structure 2023
+- This major may be able to be studied entirely online, depending on student subject selection.
+- Students must complete the following compulsory subjects.
+- Students must also complete four subjects from the following pools with a minimum of two subjects at Level 3.
+- Note:  not all subjects will be offered each year.  Subjects will be offered on a rotational basis.
+- The subject listed below count towards completion of the major for students who may have passed this subject in 2022 or earlier.
+- POLI 1002 Introduction to International Relations replaced by POLI 1007 World Politics and International Relations
+- POLI 1002 Introduction to International Relations
+- POLI 1007 World Politics and International Relations
+- The subjects listed below count towards completion of the major for students who may have passed subjects in the list in 2019 or earlier.
+- LANG 3008 - Applied Critical Methods, no longer offered.
+HUMN 2013 - Buddhism in the Contemporary World, replaced by HUMN 2001 A History of Modern Global Buddhism
+HUMN 2021 - Doing Business in China, no longer offered as part of this major.
+HUMN 2023 - Empire: European Colonial Rule and its Subjects, 1750-1920, no longer offered.
+BEHV 3013 - Humanities Internship, no longer offered as part of this major.
+CULT 2007 - International Politics of North Asia, no longer offered as part of this major.
+HUMN 3053 - International Study Tours, no longer offered as part of this major.
+POLI 3011 - The External Relations of the European Union, no longer offered.
+HUMN 2054 - The History of Modern Indonesia, no longer offered.
+HUMN 3089 - Understanding Global Insecurity, no longer offered.
+POLI 3013 - United States Government and Politics, no longer offered.
+HUMN 2059 - War, replaced by HUMN 3093 War
+POLI 3014 - War and Peace, no longer offered as part of this major.
+HUMN 3095 - Warlords, Artists and Emperors: Power and Authority in Japanese History, no longer offered.
+POLI 1006 - World Politics: An Introduction, no longer offered.
+- HUMN 2001 A History of Modern Global Buddhism
+- HUMN 3093 War
+- Related Programs
+
+Location Table:
+- Bankstown City Campus
+- Internal
+- enquiriesHCA@uws.edu.au
+- Parramatta Campus - Victoria Road
+- Internal
+- enquiriesHCA@uws.edu.au
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+CULT 1001Asia in the World10
+POLI 1007World Politics and International Relations10
+POLI 2008Transnational Diplomacy10
+HUMN 3079The Asian Century10
+Total Credit Points40
+
+courselist table2:
+Level 2 Subject Pool
+HUMN 2014Civil Society in Contemporary China10
+HUMN 2039Political Terror10
+Level 3 Subject Pool
+POLI 3004American Foreign Policy Since 194510
+POLI 3005Democracy in Asia10
+HUMN 3042Global Politics10
+HUMN 3046History of Modern China to 194910
+POLI 3006International Organisations and Global Governance10
+HUMN 3054Islam in Southeast Asia10
+POLI 3009Looking at Global Politics Through Film10
+POLI 3010Politics of Post-War Japan10
+HUMN 3076Sultans, Colonists and Nationalists: Indonesia C1200-194210
+HUMN 3080The History of Southeast Asia10
+HUMN 3081The International Relations of the Middle East Since 194510
+POLI 3012The Politics of Civilisation10
+HUMN 3092WWII in Asia and the Pacific10
+
+courselist table3:
+CULT 1001Asia in the World10
+POLI 1007World Politics and International Relations10
+POLI 2006Politics of Australia and Asia Relations10
+HUMN 3079The Asian Century10
+Total Credit Points40
+
+courselist table4:
+Level 2 Subject Pool
+HUMN 2001A History of Modern Global Buddhism10
+HUMN 2014Civil Society in Contemporary China10
+HUMN 2039Political Terror10
+Level 3 Subject Pool
+POLI 3004American Foreign Policy Since 194510
+POLI 3005Democracy in Asia10
+HUMN 3032Dictators, Democrats and Dreamers: Indonesia 1942 to now10
+HUMN 3042Global Politics10
+HUMN 3046History of Modern China to 194910
+POLI 3006International Organisations and Global Governance10
+POLI 3007International Relations of Southeast Asia10
+POLI 3008International Special Study10
+HUMN 3054Islam in Southeast Asia10
+POLI 3009Looking at Global Politics Through Film10
+HUMN 3060Modern Japanese History10
+POLI 3010Politics of Post-War Japan10
+HUMN 3111History of the People's Republic of China10
+HUMN 3076Sultans, Colonists and Nationalists: Indonesia C1200-194210
+HUMN 3080The History of Southeast Asia10
+HUMN 3081The International Relations of the Middle East Since 194510
+POLI 3012The Politics of Civilisation10
+HUMN 3093War10
+HUMN 3092WWII in Asia and the Pacific10

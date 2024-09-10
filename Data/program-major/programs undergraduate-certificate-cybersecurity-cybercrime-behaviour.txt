@@ -1,0 +1,40 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Undergraduate Certificate in Cybersecurity, Cybercrime and Behaviour (7179)
+- Approved Abbreviation:
+- Western Sydney University Program Code:
+- AQF Level:
+- This program is suspended from Block E, 2024, no new students will be admitted from this session.
+- This program applies to students who commenced in Block C, 2021 or later.
+- This program serves as an introduction to the field of cyber security and a pathway into the Bachelor of Cyber Security and Behaviour. This field of study involves psychological theory and research to understand cyber security issues in the context of decision-making, human errors, social influence, organisational cultures and vulnerable populations. As cyber threats become more sophisticated and damaging across all types of organisations, cyber security has become one of the nation’s top priorities. Students will build a foundation in conventional computer and network security concepts and skills which will prepare them for further study or entry level IT positions.
+- Study Mode
+- Six months full-time.
+- Program Advice
+- UG Certificate Program Enquiries
+- Prospective students should visit the following websites for general enquiries about this program.
+- Enquire about this program| Local Admission | International Admission |
+- Location
+- Admission
+- This program is open to Australian Citizens and Permanent Residents who are aged 17 years or over and not currently enrolled in or completing Year 12 in the same year of intended admission.
+- For more information on applying please see the link to The College admission pages below.
+- https://www.westernsydney.edu.au/thecollege/how_to_apply
+- Program Structure
+- Qualification for this award requires the successful completion of 40 credit points including the subjects listed below.
+
+Location Table:
+- Online
+- Full Time
+- Online
+- See above
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+INFS 1013Information Systems in Context (UG Cert)10
+INFO 2007Cyber Crime and Social Engineering (Block)10
+COMP 2024Computer Networking (UG Cert)10
+JUST 1005Policing Practices (Block)10
+Total Credit Points40

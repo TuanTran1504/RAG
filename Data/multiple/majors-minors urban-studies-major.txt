@@ -1,0 +1,43 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Urban Studies, Major (0162)
+- Western Sydney University Major Code:
+- Previous Codee: M1106.1
+- This major is available to students enrolled in the program Bachelor of Business from 2016. In the Urban Studies major you will examine the geography of contemporary Australian cities and regions. Urban Studies is focused on social justice within the city, through its critical assessments of peoples' access to scarce urban resources, such as housing, transport, education and employment. The political, economic, and cultural forces that shape cities and urban policy are the key concerns of the Urban Studies curriculum. These applied interests in urban wellbeing and city structure are basis for informed urban management.
+- Location
+- Major Structure
+- Students must complete 80 credit points as follows
+- Level 1
+- Level 2
+- Level 3
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- Assoc Prof Awais Piracha
+- Penrith Campus
+- Internal
+- Assoc Prof Awais Piracha
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+HUMN 1008Cities: Introduction to Urban Studies10
+HUMN 1041People, Place and Social Difference10
+Total Credit Points20
+
+courselist table2:
+HUMN 2018Cultural and Social Geographies10
+ENVL 2001Analysis of Spatial Data10
+HUMN 2053The Economics of Cities and Regions10
+Total Credit Points30
+
+courselist table3:
+ENVL 3006Transport, Access and Equity10
+ENVL 3005Planning the City: Development, Community and Systems10
+HUMN 3050Housing Markets and Policy10
+Total Credit Points30

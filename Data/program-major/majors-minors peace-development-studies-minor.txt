@@ -1,0 +1,36 @@
+Elements:
+- Academic Handbook
+- Current Edition
+- Peace and Development Studies, Minor (0027)
+- Western Sydney University Minor Code:
+- Previous Code: SM1102.1
+- The Peace and Development Studies minor is concerned with methods for promoting peace, human rights and sustainability. It involves a critical analysis of inequalities of power and opportunity that lead to international and local conflict, social dislocation and environmental degradation. Students will examine the structural causes of racist and gendered violence, environmental crises, forced migration, poverty, resource conflict and inter-generational inequity. The inter-related network of solutions includes empowerment and self-determination, sustainable living, constructive development, peacemaking and peace building. These require understanding of the theories and method for identifying, measuring and resolving conflict and environmental degradation. The assumptions and failings of traditional development practice are critically assessed. Students will engage social theory within an interdisciplinary and applied framework, at local, national and international levels. The major is comprised of three fields:
+- Location
+- Minor Structure
+- Related Programs
+
+Location Table:
+- Parramatta Campus - Victoria Road
+- Internal
+- Dr Melissa Phillips
+- Penrith Campus
+- Internal
+- Dr Melissa Phillips
+
+Sequence Tables:
+
+Courselist Tables:
+
+courselist table1:
+Select four of the following:40
+Autumn Session
+HUMN 1028Human Rights, Peace and Development
+HUMN 2032Issues in World Development: Rich World, Poor World
+HUMN 3077Sustainable Futures
+Spring Session
+HUMN 1015Development and Sustainability
+HUMN 2037Peace-Making and Peace-Building
+CULT 3016Indigenous Cultures: A Global Perspective
+HUMN 3009Alternatives to Violence
+HUMN 3063Peace & Development Project
+Total Credit Points40
