@@ -70,5 +70,5 @@ The importance of this evaluation step is hard to overstate—it enables us to i
 
 **Conclusion**
 
-Given the complexity of this project, we may never truly reach a final endpoint, as there will always be opportunities to refine and enhance the model further.
+This project’s complexity means we may never truly reach a definitive endpoint, as there will always be room for refinement and improvement. Stay curious, embrace trial and error, and remember there’s always potential to make it better.
 
